@@ -1,4 +1,4 @@
-# superMat
+# SuperMat
 Superconductors Material dataset
 
 
