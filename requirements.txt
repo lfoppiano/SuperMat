@@ -1,0 +1,7 @@
+BeautifulSoup4
+lxml
+jupyterlab
+matplotlib
+gensim
+pandas
+regex
