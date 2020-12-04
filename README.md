@@ -2,10 +2,10 @@
 Superconductors Material dataset
 
 ## Content
- - Annotated dataset 
- - Annotation guidelines
- - Transformation scripts 
- - Analysis Jupyter Notebooks 
+ - Annotated dataset (under `data`)
+ - Annotation guidelines (under `docs`)
+ - Transformation scripts (under `super_mat/converters`)
+ - Analysis Jupyter Notebooks (under `super_mat/`)
  
 ## Getting started 
 
