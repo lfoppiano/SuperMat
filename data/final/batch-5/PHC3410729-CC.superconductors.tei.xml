@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="_0">
+      <titleStmt>
+          <title>Observation of a linear temperature dependence of the critical current density in a <rs type="material">Ba 0.63 K 0.37 BiO 3 single crystal</rs>* a</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>National Institute for Materials Science (NIMS), Tsukuba, Japan</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/3.0/">
+            <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="grobid-superconductors" version="project.version">
+          <ref target="https://github.com/lfoppiano/grobid-superconductors">A machine learning software for extracting materials and their properties from scientific literature.</ref>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <abstract>
+          <p>For a <rs type="material" xml:id="x2">Ba0.63K0.37BiO3 single crystal</rs> with <rs type="tc">Tc</rs>≈<rs corresp="#x2" type="tcValue">31 K</rs>, Hc1≈750 Oe at 5 K, and dimensions 3×3×1 mm 3 , the temperature and field dependences of magnetic hysteresis loops have been mea- sured within 5-25 K in magnetic fields up to 6 Tesla. The critical current density is Jc(0) ≈1.5 × 10 5 A/cm 2 at zero field and 1×10 5 A/cm 2 at 1 kOe at 5 K. Jc decreases exponentially with in- creasing field up to 10 kOe. A linear temperature dependence of Jc is observed below 25 K, which differs from the exponential and the power-law temperature dependences in high-Tc superconductors including the <rs type="material">BKBO</rs>. The linear temperature dependence can be regarded as an intrinsic effect in superconductors.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <p>It is well known that <rs type="material" xml:id="x4">Ba 1−x K x BiO 3 (BKBO)</rs> with <rs type="tc">T c</rs> ≈<rs corresp="#x4" type="tcValue">30 K</rs> is very suitable for research of high-T c super- conductivity, because it has a simple perovskite struc- ture and characteristics similar to <rs type="class">cuprate</rs> superconduc- tors. The superconductivity mechanism and the metal- insulator transition for <rs type="material">BKBO</rs> still remain to be clari- fied. Up to now, although there has been much research on the superconductivity mechanism for <rs type="material">BKBO</rs>, only lit- tle of the research was carried out on very high quality crystals. In this paper, the critical current and its tem- perature dependence are investigated by observing mag- netic properties of a high quality <rs type="material">BKBO single crystal</rs>. The results are compared with other work published on <rs type="material">BKBO</rs> and <rs type="class">cuprate</rs> data characterized by the power-law and exponential-temperature dependences.</p>
+      <p>The <rs type="material" xml:id="x8">Ba 0.63 K 0.37 BiO 3 single crystal</rs> was synthesized by the electro-chemical method reported elsewhere. 1 The size of the crystal with <rs type="tc">T c</rs> ≈<rs corresp="#x8" type="tcValue">31 K</rs> was 3 × 3 × 1 mm 3 . The potassium concentration was found to be <rs type="material" xml:id="x11">x≈0.37</rs> by electron-probe microanalysis. The value H c1 ≈750 Oe was determined at 5 K. The paramagnetic Meissner effect with the crystal was investigated at low fields. 2 The zero- field-cooled(ZFC), field-cooled(FC) susceptibilities and the magnetic hysteresis loops were measured by using a magnetometer of Quantum Design Co.(MPMS7). Before measuring the hysteresis loops, zero setting for the mag- netic field was performed to remove any remnant field in the superconducting magnet. A magnetic field of 6 Tesla in the c-direction was applied.</p>
+      <p>shows the ZFC and FC susceptibilities mea- sured at 4 Oe in the virgin-charged superconducting mag- net with the crystal with <rs type="tc">T c</rs> ≈ <rs corresp="#x11" type="tcValue">31 K</rs>. The ZFC absolute value evidently exhibits no temperature dependence up to 24 K indicated by arrow A and decreases rapidly be- tween 24 K and <rs type="tc">T c</rs> . In the case of the ZFC susceptibility, the transition width of T c is △T = 7 K (defined from <rs type="tc">T c</rs> to 24 K). In the Meissner state, the susceptibility is defined as −4πχ m ρ = V /(1 − D), where χ m , V and D are the mass susceptibility, volume fraction and demag- netization factor, respectively, while the X-ray density ρ ≈ 8 g/cm 3 . If V is assumed to be unity and inde- pendent of the field orientation, D ≈ 0.68 is calculated from the ZFC susceptibility. If an ellipsoid of revolution is used to approximate the crystal shape with the dimen- sions mentioned above, then D≈0.65. This agrees fairly with that calculated from the ZFC susceptibility. This agreement indicates that the crystal is fully supercon- ducting, nearly single and homogeneous.</p>
+      <ab type="figureCaption">The temperature dependence of FC and ZFC mag- netic susceptibilities.</ab>
+      <p>show temperature dependences of a half of the magnetic hysteresis loops measured up to 6 Tesla in the 5 -25 K range; here data are shown only up to 1 Tesla beyond which all functions are very nearly constant. The loops are typical of those observed in high T c superconductors. The field and temperature depen- dences of J c are shown in . J c at 5 K at zero field and 1 kOe were evaluated as 1.5×10 5 A/cm 2 and 1×10 5 A/cm 2 , respectively, by using the Bean criti-cal state model 3 applicable to bulk; J c = 10△M a− a 2 3b in CGS units, where a, b and △M are the grain dimensions of a bulk crystal and the magnetic moment corrected by the demagnetization factor, respectively. The magnetic field dependence of J c decreases exponentially with increas- ing field up to 10 kOe. The temperature dependence of J c , as shown in , is linear below ∼25 K in- dicated as arrow A in . This indicates that the superconducting condensed state below <rs type="tc">T c</rs> has a linear temperature dependence for J c . The linear dependence differs from the published results which follow a power- law for the <rs type="material">BKBO</rs> and an exponental dependence 6 for a <rs type="class">Hg system</rs>. The cause of the difference is that the ab- solute values of ZFC susceptibilities at low temperatures in these papers are not constant but decrease with in- creasing temperature ; i.e., this indicates that the non- linearity (or power law) may be attributed to a pinning effect due to impurities in the crystals. In addition to the above crystal, the linearity for another high quality crystal was observed by the same experimental method.</p>
+      <p>Finally, we suggest that the linear temperature depen- dence of J c is an intrinsic effect in superconductors.</p>
+      <ab type="figureCaption">the temperature dependence of a half of magnetic hysteresis loops; (c) the field dependence of Jc; (d) the temperature dependence of Jc.</ab>
+    </body>
+  </text>
+</tei>
