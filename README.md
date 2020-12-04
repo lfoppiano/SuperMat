@@ -17,6 +17,10 @@ To use the scripts and analysis data
 
 ## Licence
 
+The dataset is licensed under CC BY 4.0 CC
+
+The code is licences as Apache 2.0 
+
 ## To cite ths work
 .....
 
