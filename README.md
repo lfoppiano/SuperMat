@@ -1,19 +1,23 @@
 # SuperMat 
 SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties. 
 
+The dataset contains also copyrighted data, which, unfortunately, cannot be shared here. 
 ## Content
  - Annotated dataset:
-    - XML-TEI annotated fulltext data
-        - [Annotated data](data/final)
-        - [Bibliographic](data/biblio) data as JSON (CORD-19) format
-        - Source [PDFS](data/pdfs)
+    - XML-TEI annotated fulltext data:
+        - [Annotated linked data](data/annotated) as XML-TEI format
+        - [Bibliographic](data/biblio) data as JSON (CORD-19) format 
+        - Source [PDFs](data/pdfs)
         - Automatically extracted [keyterms](data/keyterm) 
-    - CSV tabular superconductors data (supercon_manual.csv)
+    - CSV tabular superconductors [data](data/csv/supercon_manual.csv) (*)
  - Annotation guidelines:
-    - [source](docs), 
-    - [online version](https://supermat.readthedocs.io) [will work after the repository will be published]
+    - [Online version](https://supermat.readthedocs.io) [will work after the repository will be published]
+    - [Changelog](docs/CHANGELOG.md)
+    - [Source](docs), 
  - [Transformation scripts](super_mat/converters)
- - Analysis Jupyter Notebooks (under `super_mat/`)
+    - [tsv2xml](super_mat/converters/tsv2xml.py) / [xml2tsv](super_mat/converters/xml2tsv.py): Transformation from an to the INCEpTION TSV 3.2 format
+    - [xmlSupermat2csv](super_mat/converters/xmlSupermat2csv.py): Converts the corpus into the CSV (*) tabular format
+ - Analysis Jupyter Notebooks:
     - [dataset-analysis-labelling.ipynb](super_mat/dataset-analysis-labelling.ipynb)
     - [dataset-analysis-linking.ipynb](super_mat/dataset-analysis-linking.ipynb)
     - [dataset-analysis-papers.ipynb](super_mat/dataset-analysis-papers.ipynb)
