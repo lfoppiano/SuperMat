@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetic Penetration Depth Measurements ofPr2−xCexCuO4−δFilms on Buffered Substrates: Evidence for a Nodeless Gap</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2003-02-14">14 Feb 2003</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mun-Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">A</forename><surname>Skinta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">R</forename><surname>Lemberger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tsukada</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Naito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetic Penetration Depth Measurements ofPr2−xCexCuO4−δFilms on Buffered Substrates: Evidence for a Nodeless Gap</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">91</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<date type="published" when="2003-02-14">14 Feb 2003</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.91.087001</idno>
+					<idno type="arXiv">arXiv:cond-mat/0302086v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report measurements of the inverse squared magnetic penetration depth, λ −2 (T), in Pr2−xCexCuO 4−δ (0.115 ≤ x ≤ 0.152) superconducting films grown on SrTiO3 (001) substrates coated with a buffer layer of insulating Pr2CuO4. λ −2 (0), Tc and normal-state resistivities of these films indicate that they are clean and homogeneous. Over a wide range of Ce doping, 0.124 ≤ x ≤ 0.144, λ −2 (T) at low T is flat: it changes by less than 0.15% over a factor of 3 change in T , indicating a gap in the superconducting density of states. Fits to the first 5% decrease in λ −2 (T) produce values of the minimum superconducting gap in the range of 0.29 ≤ ∆min/kBTc ≤ 1.01.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

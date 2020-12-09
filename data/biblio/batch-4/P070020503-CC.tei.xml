@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity in the geometrically frustrated pyrochloreRbOs2O6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-06">November 6, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Brühwiler</surname></persName>
+							<email>bruehwiler@solid.phys.ethz.ch</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Solid State Physics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Kazakov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Solid State Physics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">D</forename><surname>Zhigadlo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Solid State Physics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Karpinski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Solid State Physics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Batlogg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Solid State Physics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity in the geometrically frustrated pyrochloreRbOs2O6</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">70</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2018-11-06">November 6, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.70.020503</idno>
+					<idno type="arXiv">arXiv:cond-mat/0403526v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Op</term>
+					<term>74.25.Bt</term>
+					<term>74.25.-q</term>
+					<term>74.62.-c</term>
+					<term>74.70.Dd</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the basic thermodynamic properties of the new geometrically frustrated β-pyrochlore bulk superconductor RbOs 2 O 6 with a critical temperature T c = 6.4 K. Specific heat measurements are performed in magnetic fields up to 12 T. The electronic density of states at the Fermi level in the normal state results in γ = (33.7 ± 0.2) mJ/mol f.u. /K 2. In the superconducting state, the specific heat follows conventional BCS-type behavior down to 1 K, i.e. over three orders of magnitude in specific heat data. The upper critical field slope at T c is 1.2 T/K, corresponding to a Maki-parameter α = 0.64 ± 0.1. From the upper critical field µ 0 H c2 ≈ T at 0 K, we estimate a Ginzburg-Landau coherence length ξ ≈ 74Å. RbOs 2 O 6 is the second reported metallic AB 2 O 6 type pyrochlore compound after KOs 2 O 6 , and one of only three pyrochlore superconductors in addition to Cd Re 2 O 7 and KOs 2 O 6 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Coexistence of superconductivity and weak ferromagnetism in Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SPIE</publisher>
+				<availability status="unknown"><p>Copyright SPIE</p>
+				</availability>
+				<date type="published" when="2002-11-01">2002-11-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Israel</forename><surname>Felner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Racah Institute of Physics</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Asaf</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Racah Institute of Physics</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galstyan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Racah Institute of Physics</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Coexistence of superconductivity and weak ferromagnetism in Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</title>
+					</analytic>
+					<monogr>
+						<title level="m">Superconducting and Related Oxides: Physics and Nanoengineering V</title>
+						<imprint>
+							<publisher>SPIE</publisher>
+							<date type="published" when="2002-11-01" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1117/12.466655</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.27.Jt</term>
+					<term>74.25.Ha</term>
+					<term>and 76.60. Or</term>
+					<term>75.70.Cn</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ (Ru-2122) is the first Cu-O based system in which superconductivity (SC) in the CuO 2 planes and weak-ferromagnetism (W-FM) in the Ru sub-lattice coexists. The hole doping in the CuO 2 planes, is controlled by appropriate variation of the Ce concentration. SC occurs for Ce contents of 0.4-0.8, with the highest T C =35 K for Ce=0.6. The as-prepared non-SC EuCeRuSr 2 Cu 2 O 10 (x=1) sample exhibits magnetic irreversibility below T irr =125 K and orders anti-ferromagnetically (AFM) at T M =165 K. The saturation moment at 5 K is M sat =0.89 µ B /Ru close to the expected 1 µ B for the low-spin state of Ru 5+. Annealing under oxygen pressures, does not affect these parameters, whereas depletion of oxygen shifts both T irr and T M up to 169 and 215 K respectively. Systematic magnetic studies on Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ show that T M , T irr and M sat decrease with x, and the Ce dependent magnetic-SC phase diagram is presented. A simple model for the SC state is proposed. We interpret the magnetic behavior in the framework of our ac and dc magnetic studies, and argue that: (i) the system becomes AFM ordered at T M ; (b) at T irr &lt; T M , W-FM is induced by the canting of the Ru moments, and (c), at lower temperatures the appropriate samples become SC at T C. The magnetic features are not affected by the SC state, and the two states coexist.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

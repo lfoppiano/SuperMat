@@ -1,0 +1,65 @@
+{
+  "volume": "88",
+  "issue": "22",
+  "date": "2002-05-16",
+  "ISSN": "0031-9007",
+  "eISSN": "1079-7114",
+  "DOI": "10.1103/physrevlett.88.227002",
+  "note": "Received 17 November 2001;",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Strongly Correlateds-Wave Superconductivity in theN-Type Infinite-Layer Cuprate",
+  "title_main_j": "Physical Review Letters",
+  "title_abbrev_j": "Phys. Rev. Lett.",
+  "authors": [
+    {
+      "first": "C-T",
+      "surname": "Chen"
+    },
+    {
+      "first": "P",
+      "surname": "Seneor"
+    },
+    {
+      "first": "N-C",
+      "surname": "Yeh"
+    },
+    {
+      "first": "R",
+      "middle": "P",
+      "surname": "Vasquez"
+    },
+    {
+      "first": "L",
+      "middle": "D",
+      "surname": "Bell"
+    },
+    {
+      "first": "C",
+      "middle": "U",
+      "surname": "Jung"
+    },
+    {
+      "first": "J",
+      "middle": "Y",
+      "surname": "Kim"
+    },
+    {
+      "first": "Min-Seok",
+      "surname": "Park"
+    },
+    {
+      "first": "Heon-Jung",
+      "surname": "Kim"
+    },
+    {
+      "first": "Sung-Ik",
+      "surname": "Lee"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.72.-h",
+    "74.50.+r",
+    "74.62.Dh"
+  ],
+  "npl_publn_id": "L088227002-CC.tei.xml"
+}

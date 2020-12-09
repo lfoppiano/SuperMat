@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Unconventional upper- and lower-critical fields and normal-state magnetic susceptibility of the superconducting compoundNa0.35CoO2⋅1.3H2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-20">November 20, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroya</forename><surname>Sakurai</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazunori</forename><surname>Takada</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Advanced Materials Laboratory</orgName>
+								<orgName type="institution">National Institute for Materials Science (AML/NIMS)</orgName>
+								<address>
+									<addrLine>1-1 Namiki</addrLine>
+									<postCode>305-0044</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shunsuke</forename><surname>Yoshii</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takayoshi</forename><surname>Sasaki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Advanced Materials Laboratory</orgName>
+								<orgName type="institution">National Institute for Materials Science (AML/NIMS)</orgName>
+								<address>
+									<addrLine>1-1 Namiki</addrLine>
+									<postCode>305-0044</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Koichi</forename><surname>Kindo</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eiji</forename><surname>Takayama-Muromachi</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Superconducting Materials Center</orgName>
+								<orgName type="institution">National Institute for Materials Science (SMC/NIMS)</orgName>
+								<address>
+									<addrLine>1-1 Namiki</addrLine>
+									<postCode>305-0044</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Science and Technology Corporation 2 KYOKUGEN</orgName>
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-8531</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country>Japan, Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Unconventional upper- and lower-critical fields and normal-state magnetic susceptibility of the superconducting compoundNa0.35CoO2⋅1.3H2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<date type="published" when="2018-11-20">November 20, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.68.132507</idno>
+					<idno type="arXiv">arXiv:cond-mat/0304503v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Magnetic properties of the novel layered superconductor, Na0.35CoO2•1.3H2O have been investigated. From the temperature dependence and field dependence of the magnetization, the superconducting transition temperature, as well as upper-and lower-critical fields have been estimated to be TC = 4.6 K, HC2(0) = 61.0 T and HC1(0) = 28.1 Oe. These values give quite unusual phenomenological parameters, i.e., coherent length, penetration depth and Ginzburg-Landau parameter of ξ = 2.32 nm, λ = 5.68 × 10 3Å and κ ≡ λ/ξ = 244, suggesting an unconventional nature of superconductivity. Normal-state magnetic susceptibility shows an upturn below 130 K, which is confirmed to be inherent by high-field magnetization data. The upturn may have relevance to the mechanism of the superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

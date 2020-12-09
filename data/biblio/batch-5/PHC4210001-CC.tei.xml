@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of carbon incorporation on doping state of YBa2Cu3Oy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2005-05">2005-05</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Yamamoto</surname></persName>
+							<email>ayamamot@sc.musashi-tech.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<addrLine>1-10-13 Shinonome, Koto-ku</addrLine>
+									<postCode>135-0062</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hirose</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<addrLine>1-10-13 Shinonome, Koto-ku</addrLine>
+									<postCode>135-0062</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Shibaura Institute of Technology</orgName>
+								<address>
+									<addrLine>3-9-14 Shibaura, Minato-ku</addrLine>
+									<postCode>116-0002</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Itoh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<addrLine>1-10-13 Shinonome, Koto-ku</addrLine>
+									<postCode>135-0062</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kakeshita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<addrLine>1-10-13 Shinonome, Koto-ku</addrLine>
+									<postCode>135-0062</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tajima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<addrLine>1-10-13 Shinonome, Koto-ku</addrLine>
+									<postCode>135-0062</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Musashi Institute of Technology, Advanced Research Laboratories</orgName>
+								<address>
+									<addrLine>8-15-1 Todoroki, Setagaya-ku</addrLine>
+									<postCode>158-0082</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of carbon incorporation on doping state of YBa2Cu3Oy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">421</biblScope>
+							<biblScope unit="issue">1-4</biblScope>
+							<biblScope unit="page" from="1" to="9"/>
+							<date type="published" when="2005-05" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2005.02.006</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Y-123</term>
+					<term>residual carbon concentration</term>
+					<term>overdoped state</term>
+					<term>carbon incorporation PACS: 74.72.Bk</term>
+					<term>74.62.Bf</term>
+					<term>74.62.Dh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Effects of carbon incorporation on the doping state of YBa 2 Cu 3 O y (Y-123) were investigated. Quantitative carbon analysis revealed that carbon could be introduced into Y-123 from both the precursor and the sintering gas. Nearly carbon-free (&lt; 200 ppm) samples were prepared from a vacuum-treated precursor by sintered at 900 ˚C and cooling with 20 ˚C /min in flowing oxygen gas. The lower T c (= 88 K) and higher oxygen content (y = 6.98) strongly suggested the overdoping state, which was supported by the temperature dependence of resisitivity and thermoelectric power. The nuclear quadrapole resonance spectra and the Raman scattering spectra indicated that there was almost no oxygen defect in the Cu-O chain in these samples. On the other hand, in the same cooling condition, the samples sintered in air stayed at optimal doping level with T c = 93 K, and the intentionally carbon-doped sample was in the underdoping state. It is revealed that about 60% of incorporated carbon was substituted for Cu at the chain site in the form of CO 3 2+ , and the rest remains at the grain boundary as carbonate impurities. Such incorporation affected the oxygen absorption process in Y-123. It turned out that the oxygen content in Y-123 cannot be controlled only by the annealing temperature and the oxygen partial pressure but also by the incorporated carbon concentration.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

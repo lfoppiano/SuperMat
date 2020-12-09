@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity inCeCoIn5−xSnx: Veil over an Ordered State or Novel Quantum Critical Point?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-15">November 15, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Bauer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Capan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ronning</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Movshovich</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Sarrao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity inCeCoIn5−xSnx: Veil over an Ordered State or Novel Quantum Critical Point?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">94</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2018-11-15">November 15, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.94.047001</idno>
+					<idno type="arXiv">arXiv:cond-mat/0409559v1[cond-mat.str-el]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.Tx</term>
+					<term>65.40.-b</term>
+					<term>71.27.+a</term>
+					<term>75.30.Mb</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Measurements of specific heat and electrical resistivity in magnetic fields up to 9 T along [001] and temperatures down to 50 mK of Sn-substituted CeCoIn are reported. The maximal −ln(T) divergence of the specific heat at the upper critical field H c2 down to the lowest temperature characteristic of non-Fermi liquid systems at the quantum critical point (QCP), the universal scaling of the Sommerfeld coefficient, and agreement of the data with spin-fluctuation theory, provide strong evidence for quantum criticality at H c2 for all x ≤ 0.12 in CeCoIn 5−x Sn x. These results indicate the &quot;accidental&quot; coincidence of the QCP located near H c2 in pure CeCoIn , in actuality, constitute a novel quantum critical point associated with unconventional superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

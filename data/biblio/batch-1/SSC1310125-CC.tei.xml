@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Proton incorporations and superconductivity in a cobalt oxyhydrate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2018-08-24">24 August 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guanghan</forename><surname>Cao</surname></persName>
+							<email>ghcao@zju.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaoming</forename><surname>Tang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Test and Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yi</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ming</forename><surname>Zhong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xuezhi</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chunmu</forename><surname>Feng</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Test and Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhu</forename><forename type="middle">'</forename><surname>An Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<addrLine>Zhejiang 310027</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Proton incorporations and superconductivity in a cobalt oxyhydrate</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Solid State Communications</title>
+						<title level="j" type="abbrev">Solid State Communications</title>
+						<idno type="ISSN">0038-1098</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<date type="published" when="2018-08-24">24 August 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0038-1098(04)00335-7</idno>
+					<idno type="arXiv">arXiv:cond-mat/0402638v1[cond-mat.supr-con]</idno>
+					<note type="submission">Preprint submitted to Elsevier Science</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74.62.Bf</term>
+					<term>74.70.-b</term>
+					<term>74.10.+v A. Superconductors, C. Thermogravimetric analysis</term>
+					<term>C. X-ray diffraction</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the evidence of proton incorporations in a newly-discovered cobalt oxyhydrate superconductor. During the hydration process for Na 0.32 CoO 2 by the direct reaction with water liquid, it was shown that substantial NaOH was gradually liberated, indicating that H + is incorporated into the hydrated compound. Combined with the thermogravimetric analysis, the chemical composition of the typical sample is Na 0.22 H 0.1 CoO 2 • 0.85H 2 O, which shows bulk superconductivity at 4.4 K.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

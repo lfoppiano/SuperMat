@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressure Effects on the Transition Temperature and the Magnetic Field Penetration Depth in the Pyrochlore SuperconductorRbOs2O6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-20">November 20, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Khasanov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Neutron Scattering</orgName>
+								<orgName type="institution">ETH Zürich and Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">DPMC</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 Quai Ernest-Ansermet, 1211 Genève 4</addrLine>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Eshchenko</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Laboratory for Muon Spin Spectroscopy</orgName>
+								<orgName type="institution">PSI</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Karpinski</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Kazakov</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">D</forename><surname>Zhigadlo</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Solid State Physics Laboratory</orgName>
+								<address>
+									<postCode>8093</postCode>
+									<settlement>Zürich</settlement>
+									<region>ETH</region>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Brütsch</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Laboratory for Material Behaviour</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Gavillet</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Laboratory for Material Behaviour</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Di Castro</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shengelaya</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>La Mattina</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Maisuradze</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Baines</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Keller</surname></persName>
+						</author>
+						<title level="a" type="main">Pressure Effects on the Transition Temperature and the Magnetic Field Penetration Depth in the Pyrochlore SuperconductorRbOs2O6</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">93</biblScope>
+							<biblScope unit="issue">15</biblScope>
+							<date type="published" when="2018-11-20">November 20, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.93.157004</idno>
+					<idno type="arXiv">arXiv:cond-mat/0404542v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.Dd</term>
+					<term>74.62.Fj</term>
+					<term>74.25.Ha</term>
+					<term>83.80.Fg</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report magnetization measurements under high hydrostatic pressure in the newly discovered pyrochlore superconductor RbOs 2 O 6 (T c ≃ 6.3 K at p = 0). A pronounced and positive pressure effect (PE) on T c with dT c /dp = 0.090(1) K/kbar was observed, whereas no PE on the magnetic penetration depth λ was detected. The relative pressure shift of T c [d ln T c /dp ≃ 1.5 %/kbar] is comparable with the highest values obtained for highly underdoped high-temperature cuprate superconductors. Our results suggest that RbOs 2 O 6 is an adiabatic BCS-type superconductor.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

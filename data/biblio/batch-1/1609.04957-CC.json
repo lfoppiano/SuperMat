@@ -1,0 +1,38 @@
+{
+  "addrline": "Midori-ku",
+  "volume": "94",
+  "issue": "16",
+  "date": "2016-10-04",
+  "ISSN": "2469-9950",
+  "eISSN": "2469-9969",
+  "DOI": "10.1103/physrevb.94.161104",
+  "arXiv": "arXiv:1609.04957v2[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Experimental evidence ofTcenhancement without the influence of spin fluctuations: NMR study onLaFeAsO1\u2212xHxunder a pressure of 3.0 GPa",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "N",
+      "surname": "Kawaguchi"
+    },
+    {
+      "first": "N",
+      "surname": "Fujiwara"
+    },
+    {
+      "first": "S",
+      "surname": "Iimura"
+    },
+    {
+      "first": "S",
+      "surname": "Matsuishi"
+    },
+    {
+      "first": "H",
+      "surname": "Hosono"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "1609.04957.tei.xml"
+}

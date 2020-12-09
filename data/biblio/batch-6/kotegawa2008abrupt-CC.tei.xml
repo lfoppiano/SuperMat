@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Abrupt Emergence of Pressure-Induced Superconductivity of 34 K in SrFe2As2: A Resistivity Study under Pressure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2008-11-19">19 Nov 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hisashi</forename><surname>Kotegawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Faculty of Integrated Arts and Science</orgName>
+								<orgName type="laboratory">Transformative Research-Project on Iron Pnictides (TRIP)</orgName>
+								<orgName type="institution">Kobe University</orgName>
+								<address>
+									<postCode>658-8530, 102-0075</postCode>
+									<settlement>Kobe, JST, Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tokushima University</orgName>
+								<address>
+									<postCode>770-8502</postCode>
+									<settlement>Tokushima</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hitoshi</forename><surname>Sugawara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideki</forename><surname>Tou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Faculty of Integrated Arts and Science</orgName>
+								<orgName type="laboratory">Transformative Research-Project on Iron Pnictides (TRIP)</orgName>
+								<orgName type="institution">Kobe University</orgName>
+								<address>
+									<postCode>658-8530, 102-0075</postCode>
+									<settlement>Kobe, JST, Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tokushima University</orgName>
+								<address>
+									<postCode>770-8502</postCode>
+									<settlement>Tokushima</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Abrupt Emergence of Pressure-Induced Superconductivity of 34 K in SrFe2As2: A Resistivity Study under Pressure</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">78</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page">013709</biblScope>
+							<date type="published" when="2008-11-19">19 Nov 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.78.013709</idno>
+					<idno type="arXiv">arXiv:0810.4856v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>SrFe2As2</term>
+					<term>superconductivity</term>
+					<term>pressure</term>
+					<term>single crystal</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report resistivity measurement under pressure in single crystals of SrFe2As2, which is one of the parent materials of Fe-based superconductors. The structural and antiferromagnetic (AFM) transition of T0 = 198 K at ambient pressure is suppressed under pressure, and the ordered phase disappears above Pc ∼ 3.6 − 3.7 GPa. Superconductivity with a sharp transition appears accompanied by the suppression of the AFM state. Tc exhibits a maximum of 34.1 K, which is realized close to the phase boundary at Pc. This Tc is the highest among those of the stoichiometric Fe-based superconductors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

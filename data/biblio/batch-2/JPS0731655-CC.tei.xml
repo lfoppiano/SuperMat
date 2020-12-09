@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">New β-Pyrochlore Oxide Superconductor CsOs2O6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2004-07-15">2004-07-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shigeki</forename><surname>Yonezawa</surname></persName>
+							<email>yonezawa@issp.u-tokyo.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuji</forename><surname>Muraoka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zenji</forename><surname>Hiroi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">New β-Pyrochlore Oxide Superconductor CsOs2O6</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">73</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="1655" to="1656"/>
+							<date type="published" when="2004-07-15" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.73.1655</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>superconductivity</term>
+					<term>β-pyrochlore oxide</term>
+					<term>pyrochlore lattice</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The discovery of a new β-pyrochlore oxide superconductor CsOs 2 O 6 with T c = 3.3 K is reported. It is the third superconductor in the family of β-pyrochlore oxides, following KOs 2 O with T c = 9.6 K and RbOs 2 O 6 with T c = 6.3 K. The T c of this series decreases with increasing the ionic radius of alkaline metal ions, imposing negative chemical pressure upon the Os pyrochlore lattice.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

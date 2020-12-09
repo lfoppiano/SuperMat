@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Exactly solvable model of a spin glass</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="1976-08">1976-08</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Morita</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Horiguchi</surname></persName>
+						</author>
+						<title level="a" type="main">Exactly solvable model of a spin glass</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Solid State Communications</title>
+						<title level="j" type="abbrev">Solid State Communications</title>
+						<idno type="ISSN">0038-1098</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">19</biblScope>
+							<biblScope unit="issue">9</biblScope>
+							<biblScope unit="page" from="833" to="835"/>
+							<date type="published" when="1976-08" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/0038-1098(76)90665-7</idno>
+					<note type="submission">Submitted: April 22, 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>A. High-T c superconductors</term>
+					<term>B. Chemical synthesis</term>
+					<term>E. High-pressure</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The roles of aliovalent Ca II-for-Y III substitution and high-pressure-oxygen annealing in the process of &quot;superconducterizing&quot; the Co-based layered copper oxide, CoSr (Y 1-x Ca x)Cu 2 O 7+δ (Co-1212), were investigated. The as-air-synthesized samples up to x = 0.4 were found essentially oxygen stoichiometric (-0.03 ≤ δ ≤ 0.00). These samples, however, were not superconductive, suggesting that the holes created by the divalent-for-trivalent cation substitution are trapped on Co in the charge reservoir. Ultra-high-pressure heat treatment carried out at 5 GPa and 500 o C for 30 min in the presence of Ag O 2 as an excess oxygen source induced bulk superconductivity in these samples. The highest T c was obtained for the high-oxygen-pressure treated x = 0.3 sample at ∼40 K.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

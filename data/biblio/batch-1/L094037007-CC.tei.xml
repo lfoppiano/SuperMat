@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Enhancing the Superconducting Transition Temperature of the Heavy Fermion CompoundCeIrIn5in the Absence of Spin Correlations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-09-06">September 6, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shinji</forename><surname>Kawasaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Materials Engineering Science</orgName>
+								<orgName type="department" key="dep2">Graduate School of Engineering Science</orgName>
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-8531</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guo-Qing</forename><surname>Zheng</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Okayama University</orgName>
+								<address>
+									<postCode>700-8530</postCode>
+									<settlement>Okayama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroki</forename><surname>Kan</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshio</forename><surname>Kitaoka</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroaki</forename><surname>Shishido</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshichika</forename><surname>Ōnuki</surname></persName>
+						</author>
+						<title level="a" type="main">Enhancing the Superconducting Transition Temperature of the Heavy Fermion CompoundCeIrIn5in the Absence of Spin Correlations</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">94</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<date type="published" when="2018-09-06">September 6, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.94.037007</idno>
+					<idno type="arXiv">arXiv:cond-mat/0412614v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report on a pressure(P)-induced evolution of superconductivity and spin correlations in CeIrIn5 via the 115 In nuclear-spin-lattice-relaxation rate measurements. We find that applying pressure suppresses dramatically the antiferromagnetic fluctuations that are strong at ambient pressure. At P = 2.1 GPa, Tc increases to Tc = 0.8 K that is twice Tc(P = 0 GPa), in the background of Fermi liquid state. This is in sharp contrast with the previous case in which negative, chemical pressure (replacing Ir with Rh) enhances magnetic interaction and increases Tc. Our results suggest that multiple mechanisms work to produce superconductivity in the same compound CeIrIn5.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

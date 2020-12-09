@@ -1,0 +1,40 @@
+{
+  "addrline": "3-1 Morinosato Wakamiya, Atsugi-shi",
+  "volume": "91",
+  "issue": "8",
+  "date": "2003-02-14",
+  "ISSN": "0031-9007",
+  "eISSN": "1079-7114",
+  "DOI": "10.1103/physrevlett.91.087001",
+  "arXiv": "arXiv:cond-mat/0302086v2[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Magnetic Penetration Depth Measurements ofPr2\u2212xCexCuO4\u2212\u03b4Films on Buffered Substrates: Evidence for a Nodeless Gap",
+  "title_main_j": "Physical Review Letters",
+  "title_abbrev_j": "Phys. Rev. Lett.",
+  "authors": [
+    {
+      "first": "Mun-Seog",
+      "surname": "Kim"
+    },
+    {
+      "first": "John",
+      "middle": "A",
+      "surname": "Skinta"
+    },
+    {
+      "first": "Thomas",
+      "middle": "R",
+      "surname": "Lemberger"
+    },
+    {
+      "first": "A",
+      "surname": "Tsukada"
+    },
+    {
+      "first": "M",
+      "surname": "Naito"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "L091087001-CC.tei.xml"
+}

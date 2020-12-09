@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity in three-layer Na0.3CoO2·1.3H2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2005-02">2005-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Foo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08544</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Klimczuk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08544</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Applied Physics and Mathematics</orgName>
+								<orgName type="institution">Gdansk University of Technology</orgName>
+								<address>
+									<addrLine>Narutowicza 11/12</addrLine>
+									<postCode>80-952</postCode>
+									<settlement>Gdansk</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lu</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">P</forename><surname>Ong</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08544</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Cava</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08544</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity in three-layer Na0.3CoO2·1.3H2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Solid State Communications</title>
+						<title level="j" type="abbrev">Solid State Communications</title>
+						<idno type="ISSN">0038-1098</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">133</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="407" to="410"/>
+							<date type="published" when="2005-02" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.ssc.2004.11.027</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The observation of superconductivity at 4.3 K in a new crystalline form of Na 0.3 CoO 2 •1.3H O is reported. The new superconductor has three layers of CoO 6 octahedra per crystallographic unit cell, in contrast to the previously reported two-layer superconductor. The three-layer cell occurs because the relative orientations of neighboring CoO 2 layers are distinctly different from what is seen in the two-layer superconducting phase. This type of structural difference in materials that are otherwise chemically and structurally identical is not possible to attain on the layered copper oxide superconductors. The synthesis and stability of the new phase are described.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

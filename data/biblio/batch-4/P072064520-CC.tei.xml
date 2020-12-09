@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structural properties of the sesquicarbide superconductorLa2C3at high pressure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-19">November 19, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Loa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Syassen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Kremer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Simon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hanfland</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">European Synchrotron Radiation Facility</orgName>
+								<address>
+									<addrLine>BP 220</addrLine>
+									<postCode>F-38043</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ahn</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Yonsei University</orgName>
+								<address>
+									<postCode>220-710</postCode>
+									<settlement>Wonju</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structural properties of the sesquicarbide superconductorLa2C3at high pressure</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<date type="published" when="2018-11-19">November 19, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.72.064520</idno>
+					<idno type="arXiv">arXiv:cond-mat/0503597v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: : 61.50.Ks</term>
+					<term>62.50.+p</term>
+					<term>77.80.Bh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The effect of pressure on the structural properties of lanthanum sesquicarbide La2C3 (Tc = 13 K) has been investigated at room temperature by angle-dispersive powder x-ray diffraction in a diamond anvil cell. The compound remains in the cubic Pu2C3-type structure at pressures up to at least 30 GPa. The corresponding equation of state parameters are reported and discussed in terms of phase stability of La2C3. Pressure-volume data of the impurity phase LaC2 are reported also for pressures up to 13 GPa.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

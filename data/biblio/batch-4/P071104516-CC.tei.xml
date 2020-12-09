@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetic-field effects on the in-plane electrical resistivity in single-crystalLa2−xBaxCuO4andLa1.6−xNd0.4SrxCuO4aroundx=18: Implication for the field-induced stripe order</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-20">November 20, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Adachi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Applied Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Engineering</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Aoba-yama 6-6-05, Aoba-ku</addrLine>
+									<postCode>980-8579</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kitajima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Applied Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Engineering</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Aoba-yama 6-6-05, Aoba-ku</addrLine>
+									<postCode>980-8579</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Manabe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Applied Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Engineering</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Aoba-yama 6-6-05, Aoba-ku</addrLine>
+									<postCode>980-8579</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Koike</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Applied Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Engineering</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Aoba-yama 6-6-05, Aoba-ku</addrLine>
+									<postCode>980-8579</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kudo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sasaki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kobayashi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetic-field effects on the in-plane electrical resistivity in single-crystalLa2−xBaxCuO4andLa1.6−xNd0.4SrxCuO4aroundx=18: Implication for the field-induced stripe order</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">71</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<date type="published" when="2018-11-20">November 20, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.71.104516</idno>
+					<idno type="arXiv">arXiv:cond-mat/0405088v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

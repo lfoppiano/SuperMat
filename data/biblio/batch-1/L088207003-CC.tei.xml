@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evidence for a Nodeless Gap from the Superfluid Density of Optimally DopedPr1.855Ce0.145CuO4−yFilms</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-31">October 31, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">A</forename><surname>Skinta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">R</forename><surname>Lemberger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Greibe</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Naito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evidence for a Nodeless Gap from the Superfluid Density of Optimally DopedPr1.855Ce0.145CuO4−yFilms</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">88</biblScope>
+							<biblScope unit="issue">20</biblScope>
+							<date type="published" when="2018-10-31">October 31, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.88.207003</idno>
+					<idno type="arXiv">arXiv:cond-mat/0107122v3[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.76.Bz</term>
+					<term>74.72.Jt</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We present measurements of the ab-plane magnetic penetration depth, λ(T), in five optimally doped Pr1.855Ce0.145CuO4−y films for 1.6 K ≤ T ≤ Tc ∼ 24 K. Low resistivities, high superfluid densities ns(T) ∝ λ −2 (T), high Tc&apos;s, and small transition widths are reproducible and indicative of excellent film quality. For all five films, λ −2 (T)/λ −2 (0) at low T is well fitted by an exponential temperature dependence with a gap, ∆min, of 0.85 kBTc. This behavior is consistent with a nodeless gap and is incompatible with d-wave superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

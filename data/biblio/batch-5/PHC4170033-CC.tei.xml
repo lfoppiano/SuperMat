@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Induction of superconductivity in Y0.4Pr0.6Ba2−xSrxCu3O7 system with increasing Sr substitution</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2004-12">2004-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">P S</forename><surname>Awana</surname></persName>
+							<email>awana@mail.nplindia.ernet.in</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Ansari</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anurag</forename><surname>Gupta</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Saxena</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kishan</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rajeev</forename><surname>Rawat</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Ganesan</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">V</forename><surname>Narlikar</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Devendra</forename><surname>Buddhikot</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Malik</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">National Physical Laboratory K.S. Krishnan Marg</orgName>
+								<address>
+									<postCode>110012</postCode>
+									<settlement>New Delhi</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Inter-University Consortium for DAE Facilities</orgName>
+								<orgName type="institution">University</orgName>
+								<address>
+									<addrLine>Campus, Khandwa Road, Indore-452017</addrLine>
+									<region>MP</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Tata Institute of Fundamental</orgName>
+								<address>
+									<addrLine>Research Homi Bhabha Road</addrLine>
+									<postCode>400005</postCode>
+									<settlement>Mumbai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Induction of superconductivity in Y0.4Pr0.6Ba2−xSrxCu3O7 system with increasing Sr substitution</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">417</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="33" to="39"/>
+							<date type="published" when="2004-12" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2004.10.003</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74.25. Ha</term>
+					<term>74.72. Jt</term>
+					<term>75.25. +z</term>
+					<term>75.30. Cr. 2</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Samples of Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7 (0.0≤x≤1.0) have been synthesized by a solid-state reaction route. The samples with x ≤0.60 crystallize in an orthorhombic structure (with orthorhombic distortion decreasing with increasing x), while the samples with x=0.80 and 1.0 crystallize in a pseudo tetragonal structure. Resistance (R) measurements as a function of temperature (T) show that x = 0.0 sample is highly semiconducting with R 2K /R 300K ratio of ~ 65. This ratio decreases to only ~23 and 5 for x=0.20 and x=0.4 samples, respectively. Further, the x=0.60 sample shows onset of a broad superconducting transition temperature (T c onset) at around 20 K without achieving the T c R=0 state down to 2 K. The T c R=0 state is observed in x = 0.80 and 1.00 samples at around 5 and 14 K, respectively. Thermo-electric power (S), also exhibits T c S~0 state at around 11 K and 16 K, respectively for x = 0.8 and 1.00 samples. Thermo electric power at room temperature is positive and decreases with increasing x, indicating enhanced number of mobile holes. These results demonstrate that substitution of Sr at Ba-site systematically induces metallicity and eventually superconductivity in Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7 system. The results are explained on the basis of reduced Pr(4f) orbital hybridization with O(2p) in superconducting Cu-O 2 planes, resulting in delocalization of the mobile carriers. The role of decreased Pr/Ba intermixing disorder is also considered.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

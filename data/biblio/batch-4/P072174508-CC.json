@@ -1,0 +1,40 @@
+{
+  "date": "2018-10-28",
+  "arXiv": "arXiv:cond-mat/0507014v1[cond-mat.supr-con]",
+  "title_main_a": "Critical fields and spontaneous vortex state in the weak-ferromagnetic superconductor RuSr 2 GdCu 2 O 8",
+  "authors": [
+    {
+      "first": "C",
+      "middle": "Y",
+      "surname": "Yang"
+    },
+    {
+      "first": "B",
+      "middle": "C",
+      "surname": "Chang"
+    },
+    {
+      "first": "H",
+      "middle": "C",
+      "surname": "Ku"
+    },
+    {
+      "first": "Y",
+      "middle": "Y",
+      "surname": "Hsu"
+    },
+    {},
+    {}
+  ],
+  "keywords": [
+    "numbers: 74",
+    "72",
+    "-h, 74",
+    "25",
+    "Ha"
+  ],
+  "npl_publn_id": "P072174508-CC.tei.xml",
+  "publisher": "American Physical Society (APS)",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B"
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconducting properties of ultrathin Bi2Sr2CaCu2O8+x single crystals</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>AIP Publishing</publisher>
+				<availability status="unknown"><p>Copyright AIP Publishing</p>
+				</availability>
+				<date type="published" when="2018-09-01">September 1, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">X</forename><surname>You</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Yurgens</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Winkler</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Lin</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Liang</surname></persName>
+							<email>lixing@mc2.chalmers.se</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Microtechnology and Nanoscience</orgName>
+								<orgName type="laboratory">Quantum Device Physics Laboratory</orgName>
+								<orgName type="institution">Chalmers University of Technology</orgName>
+								<address>
+									<postCode>SE-412 96</postCode>
+									<settlement>Göteborg</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconducting properties of ultrathin Bi2Sr2CaCu2O8+x single crystals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Applied Physics</title>
+						<title level="j" type="abbrev">Journal of Applied Physics</title>
+						<idno type="ISSN">0021-8979</idno>
+						<idno type="eISSN">1089-7550</idno>
+						<imprint>
+							<publisher>AIP Publishing</publisher>
+							<biblScope unit="volume">98</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page">033913</biblScope>
+							<date type="published" when="2018-09-01">September 1, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1063/1.2006992</idno>
+					<idno type="arXiv">arXiv:cond-mat/0507109v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.62.Yb</term>
+					<term>74.72.Hs</term>
+					<term>74.78.Bz</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We use Ar-ion milling to thin Bi 2 Sr 2 CaCu 2 O 8+x (Bi2212) single crystals down to a few nanometers or one-to-two (CuO 2) 2 layers. With decreasing the thickness, superconducting transition temperature gradually decreases to zero and the in-plane resistivity increases to large values indicating the existence of a superconductor-insulator transition in ultrathin Bi2212 single crystals.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

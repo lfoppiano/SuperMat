@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Temperature Dependence of the Magnetic Penetration Depth in the Vortex State of the Pyrochlore Superconductor,Cd2Re2O7</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-31">October 31, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Lumsden</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Solid State Division</orgName>
+								<orgName type="institution">Oak Ridge National Laboratory</orgName>
+								<address>
+									<postCode>37831</postCode>
+									<settlement>Oak Ridge</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Dunsiger</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Sonier</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Simon Fraser University</orgName>
+								<address>
+									<postCode>V5A 1S6</postCode>
+									<region>British Columbia Canada</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">I</forename><surname>Miller</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<postCode>V6T 1Z1</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">F</forename><surname>Kiefl</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<postCode>V6T 1Z1</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">TRIUMF</orgName>
+								<address>
+									<postCode>V6T 2A3</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">University of Tennessee</orgName>
+								<address>
+									<postCode>37996</postCode>
+									<settlement>Knoxville</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Jin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Solid State Division</orgName>
+								<orgName type="institution">Oak Ridge National Laboratory</orgName>
+								<address>
+									<postCode>37831</postCode>
+									<settlement>Oak Ridge</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>He</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Mandrus</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Solid State Division</orgName>
+								<orgName type="institution">Oak Ridge National Laboratory</orgName>
+								<address>
+									<postCode>37831</postCode>
+									<settlement>Oak Ridge</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">T</forename><surname>Bramwell</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Gardner</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<addrLine>MST-10</addrLine>
+									<postCode>MS K764</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>NM</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<postCode>WC1H OAJ</postCode>
+									<settlement>London</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="laboratory">Chalk River Laboratories</orgName>
+								<orgName type="institution" key="instit1">U.K. National Research Council</orgName>
+								<orgName type="institution" key="instit2">NPMR</orgName>
+								<address>
+									<addrLine>Chalk River</addrLine>
+									<postCode>K0J 1J0</postCode>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">Canadian Institute for Advanced Research</orgName>
+								<address>
+									<addrLine>180 Dundas Street West</addrLine>
+									<postCode>M5G 1Z8</postCode>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Temperature Dependence of the Magnetic Penetration Depth in the Vortex State of the Pyrochlore Superconductor,Cd2Re2O7</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">89</biblScope>
+							<biblScope unit="issue">14</biblScope>
+							<date type="published" when="2018-10-31">October 31, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.89.147002</idno>
+					<idno type="arXiv">arXiv:cond-mat/0111187v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.Dd</term>
+					<term>74.60.-w</term>
+					<term>76.75.+i</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report transverse field and zero field muon spin rotation studies of the superconducting rhenium oxide pyrochlore, Cd2Re2O7. Transverse field measurements (H=0.007 T) show line broadening below Tc, which is characteristic of a vortex state, demonstrating conclusively the type-II nature of this superconductor. The penetration depth is seen to level off below about 400 mK (T /Tc ∼ 0.4), with a rather large value of λ(T = 0) ∼ 7500Å. The temperature independent behavior below ∼ 400 mK is consistent with a nodeless superconducting energy gap. Zero-field measurements indicate no static magnetic fields developing below the transition temperature.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

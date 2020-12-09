@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Chemical potential shift in lightly doped to overdopedBi2Sr2Ca1−xRxCu2O8+y(R=Pr,Er)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-13">November 13, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Harima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Department of Complexity Science and Engineering</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>Bunkyo-ku</addrLine>
+									<postCode>113-0033</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fujimori</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Department of Complexity Science and Engineering</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>Bunkyo-ku</addrLine>
+									<postCode>113-0033</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sugaya</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Terasaki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Chemical potential shift in lightly doped to overdopedBi2Sr2Ca1−xRxCu2O8+y(R=Pr,Er)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">67</biblScope>
+							<biblScope unit="issue">17</biblScope>
+							<date type="published" when="2018-11-13">November 13, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.67.172501</idno>
+					<idno type="arXiv">arXiv:cond-mat/0203154v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 79.60.-i</term>
+					<term>74.72.Hs</term>
+					<term>71.30.+h I. INTRODUCTION</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have studied the chemical potential shift in the high-temperature superconductor Bi2Sr2Ca1−xRxCu2O8+y (R = Pr, Er), where the hole concentration is varied from 0.025 to 0.17 per Cu, by precise measurements of core-level photoemission spectra. The result shows that the shift becomes slow in the underdoped region as in the case of La2−xSrxCuO4 (LSCO) but the effect is much weaker than in LSCO. The observed shift in the present system can be relatively well explained by numerical results on the doped two-dimensional Hubbard model, and suggests that the change of the electronic structure induced by hole doping is less influenced by stripe fluctuations than in LSCO.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

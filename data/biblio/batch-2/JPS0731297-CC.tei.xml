@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impurity Effects on the Superconducting Transition Temperature of NazCoO2·yH2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2004-05-15">2004-05-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yokoi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Watanabe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Mori</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Moyoshi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kobayashi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sato</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impurity Effects on the Superconducting Transition Temperature of NazCoO2·yH2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">73</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="1297" to="1302"/>
+							<date type="published" when="2004-05-15" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.73.1297</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Na z CoO 2 ⋅yH 2 O</term>
+					<term>superconductivity</term>
+					<term>impurity effects</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Superconducting transition temperature T c of Na z Co 1-x M x O 2 ⋅yH 2 O has been studied for M=Ir and Ga, which can substitute for Co. It has been found that T c is suppressed by the M-atom doping. The decreasing rates |dT c /dx| are of the order of 1 K/% and too small to be explained by the pair breaking mechanism for the anisotropic order parameters by non-magnetic impurities. Brief arguments are given on possible origins of the T c suppression.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

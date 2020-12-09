@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Thermodynamic properties of excess-oxygen-dopedLa2CuO4.11near a simultaneous transition to superconductivity and long-range magnetic order</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2003-09-15">15 Sep 2003</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Jorge</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National High Magnetic Field Laboratory</orgName>
+								<orgName type="institution" key="instit2">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Departamento de Física</orgName>
+								<orgName type="institution">Universidad de Buenos Aires</orgName>
+								<address>
+									<addrLine>Pabellón 1 Ciudad Universitaria (1428) Buenos Aires</addrLine>
+									<country key="AR">Argentina</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jaime</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National High Magnetic Field Laboratory</orgName>
+								<orgName type="institution" key="instit2">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Civale</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Superconductivity Technology Center</orgName>
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Batista</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">L</forename><surname>Zink</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>San Diego, La Jolla</addrLine>
+									<postCode>92093</postCode>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hellman</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>San Diego, La Jolla</addrLine>
+									<postCode>92093</postCode>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Khaykovich</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Kastner</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Department of Physics and Center for Material Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<postCode>M5S 1A7</postCode>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Birgeneau</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Center for Non-Linear Studies</orgName>
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Thermodynamic properties of excess-oxygen-dopedLa2CuO4.11near a simultaneous transition to superconductivity and long-range magnetic order</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">69</biblScope>
+							<biblScope unit="issue">17</biblScope>
+							<date type="published" when="2003-09-15">15 Sep 2003</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.69.174506</idno>
+					<idno type="arXiv">arXiv:cond-mat/0309362v1[cond-mat.str-el]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.72.Dn</term>
+					<term>74.40.+k</term>
+					<term>75.30.Fv</term>
+					<term>75.10.Jm</term>
+					<term>75.50.Ee</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have measured the specific heat and magnetization versus temperature in a single crystal sample of superconducting La2CuO4.11 and in a sample of the same material after removing the excess oxygen, in magnetic fields up to 15 T. Using the deoxygenated sample to subtract the phonon contribution, we find a broad peak in the specific heat, centered at 50 K. This excess specific heat is attributed to fluctuations of the Cu spins possibly enhanced by an interplay with the charge degrees of freedom, and appears to be independent of magnetic field, up to 15 T. Near the superconducting transition Tc(H=0)= 43 K, we find a sharp feature that is strongly suppressed when the magnetic field is applied parallel to the crystallographic c-axis. A model for 3D vortex fluctuations is used to scale magnetization measured at several magnetic fields. When the magnetic field is applied perpendicular to the c-axis, the only observed effect is a slight shift in the superconducting transition temperature.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

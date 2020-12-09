@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity of theSr2Ca12Cu24O41Spin-Ladder System: Are the Superconducting Pairing and the Spin-Gap Formation of the Same Origin?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2002-07-17">July 17 2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naoki</forename><surname>Fujiwara</surname></persName>
+							<email>naokif@issp.u-tokyo.ac.jp</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nobuo</forename><surname>Môri</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiya</forename><surname>Uwatoko</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takehiko</forename><surname>Matsumoto</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naoki</forename><surname>Motoyama</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shinichi</forename><surname>Uchida</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>5-1-5 Kashiwanoha</addrLine>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Superconductivity</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>7-3-1 Hongo, Bunkyo-ku</addrLine>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics, Faculty of Science</orgName>
+								<orgName type="institution">Saitama University</orgName>
+								<address>
+									<addrLine>255 Simookubo</addrLine>
+									<postCode>338-8581</postCode>
+									<settlement>Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity of theSr2Ca12Cu24O41Spin-Ladder System: Are the Superconducting Pairing and the Spin-Gap Formation of the Same Origin?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">90</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<date type="published" when="2002-07-17">July 17 2002</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.90.137001</idno>
+					<idno type="arXiv">arXiv:cond-mat/0303278v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25. Ha</term>
+					<term>74.72. Jt</term>
+					<term>74.70. -b</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Pressure-induced superconductivity in a spin-ladder cuprate Sr2Ca12Cu24O41 has not been studied on a microscopic level so far although the superconductivity was already discovered in 1996. We have improved high-pressure technique with using a large high-quality crystal, and succeeded in studying the superconductivity using 63 Cu nuclear magnetic resonance (NMR). We found that anomalous metallic state reflecting the spin-ladder structure is realized and the superconductivity possesses a s-wavelike character in the meaning that a finite gap exists in the quasi-particle excitation: At pressure of 3.5GPa we observed two excitation modes in the normal state from the relaxation rate T −1 1. One gives rise to an activation-type component in T −1 1 , and the other T-linear component linking directly with the superconductivity. This gapless mode likely arises from free motion of holon-spinon bound states appearing by hole doping, and the pairing of them likely causes the superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

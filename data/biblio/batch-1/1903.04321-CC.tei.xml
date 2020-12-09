@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Enhanced, homogeneously type-II superconductivity in Cu-intercalated PdTe2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2019-12-19">2019-12-19</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aastha</forename><surname>Vasdev</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physical Sciences</orgName>
+								<orgName type="department" key="dep2">School of Basic Sciences</orgName>
+								<orgName type="institution">Indian Institute of Science Education and Research Mohali</orgName>
+								<address>
+									<settlement>Mohali</settlement>
+									<region>Punjab</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Indian Institute of Technology Mandi -Mandi</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anshu</forename><surname>Sirohi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physical Sciences</orgName>
+								<orgName type="department" key="dep2">School of Basic Sciences</orgName>
+								<orgName type="institution">Indian Institute of Science Education and Research Mohali</orgName>
+								<address>
+									<settlement>Mohali</settlement>
+									<region>Punjab</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Indian Institute of Technology Mandi -Mandi</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Hooda</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Yadav</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Goutam</forename><surname>Sheet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physical Sciences</orgName>
+								<orgName type="department" key="dep2">School of Basic Sciences</orgName>
+								<orgName type="institution">Indian Institute of Science Education and Research Mohali</orgName>
+								<address>
+									<settlement>Mohali</settlement>
+									<region>Punjab</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Indian Institute of Technology Mandi -Mandi</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Enhanced, homogeneously type-II superconductivity in Cu-intercalated PdTe2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Condensed Matter</title>
+						<title level="j" type="abbrev">J. Phys.: Condens. Matter</title>
+						<idno type="ISSN">0953-8984</idno>
+						<idno type="eISSN">1361-648X</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">32</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page">125701</biblScope>
+							<date type="published" when="2019-12-19" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/1361-648x/ab5ac4</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>175005 (H.P.) India Though the superconducting phase of the type-II Dirac semimetal PdTe2 was shown to be conventional in nature, the phase continued to be interesting in terms of its magnetic properties. While certain experiments indicated an unexpected type-I superconducting phase, other experiments revealed formation of vortices under the application of magnetic fields. Recently, scanning tunneling spectroscopy (STS) experiments revealed the existence of a mixed phase where type-I and type-II behaviours coexist. Here, based on our temperature and magnetic field dependent STS experiments on Cu-intercalated PdTe2 we show that as the critical temperature of the superconducting phase goes up from 1.7 K to 2.4 K on Cu-intercalation, the mixed phase disappears and the system becomes homogeneously type-II. This may be attributed to an averaging effect caused by quasiparticle exchange between type-I and type-II domains mediated by the Cu atoms and to decreased coherence length due to increased disorder.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

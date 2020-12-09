@@ -1,0 +1,55 @@
+{
+  "addrline": "One Brookings Dr",
+  "volume": "72",
+  "issue": "22",
+  "date": "2018-11-11",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.220505",
+  "arXiv": "arXiv:cond-mat/0510515v1[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Negative thermal expansion ofMgB2in the superconducting state and anomalous behavior of the bulk Gr\u00fcneisen function",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "J",
+      "middle": "J",
+      "surname": "Neumeier"
+    },
+    {
+      "first": "T",
+      "surname": "Tomita"
+    },
+    {
+      "first": "M",
+      "surname": "Debessai"
+    },
+    {
+      "first": "J",
+      "middle": "S",
+      "surname": "Schilling"
+    },
+    {
+      "first": "P",
+      "middle": "W",
+      "surname": "Barnes"
+    },
+    {
+      "first": "D",
+      "middle": "G",
+      "surname": "Hinks"
+    },
+    {
+      "first": "J",
+      "middle": "D",
+      "surname": "Jorgensen"
+    }
+  ],
+  "keywords": [
+    "numbers: 65.40.-b",
+    "74.70.Ad",
+    "74.62.Fj"
+  ],
+  "npl_publn_id": "P072220505-CC.tei.xml"
+}

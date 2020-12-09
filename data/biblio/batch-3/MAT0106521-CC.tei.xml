@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity in a pyrochlore oxide Cd Re 2 O 7</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2001-06-26">26 Jun 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hironori</forename><surname>Sakai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>606-8502</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Advanced Science Research Center</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Japan Atomic Energy Research Institute</orgName>
+								<address>
+									<postCode>319-1195</postCode>
+									<settlement>Tokai</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuyoshi</forename><surname>Yoshimura</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Ohno</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Chemistry</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>606-8502</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Harukazu</forename><surname>Kato</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shinsaku</forename><surname>Kambe</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Advanced Science Research Center</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Japan Atomic Energy Research Institute</orgName>
+								<address>
+									<postCode>319-1195</postCode>
+									<settlement>Tokai</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Russell</forename><forename type="middle">E</forename><surname>Walstedt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Advanced Science Research Center</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Japan Atomic Energy Research Institute</orgName>
+								<address>
+									<postCode>319-1195</postCode>
+									<settlement>Tokai</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tatsuma</forename><forename type="middle">D</forename><surname>Matsuda</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Advanced Science Research Center</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Japan Atomic Energy Research Institute</orgName>
+								<address>
+									<postCode>319-1195</postCode>
+									<settlement>Tokai</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshinori</forename><surname>Haga</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Advanced Science Research Center</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Japan Atomic Energy Research Institute</orgName>
+								<address>
+									<postCode>319-1195</postCode>
+									<settlement>Tokai</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<postCode>560-0043</postCode>
+									<settlement>Toyonaka</settlement>
+									<region>Osaka</region>
+									<country key="JP">JAPAN</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity in a pyrochlore oxide Cd Re 2 O 7</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2001-06-26">26 Jun 2001</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0106521v1[cond-mat.str-el]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.10</term>
+					<term>74.60</term>
+					<term>74.70</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We make the first report that a metallic pyrochlore oxide Cd Re 2 O 7 , exhibits type II superconductivity at 1.1 K. The pyrochlore oxide is known to be a geometrical frustrated system, which includes the tetrahedral network of magnetic ions. A large number of compounds are classified in the family of pyrochlore oxides, and these compounds exhibit a wide variety of physical properties ranging from insulator through semiconductor and from bad metal to good metal. Until now, however, no superconductivity has been reported for frustrated pyrochlore oxides. The bulk superconductivity of this compound is confirmed by measurements of the resistivity and the a. c. magnetic susceptibility. The H c2 , which is extrapolated to 0 K, is estimated as about 0.8 T, using the resistivity measurements under aplied field. The plot of H c2 vs T indicates that the Cooper pairs are composed of rather heavy quasiparticles. This fact suggests that frustrated heavy electrons become superconducting in this compound.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Anomalous pseudogap and superconducting-state properties of heavily disorderedY1−xCaxBa2(Cu1−yZny)3O7−δ</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2004-08-10">10 Aug 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Naqib</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">IRC in Superconductivity</orgName>
+								<orgName type="institution">University in Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">MacDiarmid Institute for Advanced Materials and Nanotechnology</orgName>
+								<orgName type="institution" key="instit2">Victoria University and Industrial Research Ltd</orgName>
+								<address>
+									<postBox>P.O. Box 31310</postBox>
+									<settlement>Lower Hutt</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Islam</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Tallon</surname></persName>
+						</author>
+						<title level="a" type="main">Anomalous pseudogap and superconducting-state properties of heavily disorderedY1−xCaxBa2(Cu1−yZny)3O7−δ</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">71</biblScope>
+							<biblScope unit="issue">18</biblScope>
+							<date type="published" when="2004-08-10">10 Aug 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.71.184510</idno>
+					<idno type="arXiv">arXiv:cond-mat/0408203</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The role of substantial in-plane disorder (Zn) on the transport and AC susceptibility of Y 1-x Ca x Ba 2 (Cu 1-y Zn y) 3 O 7-δ was investigated over a wide range of planar hole concentration, p. Resistivity, ρ(T), for a number of overdoped to underdoped samples with y ≥ 0.055 showed clear downturns at a characteristic temperature similar to that found at T * in Zn-free underdoped samples because of the presence of the pseudogap. Contrary to the widely observed behavior for underdoped cuprates at lower Zn contents (where the pseudogap energy increases almost linearly with decreasing p in the same way as for the Zn-free compounds), this apparent pseudogap temperature at high Zn content showed very little or no p-dependence. It also increases systematically with increasing Zn concentration in the CuO planes. This anomalous behavior appears quite abruptly, e.g., samples with y ≤ 0.05 exhibit the usual T * (p) behavior. AC susceptibility of these heavily disordered samples showed the superfluid density to be extremely low. Magneto-transport, ρ(T,H), measurements are provisionally interpreted in terms of high-strength pinning centers for vortices in these samples. We also discuss various possible scenarios that might lead to a Zn induced pseudogap in the cuprates.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">59Co-NMR Knight Shift of Superconducting NaxCoO2·yH2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2003-10-15">2003-10-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiaki</forename><surname>Kobayashi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mai</forename><surname>Yokoi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masatoshi</forename><surname>Sato</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Material Science</orgName>
+								<orgName type="institution">Nagoya University</orgName>
+								<address>
+									<addrLine>Furo-cho, Chikusa-ku Nagoya</addrLine>
+									<postCode>464-8602</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">59Co-NMR Knight Shift of Superconducting NaxCoO2·yH2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page" from="2453" to="2455"/>
+							<date type="published" when="2003-10-15" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.72.2453</idno>
+					<note type="submission">Received June 12, 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Na x CoO 2 ⋅yH 2 O</term>
+					<term>superconductivity</term>
+					<term>NMR</term>
+					<term>Knight shift</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Layered Co oxide Na x CoO 2 ⋅yH 2 O with the superconducting transition temperature T c =4.5 K has been studied by 59 Co-NMR. The Knight shift K estimated from the observed spectra for powder sample exhibits almost temperature(T)-independent behavior above T c and decreases with decreasing T below T c. This result and the existence of the coherence peak in the spin-lattice-relaxation-rate versus T curve reported by the present authors indicate, naively speaking, that the singlet order parameter with s-wave symmetry is realized in Na x CoO 2 ⋅yH 2 O. Differences of the observed behaviors between the spectra of the non-aligned sample and the one aligned in epoxy adhesive by applying the external magnetic field are discussed.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

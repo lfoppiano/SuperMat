@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Microwave Electrodynamics of Electron-Doped Cuprate Superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2000-01-12">12 Jan 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">David</forename><surname>Kokales</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Patrick</forename><surname>Fournier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lucia</forename><forename type="middle">V</forename><surname>Mercaldo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vladimir</forename><forename type="middle">V</forename><surname>Talanov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Richard</forename><forename type="middle">L</forename><surname>Greene</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Steven</forename><forename type="middle">M</forename><surname>Anlage</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742-4111</postCode>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Microwave Electrodynamics of Electron-Doped Cuprate Superconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">85</biblScope>
+							<biblScope unit="issue">17</biblScope>
+							<biblScope unit="page" from="3696" to="3699"/>
+							<date type="published" when="2000-01-12">12 Jan 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.85.3696</idno>
+					<idno type="arXiv">arXiv:cond-mat/0001166v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The pairing state symmetry of the electron-doped cuprate superconductors is thought to be s-wave in nature, in contrast with their hole-doped counterparts which exhibit a d-wave symmetry. We reexamine this issue based on recent improvements in our electron-doped materials and our measurement techniques. We report microwave cavity perturbation measurements of the temperature dependence of the penetration depth of Pr2−xCexCuO4−y and Nd2−xCexCuO4−y crystals. Our data strongly suggest that the pairing symmetry in these materials is not s-wave.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

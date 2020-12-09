@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetic field dependence of low-temperature specific heat of the spinel oxide superconductorLiTi2O4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2004-08-31">2004-08-31</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Sun</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-Y</forename><surname>Lin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mollah</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Ho</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">D</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">National Tsing Hua University</orgName>
+								<address>
+									<settlement>Hsinchu</settlement>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">C</forename><surname>Liao</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Center</orgName>
+								<orgName type="institution">National Tsing Hua University</orgName>
+								<address>
+									<settlement>Hsinchu</settlement>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Wu</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National Tsing Hwa University</orgName>
+								<address>
+									<addrLine>Hsin-chu 300</addrLine>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Academia Sinica</orgName>
+								<address>
+									<addrLine>Taipei 100</addrLine>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National Sun Yat Sen University</orgName>
+								<address>
+									<postCode>804</postCode>
+									<settlement>Kaohsiung</settlement>
+									<country key="TW">Taiwan, ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetic field dependence of low-temperature specific heat of the spinel oxide superconductorLiTi2O4</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">70</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<date type="published" when="2004-08-31" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.70.054519</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>number(s): 74.70.-b</term>
+					<term>74.25.-q</term>
+					<term>74.25.Bt</term>
+					<term>74.25.Ha</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Magnetic field dependence of low temperature specific heat of spinel oxide superconductor LiTi 2 O 4 has been elaborately investigated. In the normal state, the obtained electronic coefficient of specific heat ã n = 19.15 mJ/mol K 2 , the Debye temperature È D = 657 K and some other parameters are compared with those reported earlier. The superconducting transition at T c~1 1.4 K is very sharp (∆T c ~ 0.3 K) and the estimated äC/ã n T c is ~1.78. In the superconducting state, the best fit of data leads to the electronic specific heat C es /ã n T c = 9.87 exp (-1.58 T c /T) without field and ã(H) ∝ H 0.95 with fields. In addition, H c2 (0) ~ 11.7 T, H c (0)~0.32 T, ξ GL (0) ~ 55 Å , λ GL (0) ~ 1600 Å , and H c1 (0) ~ 26 mT are estimated from Werthamer-Helfand-Hohenberg (WHH) theory or other relevant relations. All results from the present study indicate that LiTi 2 O 4 can be well described by a typical type-II, BCS-like, moderate coupling, and fully gapped superconductor in the dirty limit. It is further suggested that LiTi 2 O 4 is a moderately electron-electron correlated system.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

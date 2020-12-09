@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">WIGNER LATTICE ORDER, COLLECTIVE MODE, AND SUPERCONDUCTIVITY IN LA 1.985 SR 0.015 CUO 4+δ SYSTEM</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2001-12-11">11 Dec 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><surname>Hoon</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pei</forename><forename type="middle">Herng</forename><surname>Hor</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="department" key="dep3">Texas Center for Superconductivity</orgName>
+								<orgName type="institution">University of Cincinnati</orgName>
+								<address>
+									<postCode>45221-0011</postCode>
+									<settlement>Cincinnati</settlement>
+									<region>Ohio</region>
+									<country key="US">U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Texas</settlement>
+									<country key="US">U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">WIGNER LATTICE ORDER, COLLECTIVE MODE, AND SUPERCONDUCTIVITY IN LA 1.985 SR 0.015 CUO 4+δ SYSTEM</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2001-12-11">11 Dec 2001</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0112134v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We have studied far-infrared charge dynamics of Sr-and O-co-doped La1.985Sr0.015CuO 4+δ with δ = 0.024 (p = 0.063 per Cu) and δ = 0.032 (p = 0.07). We found that two-dimensional Wigner lattice order is the ground state of cuprates away from half-filling. We found that the presence of 2D Wigner lattice and the pinned Goldstone mode is essential for the cuprate physics and superconductivity. We propose that all the high Tc physics are based on the existence of these peculiar 2D electron lattices.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

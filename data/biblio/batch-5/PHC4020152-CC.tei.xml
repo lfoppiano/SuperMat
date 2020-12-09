@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Enhancement of Tc by Sr substitution for Ba in Hg-2212 superconductor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2003-09-23">23 Sep 2003</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Toulemonde</surname></persName>
+							<email>pierre.toulemonde@lpmcn.univ-lyon1.fr</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire de Cristallographie</orgName>
+								<orgName type="institution">CNRS</orgName>
+								<address>
+									<addrLine>25 avenue des martyrs</addrLine>
+									<postCode>BP166, F-38042</postCode>
+									<settlement>Grenoble cedex 09</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Odier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire de Cristallographie</orgName>
+								<orgName type="institution">CNRS</orgName>
+								<address>
+									<addrLine>25 avenue des martyrs</addrLine>
+									<postCode>BP166, F-38042</postCode>
+									<settlement>Grenoble cedex 09</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">LPMCN</orgName>
+								<orgName type="institution" key="instit2">Université Lyon-I</orgName>
+								<address>
+									<addrLine>Bâtiment Léon Brillouin, 43 boulevard du 11 Novembre 1918</addrLine>
+									<postCode>F-69622</postCode>
+									<settlement>Villeurbanne cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Enhancement of Tc by Sr substitution for Ba in Hg-2212 superconductor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">402</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="152" to="159"/>
+							<date type="published" when="2003-09-23">23 Sep 2003</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2003.09.074</idno>
+					<idno type="arXiv">arXiv:cond-mat/0304373v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Mercury-based high-T c superconductors</term>
+					<term>Pressure effects on superconductivity</term>
+					<term>High-T c superconductors transition temperature</term>
+					<term>High pressure -high temperature synthesis PACS: 74.72.H</term>
+					<term>74.62.F</term>
+					<term>74.62</term>
+					<term>81.05</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The Ba substitution by Sr has been studied in two Hg-2212 series: Hg 2 (Ba 1−y Sr y) 2 YCu 2 O 8−δ and Hg 2 (Ba 1−y Sr y) 2 (Y 0.80 Ca 0.20)Cu 2 O 8−δ. In both series a T c enhancement of about 40 K is observed when Sr substitutes Ba from y = 0 to y = 1.0. The y = 0 compound of the first series is the non superconducting Hg 2 Ba 2 YCu 2 O 8−δ prototype. In the second series, this y = 0 compound is already superconducting at 21 K. Indeed the members of this series present a higher charge carrier density in their CuO 2 superconducting planes than their homologues of the first series due to the doping introduced by the substitution of 20 % of Y by Ca. The compounds of both series were synthesized in high pressure (3.5 GPa)-high temperature (950-1050˚C) conditions. In both cases Sr substitution was successful up to the full replacement of Ba (y = 1.0). The Hg-2212 phases were characterized by XRD, SEM, EDX and a.c. susceptibility.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

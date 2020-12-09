@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reversible magnetization below Tc in high-quality superconducting ceramics</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="1994-05">1994-05</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Triscone</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Khoder</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">CEA/Département de Recherche Fondamentale sur la Matière Condensée/SPSMS/LCP</orgName>
+								<address>
+									<postCode>38054, Cedex 9</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Opagiste</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">CEA/Département de Recherche Fondamentale sur la Matière Condensée/SPSMS/LCP</orgName>
+								<address>
+									<postCode>38054, Cedex 9</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-Y</forename><surname>Genoud</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Graf</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Junod</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tsukamoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Couach</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">CEA/Département de Recherche Fondamentale sur la Matière Condensée/SPSMS/LCP</orgName>
+								<address>
+									<postCode>38054, Cedex 9</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Junod</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Muller</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Département de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 quai Ernest-Ansermet</addrLine>
+									<postCode>CH-1211</postCode>
+									<settlement>Genève 4</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reversible magnetization below Tc in high-quality superconducting ceramics</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">224</biblScope>
+							<biblScope unit="issue">3-4</biblScope>
+							<biblScope unit="page" from="263" to="276"/>
+							<date type="published" when="1994-05" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/0921-4534(94)90263-1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We have investigated the reversible magnetization below Tc in high-quality YBa 2 Cu 3 0 7 _ d (Y-123), YBa Cu 4 O s (Y-124), Y 2 Ba 4 Cu 7 O 15+x (Y-247) and Bi 2 Sr 2 CaCu 2 O 8+x (Bi-2212), Tl 2 Ba 2 Cu 1 0 6+d (Tl-2201) and Tl 2 Ba 2 Ca l Cu 2 O 8+d (T1-2212) ceramics. Except for the stoichiometric Y-124 phase, the oxygen concentration was optimized in order to obtain the highest value of the critical temperature for which the normal-state susceptibility becomes temperature independent. Using the simple London model, we are able to fit the reversible magnetization M(T, H) outside the region near Tc with good accuracy for the nearly three-dimensional YBaCuO phases. For the very anisotropic BiSrCaCuO and TlBaCaCuO phases, we have to include an additional term to take into account the fluctuations of vortices. An important result is that Y-123 exhibits a critical field clearly higher than those of the BiSrCaCuO or TlBaCaCuO phases. We obtain for the Y-123 phase a slope and an extrapolated µoH C2,C (0) = 280 T.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

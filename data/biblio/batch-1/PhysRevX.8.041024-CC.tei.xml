@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Direct Visualization of the Nematic Superconductivity in CuxBi2Se3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-12">12 November 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ran</forename><surname>Tao</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ya-Jun</forename><surname>Yan</surname></persName>
+							<email>yanyajun@fudan.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">State Key Laboratory of Surface Physics and Advanced Materials Laboratory</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xi</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">State Key Laboratory of Surface Physics and Advanced Materials Laboratory</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhi-Wei</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Qiang-Hua</forename><surname>Wang</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Collaborative Innovation Center of Advanced Microstructures</orgName>
+								<address>
+									<postCode>210093</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tong</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">State Key Laboratory of Surface Physics and Advanced Materials Laboratory</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Collaborative Innovation Center of Advanced Microstructures</orgName>
+								<orgName type="department" key="dep2">Physics Institute II</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Cologne</orgName>
+								<address>
+									<postCode>50937</postCode>
+									<settlement>Cologne</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">National Laboratory of Solid State Microstructures &amp; School of Physics</orgName>
+								<orgName type="institution" key="instit2">Nanjing University</orgName>
+								<address>
+									<postCode>210093</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dong-Lai</forename><surname>Feng</surname></persName>
+							<email>dlfeng@fudan.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">State Key Laboratory of Surface Physics and Advanced Materials Laboratory</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Collaborative Innovation Center of Advanced Microstructures</orgName>
+								<orgName type="department" key="dep2">Physics Institute II</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<postCode>200438</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Cologne</orgName>
+								<address>
+									<postCode>50937</postCode>
+									<settlement>Cologne</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">National Laboratory of Solid State Microstructures &amp; School of Physics</orgName>
+								<orgName type="institution" key="instit2">Nanjing University</orgName>
+								<address>
+									<postCode>210093</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Direct Visualization of the Nematic Superconductivity in CuxBi2Se3</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review X</title>
+						<title level="j" type="abbrev">Phys. Rev. X</title>
+						<idno type="eISSN">2160-3308</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2018-11-12">12 November 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevx.8.041024</idno>
+					<note type="submission">Received 16 May 2018; revised manuscript received 25 September 2018;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Condensed Matter Physics</term>
+					<term>Superconductivity</term>
+					<term>Topological Insulators</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Cu x Bi 2 Se 3 hosts both topological surface states and bulk superconductivity. It has been identified recently as a topological superconductor (TSC) with an extraordinary nematic, i.e., C 2-symmetric superconducting state and odd-parity pairing. Here, using scanning tunneling microscopy, we directly examine the response of the superconductivity of Cu x Bi 2 Se 3 to magnetic field. Under out-of-plane fields (B ⊥), we discover elongated magnetic vortices hosting zero-bias conductance peaks consistent with the Majorana bound states expected in a TSC. Under in-plane fields (B ==), the average superconducting gap exhibits twofold symmetry with field orientation; the long C 2 symmetry axes are pinned to the dihedral mirror planes under B == ¼ 0.5 T but rotate slightly under B == ¼ 1.0 T. Moreover, a nodeless Δ 4x gap structure is semiquantitatively determined for the first time. Our data paint a microscopic picture of the nematic superconductivity in Cu x Bi 2 Se 3 and pose strong constraints on theory.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

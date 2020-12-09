@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Growth and superconducting transition of Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5) epitaxial thin films</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-11-11">11 November 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Xiang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">P</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Z</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">N</forename><surname>Zheng</surname></persName>
+							<email>dzheng@ssc.iphy.ac.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">H</forename><surname>Wen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">X</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics and Center for Condensed Matter Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Growth and superconducting transition of Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5) epitaxial thin films</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-11-11">11 November 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0409250v1[cond-mat.supr-con]</idno>
+					<note type="submission">Submitted to: Supercond. Sci. Technol.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 81.15.Gh</term>
+					<term>68.55.-a</term>
+					<term>74.78.Bz</term>
+					<term>74.72.-h</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5) thin films have been grown on SrTiO and YSZ substrates by the pulsed laser ablation. The substrate temperature dependence of orientation and superconducting poperties were systematically studied. Good quality c and a-axis orientated films can be obtained on SrTiO via changing the substrate temperature solely. On YSZ, films with good c-axis orientation can be grown, while it is hard to grow films with good a-axis orientation by changing substrate temperature alone. The highest T C0 is about 37K, which is found in the films grown on YSZ with a good c-axis orientation. For the films grown on STO, however, the highest T C0 is about 35.6K with a mixed orientation of c-axis and a-axis. In most of the superconducting films, the weak temperature dependence of the normal state resistivity, as characterized by small R(290K)/R(50K) ≤ 2 ratios, together with a weak localization behavior just above T C could be attributed to the essential scattering due to the localized electronic states. The superconducting transitions in a field up to 10 T along c-axis have been measured on a c-axis oriented film grown on SrTiO 3. The zero-temperature in-plane upper critical field B ab C2 (0) is estimated from the resistivity transition data.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
