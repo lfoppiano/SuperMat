@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetoresistance of UntwinnedYBa2Cu3OySingle Crystals in a Wide Range of Doping: Anomalous Hole-Doping Dependence of the Coherence Length</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-30">October 30, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kouji</forename><surname>Segawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetoresistance of UntwinnedYBa2Cu3OySingle Crystals in a Wide Range of Doping: Anomalous Hole-Doping Dependence of the Coherence Length</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">88</biblScope>
+							<biblScope unit="issue">16</biblScope>
+							<date type="published" when="2018-10-30">October 30, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.88.167005</idno>
+					<idno type="arXiv">arXiv:cond-mat/0108054v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.40.+k</term>
+					<term>74.62.Dh</term>
+					<term>74.72.Bk</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Magnetoresistance (MR) in the a-axis resistivity of untwinned YBa2Cu3Oy single crystals is measured for a wide range of doping (y = 6.45 − 7.0). The y-dependence of the in-plane coherence length ξ ab estimated from the fluctuation magnetoconductance indicates that the superconductivity is anomalously weakened in the 60-K phase; this gives evidence, together with the Hall coefficient and the a-axis thermopower data that suggest the hole doping to be 12% for y ≃ 6.65, that the origin of the 60-K plateau is the 1/8 anomaly. At high temperatures, the normal-state MR data show signatures of the Zeeman effect on the pseudogap in underdoped samples.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

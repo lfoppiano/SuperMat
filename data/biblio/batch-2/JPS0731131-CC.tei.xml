@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconducting Properties under Magnetic Field in Na0.35CoO2·1.3H2O Single Crystal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2004-02-13">13 Feb 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takahiko</forename><surname>Sasaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Petre</forename><surname>Badica</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naoki</forename><surname>Yoneyama</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuyoshi</forename><surname>Yamada</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazumasa</forename><surname>Togano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Norio</forename><surname>Kobayashi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>Katahira 2-1-1, Aoba-ku</addrLine>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconducting Properties under Magnetic Field in Na0.35CoO2·1.3H2O Single Crystal</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">73</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="1131" to="1134"/>
+							<date type="published" when="2004-02-13">13 Feb 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.73.1131</idno>
+					<idno type="arXiv">arXiv:cond-mat/0402355v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Na0.35CoO2•1.3H2O</term>
+					<term>superconductivity</term>
+					<term>upper critical field</term>
+					<term>anisotropy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the in-plane resistivity and magnetic susceptibility of the layered cobalt oxide Na0.35CoO2•1.3H2O single crystal. The temperature dependence of the resistivity shows metallic behavior from room temperature to the superconducting transition temperature Tc of 4.5 K. Sharp resistive transition, zero resistivity and almost perfect superconducting volume fraction below Tc indicate the good quality and the bulk superconductivity of the single crystal. The upper critical field Hc2 and the coherence length ξ are obtained from the resistive transitions in magnetic field parallel to the c-axis and the ab-plane. The anisotropy of ξ, ξ ab /ξc = 12 nm/1.3 nm ≃ 9.2, suggests that this material is considered to be an anisotropic three dimensional superconductor. In the field parallel to the ab-plane, Hc2 seems to be suppressed to the value of Pauli paramagnetic limit. It may indicate the spin singlet superconductivity in the cobalt oxide.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

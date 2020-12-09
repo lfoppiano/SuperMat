@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity induced by spark erosion inZrZn2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-08-24">August 24, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Yelland</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Hayden</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J C</forename><surname>Yates</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Pfleiderer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Uhlarz</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vollmer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">V</forename><surname>Löhneysen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">R</forename><surname>Bernhoeft</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">P</forename><surname>Smith</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Saxena</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kimura</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">H. H. Wills Physics Laboratory</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<addrLine>Tyndall Avenue</addrLine>
+									<postCode>BS8 1TL</postCode>
+									<settlement>Bristol</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Physikalishes Institut</orgName>
+								<address>
+									<addrLine>Universitat Karlsruhe</addrLine>
+									<postCode>D-76128</postCode>
+									<settlement>Karlsruhe</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">DRFMC-SPSMS</orgName>
+								<orgName type="institution">CEA Grenoble</orgName>
+								<address>
+									<addrLine>Cedex 9</addrLine>
+									<postCode>F-38054</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Cavendish Laboratory</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Center for Low Temperature Science</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<postCode>980-8578</postCode>
+									<settlement>Sendai</settlement>
+									<region>Miyagi</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity induced by spark erosion inZrZn2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<date type="published" when="2018-08-24">August 24, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.72.214523</idno>
+					<idno type="arXiv">arXiv:cond-mat/0502341v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 75.50.Cc</term>
+					<term>74.70.Ad</term>
+					<term>74.25.Fy</term>
+					<term>74.70.-b I</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We show that the superconductivity observed recently in the weak itinerant ferromagnet ZrZn2 [C. Pfleiderer et al., Nature (London) 412, 58 (2001)] is due to remnants of a superconducting layer induced by spark erosion. Results of resistivity, susceptibility, specific heat and surface analysis measurements on high-quality ZrZn2 crystals show that cutting by spark erosion leaves a superconducting surface layer. The resistive superconducting transition is destroyed by chemically etching a layer of 5 µm from the sample. No signature of superconductivity is observed in ρ(T) of etched samples at the lowest current density measured, J = 675 Am −2 , and at T ≥ 45 mK. EDX analysis shows that spark-eroded surfaces are strongly Zn depleted. The simplest explanation of our results is that the superconductivity results from an alloy with higher Zr content than ZrZn2.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity under High Pressure in LaFeAsO</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2008-11-15">2008-11-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hironari</forename><surname>Okada</surname></persName>
+							<email>hironari@chs.nihon-u.ac.jp</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazumi</forename><surname>Igawa</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroki</forename><surname>Takahashi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Kamihara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masahiro</forename><surname>Hirano</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Frontier Research Center</orgName>
+								<orgName type="department" key="dep2">Institute for Solid State Physics</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">The University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideo</forename><surname>Hosono</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Frontier Research Center</orgName>
+								<orgName type="department" key="dep2">Institute for Solid State Physics</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">The University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuyuki</forename><surname>Matsubayashi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiya</forename><surname>Uwatoko</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">College of Humanities and Sciences</orgName>
+								<orgName type="institution">Nihon University</orgName>
+								<address>
+									<addrLine>Setagaya-ku</addrLine>
+									<postCode>156-8550</postCode>
+									<settlement>Sakurajosui, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">ERATO-SORST</orgName>
+								<orgName type="institution" key="instit2">JST, in Frontier Research Center</orgName>
+								<orgName type="institution" key="instit3">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics, College of Humanities &amp; Sciences</orgName>
+								<orgName type="institution">Nihon University</orgName>
+								<address>
+									<addrLine>3-25-40 Sakurajosui, Setagaya-ku</addrLine>
+									<postCode>156-8550</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity under High Pressure in LaFeAsO</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">77</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page">113712</biblScope>
+							<date type="published" when="2008-11-15" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.77.113712</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>superconductivity</term>
+					<term>high pressure</term>
+					<term>electrical resistivity</term>
+					<term>oxypnictide</term>
+					<term>LaFeAsO</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Electrical resistivity measurements under high pressures up to 29 GPa were performed for oxypnictide compound LaFeAsO. We found a pressure-induced superconductivity in LaFeAsO. The maximum value of T c is 21 K at ~12 GPa. The pressure dependence of the T c is similar to those of LaFeAsO 1-x F x series reported previously.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

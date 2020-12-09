@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Antiferromagnetic ordering in a 90 K copper oxide superconductor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-31">October 31, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Hodges</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">DRECAM-SPEC</orgName>
+								<orgName type="department" key="dep2">CE-Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Sidis</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">CE-Saclay</orgName>
+								<orgName type="laboratory">Laboratoire Léon Brillouin</orgName>
+								<orgName type="institution">CEA-CNRS</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bourges</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Mirebeau</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">CE-Saclay</orgName>
+								<orgName type="laboratory">Laboratoire Léon Brillouin</orgName>
+								<orgName type="institution">CEA-CNRS</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hennion</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Chaud</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">CRETA</orgName>
+								<orgName type="institution" key="instit2">CNRS</orgName>
+								<address>
+									<addrLine>25 Avenue des Martyrs</addrLine>
+									<postBox>BP 166</postBox>
+									<postCode>38042</postCode>
+									<settlement>Grenoble cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Antiferromagnetic ordering in a 90 K copper oxide superconductor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">66</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2018-10-31">October 31, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.66.020501</idno>
+					<idno type="arXiv">arXiv:cond-mat/0107218v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Using elastic neutron scattering, we evidence a commensurate antiferromagnetic Cu(2) order (AF) in the superconducting (SC) high-Tc cuprate YBa2(Cu1−yCoy)3O 7+δ (y=0.013, Tc=93 K). However, the spin excitation spectrum is still dominated by a magnetic resonance peak at 41 meV as in the Co-free system, but with a reduced spectral weight. The substitution of Co thus leads to a state where AF and SC cohabit. These results show that the hole-doped CuO2 plane is close to an AF instability even when Tc remains optimum.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Critical Point and the Nature of the Pseudogap of Single-Layered Copper-OxideBi2Sr2−xLaxCuO6+δSuperconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2005-02-04">4 Feb 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guo-Qing</forename><surname>Zheng</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Kuhns</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Reyes</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Liang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Max-Planck-Institut fur Festkorperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstr.1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Lin</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Max-Planck-Institut fur Festkorperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstr.1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Okayama University</orgName>
+								<address>
+									<postCode>700-8530</postCode>
+									<settlement>Okayama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">National High Magnetic Field Laboratory</orgName>
+								<address>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Critical Point and the Nature of the Pseudogap of Single-Layered Copper-OxideBi2Sr2−xLaxCuO6+δSuperconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">94</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2005-02-04">4 Feb 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.94.047006</idno>
+					<idno type="arXiv">arXiv:cond-mat/0502117v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Ha</term>
+					<term>74.25.Jb</term>
+					<term>74.25.Nf</term>
+					<term>74.72.Hs</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We apply strong magnetic fields of H=28.5∼43 T to suppress superconductivity (SC) in the cuprates Bi2Sr2−xLaxCuO 6+δ (x=0.65, 0.40, 0.25, 0.15 and 0), and investigate the low temperature (T) normal state by 63 Cu nuclear spin-lattice relaxation rate (1/T1) measurements. We find that the pseudogap (PG) phase persists deep inside the overdoped region but terminates at x ∼ 0.05 that corresponds to the hole doping concentration of approximately 0.21. Beyond this critical point, the normal state is a Fermi liquid characterized by the T1T =const relation. A comparison of the superconducting state with the H-induced normal state in the x=0.40 (Tc = 32 K) sample indicates that there remains substantial part of the Fermi surface even in the fully-developed PG state, which suggests that the PG and SC are coexisting matters.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

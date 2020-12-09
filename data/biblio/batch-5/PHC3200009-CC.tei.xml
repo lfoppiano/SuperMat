@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Tunneling Spectroscopy of Tl Ba 2 CuO 6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="1999-05-25">25 May 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lutfi</forename><surname>Ozyuzer</surname></persName>
+							<email>ozyuzer@anl.gov</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Science and Technology Center for Superconductivity and Materials Science Division</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Science and Technology Center for Superconductivity</orgName>
+								<orgName type="institution">Izmir Institute of Technology</orgName>
+								<address>
+									<postCode>TR-35230</postCode>
+									<settlement>Izmir</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Illinois Institute of Technology</orgName>
+								<address>
+									<postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zikri</forename><surname>Yusof</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Science and Technology Center for Superconductivity and Materials Science Division</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Science and Technology Center for Superconductivity</orgName>
+								<orgName type="institution">Izmir Institute of Technology</orgName>
+								<address>
+									<postCode>TR-35230</postCode>
+									<settlement>Izmir</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Illinois Institute of Technology</orgName>
+								<address>
+									<postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">F</forename><surname>Zasadzinski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Science and Technology Center for Superconductivity and Materials Science Division</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Science and Technology Center for Superconductivity</orgName>
+								<orgName type="institution">Izmir Institute of Technology</orgName>
+								<address>
+									<postCode>TR-35230</postCode>
+									<settlement>Izmir</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Illinois Institute of Technology</orgName>
+								<address>
+									<postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ting-Wei</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dave</forename><forename type="middle">G</forename><surname>Hinks</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Science and Technology Center for Superconductivity and Materials Science Division</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Science and Technology Center for Superconductivity</orgName>
+								<orgName type="institution">Izmir Institute of Technology</orgName>
+								<address>
+									<postCode>TR-35230</postCode>
+									<settlement>Izmir</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Illinois Institute of Technology</orgName>
+								<address>
+									<postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">E</forename><surname>Gray</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Science and Technology Center for Superconductivity and Materials Science Division</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Science and Technology Center for Superconductivity</orgName>
+								<orgName type="institution">Izmir Institute of Technology</orgName>
+								<address>
+									<postCode>TR-35230</postCode>
+									<settlement>Izmir</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Illinois Institute of Technology</orgName>
+								<address>
+									<postCode>60616</postCode>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Tunneling Spectroscopy of Tl Ba 2 CuO 6</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="1999-05-25">25 May 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/9905370v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.50.+r</term>
+					<term>74.80.Fp</term>
+					<term>74.72.Fq High-temperature superconductivity</term>
+					<term>tunneling</term>
+					<term>superconducting gap</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>New results from tunneling spectroscopies on near optimally-doped single crystals of Tl2Ba2CuO6 (Tl-2201) junctions are presented. The superconductor-insulator-normal metal (SIN) tunnel junctions are obtained using the point-contact technique with a Au tip. The tunneling conductances reproducibly show a sharp cusp-like subgap, prominent quasiparticle peaks with a consistent asymmetry, and weakly decreasing backgrounds. A rigorous analysis of the SIN tunneling data is performed using two different models for the d x 2 −y 2 (d-wave) density of states (DOS). Based on these and earlier results, the tunneling DOS of Tl-2201 have exhibited the most reproducible data that are consistent with a d-wave gap symmetry. We show that the dip feature at 2∆ that is clearly seen in SIN tunneling data of Bi2Sr2CaCu2O 8+δ is also present in Tl-2201, but at a weaker level. The gap values for crystals with a bulk Tc = 86 K are in the range of 19-25 meV.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

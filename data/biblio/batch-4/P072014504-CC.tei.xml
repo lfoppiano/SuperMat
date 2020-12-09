@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Magnetic-field–induced 3D-to-1D crossover in Sr 0.9 La 0.1 CuO 2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2007-08-01">2007-08-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schneider</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R.-S</forename><surname>Unger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mitdank</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Müller</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Physikalisch-Technische Bundesanstalt</orgName>
+								<address>
+									<addrLine>Abbestrasse 2-12</addrLine>
+									<postCode>10587</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Krapf</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rogaschewski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dwelk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Janowitz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Manzke</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Humbold Universität</orgName>
+								<orgName type="institution" key="instit2">Insitut für Physik</orgName>
+								<address>
+									<addrLine>Newtonstrasse 15</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Magnetic-field–induced 3D-to-1D crossover in Sr 0.9 La 0.1 CuO 2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Europhysics Letters (EPL)</title>
+						<title level="j" type="abbrev">Europhys. Lett.</title>
+						<idno type="ISSN">0295-5075</idno>
+						<idno type="eISSN">1286-4854</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">79</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page">57005</biblScope>
+							<date type="published" when="2007-08-01" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1209/0295-5075/79/57005</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>78.40.-q</term>
+					<term>79.60.-i</term>
+					<term>74.72.-h</term>
+					<term>74.25.-q</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Bi 2 Sr 2-x La x CuO 6+δ and Bi 2-y Pb y Sr 2-x La x CuO 6+δ high-T c superconductors in a wide doping range from overdoped to heavily underdoped were studied by x-ray absorption and photoemission spectroscopy. The hole concentration p was determined by an analysis of the Cu L 3-absorption edge. Besides the occupied density of states derived from photoemission, the unoccupied density of states was determined from the prepeak of the O K-absorption edge. Both, the occupied as well as the unoccupied density of states reveal the same dependence on hole doping, i.e. a continuous increase with increasing doping in the hole underdoped region and a constant density in the hole overdoped region. By comparing these results of single-layer BSLCO with previous results on single-layer LSCO it could be argued that besides the localized holes on Cu sites the CuO-planes consist of two types of doped holes, from which the so-called mobile holes determine the intensity of the prepeak of the O 1s absorption edge</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

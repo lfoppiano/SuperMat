@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Absolute values of the London penetration depth inYBa2Cu3O6+ymeasured by zero field ESR spectroscopy on Gd doped single crystals</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-02-07">February 7, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pereg-Barnea</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Turner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Harris</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">K</forename><surname>Mullins</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Bobowski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Raudsepp</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruixing</forename><surname>Liang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Bonn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">N</forename><surname>Hardy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>6224 Agricultural Road</addrLine>
+									<postCode>V6T 1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Absolute values of the London penetration depth inYBa2Cu3O6+ymeasured by zero field ESR spectroscopy on Gd doped single crystals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">69</biblScope>
+							<biblScope unit="issue">18</biblScope>
+							<date type="published" when="2018-02-07">February 7, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.69.184513</idno>
+					<idno type="arXiv">arXiv:cond-mat/0311555v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Zero-field electron spin resonance (ESR) of dilute Gd ions substituted for Y in the cuprate superconductor YBa2Cu3O6+y is used as a novel technique for measuring the absolute value of the low temperature magnetic penetration depth λ(T → 0). The Gd ESR spectrum of samples with ≈ 1% substitution was obtained with a broadband microwave technique that measures power absorption bolometrically from 0.5 GHz to 21 GHz. This ESR spectrum is determined by the crystal field that lifts the level degeneracy of the spin 7/2 Gd 3+ ion and details of this spectrum provide information concerning oxygen ordering in the samples. The magnetic penetration depth is obtained by relating the number of Gd ions exposed to the microwave magnetic field to the frequency-integrated intensity of the observed ESR transitions. This technique has allowed us to determine precise values of λ for screening currents flowing in the three crystallographic orientations (â,b andĉ) in samples of GdxY1−xBa2Cu3O6+y of three different oxygen contents y = 0.993 (Tc = 89 K), y = 0.77 (Tc = 75 K) and y = 0.52 (Tc = 56 K). The in-plane values are found to depart substantially from the widely reported relation Tc ∝ 1/λ 2 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

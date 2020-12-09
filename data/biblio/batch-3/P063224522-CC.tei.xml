@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthesis and stoichiometry of MgB2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2002-11">2002-11</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Hinks</surname></persName>
+							<email>hinks@anl.gov</email>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Jorgensen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hong</forename><surname>Zheng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Short</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthesis and stoichiometry of MgB2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">382</biblScope>
+							<biblScope unit="issue">2-3</biblScope>
+							<biblScope unit="page" from="166" to="176"/>
+							<date type="published" when="2002-11" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0921-4534(02)01842-7</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74.72.Yg</term>
+					<term>74.62.Bf MgB2</term>
+					<term>stoichiometry</term>
+					<term>synthesis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The system Mg x B 2 has been studied to investigate possible nonstoichiometry in MgB 2. When synthesized at 850 o C, MgB 2 is a line compound with a possible Mg vacancy content of about 1%. Small changes in lattice constants as a function of starting composition result from grain interaction stresses, whose character is different in the Mgrich, near-stoichiometric, and Mg-deficient regimes. A small linear decrease of the superconducting transition temperature, T c , in the Mg-rich regime results from accidental impurity doping.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

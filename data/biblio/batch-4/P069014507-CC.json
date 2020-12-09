@@ -1,0 +1,59 @@
+{
+  "date": "2018-11-06",
+  "arXiv": "arXiv:cond-mat/0312089v1[cond-mat.supr-con]",
+  "authors": [
+    {
+      "first": "(",
+      "surname": "Ba"
+    },
+    {
+      "surname": "Sr"
+    },
+    {
+      "first": "Y",
+      "surname": "Cu"
+    },
+    {
+      "first": "Z",
+      "middle": "A",
+      "surname": "Ren"
+    },
+    {
+      "first": "G",
+      "middle": "C",
+      "surname": "Che"
+    },
+    {
+      "first": "Y",
+      "middle": "M",
+      "surname": "Ni"
+    },
+    {
+      "first": "C",
+      "surname": "Dong"
+    },
+    {
+      "first": "H",
+      "surname": "Chen"
+    },
+    {
+      "first": "S",
+      "middle": "L",
+      "surname": "Jia"
+    },
+    {
+      "first": "Z",
+      "middle": "X",
+      "surname": "Zhao"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.62.Bf",
+    "74.62.Dh",
+    "74.70.-b Fe-containing cuprate superconductor, high pressure synthesis, superconductivity"
+  ],
+  "npl_publn_id": "P069014507-CC.tei.xml",
+  "publisher": "American Physical Society (APS)",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B"
+}

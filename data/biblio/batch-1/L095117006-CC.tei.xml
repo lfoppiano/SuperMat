@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressure induced effects on the Fermi surface of superconducting</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-11-07">November 7, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>2h-Nbse</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Suderow</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física de la Materia Condensada</orgName>
+								<orgName type="laboratory">Laboratorio de Bajas Temperaturas</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciencia de Materiales Nicolás Cabrera</orgName>
+								<orgName type="institution" key="instit2">Universidad Autónoma de Madrid</orgName>
+								<address>
+									<postCode>28049</postCode>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Centre des Recherches sur les Très Basses Températures CNRS</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciencia de Materiales de Madrid</orgName>
+								<orgName type="institution" key="instit2">Consejo Superior de Investigaciones Científicas</orgName>
+								<address>
+									<addrLine>BP 166</addrLine>
+									<postCode>28049, 38042, Cedex 9</postCode>
+									<settlement>Madrid, Grenoble</settlement>
+									<country>Spain, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">G</forename><surname>Tissen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Brison</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Martínez</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Vieira</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física de la Materia Condensada</orgName>
+								<orgName type="laboratory">Laboratorio de Bajas Temperaturas</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciencia de Materiales Nicolás Cabrera</orgName>
+								<orgName type="institution" key="instit2">Universidad Autónoma de Madrid</orgName>
+								<address>
+									<postCode>28049</postCode>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Centre des Recherches sur les Très Basses Températures CNRS</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciencia de Materiales de Madrid</orgName>
+								<orgName type="institution" key="instit2">Consejo Superior de Investigaciones Científicas</orgName>
+								<address>
+									<addrLine>BP 166</addrLine>
+									<postCode>28049, 38042, Cedex 9</postCode>
+									<settlement>Madrid, Grenoble</settlement>
+									<country>Spain, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pressure induced effects on the Fermi surface of superconducting</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-11-07">November 7, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0504639v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 71.10.Hf</term>
+					<term>74.25.Dw</term>
+					<term>74.25.Op</term>
+					<term>74.62.Fj</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The pressure dependence of the critical temperature T c and upper critical field H c2 (T) has been measured up to 19 GPa in the layered superconducting material 2H-NbSe 2. T c (P) has a maximum at 10.5 GPa, well above the pressure for the suppression of the CDW order. Using an effective two band model to fit H c2 (T), we obtain the pressure dependence of the anisotropy in the electron phonon coupling and Fermi velocities, which reveals the peculiar interplay between CDW order, Fermi surface complexity and superconductivity in this system.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

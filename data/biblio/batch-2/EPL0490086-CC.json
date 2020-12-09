@@ -1,0 +1,28 @@
+{
+  "addrline": "Blvd du Triomphe",
+  "volume": "49",
+  "issue": "1",
+  "date": "1999-10-24",
+  "ISSN": "0295-5075",
+  "eISSN": "1286-4854",
+  "DOI": "10.1209/epl/i2000-00123-2",
+  "note": "received 29 March 1999; accepted in final form ______ 1999",
+  "arXiv": "cond-mat/9903395 v2",
+  "publisher": "IOP Publishing",
+  "title_main_a": "The pseudogap in Bi 2 Sr 2 CaCu 2 O 8 + x single crystals from tunneling measurements: A possible evidence for the Cooper pairs above T c",
+  "title_main_j": "Europhysics Letters (EPL)",
+  "title_abbrev_j": "Europhys. Lett.",
+  "authors": [
+    {
+      "first": "A",
+      "surname": "Mourachkine"
+    }
+  ],
+  "keywords": [
+    ". 74.50.+r -Proximity effects",
+    "weak links",
+    "tunneling phenomena",
+    "and Josephson effects. . 74.25.-q -General properties; correlation between physical properties in normal and superconducting states. . 74.72.Hs -Bi-based cuprates"
+  ],
+  "npl_publn_id": "EPL0490086-CC.tei.xml"
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Observation of a linear temperature dependence of the critical current density in a Ba0.63K0.37BiO3 single crystal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2000-12-29">29 Dec 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hyun-Tak</forename><surname>Kim</surname></persName>
+							<email>htkim@etri.re.kr</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Telecom. Basic Research Lab</orgName>
+								<orgName type="institution" key="instit2">ETRI</orgName>
+								<address>
+									<postCode>305-350</postCode>
+									<settlement>Taejon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kwang-Yong</forename><surname>Kang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Telecom. Basic Research Lab</orgName>
+								<orgName type="institution" key="instit2">ETRI</orgName>
+								<address>
+									<postCode>305-350</postCode>
+									<settlement>Taejon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Pusan National University</orgName>
+								<address>
+									<postCode>609-735</postCode>
+									<settlement>Pusan</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bong-Jun</forename><surname>Kim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Pusan National University</orgName>
+								<address>
+									<postCode>609-735</postCode>
+									<settlement>Pusan</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Great Britain</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Schmidbauer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Great Britain</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Hodby</surname></persName>
+						</author>
+						<title level="a" type="main">Observation of a linear temperature dependence of the critical current density in a Ba0.63K0.37BiO3 single crystal</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">341-348</biblScope>
+							<biblScope unit="page" from="729" to="730"/>
+							<date type="published" when="2000-12-29">29 Dec 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0921-4534(00)00664-x</idno>
+					<idno type="arXiv">arXiv:cond-mat/0003253v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>For a Ba0.63K0.37BiO3 single crystal with Tc≈31 K, Hc1≈750 Oe at 5 K, and dimensions 3×3×1 mm 3 , the temperature and field dependences of magnetic hysteresis loops have been measured within 5-25 K in magnetic fields up to 6 Tesla. The critical current density is Jc(0) ≈1.5 × 10 5 A/cm 2 at zero field and 1×10 A/cm 2 at 1 kOe at 5 K. Jc decreases exponentially with increasing field up to 10 kOe. A linear temperature dependence of Jc is observed below 25 K, which differs from the exponential and the power-law temperature dependences in high-Tc superconductors including the BKBO. The linear temperature dependence can be regarded as an intrinsic effect in superconductors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

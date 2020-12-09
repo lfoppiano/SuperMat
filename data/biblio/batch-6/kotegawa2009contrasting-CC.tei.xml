@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Contrasting Pressure Effects in</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2009-10-27">27 Oct 2009</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sr</forename><surname>Vfeaso</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Scfepo</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hisashi</forename><surname>Kotegawa</surname></persName>
+							<email>kotegawa@crystal.kobe-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Molecular Materials Science</orgName>
+								<orgName type="department" key="dep3">Graduate School of Science</orgName>
+								<orgName type="institution">Kobe University</orgName>
+								<address>
+									<postCode>657-8501</postCode>
+									<settlement>Kobe</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">Osaka City University</orgName>
+								<address>
+									<postCode>558-8585</postCode>
+									<settlement>Osaka</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">The University of Tokyo</orgName>
+								<address>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">JST</orgName>
+								<orgName type="laboratory">Transformative Research -Project on Iron Pnictides (TRIP)</orgName>
+								<address>
+									<postCode>102-0075</postCode>
+									<settlement>Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takayuki</forename><surname>Kawazoe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Molecular Materials Science</orgName>
+								<orgName type="department" key="dep3">Graduate School of Science</orgName>
+								<orgName type="institution">Kobe University</orgName>
+								<address>
+									<postCode>657-8501</postCode>
+									<settlement>Kobe</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">Osaka City University</orgName>
+								<address>
+									<postCode>558-8585</postCode>
+									<settlement>Osaka</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">The University of Tokyo</orgName>
+								<address>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideki</forename><surname>Tou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Division of Molecular Materials Science</orgName>
+								<orgName type="department" key="dep3">Graduate School of Science</orgName>
+								<orgName type="institution">Kobe University</orgName>
+								<address>
+									<postCode>657-8501</postCode>
+									<settlement>Kobe</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">Osaka City University</orgName>
+								<address>
+									<postCode>558-8585</postCode>
+									<settlement>Osaka</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">The University of Tokyo</orgName>
+								<address>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">JST</orgName>
+								<orgName type="laboratory">Transformative Research -Project on Iron Pnictides (TRIP)</orgName>
+								<address>
+									<postCode>102-0075</postCode>
+									<settlement>Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Keizo Murata</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiraku</forename><surname>Ogino</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">JST</orgName>
+								<orgName type="laboratory">Transformative Research -Project on Iron Pnictides (TRIP)</orgName>
+								<address>
+									<postCode>102-0075</postCode>
+									<settlement>Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kohji</forename><surname>Kishio</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">JST</orgName>
+								<orgName type="laboratory">Transformative Research -Project on Iron Pnictides (TRIP)</orgName>
+								<address>
+									<postCode>102-0075</postCode>
+									<settlement>Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jun-Ichi</forename><surname>Shimoyama</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">JST</orgName>
+								<orgName type="laboratory">Transformative Research -Project on Iron Pnictides (TRIP)</orgName>
+								<address>
+									<postCode>102-0075</postCode>
+									<settlement>Chiyoda</settlement>
+									<region>Tokyo</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Contrasting Pressure Effects in</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2009-10-27">27 Oct 2009</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:0908.1469v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Sr2VFeAsO3</term>
+					<term>Sr2ScFePO3</term>
+					<term>superconductivity</term>
+					<term>pressure</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the resistivity measurements under pressure of two Fe-based superconductors with a thick perovskite oxide layer, Sr2VFeAsO3 and Sr2ScFePO3. The superconducting transition temperature Tc of Sr2VFeAsO3 markedly increases with increasing pressure. Its onset value, which was T onset c = 36.4 K at ambient pressure, increases to T onset c = 46.0 K at ∼ 4 GPa, ensuring the potential of the &quot;21113&quot; system as a high-Tc material. However, the superconductivity of Sr2ScFePO3 is strongly suppressed under pressure. The T onset c of ∼ 16 K decreases to ∼ 5 K at ∼ 4 GPa, and the zero-resistance state is almost lost. We discuss the factor that induces this contrasting pressure effect.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

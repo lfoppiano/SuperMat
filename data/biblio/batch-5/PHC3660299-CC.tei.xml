@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthesis and pinning properties of the infinite-layer superconductor Sr0.9La0.1CuO2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2001-07-05">5 Jul 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Jung</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mun-Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Min-Seok</forename><surname>Park</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heon-Jung</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yushu</forename><surname>Yao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthesis and pinning properties of the infinite-layer superconductor Sr0.9La0.1CuO2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">366</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="299" to="305"/>
+							<date type="published" when="2001-07-05">5 Jul 2001</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0921-4534(01)00901-7</idno>
+					<idno type="arXiv">arXiv:cond-mat/0107109v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report the high-pressure synthesis of the electron-doped infinite-layer superconductor Sr0.9La0.1CuO2 and its superconducting properties. A Rietveld analysis of X-ray powder diffraction data showed that, within the resolution of the measurement, the sample had purely an infinite-layer structure without any discernible impurities. The superconducting volume fraction and the transition width were greatly improved compared to those in previous reports. The irreversibility field line and the intragranular critical current density were much higher than those of La1.85Sr0.15CuO4 and Nd1.85Ce0.15CuO4. The stronger pinning behaviors are consistent with the strong interlayer coupling due to the short distance between CuO2 planes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

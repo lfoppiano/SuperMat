@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Studies on La2−xPrxCayBa2Cu4+yOz (x=0.1–0.5, y=2x) type mixed oxide superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2003-10">2003-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rayaprol</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Mavani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Rana</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Thaker</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Manglesh</forename><surname>Dixit</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Barkatullah University</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shovit</forename><surname>Bhattacharya</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Barkatullah University</orgName>
+								<address>
+									<settlement>Bhopal</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Kuberkar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">DCMP &amp; MS, TIFR</orgName>
+								<address>
+									<region>Mumbai</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Studies on La2−xPrxCayBa2Cu4+yOz (x=0.1–0.5, y=2x) type mixed oxide superconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Solid State Communications</title>
+						<title level="j" type="abbrev">Solid State Communications</title>
+						<idno type="ISSN">0038-1098</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">128</biblScope>
+							<biblScope unit="issue">2-3</biblScope>
+							<biblScope unit="page" from="97" to="100"/>
+							<date type="published" when="2003-10" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0038-1098(03)00658-6</idno>
+					<note type="submission">Submitted for publication in Solid State Communications, 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>La-2125</term>
+					<term>Pr-substitution</term>
+					<term>Rietveld analysis</term>
+					<term>hole concentration</term>
+					<term>oxygen content PACS: 74.62.Dh</term>
+					<term>74.72.Dn</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The La 2-x Pr x Ca y Ba 2 Cu 4+y O z (LaPrCaBCO) mixed oxides have been studied for their structural and superconducting properties using X-ray diffraction (XRD), d. c. resistivity, d. c. susceptibility and iodometric double titration. All the LaPrCaBCO samples for x = 0.1-0.5, exhibit tetragonal crystalline structure with P 4/mmm space group as determined by Rietveld analysis of the X-ray diffraction data. With increasing x, enhancement in T c is observed, which is quite interesting for Pr substituted high T c oxides. Maximum T c ~ 58 K has been observed for x = 0.5 (La-2125 stoichiometry). The results of structural studies and superconducting property measurements are presented in light of increase in T c in LaPrCaBCO system with increasing Pr concentration.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

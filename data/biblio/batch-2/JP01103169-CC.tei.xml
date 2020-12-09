@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Anisotropic resistivity of the antiferromagnetic insulator</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="1999-03-24">24 Mar 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kitajima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takayanagi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takemura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Terasaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Waseda University</orgName>
+								<address>
+									<postCode>169-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Anisotropic resistivity of the antiferromagnetic insulator</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Condensed Matter</title>
+						<title level="j" type="abbrev">J. Phys.: Condens. Matter</title>
+						<idno type="ISSN">0953-8984</idno>
+						<idno type="eISSN">1361-648X</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">15</biblScope>
+							<biblScope unit="page" from="3169" to="3174"/>
+							<date type="published" when="1999-03-24">24 Mar 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0953-8984/11/15/022</idno>
+					<idno type="arXiv">arXiv:cond-mat/9903023v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The anisotropic resistivities of Bi Sr 2 Ca 1−x Er x Cu 2 O 8 single crystals were measured and analyzed from 4.2 to 500 K with special interest taken in the parent antiferromagnetic insulator with x=1.0. Although the resistivity is semiconducting along both the in-plane and out-of-plane directions, the temperature dependences are found to be significantly different. As a result, the resistivity ratio for x=1.0 exhibits a broad maximum near room temperature. The electric conduction in the parent antiferromagnetic insulators is different from that in other semiconductors, and is as unconventional as that in high-temperature superconductors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

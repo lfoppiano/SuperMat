@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The oxygen-isotope effect on the in-plane penetration depth in underdoped Y1 xPrxBa2Cu3O7 as revealed by muon-spin rotation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2002-01-11">11 Jan 2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Khasanov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country>Switzerland (</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country>Switzerland (</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shengelaya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country>Switzerland (</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Conder</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Physics</orgName>
+								<orgName type="laboratory">Laboratory for Neutron Scattering</orgName>
+								<orgName type="institution">ETH Zürich and PSI Villigen</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<postCode>11001</postCode>
+									<settlement>Belgrade</settlement>
+									<country key="YUCS">Yugoslavia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Morenzoni</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country>Switzerland (</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">M</forename><surname>Savi </surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Keller</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country>Switzerland (</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The oxygen-isotope effect on the in-plane penetration depth in underdoped Y1 xPrxBa2Cu3O7 as revealed by muon-spin rotation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Condensed Matter</title>
+						<title level="j" type="abbrev">J. Phys.: Condens. Matter</title>
+						<idno type="ISSN">0953-8984</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="L17" to="L23"/>
+							<date type="published" when="2002-01-11">11 Jan 2002</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0953-8984/15/2/103</idno>
+					<idno type="arXiv">arXiv:cond-mat/0201165v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 76.75.+i</term>
+					<term>74.72.-h</term>
+					<term>82.20.Tr</term>
+					<term>71.38</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The oxygen-isotope (16 O/ 18 O) effect (OIE) on the in-plane penetration depth λ ab (0) in underdoped Y1−xPrxBa2Cu3O 7−δ was studied by muon-spin rotation. A pronounced OIE on λ −2 ab (0) was observed with a relative isotope shift of ∆λ −2 ab /λ −2 ab = −5(2)% for x = 0.3 and-9(2)% for x = 0.4. It arises mainly from the oxygen-mass dependence of the in-plane effective mass m * ab. The OIE exponents of Tc and of λ −2 ab (0) exhibit a relation that appears to be generic for cuprate superconductors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

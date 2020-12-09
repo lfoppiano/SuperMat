@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Competition of superconductivity and magnetism inMoSr2R1.5Ce0.5Cu2O10−δ(R=rare−earth)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2003-08-21">2003-08-21</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Felner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Racah Institute of Physics</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galstyan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Racah Institute of Physics</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Competition of superconductivity and magnetism inMoSr2R1.5Ce0.5Cu2O10−δ(R=rare−earth)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<date type="published" when="2003-08-21" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.68.064507</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.27.Jt</term>
+					<term>74.25.Ha</term>
+					<term>and 76.60. Or</term>
+					<term>75.70.Cn</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have investigated the MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10-δ (Mo-1222R, R=rare earth) system by several complementary experimental techniques. In contrast to the iso-structural RuSr 2 R 1.5 Ce 0.5 Cu 2 O 10-δ (Ru-1222) system, in which superconductivity (SC) in the CuO 2 planes and weak-ferromagnetism in the Ru sub-lattice coexists, in Mo-1222, displays a competition between the two states, namely, SC vanishes when the magnetic order sets in. The contraction in the R elements leads to a change of the physical states. The light R ions (Pr and Nd) are paramagnetic down to 5 K, whereas the middle R ions (Sm and Eu) are SC at T C 18-23 K respectively. The SC charge carriers originate from the CuO 2 planes, and annealing under oxygen pressures does not affect T C. A simple model for the SC state is proposed. For the heavy R elements Ho-Lu a nd Y, the pentavalent Mo layers are antiferromagnetically (AFM) ordered at T N ranging from 13-26 K. For R=Gd, the sample is not SC and exhibit two magnetic transitions at 11 and 184 K. Both the SC or AFM states depend strongly on the R/Ce ratio and for R/Ce=1, both states are suppressed.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

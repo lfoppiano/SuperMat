@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthesis and characterization of the infinite-layer superconductor Sr0.9La0.1CuO2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2000-10-20">20 Oct 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Jung</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mun-Seog</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Ha</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Korea Research Institute of Standards and Science</orgName>
+								<address>
+									<postBox>PO Box 102, Taejon 305-600</postBox>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthesis and characterization of the infinite-layer superconductor Sr0.9La0.1CuO2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Current Applied Physics</title>
+						<title level="j" type="abbrev">Current Applied Physics</title>
+						<idno type="ISSN">1567-1739</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">1</biblScope>
+							<biblScope unit="issue">2-3</biblScope>
+							<biblScope unit="page" from="157" to="161"/>
+							<date type="published" when="2000-10-20">20 Oct 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s1567-1739(01)00010-4</idno>
+					<idno type="arXiv">arXiv:cond-mat/0010304v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report the high-pressure synthesis of the electron-doped infinite-layer superconductor Sr0.9La0.1CuO2. A Rietveld analysis using X-ray powder diffraction data showed that, within the resolution of the measurement, the sample was purely an infinite-layer structure without any discernible impurities. The superconducting volume fraction and the transition width were greatly improved compared to those in the previous reports. Also the irreversibility field line was much higher than that of (La,Sr)2CuO4. The higher value seems to originate from the strong interlayer coupling due to the reduced average distance between the CuO2 planes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

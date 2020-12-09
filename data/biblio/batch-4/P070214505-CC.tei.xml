@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Electronic specific heat and low-energy quasiparticle excitations in the superconducting state ofLa2−xSrxCuO4single crystals</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-02">October 2, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hai-Hu</forename><surname>Wen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhi-Yong</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fang</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jiwu</forename><surname>Xiong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wenxing</forename><surname>Ti</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tao</forename><surname>Xiang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Theoretical Physics and ICTS, Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 2735</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seiki</forename><surname>Komiya</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xuefeng</forename><surname>Sun</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Electronic specific heat and low-energy quasiparticle excitations in the superconducting state ofLa2−xSrxCuO4single crystals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">70</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<date type="published" when="2018-10-02">October 2, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.70.214505</idno>
+					<idno type="arXiv">arXiv:cond-mat/0406741v1[cond-mat.str-el]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

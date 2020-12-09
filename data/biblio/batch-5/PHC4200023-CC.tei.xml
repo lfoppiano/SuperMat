@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High pressure synthesis of a new superconductor Sr2CuO2+δCl2−y induced by “apical oxygen doping”</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2005-03">2005-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><forename type="middle">Q</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">M</forename><surname>Qin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Q</forename><surname>Jin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P. O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High pressure synthesis of a new superconductor Sr2CuO2+δCl2−y induced by “apical oxygen doping”</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity and its Applications</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity and its Applications</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">420</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="23" to="29"/>
+							<date type="published" when="2005-03" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2004.12.015</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 62.50.+p</term>
+					<term>74.72.Jt</term>
+					<term>81.05.Zx high Tc superconductor</term>
+					<term>high pressure synthesis</term>
+					<term>oxychloride cuprate</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Using the apical oxygen doping mechanism, i.e. a partial substitution of divalence O for the monovalence Cl, a p-type oxychloride cuprate superconductor, Sr 2 CuO 2+ Cl 2-y , was synthesized at high pressure high temperature. The x-ray diffraction refinement suggests the superconductor crystallizes into a 0201 structure with space group I4/mmm and lattice parameters being a=3.92Å, c=15.6 Å. The magnetic susceptibility as well as resistance measurements indicated that the bulk superconductivity with transition temperature (T c) 30K was achieved in the sample.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Temperature-pressure phase diagram of the superconducting iron pnictide LiFeP</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2010-03-03">March 3, 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mydeen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<address>
+									<postCode>01187</postCode>
+									<settlement>Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Lengyel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Deng</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Q</forename><surname>Jin</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nicklas</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<address>
+									<postCode>01187</postCode>
+									<settlement>Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Temperature-pressure phase diagram of the superconducting iron pnictide LiFeP</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">82</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2010-03-03">March 3, 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.82.014514</idno>
+					<idno type="arXiv">arXiv:1003.0785v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">EFFECT OF Mo-SUBSTITUTION ON SUPERCONDUCTIVITY, FLUX PINNING AND CRITICAL CURRENTS OF La 1.5 Nd 0.5 Ca 1 Ba 2 Cu 5 O z</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Rayaprol</forename><surname>1+</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Krushna</forename><surname>Mavani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Thaker</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Rana</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Kulkarni</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Dr</roleName><forename type="first">D</forename><forename type="middle">G</forename><surname>Kuberkar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Darshan</forename><surname>Kundaliya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<postCode>360 005</postCode>
+									<settlement>Rajkot</settlement>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Tata Institute of Fundamental Research</orgName>
+								<address>
+									<addrLine>Mumbai -400 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Malik</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Correspondence Department of Physics</orgName>
+								<orgName type="institution">Saurashtra University</orgName>
+								<address>
+									<addrLine>Rajkot -360 005</addrLine>
+									<country key="IN">INDIA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">EFFECT OF Mo-SUBSTITUTION ON SUPERCONDUCTIVITY, FLUX PINNING AND CRITICAL CURRENTS OF La 1.5 Nd 0.5 Ca 1 Ba 2 Cu 5 O z</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Superconductivity</term>
+					<term>La-2125</term>
+					<term>Mo-substitution</term>
+					<term>critical current density</term>
+					<term>flux pinning PACS: 74.25.Ha</term>
+					<term>74.60.Ge</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Mo-substituted triple perovskite superconducting samples with stoichiometric composition La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x) 5 O z with x = 0.00, 0.01, 0.03, 0.05 and 0.10, have been investigated using X-ray diffraction, electrical resistivity, magnetic susceptibility and Magnetization measurements. Oxygen content has also been determined by the iodometric technique. The observed reduction in superconducting transition temperature, T c , in this system with increasing Mo content can be attributed to the decrease in hole concentration. Magnetization measurements as a function of temperature and field (H), exhibit an M-H hysteresis loop which indicates moderate flux pinning, which is thought due to pinning centers created by Mo substitution at Cu sites. The critical current density, J c , deduced from the M-H data satisfies the flux creep model.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

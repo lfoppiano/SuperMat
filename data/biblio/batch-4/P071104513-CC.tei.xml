@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High Pressure Study of Structural Phase Transitions and Superconductivity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">La</forename><forename type="middle">1</forename><surname>48 Nd</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">DuPont Co</orgName>
+								<orgName type="institution">Central Research and Development</orgName>
+								<address>
+									<postCode>19880-0356</postCode>
+									<settlement>Wilmington</settlement>
+									<region>DE</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>N.Y</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Cuo</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>N.Y</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Crawford</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">DuPont Co</orgName>
+								<orgName type="institution">Central Research and Development</orgName>
+								<address>
+									<postCode>19880-0356</postCode>
+									<settlement>Wilmington</settlement>
+									<region>DE</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Harlow</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">DuPont Co</orgName>
+								<orgName type="institution">Central Research and Development</orgName>
+								<address>
+									<postCode>19880-0356</postCode>
+									<settlement>Wilmington</settlement>
+									<region>DE</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Deemyad</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Washington University</orgName>
+								<address>
+									<postCode>63130-4899</postCode>
+									<settlement>St. Louis</settlement>
+									<region>MO</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Tissen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Washington University</orgName>
+								<address>
+									<postCode>63130-4899</postCode>
+									<settlement>St. Louis</settlement>
+									<region>MO</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Schilling</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Washington University</orgName>
+								<address>
+									<postCode>63130-4899</postCode>
+									<settlement>St. Louis</settlement>
+									<region>MO</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Mccarron</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">DuPont Co</orgName>
+								<orgName type="institution">Central Research and Development</orgName>
+								<address>
+									<postCode>19880-0356</postCode>
+									<settlement>Wilmington</settlement>
+									<region>DE</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">W</forename><surname>Tozer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">National High Magnetic Field Laboratory</orgName>
+								<address>
+									<postCode>32310</postCode>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Cox</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>N.Y</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ichikawa</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Uchida</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Huang</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">NIST Center for Neutron Research</orgName>
+								<orgName type="institution">National Institute of Standards and Technology</orgName>
+								<address>
+									<postCode>20899</postCode>
+									<settlement>Gaithersburg</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Institute of Solid State Physics, Chernogolovka</orgName>
+								<address>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High Pressure Study of Structural Phase Transitions and Superconductivity</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.62.Fj</term>
+					<term>71.45.Lr</term>
+					<term>74.72.Dn</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have determined the crystal structures and superconducting transition temperatures of La 1.48 Nd 0.4 Sr 0.12 CuO 4 under nearly hydrostatic pressures in diamond anvil cells to 5.0 GPa and 19.0 GPa, respectively. Synchrotron x-ray powder diffraction measurements were used to establish the pressure-temperature structural phase diagram. Under pressure the superconducting transition temperature increases rapidly from T c ≈ 3 K to a maximum value of 22 K at 5 GPa, a pressure slightly greater than that required to stabilize the undistorted I4/mmm structure in the superconducting state. Increasing the pressure further to 19 GPa leads to a decrease in T c to ~12 K. These results are discussed in relation to earlier high pressure measurements for similar materials.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

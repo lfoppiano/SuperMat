@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Crystal structure of the sodium cobaltate deuterate superconductorNaxCoO2⋅4xD2O(x≈13)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2003-12-29">2003-12-29</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Jorgensen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Avdeev</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Hinks</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Burley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Short</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Crystal structure of the sodium cobaltate deuterate superconductorNaxCoO2⋅4xD2O(x≈13)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<date type="published" when="2003-12-29" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.68.214517</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74.70.-b</term>
+					<term>74.62.Bf</term>
+					<term>61.12.-q</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Neutron and x-ray powder diffraction have been used to investigate the crystal structures of a sample of the newly-discovered superconducting sodium cobaltate deuterate compound with composition Na 0.31(3) CoO 2 •1.25(2)D 2 O and its anhydrous parent compound Na 0.61(1) CoO 2. The anhydrous parent compound Na 0.61(1) CoO 2 has two partially occupied Na sites sandwiched, in the same plane, between CoO 2 layers. When Na is removed to make the superconducting composition, the Na site that experiences the strongest Na-Co repulsion is emptied while the occupancy of the other Na site is reduced to about one third. The deuterate superconducting compound is formed by coordinating four D 2 O molecules (two above and two below) to each remaining Na ion in a way that gives Na-O distances nearly equal to those in the parent compound. One deuteron of the D 2 O molecule is hydrogen bonded to an oxygen atom in the CoO 2 plane and the oxygen atom and the second deuteron of each D 2 O molecule lie approximately in a plane between the Na layer and the CoO 2 layers. This coordination of Na by four D 2 O molecules leads in a straightforward way to ordering of the Na ions and D 2 O molecules consistent with the observation of additional shorter-range scattering features in the diffraction data. The sample studied here, which has T c =4.5 K, has a refined composition of Na 0.31(3) CoO 2 •1.25(2)D 2 O, in agreement with the expected 1:4 ratio of Na to D 2 O. These results show that the optimal superconducting composition should be viewed as a specific hydrated compound, not a solid solution of Na and D 2 O (H 2 O) in Na x CoO 2 •yD 2 O. The hydrated superconducting compound may be stable over a limited range of Na and D 2 O concentration, but studies of T c and other physical properties vs. Na or D 2 O composition should be viewed with caution until it is verified that the compound remains in the same phase over the composition range of the study.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

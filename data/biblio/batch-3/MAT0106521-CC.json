@@ -1,0 +1,50 @@
+{
+  "date": "2001-06-26",
+  "arXiv": "arXiv:cond-mat/0106521v1[cond-mat.str-el]",
+  "title_main_a": "Superconductivity in a pyrochlore oxide Cd Re 2 O 7",
+  "authors": [
+    {
+      "first": "Hironori",
+      "surname": "Sakai"
+    },
+    {
+      "first": "Kazuyoshi",
+      "surname": "Yoshimura"
+    },
+    {
+      "first": "Hiroyuki",
+      "surname": "Ohno"
+    },
+    {
+      "first": "Harukazu",
+      "surname": "Kato"
+    },
+    {
+      "first": "Shinsaku",
+      "surname": "Kambe"
+    },
+    {
+      "first": "Russell",
+      "middle": "E",
+      "surname": "Walstedt"
+    },
+    {
+      "first": "Tatsuma",
+      "middle": "D",
+      "surname": "Matsuda"
+    },
+    {
+      "first": "Yoshinori",
+      "surname": "Haga"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.10",
+    "74.60",
+    "74.70"
+  ],
+  "npl_publn_id": "MAT0106521-CC.tei.xml",
+  "publisher": "IOP Publishing",
+  "title_main_j": "Journal of Physics: Condensed Matter",
+  "title_abbrev_j": "J. Phys.: Condens. Matter"
+}

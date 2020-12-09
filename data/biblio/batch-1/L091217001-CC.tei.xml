@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity of cobalt oxide hydrate, Na (H3O) CoO2· yH2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2004-08-19">19 Aug 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroya</forename><surname>Sakurai</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshihiko</forename><surname>Ihara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazunori</forename><surname>Takada</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Science and Technology Agency (JST)</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity of cobalt oxide hydrate, Na (H3O) CoO2· yH2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity and its Applications</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity and its Applications</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">514</biblScope>
+							<biblScope unit="page" from="378" to="387"/>
+							<date type="published" when="2004-08-19">19 Aug 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2015.02.010</idno>
+					<idno type="arXiv">arXiv:cond-mat/0408426v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>70</term>
+					<term>70</term>
+					<term>-b -Superconducting Materials</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We synthesized powder samples of Na x CoO 2 • yH 2 O changing the volume of the water in the hydration process, then investigated their superconducting properties,. It was proved that the volume of water is one of key parameters to obtain a single phase of Na x CoO 2 • yH 2 O with good superconducting properties. The transition temperature, T c , of the sample changed gradually while it was stored in the atmosphere of 70% humidity. Superconducting behavior under high magnetic field was very sensitive to T c. H c2 of a high quality sample with high T c seemed very high.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

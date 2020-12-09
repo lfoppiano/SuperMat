@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Critical fields and spontaneous vortex state in the weak-ferromagnetic superconductor RuSr 2 GdCu 2 O 8</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-10-28">October 28, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">C</forename><surname>Chang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Ku</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Hsu</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National Tsing Hua University</orgName>
+								<address>
+									<postBox>300</postBox>
+									<settlement>Hsinchu</settlement>
+									<region>R.O.C</region>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Physics, Academia Sinica</orgName>
+								<address>
+									<postCode>115</postCode>
+									<settlement>Taipei</settlement>
+									<region>R.O.C</region>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Critical fields and spontaneous vortex state in the weak-ferromagnetic superconductor RuSr 2 GdCu 2 O 8</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-10-28">October 28, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0507014v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74</term>
+					<term>72</term>
+					<term>-h, 74</term>
+					<term>25</term>
+					<term>Ha</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A spontaneous vortex state (SVS) between 30 K and 56 K was observed for the weak-ferromagnetic superconductor RuSr2GdCu2O8 with ferromagnetic Curie temperature TC = 131 K and superconducting transition temperature Tc = 56 K. The low field (±20 G) superconducting hysteresis loop indicates a narrow Meissner state region within average lower critical field Bc1(T)= Bc1(0)[1-(T/T0) 2 ], with average B ave c1 (0) = 12 G and T0 = 30 K. Full Meissner shielding signal in very low applied field indicates an ab-plane B ab c1 (0) ∼ 4 G with an estimated anisotropic parameter γ ∼ 7 for this layered system. The existence of a spontaneous vortex state between 30 K and 56 K is the result of weak-ferromagnetic order with a net spontaneous magnetic moment of ∼ 0.1 µB/Ru, which generates a weak magnetic dipole field around 10 G in the CuO2 bi-layers. The upper critical field Bc2 varies linearly as (1-T/Tc) up to 7-T field. The vortex melting line Bm varies as (1-T/Tm) 3.5 with melting transition temperature Tm = 39 K and a very broad vortex liquid region due to the coexistence and the interplay between superconductivity and weak-ferromagnetic order.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

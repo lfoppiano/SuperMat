@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Role of pair-breaking and phase fluctuations in c-axis tunneling in underdoped Bi2Sr2CaCu2O8+δ</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2006-07-26">26 Jul 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Van Der Beek</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire des Solides Irradiés</orgName>
+								<orgName type="institution">Ecole Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Spathis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire des Solides Irradiés</orgName>
+								<orgName type="institution">Ecole Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Colson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire des Solides Irradiés</orgName>
+								<orgName type="institution">Ecole Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gierlowski</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Physics of the Polish Academy of Sciences</orgName>
+								<address>
+									<addrLine>32/46 Aleja Lotnikow</addrLine>
+									<postCode>02-668</postCode>
+									<settlement>Warsaw</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gaifullin</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">National Institute for Material Science</orgName>
+								<address>
+									<addrLine>1-2-1</addrLine>
+									<settlement>Sengen, Ibaraki</settlement>
+									<region>Tsukuba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuji</forename><surname>Matsuda</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>Sakyo-ku</addrLine>
+									<postCode>606-8502</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">H</forename><surname>Kes</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Kamerlingh Onnes Laboratorium</orgName>
+								<address>
+									<postBox>P.O. Box 9506</postBox>
+									<postCode>2300 RA</postCode>
+									<settlement>Rijksuniversiteit Leiden, Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Role of pair-breaking and phase fluctuations in c-axis tunneling in underdoped Bi2Sr2CaCu2O8+δ</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">460-462</biblScope>
+							<biblScope unit="page" from="876" to="877"/>
+							<date type="published" when="2006-07-26">26 Jul 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2007.03.122</idno>
+					<idno type="arXiv">arXiv:cond-mat/0607671v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Disorder</term>
+					<term>Interlayer coupling</term>
+					<term>Josephson Plasma Resonance</term>
+					<term>Quantum fluctuations PACS: 74.40.+k</term>
+					<term>74.50.+r</term>
+					<term>74.62.-c</term>
+					<term>74.62.Dh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The Josephson Plasma Resonance is used to study the c-axis supercurrent in the superconducting state of underdoped Bi2Sr2CaCu2O 8+δ with varying degrees of controlled point-like disorder, introduced by high-energy electron irradiation. As disorder is increased, the Josephson Plasma frequency decreases proportionally to the critical temperature. The temperature dependence of the plasma frequency does not depend on the irradiation dose, and is in quantitative agreement with a model for quantum fluctuations of the superconducting phase in the CuO2 layers.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

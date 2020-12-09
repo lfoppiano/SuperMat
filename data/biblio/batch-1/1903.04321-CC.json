@@ -1,0 +1,40 @@
+{
+  "volume": "32",
+  "issue": "12",
+  "page": "125701",
+  "date": "2019-12-19",
+  "ISSN": "0953-8984",
+  "eISSN": "1361-648X",
+  "DOI": "10.1088/1361-648x/ab5ac4",
+  "arXiv": "arXiv:1903.04321v1 [cond-mat.supr-con]",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Enhanced, homogeneously type-II superconductivity in Cu-intercalated PdTe2",
+  "title_main_j": "Journal of Physics: Condensed Matter",
+  "title_abbrev_j": "J. Phys.: Condens. Matter",
+  "authors": [
+    {
+      "first": "Aastha",
+      "surname": "Vasdev"
+    },
+    {
+      "first": "Anshu",
+      "surname": "Sirohi"
+    },
+    {
+      "first": "M",
+      "middle": "K",
+      "surname": "Hooda"
+    },
+    {
+      "first": "C",
+      "middle": "S",
+      "surname": "Yadav"
+    },
+    {
+      "first": "Goutam",
+      "surname": "Sheet"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "1903.04321.tei.xml"
+}

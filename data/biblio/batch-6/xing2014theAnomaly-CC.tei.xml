@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The anomaly Cu doping effects on LiFeAs superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2014-10-09">9 October 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Y</forename><surname>Xing</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Miao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ma</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><forename type="middle">Q</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Deng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ding</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Q</forename><surname>Jin</surname></persName>
+							<email>jin@iphy.ac.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing, Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The anomaly Cu doping effects on LiFeAs superconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Condensed Matter</title>
+						<title level="j" type="abbrev">J. Phys.: Condens. Matter</title>
+						<idno type="ISSN">0953-8984</idno>
+						<idno type="eISSN">1361-648X</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">26</biblScope>
+							<biblScope unit="issue">43</biblScope>
+							<biblScope unit="page">435703</biblScope>
+							<date type="published" when="2014-10-09">9 October 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0953-8984/26/43/435703</idno>
+					<note type="submission">Received 1 May 2014, revised 6 August 2014 Accepted for publication 22 August 2014</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>iron based superconductor</term>
+					<term>&apos;1 1 1&apos; type</term>
+					<term>anomaly doping effects</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The Cu substitution effect on the superconductivity of LiFeAs has been studied in comparison with Co/Ni substitution. It is found that the shrinking rate of the lattice parameter c for Cu substitution is much smaller than that of Co/Ni substitution. This is in conjugation with the observation of ARPES that shows almost the same electron and hole Fermi surfaces (FSs) size for undoped and Cu substituted LiFeAs sample, except for a very small hole band sinking below Fermi level with doping. This indicates that there is little doping effect at Fermi surface by Cu substitution, in sharp contrast to the more effective carrier doping effect by Ni or Co.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

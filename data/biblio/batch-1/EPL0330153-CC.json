@@ -1,0 +1,55 @@
+{
+  "addrline": "24 rue Lhomond",
+  "volume": "33",
+  "issue": "2",
+  "date": "1995-04-14",
+  "ISSN": "0295-5075",
+  "eISSN": "1286-4854",
+  "DOI": "10.1209/epl/i1996-00314-9",
+  "arXiv": "arXiv:cond-mat/9504062v1",
+  "note": "Received May 10, 2019",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Linear temperature variation of the penetration depth in YBa 2 Cu 3 O 7 \u2212 \u03b4 thin films",
+  "title_main_j": "Europhysics Letters (EPL)",
+  "title_abbrev_j": "Europhys. Lett.",
+  "authors": [
+    {
+      "first": "L",
+      "middle": "A De",
+      "surname": "Vaulchier"
+    },
+    {
+      "first": "J",
+      "middle": "P",
+      "surname": "Vieren"
+    },
+    {
+      "first": "Y",
+      "surname": "Guldner"
+    },
+    {
+      "first": "N",
+      "surname": "Bontemps"
+    },
+    {
+      "first": "R",
+      "surname": "Combescot"
+    },
+    {
+      "first": "Y",
+      "surname": "Lema\u00eetre"
+    },
+    {
+      "first": "J",
+      "middle": "C",
+      "surname": "Mage"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.25.Gz",
+    "74.25.Nf",
+    "74.72.Bk",
+    "74.76.Bz"
+  ],
+  "npl_publn_id": "EPL0330153-CC.tei.xml"
+}

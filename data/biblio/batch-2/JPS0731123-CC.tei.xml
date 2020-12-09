@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Gigantic Anisotropic Uniaxial Pressure Effect on Superconductivity within the CuO2Plane of La1.64Eu0.2Sr0.16CuO4: Strain Control of Stripe Criticality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2018-11-09">November 9, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nao</forename><surname>Takeshita</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takao</forename><surname>Sasagawa</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takenari</forename><surname>Sugioka</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshinori</forename><surname>Tokura</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hidenori</forename><surname>Takagi</surname></persName>
+						</author>
+						<title level="a" type="main">Gigantic Anisotropic Uniaxial Pressure Effect on Superconductivity within the CuO2Plane of La1.64Eu0.2Sr0.16CuO4: Strain Control of Stripe Criticality</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">73</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="1123" to="1126"/>
+							<date type="published" when="2018-11-09">November 9, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.73.1123</idno>
+					<idno type="arXiv">arXiv:cond-mat/0305111v1[cond-mat.str-el]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 71.45.Lr</term>
+					<term>74.62.Fj</term>
+					<term>74.72.Dn</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The effect of uniaxial pressure on superconductivity was examined for a high-Tc cuprate La1.64Eu0.2Sr0.16CuO4, which is located at the boundary between the superconducting and stripe phases. We found remarkably large anisotropy of the uniaxial pressure effect not only between the in-plane and out-of-plane pressures but also within the CuO2-plane. When the pressure is applied along the tetragonal [110] direction, we found the largest pressure effect ever observed in cuprates, dTc/dP [110] ∼ 2.5 K/kbar, while the change of Tc was not appreciable when applied along [100]. This substantial in-plane anisotropy is attributed to an intimate link between the symmetry of the one-dimensional stripes and that of the strain produced within the CuO2 plane.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

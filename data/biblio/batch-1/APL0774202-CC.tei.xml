@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Measurements of the absolute value of the penetration depth in high-Tc superconductors using a low-Tc superconductive coating</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>AIP Publishing</publisher>
+				<availability status="unknown"><p>Copyright AIP Publishing</p>
+				</availability>
+				<date type="published" when="2000-07-02">2 Jul 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Prozorov</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">W</forename><surname>Giannetta</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Carrington</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Fournier</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742</postCode>
+									<settlement>College Park, Maryland</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Greene</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Center for Superconductivity Research</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<postCode>20742</postCode>
+									<settlement>College Park, Maryland</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Guptasarma</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Hinks</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Chemistry and Materials Science Division</orgName>
+								<orgName type="institution">Argonne National Laboratory</orgName>
+								<address>
+									<postCode>60439</postCode>
+									<settlement>Argonne</settlement>
+									<region>Illinois</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Banks</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Loomis Laboratory of Physics</orgName>
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>1110 West Green St</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana, Illinois</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Materials Research Laboratory</orgName>
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>104 South Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana, Illinois</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Measurements of the absolute value of the penetration depth in high-Tc superconductors using a low-Tc superconductive coating</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Applied Physics Letters</title>
+						<title level="j" type="abbrev">Appl. Phys. Lett.</title>
+						<idno type="ISSN">0003-6951</idno>
+						<idno type="eISSN">1077-3118</idno>
+						<imprint>
+							<publisher>AIP Publishing</publisher>
+							<biblScope unit="volume">77</biblScope>
+							<biblScope unit="issue">25</biblScope>
+							<biblScope unit="page" from="4202" to="4204"/>
+							<date type="published" when="2000-07-02">2 Jul 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1063/1.1328362</idno>
+					<idno type="arXiv">arXiv:cond-mat/0007013v1[cond-mat.supr-con]</idno>
+					<note type="submission">Submitted to Applied. Phys. Lett. June 30, 2000</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>A method is presented to measure the absolute value of the London penetration depth, λ, from the frequency shift of a resonator. The technique involves coating a high-Tc superconductor (HTSC) with film of low-Tc material of known thickness and penetration depth. The method is applied to measure London penetration depth in YBa2Cu3O 7−δ (YBCO) Bi2Sr2CaCu2O 8+δ (BSCCO) and Pr1.85Ce0.15CuO 4−δ (PCCO). For YBCO and BSCCO, the values of λ(0) are in agreement with the literature values. For PCCO λ ≈ 2790Å, reported for the first time.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

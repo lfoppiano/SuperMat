@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Under-doped La2 xSrxCuO4withx 0.063 0.125: TSFZ growth of high-quality crystals and anomalous doping dependences of superconducting properties</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2002-12-12">12 Dec 2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Physics &amp; Center for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep3">Department of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">X</forename><surname>Ti</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Physics &amp; Center for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep3">Department of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Xiong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Physics &amp; Center for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep3">Department of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">X</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Physics &amp; Center for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep3">Department of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">L</forename><surname>Dong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Physics &amp; Center for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep3">Department of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O. Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">H</forename><surname>Hor</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">H</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">K</forename><surname>Chu</surname></persName>
+						</author>
+						<title level="a" type="main">Under-doped La2 xSrxCuO4withx 0.063 0.125: TSFZ growth of high-quality crystals and anomalous doping dependences of superconducting properties</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Superconductor Science and Technology</title>
+						<title level="j" type="abbrev">Supercond. Sci. Technol.</title>
+						<idno type="ISSN">0953-2048</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">16</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="L7" to="L9"/>
+							<date type="published" when="2002-12-12">12 Dec 2002</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0953-2048/16/3/101</idno>
+					<idno type="arXiv">arXiv:cond-mat/0212282v1[cond-mat.supr-con]</idno>
+					<note type="submission">to be published on Superconductor Science and Technology</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Number: 74</term>
+					<term>72</term>
+					<term>Dn; 74</term>
+					<term>25</term>
+					<term>Ha</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A series of high-quality La2−xSrxCuO4 (LSCO) superconductor crystals in the under-doping region with x = 0.063, 0.07, 0.09, 0.10, 0.111 and 0.125 has been successfully prepared by traveling-solvent floating-zone (TSFZ) technique. The crystals are large and free of sub-grains and foreign phases. The high crystal quality has been revealed by double-crystal x-ray rocking curves and Rutherford backscattering spectrometry combined with ionbeam channeling effect. We find that the evolutions of the superconducting transition width and volume fraction as a function of carrier concentration exhibit interesting anomalies in the vicinity of some &quot;magic number&quot; doping levels such as x = 1/4 2 (=0.0625) and 1/3 2 (=0.111). We argue that these behaviours are of intrinsic electronic origin.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

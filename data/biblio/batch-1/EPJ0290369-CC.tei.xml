@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High field magnetoresistivity of epitaxial La 2-x Sr x CuO 4 thin films</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vanacken</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">Katholieke Universiteit Leuven</orgName>
+								<address>
+									<addrLine>Celestijnenlaan 200 D</addrLine>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Laboratoire National de Champs Magnétiques Pulsés</orgName>
+								<address>
+									<addrLine>143, Avenue de Rangueil BP 4245</addrLine>
+									<postCode>F31432</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Weckhuysen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">Katholieke Universiteit Leuven</orgName>
+								<address>
+									<addrLine>Celestijnenlaan 200 D</addrLine>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Wambecq</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wagner</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">V</forename><surname>Moshchalkov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">Katholieke Universiteit Leuven</orgName>
+								<address>
+									<addrLine>Celestijnenlaan 200 D</addrLine>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Instituut voor Materiaalonderzoek</orgName>
+								<orgName type="institution">Limburgs Universitair Centrum</orgName>
+								<address>
+									<addrLine>Wetenschapspark 1</addrLine>
+									<postCode>B-3590</postCode>
+									<settlement>Diepenbeek</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High field magnetoresistivity of epitaxial La 2-x Sr x CuO 4 thin films</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.-q</term>
+					<term>74.25.Dw</term>
+					<term>74.25.Fy</term>
+					<term>74.40.+k</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A large positive magnetoresistivity (up to tens of percents) is observed in both underdoped and overdoped superconducting La 2-x Sr x CuO 4 epitaxial thin films at temperatures far above the superconducting critical temperature T c. For the underdoped samples, this magnetoresistance far above T c cannot be described by the Kohler rule and we believe it is to be attributed to the influence of superconducting fluctuations. In the underdoped regime, the large magnetoresistance is only present when at low temperatures superconductivity occurs. T he strong magnetoresistivity, which persists even at temperatures far above T c , can be related to the pairs forming eventually the superconducting state below T c. Our observations support the idea of a close relation between the pseudogap and the superconducting gap and provide new indications for the presence of pairs above T c .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hall coefficient of La</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-11-04">November 4, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Cuo</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Goto</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chiba</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Minami</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Oshima</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Fukase</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fujita</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamada</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Sophia University</orgName>
+								<address>
+									<addrLine>7-1 Kioi-cho, Chiyoda-ku</addrLine>
+									<postCode>102-8554</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Materials Research</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<postCode>980-8577</postCode>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Institute for Chemical Research</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>610-0011</postCode>
+									<settlement>Uji Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hall coefficient of La</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-11-04">November 4, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0209016v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The Hall coefficient in the low-temperature tetragonal phase and the mid-temperature orthorhombic phase of La1.88−yYySr0.12CuO4 (y = 0, 0.04) single crystals is measured under high magnetic fields up to 9 T in order to investigate the detailed behavior of the transport properties at low temperatures in the stripe phase. When the superconductivity is suppressed by high magnetic fields, the Hall coefficient has negative values in low temperatures, and the temperature region of the negative values spreads as increasing magnetic fields. This result indicates that the Hall coefficient in the stripe phase around x = 0.12 is a finite negative value, not zero.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

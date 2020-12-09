@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Proton incorporations and superconductivity in a cobalt oxyhydrate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2018-11-18">November 18, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guanghan</forename><surname>Cao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Test &amp; Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chunmu</forename><surname>Feng</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yi</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Test &amp; Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wen</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Test &amp; Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jingqin</forename><surname>Shen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minghu</forename><surname>Fang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Test &amp; Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhu</forename><forename type="middle">'</forename><surname>An Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Test &amp; Analysis Center</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Proton incorporations and superconductivity in a cobalt oxyhydrate</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Solid State Communications</title>
+						<title level="j" type="abbrev">Solid State Communications</title>
+						<idno type="ISSN">0038-1098</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<date type="published" when="2018-11-18">November 18, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0038-1098(04)00335-7</idno>
+					<idno type="arXiv">arXiv:cond-mat/0305503v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.-b</term>
+					<term>74.25.-q</term>
+					<term>74.20.Rp Cobalt oxyhydrate superconductor</term>
+					<term>Type-II superconductivity</term>
+					<term>Superconducting gap structure</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the electrical, magnetic and thermal measurements on a layered cobalt oxyhydrate Na0.31CoO2•1.3H2O. Bulk superconductivity at 4.3 K has been confirmed, however, the measured superconducting fraction is relatively low probably due to the sample&apos;s intrinsic two-dimensional characteristic. The compound exhibits weak-coupled and extreme type-II superconductivity with the average energy gap ∆a(0) and the Ginzburg-Landau parameter κ of ∼ 0.50 meV and ∼ 140, respectively. The normalized electronic specific heat data in the superconducting state well fit the T 3 dependence, suggesting point nodes for the superconducting gap structure.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

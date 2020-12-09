@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Electronic ground state of heavily overdoped nonsuperconductingLa2−xSrxCuO4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2002-12-12">12 Dec 2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Nakamae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">LPQ (UPR5-CNRS), ESPCI</orgName>
+								<address>
+									<addrLine>10 Rue Vauquelin</addrLine>
+									<postCode>F-75005</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Behnia</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mangkorntong</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nohara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Takagi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Advanced Materials Science</orgName>
+								<orgName type="department" key="dep2">Graduate School of Frontier Sciences</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>Hongo 7-3-1, Bunkyo-ku</addrLine>
+									<postCode>113-8656</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Institute of Physical and Chemical Research (RIKEN)</orgName>
+								<orgName type="department" key="dep2">Correlated Electron Research Center</orgName>
+								<orgName type="institution">AIST</orgName>
+								<address>
+									<postCode>351-0198</postCode>
+									<settlement>Wako</settlement>
+									<region>Tsukuba</region>
+									<country>Japan., Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J C</forename><surname>Yates</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">H. H. Wills Physics Laboratory</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<addrLine>Tyndall Avenue</addrLine>
+									<postCode>BS8 1TL</postCode>
+									<settlement>Bristol</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Hussey</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">H. H. Wills Physics Laboratory</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<addrLine>Tyndall Avenue</addrLine>
+									<postCode>BS8 1TL</postCode>
+									<settlement>Bristol</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Electronic ground state of heavily overdoped nonsuperconductingLa2−xSrxCuO4</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<date type="published" when="2002-12-12">12 Dec 2002</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.68.100502</idno>
+					<idno type="arXiv">arXiv:cond-mat/0212283v1[cond-mat.str-el]</idno>
+					<note type="submission">Submitted to Physical Review Letters, 9 December 2002</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

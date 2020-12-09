@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Linear temperature variation of the penetration depth in YBa 2 Cu 3 O 7 − δ thin films</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="1995-04-14">14 Apr 1995</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A De</forename><surname>Vaulchier</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Vieren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Ecole Normale Supérieure</orgName>
+								<address>
+									<addrLine>24 rue Lhomond</addrLine>
+									<postCode>Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Guldner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Ecole Normale Supérieure</orgName>
+								<address>
+									<addrLine>24 rue Lhomond</addrLine>
+									<postCode>Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bontemps</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratoire de Physique de la Matière Condensée</orgName>
+								<orgName type="institution">Ecole Normale Supérieure</orgName>
+								<address>
+									<addrLine>24 rue Lhomond</addrLine>
+									<postCode>Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Combescot</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratoire de Physique Statistique</orgName>
+								<orgName type="institution">Ecole Normale Supérieure</orgName>
+								<address>
+									<addrLine>24 rue Lhomond</addrLine>
+									<postCode>75231, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Lemaître</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Domaine de Corbeville</orgName>
+								<orgName type="laboratory">Laboratoire Central de Recherches, Thomson-CSF</orgName>
+								<address>
+									<postCode>91404</postCode>
+									<settlement>Orsay Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Mage</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Domaine de Corbeville</orgName>
+								<orgName type="laboratory">Laboratoire Central de Recherches, Thomson-CSF</orgName>
+								<address>
+									<postCode>91404</postCode>
+									<settlement>Orsay Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Linear temperature variation of the penetration depth in YBa 2 Cu 3 O 7 − δ thin films</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Europhysics Letters (EPL)</title>
+						<title level="j" type="abbrev">Europhys. Lett.</title>
+						<idno type="ISSN">0295-5075</idno>
+						<idno type="eISSN">1286-4854</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">33</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="153" to="158"/>
+							<date type="published" when="1995-04-14">14 Apr 1995</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1209/epl/i1996-00314-9</idno>
+					<idno type="arXiv">arXiv:cond-mat/9504062v1</idno>
+					<note type="submission">Received May 10, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Gz</term>
+					<term>74.25.Nf</term>
+					<term>74.72.Bk</term>
+					<term>74.76.Bz</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have measured the penetration depth λ(T) on YBa 2 Cu 3 O 7 thin films from transmission at 120, 330 and 510 GHz, between 5 and 50 K. Our data yield simultaneously the absolute value and the temperature dependence of λ(T). In high quality films λ(T) exhibits the same linear temperature dependence as single crystals, showing its intrinsic nature, and λ(0) = 1750Å. In a lower quality one, the more usual T 2 dependence is found, and λ(0) = 3600Å. This suggests that the T 2 variation is of extrinsic origin. Our results put the d-wave like interpretation in a much better position.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

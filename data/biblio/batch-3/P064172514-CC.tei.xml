@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Zn-doping effect on the magnetotransport properties ofBi2Sr2−xLaxCuO6+δsingle crystals</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-05">November 5, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hanaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ono</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Takeya</surname></persName>
+						</author>
+						<title level="a" type="main">Zn-doping effect on the magnetotransport properties ofBi2Sr2−xLaxCuO6+δsingle crystals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">64</biblScope>
+							<biblScope unit="issue">17</biblScope>
+							<date type="published" when="2018-11-05">November 5, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.64.172514</idno>
+					<idno type="arXiv">arXiv:cond-mat/0107047v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.62.Dh</term>
+					<term>74.20.Mn</term>
+					<term>74.72.Hs</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the magnetotransport properties of Bi2Sr2−xLaxCu1−zZnzO 6+δ (Zn-doped BSLCO) single crystals with z of up to 2.2%. Besides the typical Zn-doping effects on the in-plane resistivity and the Hall angle, we demonstrate that the nature of the low-temperature normal state in the Zn-doped samples is significantly altered from that in the pristine samples under high magnetic fields. In particular, we observe nearly-isotropic negative magnetoresistance as well as an increase in the Hall coefficient at very low temperatures in non-superconducting Zn-doped samples, which we propose to be caused by the Kondo scattering from the local moments induced by Zn impurities.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

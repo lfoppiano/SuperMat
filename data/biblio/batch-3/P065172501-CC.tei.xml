@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Substitution for Cu in the electron-doped infinite-layer superconductorSr0.9La0.1CuO2:Ni reducesTcmuch faster than Zn</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-27">October 27, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Jung</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Min-Seok</forename><surname>Park</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mun-Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heon-Jung</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Substitution for Cu in the electron-doped infinite-layer superconductorSr0.9La0.1CuO2:Ni reducesTcmuch faster than Zn</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">65</biblScope>
+							<biblScope unit="issue">17</biblScope>
+							<date type="published" when="2018-10-27">October 27, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.65.172501</idno>
+					<idno type="arXiv">arXiv:cond-mat/0106441v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report the effect of substitution for Cu on the Tc of the electron-doped infinite-layer superconductors Sr0.9La0.1Cu1−xRxO2 for R = Zn and Ni. We found that Tc was nearly constant until x ∼ 0.03 for R = Zn while the superconductivity was nearly suppressed for x ∼ 0.02 with dTc/dx ≥ 20 K/% for R = Ni. This behavior is very similar to that of conventional superconductors. These findings are discussed in terms of the superconducting gap symmetry in the cuprate superconductors, including another electron-doped superconductor, (Nd,Ce)2CuO4−y.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

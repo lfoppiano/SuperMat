@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dimensionality of superconductivity and vortex dynamics in the infinite-layer cuprateSr0.9M0.1CuO2(M=La,Gd)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-05-08">May 8, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">S</forename><surname>Zapf</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">California Institute of Technology</orgName>
+								<address>
+									<settlement>Pasadena</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N-C</forename><surname>Yeh</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Beyer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">California Institute of Technology</orgName>
+								<address>
+									<settlement>Pasadena</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Hughes</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Mielke</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Harrison</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National High Magnetic Field Laboratory</orgName>
+								<address>
+									<settlement>Los Alamos</settlement>
+									<region>NM</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S-I</forename><surname>Lee</surname></persName>
+						</author>
+						<title level="a" type="main">Dimensionality of superconductivity and vortex dynamics in the infinite-layer cuprateSr0.9M0.1CuO2(M=La,Gd)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">71</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<date type="published" when="2018-05-08">May 8, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.71.134526</idno>
+					<idno type="arXiv">arXiv:cond-mat/0405072v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Dw</term>
+					<term>74.25.Op</term>
+					<term>74.72</term>
+					<term>Dn</term>
+					<term>74</term>
+					<term>25.Bt</term>
+					<term>74.25.Fy</term>
+					<term>74.25.Ha cuprate</term>
+					<term>superconductivity</term>
+					<term>infinite layer</term>
+					<term>competing order</term>
+					<term>upper critical field</term>
+					<term>Gd substitution</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The high magnetic field phase diagram of the electron-doped infinite layer high-temperature superconducting (high-Tc) compound Sr0.9La0.1CuO2 was probed by means of penetration depth and magnetization measurements in pulsed fields to 60 T. An anisotropy ratio of 8 was detected for the upper critical fields with H parallel (H ab c2) and perpendicular (H c c2) to the CuO2 planes, with H ab c2 extrapolating to near the Pauli paramagnetic limit of 160 T. The longer superconducting coherence length than the lattice constant along the c-axis indicates that the orbital degrees of freedom of the pairing wavefunction are three dimensional. By contrast, low-field magnetization and specific heat measurements of Sr0.9Gd0.1CuO2 indicate a coexistence of bulk s-wave superconductivity with large moment Gd paramagnetism close to the CuO2 planes, suggesting a strong confinement of the spin degrees of freedom of the Cooper pair to the CuO2 planes. The region between H ab c2 and the irreversibility line in the magnetization, H ab irr , is anomalously large for an electron-doped high-Tc cuprate, suggesting the existence of additional quantum fluctuations perhaps due to a competing spin-density wave order.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

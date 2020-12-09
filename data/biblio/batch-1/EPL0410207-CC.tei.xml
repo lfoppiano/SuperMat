@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Upper critical field in Ba 1 − x K x BiO 3 : Magnetotransport vs. magnetotunneling</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2018-11-05">November 5, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Samuely</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Experimental Physics</orgName>
+								<orgName type="institution">Slovak Academy of Sciences</orgName>
+								<address>
+									<postCode>SK-04353</postCode>
+									<settlement>Košice</settlement>
+									<country key="SK">Slovakia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Szabó</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Experimental Physics</orgName>
+								<orgName type="institution">Slovak Academy of Sciences</orgName>
+								<address>
+									<postCode>SK-04353</postCode>
+									<settlement>Košice</settlement>
+									<country key="SK">Slovakia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratoire d&apos;Etudes des Propriétés Electroniques des Solides</orgName>
+								<orgName type="institution" key="instit1">Grenoble High Magnetic Field Laboratory</orgName>
+								<orgName type="institution" key="instit2">Max-Planck-Institut für Festkörperforschung and Centre National de la Recherche Scientifique</orgName>
+								<address>
+									<addrLine>B.P. 166</addrLine>
+									<postCode>F-38042</postCode>
+									<settlement>Grenoble Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Centre National de la Recherche Scientifique</orgName>
+								<address>
+									<addrLine>B.P. 166</addrLine>
+									<postCode>F-38042</postCode>
+									<settlement>Grenoble Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Klein</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G M</forename><surname>Jansen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Marcus</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Escribe-Filippini</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wyder</surname></persName>
+						</author>
+						<title level="a" type="main">Upper critical field in Ba 1 − x K x BiO 3 : Magnetotransport vs. magnetotunneling</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Europhysics Letters (EPL)</title>
+						<title level="j" type="abbrev">Europhys. Lett.</title>
+						<idno type="ISSN">0295-5075</idno>
+						<idno type="eISSN">1286-4854</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">41</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="207" to="212"/>
+							<date type="published" when="2018-11-05">November 5, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1209/epl/i1998-00132-1</idno>
+					<idno type="arXiv">arXiv:cond-mat/0103183v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.60.Ec</term>
+					<term>74.25.Dw</term>
+					<term>74.50.+r</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Elastic tunneling is used as a powerful direct tool to determine the upper critical field Hc2(T) in the high-Tc oxide Ba1−xKxBiO3. The temperature dependence of Hc2 inferred from the tunneling follows the Werthamer-Helfand-Hohenberg prediction for type-II superconductors. A comparison will be made with resistively determined critical field data.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

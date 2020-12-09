@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Bulk superconductivity at 84 K in the strongly overdoped regime of cuprates</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2016-11-02">November 2, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Gauzzi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">IMPMC</orgName>
+								<orgName type="institution" key="instit2">Sorbonne Universités-UPMC</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">MNHN</orgName>
+								<address>
+									<addrLine>4, place Jussieu</addrLine>
+									<postCode>75005</postCode>
+									<settlement>Paris</settlement>
+									<region>IRD</region>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Klein</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">IMPMC</orgName>
+								<orgName type="institution" key="instit2">Sorbonne Universités-UPMC</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">MNHN</orgName>
+								<address>
+									<addrLine>4, place Jussieu</addrLine>
+									<postCode>75005</postCode>
+									<settlement>Paris</settlement>
+									<region>IRD</region>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nisula</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Aalto University</orgName>
+								<address>
+									<postCode>00076</postCode>
+									<settlement>Espoo</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Karppinen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Aalto University</orgName>
+								<address>
+									<postCode>00076</postCode>
+									<settlement>Espoo</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">K</forename><surname>Biswas</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Muon Spin Spectroscopy</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Saadaoui</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Muon Spin Spectroscopy</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Morenzoni</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Manuel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Khalyavin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marezio</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">H</forename><surname>Geballe</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Applied Physics &amp; Materials Science</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Appleton Laboratory-STFC</orgName>
+								<orgName type="institution">ISIS Facility</orgName>
+								<address>
+									<postCode>OX11 0QX</postCode>
+									<settlement>Rutherford, Chilton, Didcot</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Institut Neél</orgName>
+								<orgName type="institution" key="instit1">CNRS</orgName>
+								<orgName type="institution" key="instit2">Université Grenoble Alpes</orgName>
+								<address>
+									<addrLine>BP 166</addrLine>
+									<postCode>38042</postCode>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Bulk superconductivity at 84 K in the strongly overdoped regime of cuprates</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">2469-9950</idno>
+						<idno type="eISSN">2469-9969</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">94</biblScope>
+							<biblScope unit="issue">18</biblScope>
+							<date type="published" when="2016-11-02">November 2, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.94.180509</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

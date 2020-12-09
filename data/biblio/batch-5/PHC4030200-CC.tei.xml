@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Temperature dependence of magnetic penetration depth in B1−xKxBiO3 superconductor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2003-12-12">12 Dec 2003</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alexey</forename><surname>Snezhko</surname></persName>
+							<email>snezhko@physics.sc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy and NanoCenter</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>712 Main St</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruslan</forename><surname>Prozorov</surname></persName>
+							<email>prozorov@sc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy and NanoCenter</orgName>
+								<orgName type="institution">University of South Carolina</orgName>
+								<address>
+									<addrLine>712 Main St</addrLine>
+									<postCode>29208</postCode>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Temperature dependence of magnetic penetration depth in B1−xKxBiO3 superconductor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">403</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="200" to="202"/>
+							<date type="published" when="2003-12-12">12 Dec 2003</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2003.12.007</idno>
+					<idno type="arXiv">arXiv:cond-mat/0312334v1[cond-mat.supr-con]</idno>
+					<note type="submission">Received 25 September 2003; Accepted 11 December, 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Temperature dependence of the magnetic penetration depth, λ(T), was measured in the Meissner state in single crystals B1−xKxBiO3 (x=0.37) using tunnel diode resonator technique. At low temperatures, 0.013 ≤ T /Tc ≤ 0.4, λ(T) is exponentially flat, which provides a strong evidence for conventional s-wave BCS behavior. Numerical analysis of the data rules out the possibility of a gap with nodes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

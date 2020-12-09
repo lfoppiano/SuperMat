@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Experimental evidence ofTcenhancement without the influence of spin fluctuations: NMR study onLaFeAsO1−xHxunder a pressure of 3.0 GPa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2016-10-04">4 Oct 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kawaguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Human and Environmental Studies</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>Yoshida-Nihonmatsu-cyo, Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fujiwara</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Human and Environmental Studies</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>Yoshida-Nihonmatsu-cyo, Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iimura</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Frontier Research Center (FRC)</orgName>
+								<orgName type="laboratory">Material and Structures Laboratory (MSL)</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Matsuishi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Frontier Research Center (FRC)</orgName>
+								<orgName type="laboratory">Material and Structures Laboratory (MSL)</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hosono</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Frontier Research Center (FRC)</orgName>
+								<orgName type="laboratory">Material and Structures Laboratory (MSL)</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuda, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Experimental evidence ofTcenhancement without the influence of spin fluctuations: NMR study onLaFeAsO1−xHxunder a pressure of 3.0 GPa</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">2469-9950</idno>
+						<idno type="eISSN">2469-9969</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">94</biblScope>
+							<biblScope unit="issue">16</biblScope>
+							<date type="published" when="2016-10-04">4 Oct 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.94.161104</idno>
+					<idno type="arXiv">arXiv:1609.04957v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The electron-doped high-transition-temperature (Tc) iron-based pnictide superconductor LaFeAsO1−xHx has a unique phase diagram: Superconducting (SC) double domes are sandwiched by antiferromagnetic phases at ambient pressure and they turn into a single dome with a maximum Tc that exceeds 45K at a pressure of 3.0 GPa. We studied whether spin fluctuations are involved in increasing Tc under a pressure of 3.0 GPa by using the As nuclear magnetic resonance (NMR) technique. The 75 As-NMR results for the powder samples show that Tc increases up to 48 K without the influence of spin fluctuations. This fact indicates that spin fluctuations are not involved in raising Tc, which implies that other factors, such as orbital degrees of freedom, may be important for achieving a high Tc of almost 50 K.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

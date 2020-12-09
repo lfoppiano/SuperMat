@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evidence for a Transition in the Pairing Symmetry of the Electron-Doped CupratesLa2−xCexCuO4−yandPr2−xCexCuO4−y</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-10-25">October 25, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">A</forename><surname>Skinta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mun-Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">R</forename><surname>Lemberger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Ohio State University</orgName>
+								<address>
+									<postCode>43210-1106</postCode>
+									<settlement>Columbus</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Greibe</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Naito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">NTT Basic Research Laboratories</orgName>
+								<address>
+									<addrLine>3-1 Morinosato Wakamiya, Atsugi-shi</addrLine>
+									<postCode>243</postCode>
+									<settlement>Kanagawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evidence for a Transition in the Pairing Symmetry of the Electron-Doped CupratesLa2−xCexCuO4−yandPr2−xCexCuO4−y</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">88</biblScope>
+							<biblScope unit="issue">20</biblScope>
+							<date type="published" when="2018-10-25">October 25, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.88.207005</idno>
+					<idno type="arXiv">arXiv:cond-mat/0108545v3[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.76.Bz</term>
+					<term>74.72.Jt</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We present measurements of the magnetic penetration depth, λ −2 (T), in Pr2−xCexCuO4−y and La2−xCexCuO4−y films at three Ce doping levels, x, near optimal. Optimal and overdoped films are qualitatively and quantitatively different from underdoped films. For example, λ −2 (0) decreases rapidly with underdoping but is roughly constant above optimal doping. Also, λ −2 (T) at low T is exponential at optimal and overdoping but is quadratic at underdoping. In light of other studies that suggest both d-and s-wave pairing symmetry in nominally optimally doped samples, our results are evidence for a transition from d-to s-wave pairing near optimal doping.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

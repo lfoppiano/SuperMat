@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Thermopower in the strongly overdoped region of single-layerBi2Sr2CuO6+δsuperconductor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2002-07-03">2002-07-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Konstantinović</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Le Bras</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Forget</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Colson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Jean</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory" key="lab1">LEMHE</orgName>
+								<orgName type="laboratory" key="lab2">UMR 8647</orgName>
+								<orgName type="institution">CNRS</orgName>
+								<address>
+									<addrLine>Bât 415</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Université Paris Sud</orgName>
+								<address>
+									<postCode>91405</postCode>
+									<settlement>Orsay</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="laboratory">LLB</orgName>
+								<orgName type="institution" key="instit1">CEA-CNRS</orgName>
+								<orgName type="institution" key="instit2">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Collin</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">LLB</orgName>
+								<orgName type="institution" key="instit1">CEA-CNRS</orgName>
+								<orgName type="institution" key="instit2">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ocio</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ayache</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">SPEC</orgName>
+								<orgName type="institution">CEA Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif sur Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Thermopower in the strongly overdoped region of single-layerBi2Sr2CuO6+δsuperconductor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">66</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2002-07-03" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.66.020503</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The evolution of the thermoelectric power S(T) with doping, p, of single-layer Bi 2 Sr 2 CuO 6+δ ceramics in the strongly overdoped region is studied in detail. Analysis in term of drag and diffusion contributions indicates a departure of the diffusion from the T-linear metallic behavior. This effect is increased in the strongly overdoped range (p∼0.2-0.28) and should reflect the proximity of some topological change.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

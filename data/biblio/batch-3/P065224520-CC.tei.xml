@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Gap Anisotropy, Spin Fluctuations and Normal-State Properties of the Electron Doped</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2001-12-20">20 December, 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Superconductor</forename><surname>Sr</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Cuo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physikalisches Institut</orgName>
+								<orgName type="institution">Universität Stuttgart</orgName>
+								<address>
+									<postCode>D-70550</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Industrial Research Limited</orgName>
+								<address>
+									<postBox>P.O. Box 31310</postBox>
+									<settlement>Lower Hutt</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">V M</forename><surname>Williams</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physikalisches Institut</orgName>
+								<orgName type="institution">Universität Stuttgart</orgName>
+								<address>
+									<postCode>D-70550</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Industrial Research Limited</orgName>
+								<address>
+									<postBox>P.O. Box 31310</postBox>
+									<settlement>Lower Hutt</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dupree</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">School of Chemical and Physical Sciences</orgName>
+								<orgName type="institution">University of Warwick</orgName>
+								<address>
+									<postCode>CV4 7AL</postCode>
+									<settlement>Coventry</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Wellington New Zealand. National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Victoria University</orgName>
+								<address>
+									<addrLine>Private Bag</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Howes</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Krämer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Trodahl</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Jung</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Min- Seok</forename><surname>Park</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><surname>Lee</surname></persName>
+						</author>
+						<title level="a" type="main">Gap Anisotropy, Spin Fluctuations and Normal-State Properties of the Electron Doped</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2001-12-20">20 December, 2001</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74</term>
+					<term>72</term>
+					<term>-h 74</term>
+					<term>25</term>
+					<term>Nf 74</term>
+					<term>25</term>
+					<term>Ha</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the results from a thermopower and a Cu nuclear magnetic resonance (NMR) study of the infinite CuO 2 layer electron doped high temperature superconducting cuprate (HTSC), Sr 0.9 La 0.1 CuO 2. We find that the temperature dependence of the thermopower, S(T), is different from that observed in the hole doped HTSC. In particular, we find that dS(T)/dT is positive above ~120 K. However, we show that S(T) can still be described by the same model developed for the hole doped HTSC and hence S(T) is not anomalous and does not imply phonon mediated pairing as has previously been suggested. The Cu NMR data reveal a Knight shift and spin lattice relaxation rate below T c that are inconsistent with isotropic s-wave pairing. The Cu spin lattice relaxation rate in the normal state, however, is Curie-Weiss like and is comparable to that of the optimally and overdoped hole doped HTSC, La 2-x Sr x CuO 4. The magnitude of the Knight shift indicates that the density of states at the Fermi level is anomalously small when compared with the hole doped HTSC with the same T c , indicating that the size of) (f E N is of little importance in the HTSC. We find no evidence of the normal state pseudogap that is observed in the hole doped HTSC and which was recently reported to exist in the electron doped HTSC, Nd 1.85 Ce 0.15 CuO 4 , from infrared reflectance measurements.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

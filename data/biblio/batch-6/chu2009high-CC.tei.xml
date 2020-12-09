@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High pressure studies on Fe-pnictide superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2009-05">2009-05</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+							<email>cwchu@uh.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and TCSUH</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Hong Kong University of Science and Technology</orgName>
+								<address>
+									<settlement>Hong Kong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lorenz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and TCSUH</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5002</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Texas Center for Superconductivity</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<addrLine>202 Houston Science Center Houston TX</addrLine>
+									<postCode>77204-5002</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High pressure studies on Fe-pnictide superconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">469</biblScope>
+							<biblScope unit="issue">9-12</biblScope>
+							<biblScope unit="page" from="385" to="395"/>
+							<date type="published" when="2009-05" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2009.03.030</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>74.25.Dw</term>
+					<term>74.25.Fy</term>
+					<term>74.62.Fj</term>
+					<term>74.70.Dd Pnictide Superconductors</term>
+					<term>Pressure Effects</term>
+					<term>Phase Diagrams</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>A review of high-pressure studies on Fe-pnictide superconductors is given. The pressure effects on the magnetic and superconducting transitions are discussed for different classes of doped and undoped FeAs-compounds, ROFeAs (R = rare earth), AeFe 2 As 2 (Ae = Ca, Sr, Ba), and AFeAs (A = Li, Na). Pressure tends to decrease the magnetic transition temperature in the undoped or 2 only slightly doped compounds. The superconducting T c increases with pressure for underdoped FeAs-pnictides, remains approximately constant for optimal doping, and decreases linearly in the overdoped range. The undoped LaOFeAs and AeFe As 2 become superconducting under pressure although nonhydrostatic pressure conditions seem to play a role in CaFe 2 As 2. The superconductivity in the (undoped) AFeAs is explained as a chemical pressure effect due to the volume contraction caused by the small ionic size of the A-elements. The binary FeSe shows the largest pressure coefficient of T c in the Se-deficient superconducting phase.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

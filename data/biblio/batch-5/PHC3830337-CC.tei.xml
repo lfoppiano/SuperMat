@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressure Effect on the Superconducting and Magnetic Transitions of the Superconducting</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ferromagnet</forename><surname>Rusr</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lorenz</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Meng</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Xue</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Hong Kong University of Science and Technology</orgName>
+								<address>
+									<settlement>Hong Kong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Texas Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pressure Effect on the Superconducting and Magnetic Transitions of the Superconducting</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>RuSr 2 GdCu 2 O 8</term>
+					<term>intra-grain superconductivity</term>
+					<term>pressure effect</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The superconducting ferromagnet RuSr 2 GdCu 2 O 8 was investigated at high pressure. The intra-grain superconducting transition temperature, T c , is resolved in ac-susceptibility as well as resistivity measurements. It is shown that the pressure shift of T c is much smaller than that of other high-T c compounds in a similar doping state. In contrast, the ferromagnetic transition temperature, T m , increases with pressure at a relative rate that is about twice as large as that of T c. The high-pressure data indicate a possible competition of the ferromagnetic and superconducting states in RuSr 2 GdCu 2 O 8 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

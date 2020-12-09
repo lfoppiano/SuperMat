@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evidence for Gap Anisotropy inCaC6from Directional Point-Contact Spectroscopy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2008-05-08">8 May 2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Gonnelli</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Daghero</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Dipartimento di Fisica and CNISM</orgName>
+								<orgName type="department" key="dep2">Italy P.N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<postCode>10129</postCode>
+									<settlement>Torino</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Max-Planck-Institut für Festkörperforschung</orgName>
+								<orgName type="department" key="dep2">Institut für Theoretische Physik</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<postCode>119991, D-70569</postCode>
+									<settlement>Moscow, Stuttgart</settlement>
+									<country>Russia, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<addrLine>Arnimallee 14</addrLine>
+									<postCode>D-14195</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Delaude</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Dipartimento di Fisica and CNISM</orgName>
+								<orgName type="department" key="dep2">Italy P.N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<postCode>10129</postCode>
+									<settlement>Torino</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Max-Planck-Institut für Festkörperforschung</orgName>
+								<orgName type="department" key="dep2">Institut für Theoretische Physik</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<postCode>119991, D-70569</postCode>
+									<settlement>Moscow, Stuttgart</settlement>
+									<country>Russia, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<addrLine>Arnimallee 14</addrLine>
+									<postCode>D-14195</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tortello</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Dipartimento di Fisica and CNISM</orgName>
+								<orgName type="department" key="dep2">Italy P.N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<postCode>10129</postCode>
+									<settlement>Torino</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Max-Planck-Institut für Festkörperforschung</orgName>
+								<orgName type="department" key="dep2">Institut für Theoretische Physik</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<postCode>119991, D-70569</postCode>
+									<settlement>Moscow, Stuttgart</settlement>
+									<country>Russia, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<addrLine>Arnimallee 14</addrLine>
+									<postCode>D-14195</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Ummarino</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">A</forename><surname>Stepanov</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Kremer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sanna</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Profeta</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Dipartimento di Fisica</orgName>
+								<orgName type="institution" key="instit1">CNISM</orgName>
+								<orgName type="institution" key="instit2">Università degli studi dell&apos;Aquila</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Massidda</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="laboratory">SLACS-INFM/CNR and Dipartimento di Fisica</orgName>
+								<orgName type="institution">Università degli Studi di Cagliari</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evidence for Gap Anisotropy inCaC6from Directional Point-Contact Spectroscopy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">100</biblScope>
+							<biblScope unit="issue">20</biblScope>
+							<date type="published" when="2008-05-08">8 May 2008</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.100.207004</idno>
+					<idno type="arXiv">arXiv:0708.0921v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.50.+r</term>
+					<term>74.45.+c</term>
+					<term>74.70.Ad</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We present the first results of directional point-contact spectroscopy in high quality CaC6 samples both along the ab plane and in the c-axis direction. The superconducting order parameter ∆(0), obtained by fitting the Andreev-reflection (AR) conductance curves at temperatures down to 400 mK with the single-band 3D Blonder-Tinkham-Klapwijk model, presents two different distributions in the two directions of the main current injection, peaked at 1.35 and 1.71 meV, respectively. By ab-initio calculations of the AR conductance spectra, we show that the experimental results are in good agreement with the recent predictions of gap anisotropy in CaC6.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Normal State O17 NMR Studies of Sr2RuO4 under Uniaxial Stress</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2019-05-31">31 May 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yongkang</forename><surname>Luo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics &amp; Astronomy</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>90095</postCode>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Physics</orgName>
+								<orgName type="institution" key="instit1">Wuhan National High Magnetic Field Center</orgName>
+								<orgName type="institution" key="instit2">Huazhong University of Science and Technology</orgName>
+								<address>
+									<postCode>430074</postCode>
+									<settlement>Wuhan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Los Alamos National Laboratory</orgName>
+								<address>
+									<postCode>87545</postCode>
+									<settlement>Los Alamos</settlement>
+									<region>New Mexico</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pustogow</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics &amp; Astronomy</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>90095</postCode>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Guzman</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Dioguardi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Thomas</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ronning</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kikugawa</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Sokolov</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<address>
+									<postCode>01187</postCode>
+									<settlement>Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Jerzembeck</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Mackenzie</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<address>
+									<postCode>01187</postCode>
+									<settlement>Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Scottish Universities Physics Alliance</orgName>
+								<orgName type="department" key="dep2">School of Physics and Astronomy</orgName>
+								<orgName type="institution">University of St</orgName>
+								<address>
+									<settlement>Andrews</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution">North Haugh</orgName>
+								<address>
+									<postCode>KY16 9SS</postCode>
+									<settlement>St. Andrews</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Hicks</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Bauer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">I</forename><surname>Mazin</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+							<email>brown@physics.ucla.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics &amp; Astronomy</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>90095</postCode>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0003</postCode>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Naval Research Laboratory</orgName>
+								<address>
+									<postCode>6393, 20375</postCode>
+									<settlement>Washington</settlement>
+									<region>D.C</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Institute for Solid State Research</orgName>
+								<address>
+									<postBox>P.O. Box 270116</postBox>
+									<postCode>D-01171</postCode>
+									<settlement>Dresden, Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Normal State O17 NMR Studies of Sr2RuO4 under Uniaxial Stress</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review X</title>
+						<title level="j" type="abbrev">Phys. Rev. X</title>
+						<idno type="eISSN">2160-3308</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2019-05-31">31 May 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevx.9.021044</idno>
+					<note type="submission">Received 23 September 2018; revised manuscript received 1 February 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Condensed Matter Physics</term>
+					<term>Strongly Correlated Materials</term>
+					<term>Superconductivity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The effects of uniaxial compressive stress on the normal state 17 O nuclear-magnetic-resonance properties of the unconventional superconductor Sr 2 RuO 4 are reported. The paramagnetic shifts of both planar and apical oxygen sites show pronounced anomalies near the nominal a-axis strain ε aa ≡ ε v that maximizes the superconducting transition temperature T c. The spin susceptibility weakly increases on lowering the temperature below T ≃ 10 K, consistent with an enhanced density of states associated with passing the Fermi energy through a van Hove singularity. Although such a Lifshitz transition occurs in the γ band formed by the Ru d xy states hybridized with in-plane O p π orbitals, the large Hund&apos;s coupling renormalizes the uniform spin susceptibility, which, in turn, affects the hyperfine fields of all nuclei. We estimate this &quot;Stoner&quot; renormalization S by combining the data with first-principles calculations and conclude that this is an important part of the strain effect, with implications for superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

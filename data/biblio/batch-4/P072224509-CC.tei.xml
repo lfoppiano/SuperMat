@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Anomalous electron-phonon coupling probed on the surface of superconductorZrB12</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-19">November 19, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Khasanov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Neutron Scattering</orgName>
+								<orgName type="institution">ETH Zürich and Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">DPMC</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 Quai Ernest-Ansermet, 1211 Genève 4</addrLine>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Di Castro</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Belogolovskii</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yu</forename><forename type="middle">U</forename><surname>Paderno</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Filippov</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Institute for Problems of Materials Science</orgName>
+								<orgName type="institution">National Academy of Science of Ukraine</orgName>
+								<address>
+									<postCode>03680</postCode>
+									<settlement>Kiev</settlement>
+									<country key="UA">Ukraine</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Brütsch</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="laboratory">Laboratory for Material Behaviour</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Keller</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Donetsk Physical and Technical Institute</orgName>
+								<orgName type="institution">National Academy of Science of Ukraine</orgName>
+								<address>
+									<postCode>83114</postCode>
+									<settlement>Donetsk</settlement>
+									<country key="UA">Ukraine</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Anomalous electron-phonon coupling probed on the surface of superconductorZrB12</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">22</biblScope>
+							<date type="published" when="2018-11-19">November 19, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.72.224509</idno>
+					<idno type="arXiv">arXiv:cond-mat/0507028v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

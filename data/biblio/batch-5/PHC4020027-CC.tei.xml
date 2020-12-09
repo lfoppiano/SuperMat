@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Specific heat study of the Na0.3CoO2·1.3H2O superconductor: influence of the complex chemistry</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2004-02">2004-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Ueland</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Materials Research Institute</orgName>
+								<orgName type="institution">Pennsylvania State University</orgName>
+								<address>
+									<postCode>16802</postCode>
+									<settlement>University Park</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Schiffer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Materials Research Institute</orgName>
+								<orgName type="institution">Pennsylvania State University</orgName>
+								<address>
+									<postCode>16802</postCode>
+									<settlement>University Park</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Schaak</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry and Princeton Materials Institute</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Foo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry and Princeton Materials Institute</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">L</forename><surname>Miller</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry and Princeton Materials Institute</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Cava</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry and Princeton Materials Institute</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Specific heat study of the Na0.3CoO2·1.3H2O superconductor: influence of the complex chemistry</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">402</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="27" to="30"/>
+							<date type="published" when="2004-02" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.physc.2003.08.005</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report results of specific heat measurements on polycrystalline samples of the layered superconductor, Na 0.3 CoO 2 ⋅1.3H 2 O. The electronic contribution to the specific heat, γ, is found to be 12.2 mJ/mol-K 2. The feature at the superconducting transition is rather sharp, becoming broad and strongly suppressed in an applied magnetic field. The data indicate a residual normal state electronic specific heat at low temperatures, implying that there is a sizable population of normal state electrons in the samples even below T c. Inhomogeneity in the Na content, to which the superconducting state is exquisitely sensitive, appears to be the most likely explanation for these results. These results further indicate that special sample handling is required for an accurate characterization of the superconducting state in this material.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

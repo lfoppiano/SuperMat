@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The pseudogap in Bi 2 Sr 2 CaCu 2 O 8 + x single crystals from tunneling measurements: A possible evidence for the Cooper pairs above T c</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="1999-10-24">24 Oct 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mourachkine</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Service de Physique des Solides</orgName>
+								<orgName type="institution">Université Libre de Bruxelles</orgName>
+								<address>
+									<addrLine>Blvd du Triomphe</addrLine>
+									<postCode>CP233, B-1050</postCode>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The pseudogap in Bi 2 Sr 2 CaCu 2 O 8 + x single crystals from tunneling measurements: A possible evidence for the Cooper pairs above T c</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Europhysics Letters (EPL)</title>
+						<title level="j" type="abbrev">Europhys. Lett.</title>
+						<idno type="ISSN">0295-5075</idno>
+						<idno type="eISSN">1286-4854</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">49</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="86" to="91"/>
+							<date type="published" when="1999-10-24">24 Oct 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1209/epl/i2000-00123-2</idno>
+					<note type="submission">received 29 March 1999; accepted in final form ______ 1999</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>. 74.50.+r -Proximity effects</term>
+					<term>weak links</term>
+					<term>tunneling phenomena</term>
+					<term>and Josephson effects. . 74.25.-q -General properties; correlation between physical properties in normal and superconducting states. . 74.72.Hs -Bi-based cuprates</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We present electron-tunneling spectroscopy of slightly overdoped Bi 2 Sr 2 CaCu 2 O 8-x (Bi2212) single crystals with T c = 87-90 K in a temperature range between 14 K and 290 K using a break-junction technique. The pseudogap which has been detected above T c appears at T* ≈ 280 K. The analysis of the spectra shows that there is a contribution to the pseudogap above T c , which disappears approximately at 110-115 K. We associate this contribution with the presence of incoherent Cooper pairs.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

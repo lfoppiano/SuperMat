@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evidence of Inhomogeneous Superconductivity in FeTe 1-x Se x Thin Film Using Scotch-Tape Method</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Okazaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Watanabe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yamaguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kawasaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Deguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Demura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ozaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Denholme</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Mizuguchi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Electronic Engineering</orgName>
+								<orgName type="institution">Tokyo Metropolitan University</orgName>
+								<address>
+									<addrLine>1-1, Minami-osawa</addrLine>
+									<postCode>192-0397</postCode>
+									<settlement>Hachioji</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Takeya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Takano</surname></persName>
+						</author>
+						<title level="a" type="main">Evidence of Inhomogeneous Superconductivity in FeTe 1-x Se x Thin Film Using Scotch-Tape Method</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We have fabricated thin films of FeTe 1-x Se x using a scotch-tape method. The superconductivities of the thin films are different from each other although these films were fabricated from the same bulk sample. The result clearly presents the inhomogeneous superconductivity in FeTe 1-x Se x. The difference comes from inhomogeneity due to the excess Fe concentration. The resistivity of a thin film with low excess Fe shows good superconductivity with the sharp superconducting-transition width and more isotropic superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

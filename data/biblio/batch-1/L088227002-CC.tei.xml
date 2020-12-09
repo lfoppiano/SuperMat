@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Strongly Correlateds-Wave Superconductivity in theN-Type Infinite-Layer Cuprate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2002-05-16">16 May 2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C-T</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Seneor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Jet Propulsion Laboratory</orgName>
+								<orgName type="institution">California Institute of Technology</orgName>
+								<address>
+									<postCode>91125</postCode>
+									<settlement>Pasadena</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">California Institute of Technology</orgName>
+								<address>
+									<postCode>91109</postCode>
+									<settlement>Pasadena</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N-C</forename><surname>Yeh</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">P</forename><surname>Vasquez</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">D</forename><surname>Bell</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Jung</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Min-Seok</forename><surname>Park</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heon-Jung</forename><surname>Kim</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sung-Ik</forename><surname>Lee</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">National Creative Research Initiative Center for Superconductivity</orgName>
+								<orgName type="department" key="dep2">Department of Physics</orgName>
+								<orgName type="institution">Pohang University of Science and Technology</orgName>
+								<address>
+									<postCode>790-784</postCode>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Strongly Correlateds-Wave Superconductivity in theN-Type Infinite-Layer Cuprate</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review Letters</title>
+						<title level="j" type="abbrev">Phys. Rev. Lett.</title>
+						<idno type="ISSN">0031-9007</idno>
+						<idno type="eISSN">1079-7114</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">88</biblScope>
+							<biblScope unit="issue">22</biblScope>
+							<date type="published" when="2002-05-16">16 May 2002</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevlett.88.227002</idno>
+					<note type="submission">Received 17 November 2001;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.72.-h</term>
+					<term>74.50.+r</term>
+					<term>74.62.Dh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Quasiparticle tunneling spectra of the electron-doped (n-type) infinite-layer cuprate Sr 0.9 La 0.1 CuO 2 reveal characteristics that counter a number of common phenomena in the hole-doped (p-type) cuprates. The optimally doped Sr 0.9 La 0.1 CuO 2 with T c 43 K exhibits a momentum-independent superconducting gap D 13.0 6 1.0 meV that substantially exceeds the BCS value, and the spectral characteristics indicate insignificant quasiparticle damping by spin fluctuations and the absence of pseudogap. The response to quantum impurities in the Cu sites also differs fundamentally from that of the p-type cuprates with d x 2 2y 2-wave pairing symmetry.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

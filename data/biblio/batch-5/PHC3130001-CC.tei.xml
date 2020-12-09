@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Critical currents, pinning forces and irreversibility fields in (YxTm1−x)Ba2Cu3O7 single crystals with columnar defects in fields up to 50 T</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="1999-02">1999-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lieven</forename><surname>Trappeniers</surname></persName>
+							<email>lieven.trappeniers@fys.kuleuven.ac.be</email>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vanacken</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Weckhuysen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rosseel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">Yu. </forename><surname>Didyk</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratory of High Energy</orgName>
+								<orgName type="institution">Joint Institute for Nuclear Research</orgName>
+								<address>
+									<settlement>Dubna</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">N</forename><surname>Goncharov</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratory of High Energy</orgName>
+								<orgName type="institution">Joint Institute for Nuclear Research</orgName>
+								<address>
+									<settlement>Dubna</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">I</forename><surname>Leonyuk</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Geology</orgName>
+								<orgName type="institution">M.S.U</orgName>
+								<address>
+									<postCode>119899</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Boon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Herlach</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">V</forename><surname>Moshchalkov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Bruynseraede</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Laboratorium voor Vaste-Stoffysica en Magnetisme</orgName>
+								<orgName type="institution">K.U.Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Laboratorium voor Vaste-Stoffysica en Magnetisme Katholieke Universiteit Leuven Celestijnenlaan 200D</orgName>
+								<address>
+									<postCode>B-3001</postCode>
+									<settlement>Heverlee</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Critical currents, pinning forces and irreversibility fields in (YxTm1−x)Ba2Cu3O7 single crystals with columnar defects in fields up to 50 T</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">313</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="1" to="10"/>
+							<date type="published" when="1999-02" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0921-4534(99)00011-8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Columnar Defects</term>
+					<term>Flux Pinning</term>
+					<term>Critical Current Density</term>
+					<term>Magnetisation</term>
+					<term>Pinning Force PACS: 74.60Ge</term>
+					<term>74.62Dh</term>
+					<term>74.25Ha</term>
+					<term>74.60Jg</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have studied the influence of columnar defects, created by heavy-ion (Kr) irradiation with doses up to 6•10 11 Kr-ions/cm 2 , on the superconducting critical parameters of single crystalline (Y x Tm 1-x)Ba 2 Cu 3 O 7. Magnetisation measurements in pulsed fields up to 50 T in the temperature range 4.2-90 K revealed that: (i) in fields up to µ 0 20 H ≈ T the critical current J c (H,T) is considerably enhanced and (ii) down to temperatures T ~ 40 K the irreversibility field H irr (T) is strongly increased. The field range and magnitude of the J c (H,T) and H irr (T) enhancement increase with increasing irradiation dose. To interpret these observations, an effective matching field B φ• was defined. Moreover, introducing columnar defects also changes the pinning force f p qualitatively. Due to stronger pinning of flux lines by the amorphous defects, the superconducting critical parameters largely exceed those associated with the defect structures in the unirradiated as-grown material:</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

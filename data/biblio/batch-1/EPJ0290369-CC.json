@@ -1,0 +1,38 @@
+{
+  "addrline": "Wetenschapspark 1",
+  "title_main_a": "High field magnetoresistivity of epitaxial La 2-x Sr x CuO 4 thin films",
+  "arXiv": "https://arxiv.org/ftp/cond-mat/papers/0308/0308227.pdf",
+  "authors": [
+    {
+      "first": "J",
+      "surname": "Vanacken"
+    },
+    {
+      "first": "L",
+      "surname": "Weckhuysen"
+    },
+    {
+      "first": "T",
+      "surname": "Wambecq"
+    },
+    {
+      "first": "P",
+      "surname": "Wagner"
+    },
+    {
+      "first": "V",
+      "middle": "V",
+      "surname": "Moshchalkov"
+    },
+    {}
+  ],
+  "keywords": [
+    "numbers: 74.25.-q",
+    "74.25.Dw",
+    "74.25.Fy",
+    "74.40.+k"
+  ],
+  "npl_publn_id": "EPJ0290369-CC.tei.xml",
+  "publisher": "Elsevier BV",
+  "date": "2004-04-30"
+}

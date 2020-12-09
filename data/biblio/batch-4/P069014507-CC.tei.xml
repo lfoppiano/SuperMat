@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-11-06">November 6, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">(</forename><surname>Ba</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sr</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Cu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">A</forename><surname>Ren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">C</forename><surname>Che</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">M</forename><surname>Ni</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Jia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">X</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Physics</orgName>
+								<orgName type="laboratory">National Laboratory for Superconductivity</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postBox>P.O.Box 603</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-11-06">November 6, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0312089v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.62.Bf</term>
+					<term>74.62.Dh</term>
+					<term>74.70.-b Fe-containing cuprate superconductor, high pressure synthesis, superconductivity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>In this paper, the F e-containing superconductors F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ , F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ and F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ were successfully prepared by common solid-state reaction followed with a procedure of high pressure synthesis. The structural change and superconducting properties in (F e x Cu 1−x)BaSrY Cu 2 O 7+δ (x = 0 ∼ 1.0) systems were also investigated. Annealing experiments indicate that the occurrence of superconductivity in F e 0.5 Cu 0.5 (Ba 1−x Sr x) 2 Y Cu 2 O 7+δ (x = 0, 0.5 and 1) systems is mainly induced by the procedure of high pressure synthesis, which causes the increase of oxygen content and the redistribution of F e atoms between Cu(1) and Cu(2) sites, but not from possible secondary phase of Y Ba 2 Cu 3 O 7−δ , Y BaSrCu 3 O 7−δ or Y Sr 2 Cu 3 O 7−δ superconductors.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

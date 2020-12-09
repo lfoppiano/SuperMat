@@ -1,0 +1,43 @@
+{
+  "addrline": "BP 166",
+  "date": "2018-11-07",
+  "arXiv": "arXiv:cond-mat/0504639v2[cond-mat.supr-con]",
+  "title_main_a": "Pressure induced effects on the Fermi surface of superconducting",
+  "publisher": "American Physical Society (APS)",
+  "title_main_j": "Physical Review Letters",
+  "authors": [
+    {
+      "surname": "2h-Nbse"
+    },
+    {
+      "first": "H",
+      "surname": "Suderow"
+    },
+    {
+      "first": "V",
+      "middle": "G",
+      "surname": "Tissen"
+    },
+    {
+      "first": "J",
+      "middle": "P",
+      "surname": "Brison"
+    },
+    {
+      "first": "J",
+      "middle": "L",
+      "surname": "Mart\u00ednez"
+    },
+    {
+      "first": "S",
+      "surname": "Vieira"
+    }
+  ],
+  "keywords": [
+    "numbers: 71.10.Hf",
+    "74.25.Dw",
+    "74.25.Op",
+    "74.62.Fj"
+  ],
+  "npl_publn_id": "L095117006-CC.tei.xml"
+}

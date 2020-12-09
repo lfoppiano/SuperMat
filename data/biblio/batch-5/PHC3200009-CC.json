@@ -1,0 +1,45 @@
+{
+  "date": "1999-05-25",
+  "arXiv": "arXiv:cond-mat/9905370v1[cond-mat.supr-con]",
+  "title_main_a": "Tunneling Spectroscopy of Tl Ba 2 CuO 6",
+  "authors": [
+    {
+      "first": "Lutfi",
+      "surname": "Ozyuzer"
+    },
+    {
+      "first": "Zikri",
+      "surname": "Yusof"
+    },
+    {
+      "first": "John",
+      "middle": "F",
+      "surname": "Zasadzinski"
+    },
+    {
+      "first": "Ting-Wei",
+      "surname": "Li"
+    },
+    {
+      "first": "Dave",
+      "middle": "G",
+      "surname": "Hinks"
+    },
+    {
+      "first": "K",
+      "middle": "E",
+      "surname": "Gray"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.50.+r",
+    "74.80.Fp",
+    "74.72.Fq High-temperature superconductivity",
+    "tunneling",
+    "superconducting gap"
+  ],
+  "npl_publn_id": "PHC3200009-CC.tei.xml",
+  "publisher": "Elsevier BV",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity"
+}
