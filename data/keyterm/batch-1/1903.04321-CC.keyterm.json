@@ -1,0 +1,49 @@
+{
+  "path": "/Users/lfoppiano/development/projects/grobid/grobid-superconductors/resources/dataset/superconductors/corpus/pdf/batches/batch-1/1903.04321.pdf",
+  "categories": [
+    {
+      "term": "type II",
+      "score": "0.10155001937367242"
+    },
+    {
+      "term": "superconducting phase",
+      "score": "0.05046399829322532"
+    },
+    {
+      "term": "magnetic field",
+      "score": "0.04521920939277627"
+    },
+    {
+      "term": "critical temperature",
+      "score": "0.026157225000145053"
+    },
+    {
+      "term": "magnetic properties",
+      "score": "0.015067794745347304"
+    },
+    {
+      "term": "field dependent",
+      "score": "0.013847942647135614"
+    },
+    {
+      "term": "magnetic",
+      "score": "0.009223958865514633"
+    },
+    {
+      "term": "magnetic field dependent",
+      "score": "0.008457926798649805"
+    },
+    {
+      "term": "type-I",
+      "score": "0.0042126435968235275"
+    },
+    {
+      "term": "type-II",
+      "score": "0.0031864916207559554"
+    },
+    {
+      "term": "phase",
+      "score": "0.0026870709642826136"
+    }
+  ]
+}

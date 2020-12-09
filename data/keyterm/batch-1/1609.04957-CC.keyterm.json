@@ -1,0 +1,49 @@
+{
+  "path": "/Users/lfoppiano/development/projects/grobid/grobid-superconductors/resources/dataset/superconductors/corpus/pdf/batches/batch-1/1609.04957.pdf",
+  "categories": [
+    {
+      "term": "fluctuations",
+      "score": "0.002509996392105675"
+    },
+    {
+      "term": "pressure",
+      "score": "0.0021515126949158397"
+    },
+    {
+      "term": "series",
+      "score": "0.0016425524889341534"
+    },
+    {
+      "term": "spin",
+      "score": "0.001401647405240737"
+    },
+    {
+      "term": "samples",
+      "score": "0.0014001805857834313"
+    },
+    {
+      "term": "iron-based",
+      "score": "0.0014001805857834313"
+    },
+    {
+      "term": "AF-phase",
+      "score": "0.0014001805857834313"
+    },
+    {
+      "term": "Na111",
+      "score": "0.001296101066005991"
+    },
+    {
+      "term": "La1111",
+      "score": "0.0011096168613522603"
+    },
+    {
+      "term": "doping",
+      "score": "0.0011096168613522603"
+    },
+    {
+      "term": "influence",
+      "score": "0.0006985282909241367"
+    }
+  ]
+}
