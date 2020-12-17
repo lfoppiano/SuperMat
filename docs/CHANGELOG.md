@@ -14,7 +14,7 @@ First release 1.0.0
 
 ### Changed
 + Update model representing the tag set  
-+ Removed Webanno / only Inception is used now 
++ Removed Webanno as only Inception is used now 
 
 ### Fixed
 + Improved figures and explanations 
