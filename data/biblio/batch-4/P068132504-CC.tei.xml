@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effect of hydrostatic pressure on the superconductivity inNaxCoO2⋅yH2O</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2003-10-07">7 October 2003͒</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lorenz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and TCSAM</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cmaidalka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and TCSAM</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Meng</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and TCSAM</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<addrLine>1 Cyclotron Road</addrLine>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<settlement>Hong Kong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effect of hydrostatic pressure on the superconductivity inNaxCoO2⋅yH2O</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">68</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<date type="published" when="2003-10-07">7 October 2003͒</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.68.132504</idno>
+					<note type="submission">͑Received 24 April 2003;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>number͑s͒: 74</term>
+					<term>62</term>
+					<term>Fj, 74</term>
+					<term>70</term>
+					<term>Ϫb</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The effect of hydrostatic pressure on the superconducting transition temperature of Na 0.35 CoO 2 •yH 2 O was investigated by ac susceptibility measurements up to 1.6 GPa. The pressure coefficient of T c is negative and the dependence T c (p) is nonlinear over the pressure range investigated. The magnitude of the average d ln T c /dpϷϪ0.07 GPa Ϫ1 is comparable to the pressure coefficient of electron-doped high-T c copper oxide superconductors with a similar value of T c. Our results provide support to the assumption of two-dimensional superconductivity in Na 0.35 CoO 2 •yH 2 O, which is similar to the cuprate systems, and suggest that intercalation of larger molecules may lead to an enhancement of T c .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

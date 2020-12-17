@@ -1,0 +1,56 @@
+{
+  "arXiv": "arXiv:cond-mat/180808500v2[cond-mat.supr-con]",
+  "volume": "31",
+  "issue": "12",
+  "page": "125011",
+  "date": "2018-11-02",
+  "ORCID": "0000-0002-3597-1320",
+  "ISSN": "0953-2048",
+  "eISSN": "1361-6668",
+  "DOI": "10.1088/1361-6668/aae6fe",
+  "note": "Received 24 July 2018, revised 1 October 2018 Accepted for publication 9 October 2018",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Superconductivity in SnSb with a natural superlattice structure",
+  "title_main_j": "Superconductor Science and Technology",
+  "title_abbrev_j": "Supercond. Sci. Technol.",
+  "authors": [
+    {
+      "first": "Bin",
+      "surname": "Liu"
+    },
+    {
+      "first": "Jifeng",
+      "surname": "Wu"
+    },
+    {
+      "first": "Yanwei",
+      "surname": "Cui"
+    },
+    {
+      "first": "Hangdong",
+      "surname": "Wang"
+    },
+    {
+      "first": "Yi",
+      "surname": "Liu"
+    },
+    {
+      "first": "Zhicheng",
+      "surname": "Wang"
+    },
+    {
+      "first": "Zhi",
+      "surname": "Ren"
+    },
+    {
+      "first": "Guanghan",
+      "surname": "Cao"
+    }
+  ],
+  "keywords": [
+    "superconductivity",
+    "binary alloy",
+    "natural superlattice"
+  ],
+  "npl_publn_id": "Liu_2018_Supercond._Sci._Technol._31_125011.tei.xml"
+}

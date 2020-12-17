@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Crystal Structure of Superconducting La2CuO4.032 by Neutron Diffraction</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="1989-01-01">1989-01-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chaillout</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">W</forename><surname>Cheong</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Fisk</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Lehmann</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marezio</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Morosin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Schirber</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">4AT &amp; T Bell Laboratories</orgName>
+								<orgName type="department" key="dep2">Sandia National Laboratories</orgName>
+								<address>
+									<postCode>38042, 07974, 87185</postCode>
+									<settlement>Grenoble ckdex, Murray Hill, Albuquerque</settlement>
+									<region>NJ, NM</region>
+									<country>France;, U.S.A.; &apos;, U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Crystal Structure of Superconducting La2CuO4.032 by Neutron Diffraction</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica Scripta</title>
+						<title level="j" type="abbrev">Phys. Scr.</title>
+						<idno type="ISSN">0031-8949</idno>
+						<idno type="eISSN">1402-4896</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">T29</biblScope>
+							<biblScope unit="page" from="97" to="99"/>
+							<date type="published" when="1989-01-01" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0031-8949/1989/t29/017</idno>
+					<note type="submission">Received March 7. 1989; accepted April 11, 1989</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The structure of superconducting La,CuO,,o,, has been determined by singlecrystal neutron diffraction data. The excess oxygen, 0 4 , is located between two adjacent La01 layers. The presence of 04 distorts the apical-oxygen 01 sublattice in such that each 0 4 forms a short bond (1.64A) with one 01, which indicates the formation of a strong covalent bond between these two atoms. The Cu and 0 2 sublattices as well as that of La are not affected by 0 4 , however, 1.6% of the La cations increase their coordination from 9 to</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

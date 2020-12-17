@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Combined external pressure and Cu-substitution studies on BaFe2As2single crystals</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2015-03-19">19 March 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Piva</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Besser</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mydeen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Garitezi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P F S</forename><forename type="middle">F S</forename><surname>Rosa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Adriano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Grant</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Fisk</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Urbano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nicklas</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Pagliuso</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Chemical Physics of Solids</orgName>
+								<orgName type="institution" key="instit1">Instituto de Física &apos;Gleb Wataghin&apos;</orgName>
+								<orgName type="institution" key="instit2">UNICAMP</orgName>
+								<address>
+									<addrLine>Nöthnitzer Str. 40</addrLine>
+									<postCode>13083-859, D-01187</postCode>
+									<settlement>Dresden</settlement>
+									<region>Campinas, SP</region>
+									<country>Brazil, Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>92697-4574</postCode>
+									<settlement>Irvine</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Combined external pressure and Cu-substitution studies on BaFe2As2single crystals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Condensed Matter</title>
+						<title level="j" type="abbrev">J. Phys.: Condens. Matter</title>
+						<idno type="ISSN">0953-8984</idno>
+						<idno type="eISSN">1361-648X</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">27</biblScope>
+							<biblScope unit="issue">14</biblScope>
+							<biblScope unit="page">145701</biblScope>
+							<date type="published" when="2015-03-19">19 March 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/0953-8984/27/14/145701</idno>
+					<note type="submission">Received September 2014, revised 5 January 2015 Accepted for publication 19 February 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>superconductivity</term>
+					<term>pressure effects</term>
+					<term>magnetic pair-breaking</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report a combined study of external pressure and Cu-substitution on BaFe As 2 single crystals grown by the influx technique. At ambient pressure, the Cu-substitution is known to suppress the spin density wave (SDW) phase in pure BaFe As 2 (T SDW ≈ 140 K) and to induce a superconducting (SC) dome with a maximum transition temperature T max c 4.2 K. This T max c is much lower than the T c ∼ 15-28 K achieved in the case of Ru, Ni and Co substitutions. Such a lower T c is attributed to a Cu 2+ magnetic pair-breaking effect. The latter is strongly suppressed by applied pressure, as shown herein, T c can be significantly enhanced by applying high pressures. In this work, we investigated the pressure effects on Cu 2+ magnetic pair-breaking in the BaFe 2−x Cu x As 2 series. Around the optimal concentration (x opd = 0.11), all samples showed a substantial increase of T c as a function of pressure. Yet for those samples with a slightly higher doping level (over-doped regime), T c presented a dome-like shape with maximum T c 8 K. Remarkably interesting, the under-doped samples, e.g. x = 0.02 display a maximum pressure induced T c 30 K which is comparable to the maximum T c &apos;s found for the pure compound under external pressures. Furthermore, the magnetoresistance effect as a function of pressure in the normal state of the x = 0.02 sample also presented an evolution consistent with the screening of the Cu 2+ local moments. These findings demonstrate that the Cu 2+ magnetic pair-breaking effect is completely suppressed by applying pressure in the low concentration regime of Cu 2+ substituted BaFe 2 As 2 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

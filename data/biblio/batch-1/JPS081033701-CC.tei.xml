@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Microscopic Evidence of Direct Coupling between Magnetic and Superconducting Order Parameters in BaFe2(As1-xPx)2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2012-02-10">February 10, 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tetsuya</forename><surname>Iye</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yusuke</forename><surname>Nakai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Science and Technology Agency (JST)</orgName>
+								<orgName type="department" key="dep2">Center for Low Temperature and Materials Sciences</orgName>
+								<orgName type="laboratory">Transformative Research Project on Iron Pnictides (TRIP)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>102-0075, 606-8502</postCode>
+									<settlement>Chiyoda, Kyoto</settlement>
+									<region>Tokyo</region>
+									<country>Japan, Japan Research, Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shunsaku</forename><surname>Kitagawa</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Science and Technology Agency (JST)</orgName>
+								<orgName type="department" key="dep2">Center for Low Temperature and Materials Sciences</orgName>
+								<orgName type="laboratory">Transformative Research Project on Iron Pnictides (TRIP)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>102-0075, 606-8502</postCode>
+									<settlement>Chiyoda, Kyoto</settlement>
+									<region>Tokyo</region>
+									<country>Japan, Japan Research, Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kenji</forename><surname>Ishida</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Science and Technology Agency (JST)</orgName>
+								<orgName type="department" key="dep2">Center for Low Temperature and Materials Sciences</orgName>
+								<orgName type="laboratory">Transformative Research Project on Iron Pnictides (TRIP)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>102-0075, 606-8502</postCode>
+									<settlement>Chiyoda, Kyoto</settlement>
+									<region>Tokyo</region>
+									<country>Japan, Japan Research, Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shigeru</forename><surname>Kasahara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takasada</forename><surname>Shibauchi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuji</forename><surname>Matsuda</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takahito</forename><surname>Terashima</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Graduate School of Science</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<postCode>606-8502</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics, Graduate School of Science and Engineering</orgName>
+								<orgName type="institution">Tokyo Metropolitan University</orgName>
+								<address>
+									<postCode>192-0397</postCode>
+									<settlement>Hachioji, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Microscopic Evidence of Direct Coupling between Magnetic and Superconducting Order Parameters in BaFe2(As1-xPx)2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">81</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page">033701</biblScope>
+							<date type="published" when="2012-02-10">February 10, 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jpsj.81.033701</idno>
+					<note type="submission">Received November 29, 2011; accepted January 5, 2012;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>iron-pnictide superconductors</term>
+					<term>NMR</term>
+					<term>coexistence between magnetism and superconductivity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The coexistence of magnetism and superconductivity in the isovalent-P-substituted BaFe 2 (As 1Àx P x) 2 has been investigated microscopically by 31 P-NMR measurements. We found that superconducting (SC) transition occurs in a magnetic region with static ordered moments and that the moments are reduced below the SC transition temperature T c in the samples near the phase boundary of magnetism and superconductivity. Our results indicate that magnetism and superconductivity coexist spatially but compete with each other on the same Fermi surfaces. The coexistence state is qualitatively different from that observed in other unconventional superconductors and gives a strict constraint on the theoretical model for superconductivity in BaFe 2 (As 1Àx P x) 2 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

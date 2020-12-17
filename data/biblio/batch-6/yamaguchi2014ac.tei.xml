@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">AC magnetic measurement of LiFeAs at pressures up to 5.2 GPa: The relation between T c and the structural parameters</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Korean Physical Society</publisher>
+				<availability status="unknown"><p>Copyright Korean Physical Society</p>
+				</availability>
+				<date type="published" when="2013-08">2013-08</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shuhei</forename><surname>Yamaguchi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nobuhiro</forename><surname>Yamaguchi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masaki</forename><surname>Mito</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Deguchi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter.</forename><forename type="middle">J</forename><surname>Baker</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen.</forename><forename type="middle">J</forename><surname>Blundell</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael.</forename><forename type="middle">J</forename><surname>Pitcher</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dinah.</forename><forename type="middle">R</forename><surname>Parker</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Simon.</forename><forename type="middle">J</forename><surname>Clarke</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">Kyushu Institute of Technology</orgName>
+								<address>
+									<postCode>804-8550</postCode>
+									<settlement>Kitakyushu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="laboratory">Inorganic Chemistry Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>South Parks Road</addrLine>
+									<postCode>OX1 3QR</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">AC magnetic measurement of LiFeAs at pressures up to 5.2 GPa: The relation between T c and the structural parameters</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Korean Physical Society</title>
+						<title level="j" type="abbrev">Journal of the Korean Physical Society</title>
+						<idno type="ISSN">0374-4884</idno>
+						<idno type="eISSN">1976-8524</idno>
+						<imprint>
+							<publisher>Korean Physical Society</publisher>
+							<biblScope unit="volume">63</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="445" to="447"/>
+							<date type="published" when="2013-08" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.3938/jkps.63.445</idno>
+					<note type="submission">Received 31 May 2012, in final form 10 December 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.Xa</term>
+					<term>74.62.Fj</term>
+					<term>74.25.Ha Fe-based superconductor</term>
+					<term>LiFeAs</term>
+					<term>Superconducting transition temperature</term>
+					<term>Pressure effect</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The pressure effects on the 111-type Fe-based superconductor LiFeAs were investigated through AC susceptibility measurements and X-ray diffraction experiments, and revealed a correlation between the superconducting transition temperature (Tc) and the As-Fe-As bond angle (α) rather than the height of As from the Fe layers (hAs). As the pressure was increased, Tc of 17 K at P = 0 GPa decreased down to 10 K at P = 5.2 GPa. According to a previous report from an X-ray diffraction experiment, α changes from 101.5 • at 0 GPa to 97.8 • at 17 GPa. The obtained change in Tc is consistent with Lee et al.&apos;s plot of Tc as a function of α, and from this result, we conclude that Tc will fall to zero at around α = 98 • .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

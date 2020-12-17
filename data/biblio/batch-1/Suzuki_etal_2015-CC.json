@@ -1,0 +1,51 @@
+{
+  "arXiv": "arXiv:cond-mat/1505.08002v2[cond-mat.supr-con]",
+  "addrline": "Katsushika, Tokyo 125-8585",
+  "volume": "84",
+  "issue": "11",
+  "page": "115003",
+  "date": "2015-10-29",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.7566/jpsj.84.115003",
+  "note": "Received July 17, 2015; accepted October 5, 2015;",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Pressure-Induced Superconductivity in BiS2-Based EuFBiS2",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Kouji",
+      "surname": "Suzuki"
+    },
+    {
+      "first": "Masashi",
+      "surname": "Tanaka"
+    },
+    {
+      "first": "Saleem",
+      "middle": "J",
+      "surname": "Denholme"
+    },
+    {
+      "first": "Masaya",
+      "surname": "Fujioka"
+    },
+    {
+      "first": "Takahide",
+      "surname": "Yamaguchi"
+    },
+    {
+      "first": "Hiroyuki",
+      "surname": "Takeya"
+    },
+    {
+      "first": "Yoshihiko",
+      "surname": "Takano"
+    },
+    {},
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "Suzuki_etal_2015.tei.xml"
+}

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressure-Induced Superconductivity in BiS2-Based EuFBiS2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Physical Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Physical Society of Japan</p>
+				</availability>
+				<date type="published" when="2015-10-29">October 29, 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kouji</forename><surname>Suzuki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masashi</forename><surname>Tanaka</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Saleem</forename><forename type="middle">J</forename><surname>Denholme</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masaya</forename><surname>Fujioka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takahide</forename><surname>Yamaguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Takeya</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshihiko</forename><surname>Takano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute for Materials Science</orgName>
+								<address>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Graduate School of Pure and Applied Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Tokyo University of Science</orgName>
+								<address>
+									<addrLine>Katsushika, Tokyo 125-8585</addrLine>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Research Institute for Electronic Science</orgName>
+								<orgName type="institution">Hokkaido University</orgName>
+								<address>
+									<postCode>001-0020</postCode>
+									<settlement>Sapporo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pressure-Induced Superconductivity in BiS2-Based EuFBiS2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the Physical Society of Japan</title>
+						<title level="j" type="abbrev">J. Phys. Soc. Jpn.</title>
+						<idno type="ISSN">0031-9015</idno>
+						<idno type="eISSN">1347-4073</idno>
+						<imprint>
+							<publisher>Physical Society of Japan</publisher>
+							<biblScope unit="volume">84</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page">115003</biblScope>
+							<date type="published" when="2015-10-29">October 29, 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.7566/jpsj.84.115003</idno>
+					<note type="submission">Received July 17, 2015; accepted October 5, 2015;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We measured the electrical resistivity of the BiS 2-based compound EuFBiS 2 under high pressure. Polycrystalline EuFBiS 2 shows insulatormetal transition and pressure-induced superconductivity above 0.7 GPa. The superconducting transition temperature increases with increasing applied pressure and shows a maximum value around 8.6 K at 1.8 GPa. Since the discovery of superconductivity in Bi O 4 (SO 4) 1Àx-Bi 2 S 4 , 1) much attention has been paid to developing BiSbased layered superconductors. BiS 2-based compounds have a layered structure composed of an alternate stacking of superconducting and blocking layers, which is a common feature of cuprate or Fe-based superconductors. 2,3) The typical BiS 2-based compound LaOBiS 2 shows superconductivity by O substitution with F in the blocking layer, 4) which supplies electron carriers into the BiS superconducting layer. This led to considerable advances in the BiS-based superconducting family within a few years. 5-18) Interestingly, many BiS 2-based superconductors are sensitive to external pressure. 19-22) The T c enhancement has been attributed to the local structure sensitivity of the BiS 2-based superconducting materials. 23) Recently, it has been reported that the BiS 2-based compound EuFBiS shows superconductivity even without any chemical doping. 24-26) A charge-density-wave (CDW)like behavior was simultaneously observed in its electrical resistivity. 24) It is necessary to have more information about its physical properties by using other probes. In this study, we demonstrate the electrical resistivity measurements of EuFBiS 2 under high pressure. It is found that the semiconducting sample shows insulator-metal transition and superconductivity is induced by only applying pressure. Polycrystalline samples of EuFBiS 2 were prepared by a solid-state reaction. Powders of EuS, BiF , and Bi 2 S 3 were weighed with the nominal composition of EuFBiS. The mixture was well-ground and pressed into pellets. The pellets were sealed in an evacuated quartz tube and then heated at 700°C for 20 h. X-ray diffraction (XRD) measurement with Cu Kα radiation was carried out using Mini Flex 600 (Rigaku). The compositional ratio was analyzed by energy dispersive X-ray spectroscopy (EDX) using JSM-6010LA (JEOL). The electrical resistivity measurement was performed in the temperature range from 2 to 300 K using a physical property measurement system (PPMS; Quantum Design) by a four-probe method. A piston-cylinder-type high-pressure cell was used for applying hydrostatic pressure to the sample. Fluorinert 70=77 was employed as a pressuretransmitting medium. All the pressure values were estimated</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
