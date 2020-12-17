@@ -8,7 +8,6 @@ The dataset contains also copyrighted data, which, unfortunately, cannot be shar
         - [Annotated linked data](data/annotated) as XML-TEI format
         - [Bibliographic](data/biblio) data as JSON (CORD-19) format 
         - Source [PDFs](data/pdfs)
-        - Automatically extracted [keyterms](data/keyterm) 
     - CSV tabular superconductors [data](data/csv/supercon_manual.csv) (*)
  - Annotation guidelines:
     - [Online version](https://supermat.readthedocs.io) [will work after the repository will be published]

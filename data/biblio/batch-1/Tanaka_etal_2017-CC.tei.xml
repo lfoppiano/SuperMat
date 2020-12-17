@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity and its enhancement under high pressure in “F-free” single crystals of CeOBiS2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2017-06-12">12 June 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masashi</forename><surname>Tanaka</surname></persName>
+							<email>mtanaka@mns.kyutech.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Engineering</orgName>
+								<orgName type="institution">Kyushu Institute of Technology</orgName>
+								<address>
+									<addrLine>1-1 Sensui-cho</addrLine>
+									<postCode>804-8550</postCode>
+									<settlement>Tobata, Kitakyushu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">WPI-MANA</orgName>
+								<orgName type="institution" key="instit2">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masanori</forename><surname>Nagao</surname></persName>
+							<email>mnagao@yamanashi.ac.jp</email>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Yamanashi</orgName>
+								<address>
+									<postCode>7-32, 400-8511</postCode>
+									<settlement>Miyamae, Kofu</settlement>
+									<region>Yamanashi</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Corresponding author</orgName>
+								<orgName type="department" key="dep2">Center for Crystal Science and Technology</orgName>
+								<orgName type="institution">University of Yamanashi</orgName>
+								<address>
+									<addrLine>7-32 Miyamae, Kofu, 400-8511</addrLine>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ryo</forename><surname>Matsumoto</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">WPI-MANA</orgName>
+								<orgName type="institution" key="instit2">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Noriyuki</forename><surname>Kataoka</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">National Institute of Technology</orgName>
+								<orgName type="institution" key="instit2">Yonago College</orgName>
+								<address>
+									<postCode>4448, 683-8502</postCode>
+									<settlement>Hikona, Yonago</settlement>
+									<region>Tottori</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ikuo</forename><surname>Ueta</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Yamanashi</orgName>
+								<address>
+									<postCode>7-32, 400-8511</postCode>
+									<settlement>Miyamae, Kofu</settlement>
+									<region>Yamanashi</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiromi</forename><surname>Tanaka</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">National Institute of Technology</orgName>
+								<orgName type="institution" key="instit2">Yonago College</orgName>
+								<address>
+									<postCode>4448, 683-8502</postCode>
+									<settlement>Hikona, Yonago</settlement>
+									<region>Tottori</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satoshi</forename><surname>Watauchi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Yamanashi</orgName>
+								<address>
+									<postCode>7-32, 400-8511</postCode>
+									<settlement>Miyamae, Kofu</settlement>
+									<region>Yamanashi</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Isao</forename><surname>Tanaka</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Yamanashi</orgName>
+								<address>
+									<postCode>7-32, 400-8511</postCode>
+									<settlement>Miyamae, Kofu</settlement>
+									<region>Yamanashi</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshihiko</forename><surname>Takano</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">WPI-MANA</orgName>
+								<orgName type="institution" key="instit2">National Institute for Materials Science</orgName>
+								<address>
+									<addrLine>1-2-1 Sengen</addrLine>
+									<postCode>305-0047</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Graduate School of Engineering</orgName>
+								<orgName type="institution">Kyushu Institute of Technology</orgName>
+								<address>
+									<addrLine>1-1 Sensui-cho, Tobata, Kitakyushu</addrLine>
+									<postCode>804-8550</postCode>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity and its enhancement under high pressure in “F-free” single crystals of CeOBiS2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Alloys and Compounds</title>
+						<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+						<idno type="ISSN">0925-8388</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">722</biblScope>
+							<biblScope unit="page" from="467" to="473"/>
+							<date type="published" when="2017-06-12">12 June 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.jallcom.2017.06.125</idno>
+					<note type="submission">Received 11 April 2017 Received in revised form 1 June 2017 Accepted 11 June 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Single crystal X-ray structural analysis Ce valence evaluation Resistivity under high pressure BiS 2-based superconductors Layered mixed-anion compounds a b s t r a c t &quot;F-free&quot; CeOBiS 2 single crystals have successfully grown, thoroughly eliminating a concern about Fcontamination by using a high-purity CsCl flux. The obtained crystals have a plate-like shape with a size of 1.0e3.0 mm in the well-developed plane. Single crystal X-ray structural analysis clearly revealed that the CeOBiS 2 crystallizes with a space group P4/nmm (with lattice parameters of a ¼ 4.0189 (6) Å, c ¼ 13.573 (2) Å). The bond valence sum estimation and X-ray photoelectron spectroscopy analysis showed that the chemical state of Ce was in the mixed valence of Ce 3þ and Ce 4þ. The single crystals show superconductivity with zero resistivity at~1.3 K. This is the first conclusive evidence of superconductivity driven by Ce valence fluctuation in surely non-doped CeOBiS 2. The superconducting transition temperature was enhanced up to~3.8 K by applying hydrostatic pressure.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

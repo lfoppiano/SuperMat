@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structural phase transition in the superconducting pyrochlore oxide Cd2Re2O7</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2001-09-03">September 3, 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hanawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yamaura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Muraoka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Sakai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Hiroi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwanoha, Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structural phase transition in the superconducting pyrochlore oxide Cd2Re2O7</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics and Chemistry of Solids</title>
+						<title level="j" type="abbrev">Journal of Physics and Chemistry of Solids</title>
+						<idno type="ISSN">0022-3697</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">63</biblScope>
+							<biblScope unit="issue">6-8</biblScope>
+							<biblScope unit="page" from="1027" to="1030"/>
+							<date type="published" when="2001-09-03">September 3, 2001</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/s0022-3697(02)00090-2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>A. oxides</term>
+					<term>A. superconductors</term>
+					<term>C. X-ray diffraction</term>
+					<term>D. electrical properties</term>
+					<term>D. phase transition</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report a structural phase transition found at T s = 200 K in a pyrochlore oxide Cd 2 Re 2 O 7 which shows superconductivity at T c = 1.0 K. X-ray diffraction experiments indicate that the phase transition is of the second order, from a high-temperature phase with the ideal cubic pyrochlore structure (space group Fd 3 m) to a low-temperature phase with another cubic structure (space group F 4 3m). It is accompanied by a dramatic change in the resistivity and magnetic susceptibility and thus must induce a significant change in the electronic structure of Cd 2 Re 2 O 7 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

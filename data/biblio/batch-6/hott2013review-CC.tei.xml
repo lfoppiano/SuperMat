@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconducting Materials — A Topical Overview</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer-Verlag</publisher>
+				<availability status="unknown"><p>Copyright Springer-Verlag</p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Roland</forename><surname>Hott</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reinhold</forename><surname>Kleiner</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Wolf</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gertrud</forename><surname>Zwicknagl</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institut für Technologie</orgName>
+								<orgName type="department" key="dep2">Institut für Festkörperphysik</orgName>
+								<orgName type="department" key="dep3">Physikalisches Institut and Center for Quantum Science in LISA +</orgName>
+								<orgName type="department" key="dep4">Institut für Mathematische Physik</orgName>
+								<orgName type="institution">Universität Tübingen</orgName>
+								<address>
+									<postBox>P. O. Box 3640</postBox>
+									<postCode>76021, 72076</postCode>
+									<settlement>Karlsruher, Karlsruhe, Tübingen</settlement>
+									<country>GERMANY, GERMANY</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Technische Universität Braunschweig</orgName>
+								<address>
+									<postCode>38106</postCode>
+									<settlement>Braunschweig</settlement>
+									<country key="DE">GERMANY</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconducting Materials — A Topical Overview</title>
+					</analytic>
+					<monogr>
+						<title level="m">Frontiers in Superconducting Materials</title>
+						<imprint>
+							<publisher>Springer-Verlag</publisher>
+							<biblScope unit="page" from="1" to="69"/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/3-540-27294-1_1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

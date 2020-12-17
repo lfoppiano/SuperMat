@@ -1,0 +1,57 @@
+{
+  "arXiv": "arXiv:cond-mat/11117075v2[cond-mat.supr-con]",
+  "volume": "81",
+  "issue": "3",
+  "page": "033701",
+  "date": "2012-02-10",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.81.033701",
+  "note": "Received November 29, 2011; accepted January 5, 2012;",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Microscopic Evidence of Direct Coupling between Magnetic and Superconducting Order Parameters in BaFe2(As1-xPx)2",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Tetsuya",
+      "surname": "Iye"
+    },
+    {
+      "first": "Yusuke",
+      "surname": "Nakai"
+    },
+    {
+      "first": "Shunsaku",
+      "surname": "Kitagawa"
+    },
+    {
+      "first": "Kenji",
+      "surname": "Ishida"
+    },
+    {
+      "first": "Shigeru",
+      "surname": "Kasahara"
+    },
+    {
+      "first": "Takasada",
+      "surname": "Shibauchi"
+    },
+    {
+      "first": "Yuji",
+      "surname": "Matsuda"
+    },
+    {
+      "first": "Takahito",
+      "surname": "Terashima"
+    },
+    {},
+    {}
+  ],
+  "keywords": [
+    "iron-pnictide superconductors",
+    "NMR",
+    "coexistence between magnetism and superconductivity"
+  ],
+  "npl_publn_id": "JPS081033701-CC.tei.xml"
+}
