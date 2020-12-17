@@ -193,6 +193,8 @@ if __name__ == '__main__':
                         help="Process input directory recursively. If input is a file, this parameter is ignored.")
     parser.add_argument("--format", default='csv', choices=['tsv', 'csv'],
                         help="Output format.")
+    parser.add_argument("--filter", default='all', choices=['all', 'oa', 'non-oa'],
+                        help='Extract data from a certain type of licenced documents')
 
     args = parser.parse_args()
 
@@ -200,6 +202,7 @@ if __name__ == '__main__':
     output = args.output
     recursive = args.recursive
     format = args.format
+    filter = args.filter
 
     if os.path.isdir(input):
         path_list = []
@@ -209,6 +212,13 @@ if __name__ == '__main__':
                 for file_ in files:
                     if not file_.lower().endswith(".xml"):
                         continue
+
+                    if filter == 'oa':
+                        if '-CC' not in file_:
+                            continue
+                    elif filter == 'non-oa':
+                        if '-CC' in file_:
+                            continue
 
                     abs_path = os.path.join(root, file_)
                     path_list.append(abs_path)
