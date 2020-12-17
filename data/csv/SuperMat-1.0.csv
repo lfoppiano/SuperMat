@@ -87,13 +87,13 @@ id,material,tcValue,pressure,me_method,filename
 ,x=0.4,32 K ,,,L094047006-CC.superconductors.tei.xml
 ,Bi2Sr2CuO 6+δ ,8 K,,,L094047006-CC.superconductors.tei.xml
 ,x=0 ,8 K,,,L094047006-CC.superconductors.tei.xml
-,x opt =0.40,32 K ,,suscepti- bility ,L094047006-CC.superconductors.tei.xml
+,x opt =0.40,32 K ,,susceptibility ,L094047006-CC.superconductors.tei.xml
 ,x ≤0.40 ,8 ∼32 K,,,L094047006-CC.superconductors.tei.xml
 ,Na x CoO 2 • yH 2 O ,4.2 and 4.6 K,,,L091217001-CC.superconductors.tei.xml
 ,Na x CoO 2 • yH 2 O ,4 K ,,,L091217001-CC.superconductors.tei.xml
 ,Sr 0.9 La 0.1 CuO 2 ,43 K ,,,L094127001-CC.superconductors.tei.xml
 ,Sr 0.9 La 0.1 CuO 2 ,43 K ,,,L094127001-CC.superconductors.tei.xml
-,Sr 0.9 La 0.1 CuO 2 (SLCO) ,43 K ,,Magnetiza- tion measurements ,L094127001-CC.superconductors.tei.xml
+,Sr 0.9 La 0.1 CuO 2 (SLCO) ,43 K ,,Magnetization measurements ,L094127001-CC.superconductors.tei.xml
 ,x = 0.3 ,∼40 K,,,SSC1270493-CC.superconductors.tei.xml
 ,Ga-1212 ,up to ∼70 K ,,,SSC1270493-CC.superconductors.tei.xml
 ,Al-1212 ,18 ∼ 30 K ,,,SSC1270493-CC.superconductors.tei.xml
@@ -156,17 +156,17 @@ id,material,tcValue,pressure,me_method,filename
 ,single crystals of the hydrated Na x CoO 2 • yH 2 O ,4.2 K ,,,L092157004-CC.superconductors.tei.xml
 ,,4.2 K,,susceptibility measurements ,L092157004-CC.superconductors.tei.xml
 ,,4.2 K,,specific heat ,L092157004-CC.superconductors.tei.xml
-,x = 0.20 ,13 K ,2 GPa ,suscep- tibility measurements ,JPS081033701-CC.superconductors.tei.xml
+,x = 0.20 ,13 K ,2 GPa ,susceptibility measurements ,JPS081033701-CC.superconductors.tei.xml
 ,x = 0.25 ,30 K ,,,JPS081033701-CC.superconductors.tei.xml
 ,x = 0.25 ,14 K ,,,JPS081033701-CC.superconductors.tei.xml
 ,x = 0.25,30 K,,,JPS081033701-CC.superconductors.tei.xml
-,x = 0.25 ,13 K ,2 GPa,suscep- tibility measurements ,JPS081033701-CC.superconductors.tei.xml
-,x = 0.25 ,30 K ,2 GPa,suscep- tibility measurements ,JPS081033701-CC.superconductors.tei.xml
-,x = 0.25 ,14 K ,2 GPa,suscep- tibility measurements ,JPS081033701-CC.superconductors.tei.xml
-,x = 0.25 ,14 K ,2 GPa,suscep- tibility measurements ,JPS081033701-CC.superconductors.tei.xml
+,x = 0.25 ,13 K ,2 GPa,susceptibility measurements ,JPS081033701-CC.superconductors.tei.xml
+,x = 0.25 ,30 K ,2 GPa,susceptibility measurements ,JPS081033701-CC.superconductors.tei.xml
+,x = 0.25 ,14 K ,2 GPa,susceptibility measurements ,JPS081033701-CC.superconductors.tei.xml
+,x = 0.25 ,14 K ,2 GPa,susceptibility measurements ,JPS081033701-CC.superconductors.tei.xml
 ,Cd 2 Re 2 O 7 ,1 K ,,,L089147002-CC.superconductors.tei.xml
 ,Cd 2 Re 2 O 7 ,1 K,,,L089147002-CC.superconductors.tei.xml
-,un- twinned YBa 2 Cu 3 O y (YBCO) single crystals ,20 K,,,L088167005-CC.superconductors.tei.xml
+,untwinned YBa 2 Cu 3 O y (YBCO) single crystals ,20 K,,,L088167005-CC.superconductors.tei.xml
 ,y=6.50 ,35 K,,,L088167005-CC.superconductors.tei.xml
 ,PCCO films onto Pr 2 CuO 4 (PCO)/SrTiO 3 ,24 K,,,L091087001-CC.superconductors.tei.xml
 ,Zn plate,0.875 K,,,L091087001-CC.superconductors.tei.xml
@@ -211,7 +211,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Cu doping level of 7%,∼3 K ,,,xing2014theAnomaly-CC.superconductors.tei.xml
 ,SrFe 2 As 2,34 K ,,Resistivity ,kotegawa2008abrupt-CC.superconductors.tei.xml
 ,SrFe2As2,34.1 K,3.6 − 3.7 GPa. ,,kotegawa2008abrupt-CC.superconductors.tei.xml
-,F-doped system LaFeAsO 1−x F x (ZrCuSiAs-type struc- ture),26 K ,,,kotegawa2008abrupt-CC.superconductors.tei.xml
+,F-doped system LaFeAsO 1−x F x (ZrCuSiAs-type structure),26 K ,,,kotegawa2008abrupt-CC.superconductors.tei.xml
 ,SrFe 2 As 2 ,10 K ,8 GPa ,resistivity ,kotegawa2008abrupt-CC.superconductors.tei.xml
 ,single-crystalline samples of SrFe 2 As 2 ,34 K ,3.5 GPa,resistivity ,kotegawa2008abrupt-CC.superconductors.tei.xml
 ,SrFe 2 As 2 ,34.1 K ,3.77 GPa,,kotegawa2008abrupt-CC.superconductors.tei.xml
@@ -424,7 +424,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Cs 3 C 60 ,40 K,,,hott2013review-CC.superconductors.tei.xml
 ,alkali-doped picene and dibenzopentacen,18 K ,,,hott2013review-CC.superconductors.tei.xml
 ,alkali-doped picene and dibenzopentacen,33 K ,,,hott2013review-CC.superconductors.tei.xml
-,double- wall carbon natotubes (DWNT) ,6.8 K ,,resistitively ,hott2013review-CC.superconductors.tei.xml
+,double-wall carbon natotubes (DWNT) ,6.8 K ,,resistitively ,hott2013review-CC.superconductors.tei.xml
 ,nonmagnetic YNi 2 B 2 C and LuNi 2 B 2 C ,16.5 K ,,,hott2013review-CC.superconductors.tei.xml
 ,nonmagnetic YNi 2 B 2 C and LuNi 2 B 2 C ,15.5 K ,,,hott2013review-CC.superconductors.tei.xml
 ,MgB 2 ,~ 40 K,,,hott2013review-CC.superconductors.tei.xml
@@ -454,7 +454,7 @@ id,material,tcValue,pressure,me_method,filename
 ,x = 0.11 ,43 K ,3 GPa ,,chu2009high-CC.superconductors.tei.xml
 ,x = 0.11 ,9 K ,,,chu2009high-CC.superconductors.tei.xml
 ,x = 0.11 ,9 K ,30 GPa ,,chu2009high-CC.superconductors.tei.xml
-,La(O 1- x F x )FeAs ,43 K ,,,chu2009high-CC.superconductors.tei.xml
+,La(O 1-x F x )FeAs ,43 K ,,,chu2009high-CC.superconductors.tei.xml
 ,x = 0.4,10.5 K ,,,chu2009high-CC.superconductors.tei.xml
 ,"x = 0 (undoped), 0.05 (underdoped), 0.11(optimally doped) ",0 K,,,chu2009high-CC.superconductors.tei.xml
 ,"x = 0 (undoped), 0.05 (underdoped), 0.11(optimally doped) ",24,,,chu2009high-CC.superconductors.tei.xml
@@ -476,7 +476,7 @@ id,material,tcValue,pressure,me_method,filename
 ,1-y = 0.85,20 K ,16 GPa,,chu2009high-CC.superconductors.tei.xml
 ,x ~ 0.4 -0.5,38 K ,,,chu2009high-CC.superconductors.tei.xml
 ,(Ba 1-x K x )Fe 2 As 2 with x = 0.45 ,30 K ,,,chu2009high-CC.superconductors.tei.xml
-,Ba(Fe 1- x Co x ) 2 As 2 (x=0.1) ,22 K ,,,chu2009high-CC.superconductors.tei.xml
+,Ba(Fe 1-x Co x ) 2 As 2 (x=0.1) ,22 K ,,,chu2009high-CC.superconductors.tei.xml
 ,single crystal CaFe 2 As 2 ,12 K ,0.23 GPa ,ρ(T) ,chu2009high-CC.superconductors.tei.xml
 ,single crystal of SrFe 2 As 2 ,27 K,2.5 GPa ,,chu2009high-CC.superconductors.tei.xml
 ,single crystal of SrFe 2 As 2 ,20 K ,5.2 GPa,,chu2009high-CC.superconductors.tei.xml
@@ -504,7 +504,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Na0.31CoO2•1.3H2O,4.3 K ,,thermal ,MAT0305503-CC.superconductors.tei.xml
 ,Na 0.31 CoO 2 •1.3H 2 O ,4.3 K ,,thermal ,MAT0305503-CC.superconductors.tei.xml
 ,Na0.31CoO2•1.3H2O,4.3 K ,,thermal ,MAT0305503-CC.superconductors.tei.xml
-,Na 0.31 CoO 2 •1.3H 2 O ,4.3 K,,suscep- tibility ,MAT0305503-CC.superconductors.tei.xml
+,Na 0.31 CoO 2 •1.3H 2 O ,4.3 K,,susceptibility ,MAT0305503-CC.superconductors.tei.xml
 ,,4.3 K,,specific heat ,MAT0305503-CC.superconductors.tei.xml
 ,Cd 2 Re 2 O 7 ,1.1 K,,,MAT0106521-CC.superconductors.tei.xml
 ,Cd 2 Re 2 O 7 ,1.1 K,,,MAT0106521-CC.superconductors.tei.xml
@@ -522,15 +522,15 @@ id,material,tcValue,pressure,me_method,filename
 ,Bi2212 single crystal ,∼86 K,,resistance ,P066024502-CC.superconductors.tei.xml
 ,thinner than 4 unit cells,25 K ,,,P066024502-CC.superconductors.tei.xml
 ,thinner than 4 unit cells,25 K ,,resistance ,P066024502-CC.superconductors.tei.xml
-,high- pressure oxidized Cu0.75Mo0.25Sr2YCu2O7.54,84 K ,,,P066132510-CC.superconductors.tei.xml
-,high- pressure oxidized Cu0.75Mo0.25Sr2YCu2O7.54,84 K ,,magnetization,P066132510-CC.superconductors.tei.xml
+,high-pressure oxidized Cu0.75Mo0.25Sr2YCu2O7.54,84 K ,,,P066132510-CC.superconductors.tei.xml
+,high-pressure oxidized Cu0.75Mo0.25Sr2YCu2O7.54,84 K ,,magnetization,P066132510-CC.superconductors.tei.xml
 ,"Cu 1−x Mo x Sr 2 (Y,Ce) s Cu 2 O 5+2s+δ ",87 K ,,,P066132510-CC.superconductors.tei.xml
 ,Cu 1−x Mo x Sr 2 YCu 2 O 7+δ ,84 K ,,specific heat ,P066132510-CC.superconductors.tei.xml
-,underdoped (op- timally doped) Y123,60 (90) K,,specific heat ,P066132510-CC.superconductors.tei.xml
-,"oxi- dized (Cu,Mo)1212 ",as high as 84 K ,,,P066132510-CC.superconductors.tei.xml
+,underdoped (optimally doped) Y123,60 (90) K,,specific heat ,P066132510-CC.superconductors.tei.xml
+,"oxidized (Cu,Mo)1212 ",as high as 84 K ,,,P066132510-CC.superconductors.tei.xml
 ,optimally doped Y123 ,92 K,,specific heat ,P066132510-CC.superconductors.tei.xml
 ,optimally-and over-doped La 2−x Sr x CuO 4 (La214) single crystals ,35 K to 0 K,,specific heat ,P066132510-CC.superconductors.tei.xml
-,over- doped La2−xSrxCuO4 with x=0.259 ,6.5 K,,,P066132510-CC.superconductors.tei.xml
+,overdoped La2−xSrxCuO4 with x=0.259 ,6.5 K,,,P066132510-CC.superconductors.tei.xml
 ,"(Cu,Mo)1212 powder ",84 K,,,P066132510-CC.superconductors.tei.xml
 ,YBa2(Cu1−yCoy)3O 7+δ (y=0.013,93 K,,,P066020501-CC.superconductors.tei.xml
 ,fully oxydised superconducting YBa 2 Cu 3 O 7 ,93 K,,,P066020501-CC.superconductors.tei.xml
@@ -554,7 +554,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Sr(La)-112 ,"42.6 K, ",,,P066214509-CC.superconductors.tei.xml
 ,Sr 0.9 La 0.1 CuO 2 ,43 K,,,P066214509-CC.superconductors.tei.xml
 ,Sr0.9La0.1CuO2 ,"42.6 K, ",,susceptibility,P066214509-CC.superconductors.tei.xml
-,Sr0.9La0.1CuO2 ,"42.6 K, ",,magne- tization ,P066214509-CC.superconductors.tei.xml
+,Sr0.9La0.1CuO2 ,"42.6 K, ",,magnetization ,P066214509-CC.superconductors.tei.xml
 ,GdSr 2 RuCu 2 O 8 ,46K,,,MCP0750110-CC.superconductors.tei.xml
 ,GdSr 2 Ru 1−x Sn x Cu 2 O 8 ,36K ,,,MCP0750110-CC.superconductors.tei.xml
 ,x = 0 ,36K ,,,MCP0750110-CC.superconductors.tei.xml
@@ -611,7 +611,7 @@ id,material,tcValue,pressure,me_method,filename
 ,YBa 2 Cu 3 O 7 ,9 0 K,,,P065224520-CC.superconductors.tei.xml
 ,La 1.85 Sr 0.15 CuO 4 ,38 K,,,P065224520-CC.superconductors.tei.xml
 ,,44 K ,,susceptibility measurements ,P065224520-CC.superconductors.tei.xml
-,BSLCO crys- tals ,as high as 38 K,,,P064172514-CC.superconductors.tei.xml
+,BSLCO crystals ,as high as 38 K,,,P064172514-CC.superconductors.tei.xml
 ,most overdoped sample ,<1.5 K ,,,P066020503-CC.superconductors.tei.xml
 ,Bi-2201 polycrystalline samples ,20 K ,,,P066020503-CC.superconductors.tei.xml
 ,overdoped case of Bi(Pb)-2201 ,<4 K,,,P066020503-CC.superconductors.tei.xml
@@ -655,10 +655,10 @@ id,material,tcValue,pressure,me_method,filename
 ,MgB 2 ,39 K ,,,P072220505-CC.superconductors.tei.xml
 ,MgB 2 ,41.8 K; ,,,P072220505-CC.superconductors.tei.xml
 ,MgB 2,38.7 K ,,,P072220505-CC.superconductors.tei.xml
-,poly- crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
-,poly- crystalline MgB 2 ,37.8 K,,,P072220505-CC.superconductors.tei.xml
-,poly- crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
-,poly- crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
+,poly-crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
+,poly-crystalline MgB 2 ,37.8 K,,,P072220505-CC.superconductors.tei.xml
+,poly-crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
+,poly-crystalline MgB 2 ,38.7 K ,,,P072220505-CC.superconductors.tei.xml
 ,Tantalum ,4.4 K,,magnetic susceptibility ,P072220505-CC.superconductors.tei.xml
 ,RuSr2GdCu2O8 ,56 K,,,P072174508-CC.superconductors.tei.xml
 ,RuSr 2 GdCu 2 O 8 ,60 K ,,,P072174508-CC.superconductors.tei.xml
@@ -708,7 +708,7 @@ id,material,tcValue,pressure,me_method,filename
 ,RbOs2O6 ,6.3 K) ,,,P072104504-CC.superconductors.tei.xml
 ,RbOs 2 O 6 ,6.32(19) K,,,P072104504-CC.superconductors.tei.xml
 ,RbOs 2 O 6 ,6.33(1) K,,,P072104504-CC.superconductors.tei.xml
-,x = 0.01 ,~45 K,,resist- ance ,PHC1480411-CC.superconductors.tei.xml
+,x = 0.01 ,~45 K,,resistance ,PHC1480411-CC.superconductors.tei.xml
 ,La 1.48 Nd 0.4 Sr 0.12 CuO 4,3 K ,,,P071104513-CC.superconductors.tei.xml
 ,La 1.48 Nd 0.4 Sr 0.12 CuO 4,22 K ,5 GPa,,P071104513-CC.superconductors.tei.xml
 ,La 1.48 Nd 0.4 Sr 0.12 CuO 4,~12 K,,,P071104513-CC.superconductors.tei.xml
@@ -724,7 +724,7 @@ id,material,tcValue,pressure,me_method,filename
 ,La 1.48 Nd 0.4 Sr 0.12 CuO 4 ,22 K ,,,P071104513-CC.superconductors.tei.xml
 ,La 1.6-x Nd 0.4 Sr x CuO 4 ,22 K ,,,P071104513-CC.superconductors.tei.xml
 ,x = 1/8 ,22 K ,,magnetic susceptibility ,P071104513-CC.superconductors.tei.xml
-,two-dimensional CoO 2 layers in the com- pound Na 0.35 CoO 2 •yH 2 O ,5 K ,,Magnetic susceptibility mea- surements ,P068132504-CC.superconductors.tei.xml
+,two-dimensional CoO 2 layers in the compound Na 0.35 CoO 2 •yH 2 O ,5 K ,,Magnetic susceptibility measurements ,P068132504-CC.superconductors.tei.xml
 ,Na x CoO 2 •yH 2 O powder ,4.7 K,,Magnetic susceptibility measurements ,P068132504-CC.superconductors.tei.xml
 ,Na 0.35 CoO 2 •yH 2 O powder ,4.2 K,1.53 GPa,,P068132504-CC.superconductors.tei.xml
 ,Na 0.35 CoO 2 •yH 2 O ,4.7 K ,,,P068132504-CC.superconductors.tei.xml
@@ -765,7 +765,7 @@ id,material,tcValue,pressure,me_method,filename
 ,binary Y 2 C 3 ,18 K ,,,P072064520-CC.superconductors.tei.xml
 ,Y 2 C 3 ,18 K ,,,P072064520-CC.superconductors.tei.xml
 ,La 2 C 3 ,13.2 K ,,,P072064520-CC.superconductors.tei.xml
-,La2C3 ,5.6 K ,,magnetic suscepti- bility ,P072064520-CC.superconductors.tei.xml
+,La2C3 ,5.6 K ,,magnetic susceptibility ,P072064520-CC.superconductors.tei.xml
 ,La2C3 ,13.2 K,,,P072064520-CC.superconductors.tei.xml
 ,La 2 C 3 ,11 K ,,,P072064520-CC.superconductors.tei.xml
 ,La 2 C 3 ,13.5,,resistivity,P072064520-CC.superconductors.tei.xml
@@ -785,7 +785,7 @@ id,material,tcValue,pressure,me_method,filename
 ,LiTi 2 O 4 ,10-12 K,,magnetic susceptibility ,P070054519-CC.superconductors.tei.xml
 ,"Sr 0.9 M 0.1 CuO 2 (M = La, Gd)",43 K ,,,P071134526-CC.superconductors.tei.xml
 ,Sr0.9La0.1CuO2 ,43K,,,P071134526-CC.superconductors.tei.xml
-,polycrys- talline Sr 0.9 Gd 0.1 CuO 2 ,43 K ,,specific heat ,P071134526-CC.superconductors.tei.xml
+,polycrystalline Sr 0.9 Gd 0.1 CuO 2 ,43 K ,,specific heat ,P071134526-CC.superconductors.tei.xml
 ,Sr 0.9 Gd 0.1 CuO 2 ,43 K ,,M (T ) ,P071134526-CC.superconductors.tei.xml
 ,Sr 0.9 La 0.1 CuO 2,43 K ,,M (T ) ,P071134526-CC.superconductors.tei.xml
 ,Sr 0.9 Gd 0.1 CuO 2 ,43 K ,,C(T ) ,P071134526-CC.superconductors.tei.xml
@@ -815,7 +815,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Na 0.5 CoO 2 ,4.59 K,,,P068132507-CC.superconductors.tei.xml
 ,Na 0.35 CoO 2 •1.3H 2 O,"4.6 K, ",,,P068132507-CC.superconductors.tei.xml
 ,ZrB12 ,6.0 K ,0,Magnetization measurements ,P072224509-CC.superconductors.tei.xml
-,in- dium ,3.4 K,,,P072224509-CC.superconductors.tei.xml
+,indium ,3.4 K,,,P072224509-CC.superconductors.tei.xml
 ,ZrB 12 ,6.09(2) K,,Magnetization measurements ,P072224509-CC.superconductors.tei.xml
 ,La2CuO4.11 ,43 K,,,P069174506-CC.superconductors.tei.xml
 ,Oxygen-doped La 2 CuO 4+y ,43 K ,,,P069174506-CC.superconductors.tei.xml
@@ -834,7 +834,7 @@ id,material,tcValue,pressure,me_method,filename
 ,Pb-free series ,6 K ,,,P072014504-CC.superconductors.tei.xml
 ,Pb-doped series,12 K ,,,P072014504-CC.superconductors.tei.xml
 ,Pb-free series ,17 K ,,,P072014504-CC.superconductors.tei.xml
-,Pb- doped series,34 K ,,,P072014504-CC.superconductors.tei.xml
+,Pb-doped series,34 K ,,,P072014504-CC.superconductors.tei.xml
 ,x=0.22 ,27.4K,,susceptibility ,P070214505-CC.superconductors.tei.xml
 ,x=0.15 ,36.1K,,,P070214505-CC.superconductors.tei.xml
 ,x=0.063 ,12K,,,P070214505-CC.superconductors.tei.xml
@@ -855,7 +855,7 @@ id,material,tcValue,pressure,me_method,filename
 ,B 0.63 K 0.37 BiO 3 ,31 K,,,PHC4030200-CC.superconductors.tei.xml
 ,Single crystal of B 1−x K x BiO 3 (x=0.37) ,31K ,,,PHC4030200-CC.superconductors.tei.xml
 ,Bi2Sr2CaCu2O 8+δ ,86 K ,,,PHC3200009-CC.superconductors.tei.xml
-,optimally- doped Tl 2 Ba 2 CuO 6 crystals (Tl-2201) ,91 K ,,,PHC3200009-CC.superconductors.tei.xml
+,optimally-doped Tl 2 Ba 2 CuO 6 crystals (Tl-2201) ,91 K ,,,PHC3200009-CC.superconductors.tei.xml
 ,Tl-2201 crystals ,86 K ,,,PHC3200009-CC.superconductors.tei.xml
 ,Bi-2212 ,86 K,,,PHC3200009-CC.superconductors.tei.xml
 ,Tl-2201 ,91 K ,,,PHC3200009-CC.superconductors.tei.xml
