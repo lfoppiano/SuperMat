@@ -1053,6 +1053,7 @@ related related r re rel rela d ed ted ated NOCAPS NODIGIT 0 NOPUNCT related xxx
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 these these t th the thes e se ese hese NOCAPS NODIGIT 0 NOPUNCT these xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 super super s su sup supe r er per uper NOCAPS NODIGIT 0 NOPUNCT super xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 conductors conductors c co con cond s rs ors tors NOCAPS NODIGIT 0 NOPUNCT conductors xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 are are a ar are are e re are are NOCAPS NODIGIT 0 NOPUNCT are xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 presented presented p pr pre pres d ed ted nted NOCAPS NODIGIT 0 NOPUNCT presented xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1460,7 +1461,8 @@ samples samples s sa sam samp s es les ples NOCAPS NODIGIT 0 NOPUNCT samples xxx
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 = = = = = = = = = = ALLCAPS NODIGIT 1 NOPUNCT = = = SAMEFONT SAMEFONTSIZE false false BASELINE false
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼1 ∼1 ∼ ∼1 ∼1 ∼1 1 ∼1 ∼1 ∼1 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d SAMEFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ SAMEFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2868,7 +2870,8 @@ patterns patterns p pa pat patt s ns rns erns NOCAPS NODIGIT 0 NOPUNCT patterns 
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
 46 46 4 46 46 46 6 46 46 46 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 o o o o o o o o o o NOCAPS NODIGIT 1 NOPUNCT o x x DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-∼48 ∼48 ∼ ∼4 ∼48 ∼48 8 48 ∼48 ∼48 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT HIGHERFONT false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT HIGHERFONT false false BASELINE false
+48 48 4 48 48 48 8 48 48 48 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 o o o o o o o o o o NOCAPS NODIGIT 1 NOPUNCT o x x DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 2 2 2 2 2 2 2 2 2 2 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3730,6 +3733,7 @@ oxygen oxygen o ox oxy oxyg n en gen ygen NOCAPS NODIGIT 0 NOPUNCT oxygen xxxx x
 content content c co con cont t nt ent tent NOCAPS NODIGIT 0 NOPUNCT content xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 affects affects a af aff affe s ts cts ects NOCAPS NODIGIT 0 NOPUNCT affects xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 supercon supercon s su sup supe n on con rcon NOCAPS NODIGIT 0 NOPUNCT supercon xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ductivity ductivity d du duc duct y ty ity vity NOCAPS NODIGIT 0 NOPUNCT ductivity xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 HP hp H HP HP HP P HP HP HP ALLCAPS NODIGIT 0 NOPUNCT HP XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -4492,6 +4496,7 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSI
 Oe oe O Oe Oe Oe e Oe Oe Oe INITCAP NODIGIT 0 NOPUNCT Oe Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 HP hp H HP HP HP P HP HP HP ALLCAPS NODIGIT 0 NOPUNCT HP XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 samples samples s sa sam samp s es les ples NOCAPS NODIGIT 0 NOPUNCT samples xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false

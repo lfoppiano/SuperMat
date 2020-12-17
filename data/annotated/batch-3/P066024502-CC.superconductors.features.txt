@@ -1748,7 +1748,8 @@ bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEF
 single single s si sin sing e le gle ngle NOCAPS NODIGIT 0 NOPUNCT single xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 crystal crystal c cr cry crys l al tal stal NOCAPS NODIGIT 0 NOPUNCT crystal xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼86 ∼86 ∼ ∼8 ∼86 ∼86 6 86 ∼86 ∼86 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d SAMEFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ SAMEFONT SAMEFONTSIZE false false BASELINE false
+86 86 8 86 86 86 6 86 86 86 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2679,7 +2680,7 @@ about about a ab abo abou t ut out bout NOCAPS NODIGIT 0 NOPUNCT about xxxx x SA
 − − − − − − − − − − ALLCAPS NODIGIT 1 HYPHEN − − − DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
 4 4 4 4 4 4 4 4 4 4 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
 Ω ω Ω Ω Ω Ω Ω Ω Ω Ω ALLCAPS NODIGIT 1 NOPUNCT Ω X X DIFFERENTFONT HIGHERFONT false false BASELINE false
-· · · · · · · · · · ALLCAPS NODIGIT 1 DOT · · · DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+• • • • • • • • • • ALLCAPS NODIGIT 1 DOT • • • DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 cm cm c cm cm cm m cm cm cm NOCAPS NODIGIT 0 NOPUNCT cm xx x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 which which w wh whi whic h ch ich hich NOCAPS NODIGIT 0 NOPUNCT which xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false

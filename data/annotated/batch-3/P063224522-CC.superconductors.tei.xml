@@ -8,15 +8,15 @@
       <publicationStmt>
         <publisher>National Institute for Materials Science (NIMS), Tsukuba, Japan</publisher>
         <availability>
-          <licence target="http://creativecommons.org/licenses/by/3.0/">
-            <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this document.</p>
           </licence>
         </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
       <appInfo>
-        <application ident="grobid-superconductors" version="project.version">
+        <application ident="grobid-superconductors" version="0.2.0-SNAPSHOT">
           <ref target="https://github.com/lfoppiano/grobid-superconductors">A machine learning software for extracting materials and their properties from scientific literature.</ref>
         </application>
       </appInfo>
@@ -71,7 +71,7 @@
     <p>Refined site occupancy for Mg as a function of the starting Mg/B ratios for synthesized <rs type="material">MgB 2</rs> samples.</p>
     <p>Lattice constants a and c (4a) and the c/a ration (4b) as a function of the Mg/B starting composition for synthesized <rs type="material">MgB 2</rs> samples. The lines are only a guide for the eye. The statistical error from the profile analysis is smaller than the data points for the a-and c-axis.</p>
     <p>The isotropic (sig-1) and anisotropic (g1ec) strain broadening parameters determined from the Rietvelt profile analysis of the neutron powder diffraction pattern for synthesized samples of <rs type="material">MgB 2</rs> as a function of starting Mg/B composition. The line is only a guide for the eye. The statistical error from the profile analysis is smaller than the data points for the strain broadening parameters.</p>
-    <p>The <rs type="material">superconducting transition temperatures</rs> (<rs type="tc">T c</rs> ) for different samples of <rs type="material">MgB 2</rs> synthesized with different starting compositions. Fig. 6a <rs type="tc">shows T c</rs> vs. x and Fig. 6b shows <rs type="tc">T c</rs> vs. the <rs type="me_method">calculated</rs> phase fraction of either <rs type="material">MgB 4 (Mg deficient)</rs> or <rs type="material">Mg (Mg- rich)</rs>. In Fig 6b the lines are the least-squares fit to the data.</p>
+    <p>The <rs type="tc">superconducting transition temperatures</rs> (<rs type="tc">T c</rs> ) for different samples of <rs type="material">MgB 2</rs> synthesized with different starting compositions. Fig. 6a <rs type="tc">shows T c</rs> vs. x and Fig. 6b shows <rs type="tc">T c</rs> vs. the <rs type="me_method">calculated</rs> phase fraction of either <rs type="material">MgB 4 (Mg deficient)</rs> or <rs type="material">Mg (Mg- rich)</rs>. In Fig 6b the lines are the least-squares fit to the data.</p>
     <p>A simple phase diagram for an impurity Im in <rs type="material">MgB 2</rs> . The heavy line on the <rs type="material">Mg-B</rs> composition line is the composition region investigated in this study. The circles on the Mg 1-δ Im δ -B composition line delineate the line in phase space containing our samples assuming an impurity content of δ for the starting <rs type="material">Mg</rs>.</p>
         <ab type="tableCaption">Table 1. ICP-AES analysis for the starting B and <rs type="material">Mg</rs> materials and 3 <rs type="material">Mg x B 2</rs> synthesized compositions. Impurity concentrations are reported in µg/g and the numbers in parentheses are calculated values, where possible, based on the analyzed starting values. The excess Mg at the bottom of the synthesis crucible for the <rs type="material">Mg 1.3 B 2</rs> sample was not included in the analyzed sample. The samples were analyzed as two different groups at different times marked I and II. The accuracy of the analysis is ± 20%, however, the precision within a given group is ± 5%.</ab>
   </body>

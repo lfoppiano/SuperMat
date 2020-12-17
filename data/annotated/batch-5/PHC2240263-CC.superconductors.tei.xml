@@ -8,15 +8,15 @@
       <publicationStmt>
         <publisher>National Institute for Materials Science (NIMS), Tsukuba, Japan</publisher>
         <availability>
-          <licence target="http://creativecommons.org/licenses/by/3.0/">
-            <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this document.</p>
           </licence>
         </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
       <appInfo>
-        <application ident="grobid-superconductors" version="project.version">
+        <application ident="grobid-superconductors" version="0.2.0-SNAPSHOT">
           <ref target="https://github.com/lfoppiano/grobid-superconductors">A machine learning software for extracting materials and their properties from scientific literature.</ref>
         </application>
       </appInfo>
@@ -54,7 +54,7 @@
       <p>Tesanovic et al. have worked out a model of amplitude fluctuations of the order parameter for quasi two-dimensional superconductors near <rs type="tc">Tc</rs>. Their high-field approach gives explicitly the approximate response functions near the H C2 (T) line. A scaling functional law M/(TH) 1/2 = f( [ T-Tc(H) ] / (TH) 1/2 ) is found and has been observed by Li et al. in <rs type="material">Bi-2223 and Bi-2212</rs> crystals. The magnetization reads A is a constant.</p>
       <p>Following the authors , the model predicts the crossing point M*(T*) = k B T / φ o S but if we derive numerically the given free energy, the magnetization obtained is in disagreement with their formula. In the nearly three-dimensional phase <rs type="material">Y-123</rs>, Welp et al. have used a 3D identical scaling relation M/(TH) functional is not given explicitly.</p>
       <p>Below <rs type="tc">Tc</rs>, Cho et al. have observed in a <rs type="material">Bi-2212</rs> single crystal surprising scalings M(T, H)/ ) versus H where (T', H') is an arbitrary point in the reversible domain. They conclude that M(T, H) can be written as M( T, H) = f(T)g(H) and find that H C2 is quasi temperature independent in this temperature range.</p>
-      <p>summarizes the temperature derivatives of the measured logarithmic slopes ∂M(T)/∂ l n H and values of λ ab (0) directly obtained from Eq. (3b) with three different temperature dependences near <rs type="material">Tc</rs>. We adopted an anisotropy parameter γ= 5 to 6 for all three compounds, in agreement with previous results .</p>
+      <p>summarizes the temperature derivatives of the measured logarithmic slopes ∂M(T)/∂ l n H and values of λ ab (0) directly obtained from Eq. (3b) with three different temperature dependences near <rs type="tc">Tc</rs>. We adopted an anisotropy parameter γ= 5 to 6 for all three compounds, in agreement with previous results .</p>
       <p>The analysis presented in is based on a fit of the M(T, H) data in the reversible regime but omitting the region near <rs type="tc">Tc</rs>, i.e. T&lt;Tc-5K, H ≥ 5kOe. The free parameters entering Eq. (3a) (London model without vortex fluctuations) are λ ab (0), H C2 (0) and <rs type="tc">Tc</rs> labeled T C L , under the assumption of a WHH temperature dependence of λ and H C2 . The data shown in Figs. 2 to 4 are completed by the fitted M(T, H) curves in Fig. 2.</p>
       <p>Again, λ ab (0) was first determined from the slope of ∂M(T)/ ∂InH versus T. Ignoring the fluctuation term formally results in a divergence of the penetration depth at T* but the difference of ∂/∂T(∂M/∂1nH) and λ ab (0) is estimated not to exceed 4% and 2%, respectively. Considering the more important uncertainty concerning the appropriate value of k, we indicate in values according to Eq. (3b). Secondly, we have tested a fit similar to that used for the <rs type="material">YBaCuO</rs> phases but with an infinite anisotropy (i.e. I(γ)/γ=1/2, e(γ)=√e). However, the fit on the basis of the original London model is clearly unsatisfactory. We have therefore analyzed our reversible M(T, H) data ( T&lt; Tc, H ≥ 10 kOe) using Eqs. (3a) and (9c) and a WHH temperature dependence for λ, H C2 and κ. The effective interlayer parameter s C is determined from the observed crossing point</p>
       <p>Isothermal magnetization vs. ln(H/Oersted). (T*; (M(T*) (). We note that the values of s determined in this way are always larger than those corresponding to the crystal structure (s C , see ). The discrepancy is likely to result from the assumed 100% superconducting volume or from ηα B /√e being different from 1. The free parameters are λ ab (0), H C2,C (0), α B and Tc labeled here T C L+fl .</p>
@@ -70,7 +70,7 @@
         <p>As regards <rs type="material">Bi-2212</rs>: the critical field slope µo∂H c2,c /∂T⎢ Tc at Tc found in the present work (0.9 T/K) is markedly lower than values previously indicated, i.e. 1.4 T/K or even 2.7 T/K . The results for λ ab (0) also vary widely: 3000 Å , 3420-3900 Å , 1780 Å and 2100 Å , compared to the presently estimated 2200 Å.</p>
         <p>On <rs type="material">T1-2201</rs> we remark that a very small slope 0.65 T/K consistently obtained for two samples appears to he characteristics for this phase. The mean value of λ ab (0) = 2400 Å has to be compared with that of 1700 A obtained by Zuo et al. .</p>
         <p>Finally we note on <rs type="material">T1-2212</rs> that our result of 1.0 T/K from magnetization is perfectly in line with that obtained from <rs type="me_method">resistive measurements</rs> .</p>
-        <p>The analysis of the reversible magnetization of high-Tc superconductors allows one to test theories and to determine important physical parameters. For the three <rs type="material">YBaCuO</rs> phases, using the original London model we can fit the reversible M(H, T) measurements without including any other term. The parameters of <rs type="tc">Y-247</rs>, such as H C2 and λ, are between those of the two phases which compose its structure, i.e. <rs type="tc">Y-123</rs> and <rs type="tc">Y-124</rs>. For <rs type="material">BiSrCaCuO</rs> and <rs type="tc">TIBaCaCuO</rs>, extremely two- dimensional phases, the inclusion of a term to take into account the thermal fluctuation of vortices appears justified but the quantitative analysis is not entirely satisfactory.</p>
+        <p>The analysis of the reversible magnetization of high-Tc superconductors allows one to test theories and to determine important physical parameters. For the three <rs type="material">YBaCuO</rs> phases, using the original London model we can fit the reversible M(H, T) measurements without including any other term. The parameters of <rs type="material">Y-247</rs>, such as H C2 and λ, are between those of the two phases which compose its structure, i.e. <rs type="material">Y-123</rs> and <rs type="material">Y-124</rs>. For <rs type="material">BiSrCaCuO</rs> and <rs type="material">TIBaCaCuO</rs>, extremely two- dimensional phases, the inclusion of a term to take into account the thermal fluctuation of vortices appears justified but the quantitative analysis is not entirely satisfactory.</p>
       </body>
     </text>
   </tei>

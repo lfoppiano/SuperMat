@@ -1407,6 +1407,8 @@ measurements measurements m me mea meas s ts nts ents NOCAPS NODIGIT 0 NOPUNCT m
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 
 
+Na na N Na Na Na a Na Na Na INITCAP NODIGIT 0 NOPUNCT Na Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE true
+z z z z z z z z z z NOCAPS NODIGIT 1 NOPUNCT z x x DIFFERENTFONT LOWERFONT false true SUBSCRIPT true
 Co co C Co Co Co o Co Co Co INITCAP NODIGIT 0 NOPUNCT Co Xx Xx DIFFERENTFONT HIGHERFONT false false BASELINE true
 1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT LOWERFONT false false SUBSCRIPT true
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false SUBSCRIPT true
@@ -1844,7 +1846,8 @@ is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSI
 estimated estimated e es est esti d ed ted ated NOCAPS NODIGIT 0 NOPUNCT estimated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 be be b be be be e be be be NOCAPS NODIGIT 0 NOPUNCT be xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼1 ∼1 ∼ ∼1 ∼1 ∼1 1 ∼1 ∼1 ∼1 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false

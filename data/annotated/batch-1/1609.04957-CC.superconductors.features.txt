@@ -145,6 +145,7 @@ to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSI
 48 48 4 48 48 48 8 48 48 48 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 out out o ou out out t ut out out NOCAPS NODIGIT 0 NOPUNCT out xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 influence influence i in inf infl e ce nce ence NOCAPS NODIGIT 0 NOPUNCT influence xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -202,6 +203,7 @@ electron electron e el ele elec n on ron tron NOCAPS NODIGIT 0 NOPUNCT electron 
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 high high h hi hig high h gh igh high NOCAPS NODIGIT 0 NOPUNCT high xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 transition transition t tr tra tran n on ion tion NOCAPS NODIGIT 0 NOPUNCT transition xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperature temperature t te tem temp e re ure ture NOCAPS NODIGIT 0 NOPUNCT temperature xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -304,8 +306,7 @@ Fig fig F Fi Fig Fig g ig Fig Fig INITCAP NODIGIT 0 NOPUNCT Fig Xxx Xx SAMEFONT 
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 ] ] ] ] ] ] ] ] ] ] ALLCAPS NODIGIT 1 ENDBRACKET ] ] ] SAMEFONT SAMEFONTSIZE false false BASELINE false
-2 2 2 2 2 2 2 2 2 2 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , DIFFERENTFONT HIGHERFONT false false BASELINE false
+, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
 iii iii i ii iii iii i ii iii iii NOCAPS NODIGIT 0 NOPUNCT iii xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -322,10 +323,7 @@ into into i in int into o to nto into NOCAPS NODIGIT 0 NOPUNCT into xxxx x SAMEF
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 single single s si sin sing e le gle ngle NOCAPS NODIGIT 0 NOPUNCT single xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 dome dome d do dom dome e me ome dome NOCAPS NODIGIT 0 NOPUNCT dome xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-3 3 3 3 3 3 3 3 3 3 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 Intriguingly intriguingly I In Int Intr y ly gly ngly INITCAP NODIGIT 0 NOPUNCT Intriguingly Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 upon upon u up upo upon n on pon upon NOCAPS NODIGIT 0 NOPUNCT upon xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -348,8 +346,7 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x DIFFERENTFONT HIGHE
 over over o ov ove over r er ver over NOCAPS NODIGIT 0 NOPUNCT over xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 45 45 4 45 45 45 5 45 45 45 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
-1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , DIFFERENTFONT HIGHERFONT false false BASELINE false
+, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 shown shown s sh sho show n wn own hown NOCAPS NODIGIT 0 NOPUNCT shown xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 by by b by by by y by by by NOCAPS NODIGIT 0 NOPUNCT by xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -364,7 +361,6 @@ Figs figs F Fi Fig Figs s gs igs Figs INITCAP NODIGIT 0 NOPUNCT Figs Xxxx Xx SAM
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-4 4 4 4 4 4 4 4 4 4 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 described described d de des desc d ed bed ibed NOCAPS NODIGIT 0 NOPUNCT described xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -379,7 +375,11 @@ in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSI
 this this t th thi this s is his this NOCAPS NODIGIT 0 NOPUNCT this xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 compound compound c co com comp d nd und ound NOCAPS NODIGIT 0 NOPUNCT compound xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 have have h ha hav have e ve ave have NOCAPS NODIGIT 0 NOPUNCT have xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-online online o on onl onli e ne ine line NOCAPS NODIGIT 0 NOPUNCT online xxxx x DIFFERENTFONT LOWERFONT false false BASELINE false
+
+
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( DIFFERENTFONT HIGHERFONT false false BASELINE false
+color color c co col colo r or lor olor NOCAPS NODIGIT 0 NOPUNCT color xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+online online o on onl onli e ne ine line NOCAPS NODIGIT 0 NOPUNCT online xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 Schematic schematic S Sc Sch Sche c ic tic atic INITCAP NODIGIT 0 NOPUNCT Schematic Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 phase phase p ph pha phas e se ase hase NOCAPS NODIGIT 0 NOPUNCT phase xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -388,10 +388,11 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSI
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X SAMEFONT SAMEFONTSIZE false false BASELINE false
+H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X SAMEFONT SAMEFONTSIZE false false BASELINE true
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-La la L La La La a La La La INITCAP NODIGIT 0 NOPUNCT La Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
-1111 1111 1 11 111 1111 1 11 111 1111 NOCAPS ALLDIGIT 0 NOPUNCT XXXX dddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
+La la L La La La a La La La INITCAP NODIGIT 0 NOPUNCT La Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE true
+1111 1111 1 11 111 1111 1 11 111 1111 NOCAPS ALLDIGIT 0 NOPUNCT XXXX dddd d SAMEFONT SAMEFONTSIZE false false BASELINE true
 series series s se ser seri s es ies ries NOCAPS NODIGIT 0 NOPUNCT series xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 LaFeAsO lafeaso L La LaF LaFe O sO AsO eAsO INITCAP NODIGIT 0 NOPUNCT LaFeAsO XxXxXxX XxXxXxX SAMEFONT SAMEFONTSIZE false false BASELINE false
 1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -424,6 +425,7 @@ and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SA
 SC sc S SC SC SC C SC SC SC ALLCAPS NODIGIT 0 NOPUNCT SC XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
 represent represent r re rep repr t nt ent sent NOCAPS NODIGIT 0 NOPUNCT represent xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 antiferro antiferro a an ant anti o ro rro erro NOCAPS NODIGIT 0 NOPUNCT antiferro xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 magnetic magnetic m ma mag magn c ic tic etic NOCAPS NODIGIT 0 NOPUNCT magnetic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 superconducting superconducting s su sup supe g ng ing ting NOCAPS NODIGIT 0 NOPUNCT superconducting xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -433,6 +435,7 @@ respectively respectively r re res resp y ly ely vely NOCAPS NODIGIT 0 NOPUNCT r
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 ar ar a ar ar ar r ar ar ar NOCAPS NODIGIT 0 NOPUNCT ar xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 row row r ro row row w ow row row NOCAPS NODIGIT 0 NOPUNCT row xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -454,20 +457,8 @@ and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SA
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 GPa gpa G GP GPa GPa a Pa GPa GPa INITCAP NODIGIT 0 NOPUNCT GPa XXx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-* * * * * * * * * * ALLCAPS NODIGIT 1 NOPUNCT * * * DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-Email email E Em Ema Emai l il ail mail INITCAP NODIGIT 0 NOPUNCT Email Xxxx Xx DIFFERENTFONT HIGHERFONT false false BASELINE false
-: : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : SAMEFONT SAMEFONTSIZE false false BASELINE false
-naoki@fujiwara naoki@fujiwara n na nao naok a ra ara wara NOCAPS NODIGIT 0 NOPUNCT naoki@fujiwara xx@xxx x@x SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-h h h h h h h h h h NOCAPS NODIGIT 1 NOPUNCT h x x SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-kyoto kyoto k ky kyo kyot o to oto yoto NOCAPS NODIGIT 0 NOPUNCT kyoto xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
-u u u u u u u u u u NOCAPS NODIGIT 1 NOPUNCT u x x SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-ac ac a ac ac ac c ac ac ac NOCAPS NODIGIT 0 NOPUNCT ac xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-jp jp j jp jp jp p jp jp jp NOCAPS NODIGIT 0 NOPUNCT jp xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 not not n no not not t ot not not NOCAPS NODIGIT 0 NOPUNCT not xxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 been been b be bee been n en een been NOCAPS NODIGIT 0 NOPUNCT been xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 observed observed o ob obs obse d ed ved rved NOCAPS NODIGIT 0 NOPUNCT observed xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -494,6 +485,7 @@ which which w wh whi whic h ch ich hich NOCAPS NODIGIT 0 NOPUNCT which xxxx x SA
 have have h ha hav have e ve ave have NOCAPS NODIGIT 0 NOPUNCT have xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 been been b be bee been n en een been NOCAPS NODIGIT 0 NOPUNCT been xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 vestigated vestigated v ve ves vest d ed ted ated NOCAPS NODIGIT 0 NOPUNCT vestigated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 intensively intensively i in int inte y ly ely vely NOCAPS NODIGIT 0 NOPUNCT intensively xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 from from f fr fro from m om rom from NOCAPS NODIGIT 0 NOPUNCT from xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -512,6 +504,7 @@ The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT 
 electronic electronic e el ele elec c ic nic onic NOCAPS NODIGIT 0 NOPUNCT electronic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 phase phase p ph pha phas e se ase hase NOCAPS NODIGIT 0 NOPUNCT phase xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 di di d di di di i di di di NOCAPS NODIGIT 0 NOPUNCT di xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 agram agram a ag agr agra m am ram gram NOCAPS NODIGIT 0 NOPUNCT agram xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -528,8 +521,7 @@ high high h hi hig high h gh igh high NOCAPS NODIGIT 0 NOPUNCT high xxxx x SAMEF
 T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
 cuprates cuprates c cu cup cupr s es tes ates NOCAPS NODIGIT 0 NOPUNCT cuprates xxxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
-4 4 4 4 4 4 4 4 4 4 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 analogy analogy a an ana anal y gy ogy logy NOCAPS NODIGIT 0 NOPUNCT analogy xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -537,6 +529,7 @@ reminiscent reminiscent r re rem remi t nt ent cent NOCAPS NODIGIT 0 NOPUNCT rem
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 impor impor i im imp impo r or por mpor NOCAPS NODIGIT 0 NOPUNCT impor xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tance tance t ta tan tanc e ce nce ance NOCAPS NODIGIT 0 NOPUNCT tance xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 AF af A AF AF AF F AF AF AF ALLCAPS NODIGIT 0 NOPUNCT AF XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -558,6 +551,7 @@ is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSI
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 major major m ma maj majo r or jor ajor NOCAPS NODIGIT 0 NOPUNCT major xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 candi candi c ca can cand i di ndi andi NOCAPS NODIGIT 0 NOPUNCT candi xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 date date d da dat date e te ate date NOCAPS NODIGIT 0 NOPUNCT date xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -613,10 +607,7 @@ see see s se see see e ee see see NOCAPS NODIGIT 0 NOPUNCT see xxx x SAMEFONT SA
 b b b b b b b b b b NOCAPS NODIGIT 1 NOPUNCT b x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 ] ] ] ] ] ] ] ] ] ] ALLCAPS NODIGIT 1 ENDBRACKET ] ] ] SAMEFONT SAMEFONTSIZE false false BASELINE false
-5 5 5 5 5 5 5 5 5 5 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-6 6 6 6 6 6 6 6 6 6 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 Because because B Be Bec Beca e se use ause INITCAP NODIGIT 0 NOPUNCT Because Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 this this t th thi this s is his this NOCAPS NODIGIT 0 NOPUNCT this xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -627,6 +618,7 @@ T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X DIFFERENTFONT SAMEFONTSIZE f
 c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 en en e en en en n en en en NOCAPS NODIGIT 0 NOPUNCT en xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 hanced hanced h ha han hanc d ed ced nced NOCAPS NODIGIT 0 NOPUNCT hanced xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 low low l lo low low w ow low low NOCAPS NODIGIT 0 NOPUNCT low xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -655,6 +647,7 @@ a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false f
 phase phase p ph pha phas e se ase hase NOCAPS NODIGIT 0 NOPUNCT phase xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 diagram diagram d di dia diag m am ram gram NOCAPS NODIGIT 0 NOPUNCT diagram xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sim sim s si sim sim m im sim sim NOCAPS NODIGIT 0 NOPUNCT sim xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ilar ilar i il ila ilar r ar lar ilar NOCAPS NODIGIT 0 NOPUNCT ilar xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -685,8 +678,7 @@ to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSI
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 undoped undoped u un und undo d ed ped oped NOCAPS NODIGIT 0 NOPUNCT undoped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 material material m ma mat mate l al ial rial NOCAPS NODIGIT 0 NOPUNCT material xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-9 9 9 9 9 9 9 9 9 9 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 By by B By By By y By By By INITCAP NODIGIT 0 NOPUNCT By Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 tuning tuning t tu tun tuni g ng ing ning NOCAPS NODIGIT 0 NOPUNCT tuning xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -750,6 +742,7 @@ free free f fr fre free e ee ree free NOCAPS NODIGIT 0 NOPUNCT free xxxx x SAMEF
 from from f fr fro from m om rom from NOCAPS NODIGIT 0 NOPUNCT from xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 antiferromag antiferromag a an ant anti g ag mag omag NOCAPS NODIGIT 0 NOPUNCT antiferromag xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 netism netism n ne net neti m sm ism tism NOCAPS NODIGIT 0 NOPUNCT netism xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ; ; ; ; ; ; ; ; ; ; ALLCAPS NODIGIT 1 PUNCT ; ; ; SAMEFONT SAMEFONTSIZE false false BASELINE false
 however however h ho how howe r er ver ever NOCAPS NODIGIT 0 NOPUNCT however xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -792,8 +785,7 @@ even even e ev eve even n en ven even NOCAPS NODIGIT 0 NOPUNCT even xxxx x SAMEF
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ambient ambient a am amb ambi t nt ent ient NOCAPS NODIGIT 0 NOPUNCT ambient xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-12 12 1 12 12 12 2 12 12 12 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 
 
 AF af A AF AF AF F AF AF AF ALLCAPS NODIGIT 0 NOPUNCT AF XX X DIFFERENTFONT HIGHERFONT false false BASELINE false
@@ -854,6 +846,7 @@ GPa gpa G GP GPa GPa a Pa GPa GPa INITCAP NODIGIT 0 NOPUNCT GPa XXx Xx SAMEFONT 
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 no no n no no no o no no no NOCAPS NODIGIT 0 NOPUNCT no xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 predom predom p pr pre pred m om dom edom NOCAPS NODIGIT 0 NOPUNCT predom xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 inant inant i in ina inan t nt ant nant NOCAPS NODIGIT 0 NOPUNCT inant xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 AF af A AF AF AF F AF AF AF ALLCAPS NODIGIT 0 NOPUNCT AF XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
 fluctuations fluctuations f fl flu fluc s ns ons ions NOCAPS NODIGIT 0 NOPUNCT fluctuations xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -872,6 +865,7 @@ material material m ma mat mate l al ial rial NOCAPS NODIGIT 0 NOPUNCT material 
 available available a av ava avai e le ble able NOCAPS NODIGIT 0 NOPUNCT available xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 investi investi i in inv inve i ti sti esti NOCAPS NODIGIT 0 NOPUNCT investi xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 gating gating g ga gat gati g ng ing ting NOCAPS NODIGIT 0 NOPUNCT gating xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 magnetic magnetic m ma mag magn c ic tic etic NOCAPS NODIGIT 0 NOPUNCT magnetic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -917,9 +911,9 @@ iron iron i ir iro iron n on ron iron NOCAPS NODIGIT 0 NOPUNCT iron xxxx x SAMEF
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 based based b ba bas base d ed sed ased NOCAPS NODIGIT 0 NOPUNCT based xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pnic pnic p pn pni pnic c ic nic pnic NOCAPS NODIGIT 0 NOPUNCT pnic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tides tides t ti tid tide s es des ides NOCAPS NODIGIT 0 NOPUNCT tides xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-15 15 1 15 15 15 5 15 15 15 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-; ; ; ; ; ; ; ; ; ; ALLCAPS NODIGIT 1 PUNCT ; ; ; DIFFERENTFONT HIGHERFONT false false BASELINE false
+; ; ; ; ; ; ; ; ; ; ALLCAPS NODIGIT 1 PUNCT ; ; ; SAMEFONT SAMEFONTSIZE false false BASELINE false
 however however h ho how howe r er ver ever NOCAPS NODIGIT 0 NOPUNCT however xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 it it i it it it t it it it NOCAPS NODIGIT 0 NOPUNCT it xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1040,9 +1034,6 @@ lines lines l li lin line s es nes ines NOCAPS NODIGIT 0 NOPUNCT lines xxxx x SA
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 
 
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
-3 3 3 3 3 3 3 3 3 3 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
-: : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
 color color c co col colo r or lor olor NOCAPS NODIGIT 0 NOPUNCT color xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 online online o on onl onli e ne ine line NOCAPS NODIGIT 0 NOPUNCT online xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1117,6 +1108,8 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSI
 dashed dashed d da das dash d ed hed shed NOCAPS NODIGIT 0 NOPUNCT dashed xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 lines lines l li lin line s es nes ines NOCAPS NODIGIT 0 NOPUNCT lines xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 hinders hinders h hi hin hind s rs ers ders NOCAPS NODIGIT 0 NOPUNCT hinders xxxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 investigation investigation i in inv inve n on ion tion NOCAPS NODIGIT 0 NOPUNCT investigation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1163,6 +1156,7 @@ in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSI
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 lower lower l lo low lowe r er wer ower NOCAPS NODIGIT 0 NOPUNCT lower xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 dop dop d do dop dop p op dop dop NOCAPS NODIGIT 0 NOPUNCT dop xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ing ing i in ing ing g ng ing ing NOCAPS NODIGIT 0 NOPUNCT ing xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 range range r ra ran rang e ge nge ange NOCAPS NODIGIT 0 NOPUNCT range xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 than than t th tha than n an han than NOCAPS NODIGIT 0 NOPUNCT than xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1191,6 +1185,7 @@ So so S So So So o So So So INITCAP NODIGIT 0 NOPUNCT So Xx Xx SAMEFONT SAMEFONT
 far far f fa far far r ar far far NOCAPS NODIGIT 0 NOPUNCT far xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 nuclear nuclear n nu nuc nucl r ar ear lear NOCAPS NODIGIT 0 NOPUNCT nuclear xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 magnetic magnetic m ma mag magn c ic tic etic NOCAPS NODIGIT 0 NOPUNCT magnetic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 resonance resonance r re res reso e ce nce ance NOCAPS NODIGIT 0 NOPUNCT resonance xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1279,6 +1274,7 @@ doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SA
 La la L La La La a La La La INITCAP NODIGIT 0 NOPUNCT La Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE true
 1111 1111 1 11 111 1111 1 11 111 1111 NOCAPS ALLDIGIT 0 NOPUNCT XXXX dddd d SAMEFONT SAMEFONTSIZE false false BASELINE true
 se se s se se se e se se se NOCAPS NODIGIT 0 NOPUNCT se xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ries ries r ri rie ries s es ies ries NOCAPS NODIGIT 0 NOPUNCT ries xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 3 3 3 3 3 3 3 3 3 3 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1321,6 +1317,7 @@ was was w wa was was s as was was NOCAPS NODIGIT 0 NOPUNCT was xxx x SAMEFONT SA
 applied applied a ap app appl d ed ied lied NOCAPS NODIGIT 0 NOPUNCT applied xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 by by b by by by y by by by NOCAPS NODIGIT 0 NOPUNCT by xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 us us u us us us s us us us NOCAPS NODIGIT 0 NOPUNCT us xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ing ing i in ing ing g ng ing ing NOCAPS NODIGIT 0 NOPUNCT ing xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 NiCrAl nicral N Ni NiC NiCr l Al rAl CrAl INITCAP NODIGIT 0 NOPUNCT NiCrAl XxXxXx XxXxXx SAMEFONT SAMEFONTSIZE false false BASELINE true
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE true
@@ -1349,6 +1346,7 @@ fluorinate fluorinate f fl flu fluo e te ate nate NOCAPS NODIGIT 0 NOPUNCT fluor
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pres pres p pr pre pres s es res pres NOCAPS NODIGIT 0 NOPUNCT pres xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 sure sure s su sur sure e re ure sure NOCAPS NODIGIT 0 NOPUNCT sure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 mediation mediation m me med medi n on ion tion NOCAPS NODIGIT 0 NOPUNCT mediation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 liquid liquid l li liq liqu d id uid quid NOCAPS NODIGIT 0 NOPUNCT liquid xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1391,6 +1389,7 @@ which which w wh whi whic h ch ich hich NOCAPS NODIGIT 0 NOPUNCT which xxxx x SA
 serves serves s se ser serv s es ves rves NOCAPS NODIGIT 0 NOPUNCT serves xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 de de d de de de e de de de NOCAPS NODIGIT 0 NOPUNCT de xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tect tect t te tec tect t ct ect tect NOCAPS NODIGIT 0 NOPUNCT tect xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 detuning detuning d de det detu g ng ing ning NOCAPS NODIGIT 0 NOPUNCT detuning xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1440,8 +1439,7 @@ pattern pattern p pa pat patt n rn ern tern NOCAPS NODIGIT 0 NOPUNCT pattern xxx
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 double double d do dou doub e le ble uble NOCAPS NODIGIT 0 NOPUNCT double xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 edges edges e ed edg edge s es ges dges NOCAPS NODIGIT 0 NOPUNCT edges xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-14 14 1 14 14 14 4 14 14 14 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , DIFFERENTFONT HIGHERFONT false false BASELINE false
+, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 which which w wh whi whic h ch ich hich NOCAPS NODIGIT 0 NOPUNCT which xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 originates originates o or ori orig s es tes ates NOCAPS NODIGIT 0 NOPUNCT originates xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 from from f fr fro from m om rom from NOCAPS NODIGIT 0 NOPUNCT from xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1472,6 +1470,7 @@ by by b by by by y by by by NOCAPS NODIGIT 0 NOPUNCT by xx x SAMEFONT SAMEFONTSI
 using using u us usi usin g ng ing sing NOCAPS NODIGIT 0 NOPUNCT using xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 saturation saturation s sa sat satu n on ion tion NOCAPS NODIGIT 0 NOPUNCT saturation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 recovery recovery r re rec reco y ry ery very NOCAPS NODIGIT 0 NOPUNCT recovery xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 method method m me met meth d od hod thod NOCAPS NODIGIT 0 NOPUNCT method xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1513,7 +1512,9 @@ MHz mhz M MH MHz MHz z Hz MHz MHz INITCAP NODIGIT 0 NOPUNCT MHz XXx Xx SAMEFONT 
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 signals signals s si sig sign s ls als nals NOCAPS NODIGIT 0 NOPUNCT signals xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( DIFFERENTFONT LOWERFONT false false BASELINE false
+
+
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( DIFFERENTFONT HIGHERFONT false false BASELINE false
 color color c co col colo r or lor olor NOCAPS NODIGIT 0 NOPUNCT color xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 online online o on onl onli e ne ine line NOCAPS NODIGIT 0 NOPUNCT online xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1621,6 +1622,8 @@ pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure 
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 applied applied a ap app appl d ed ied lied NOCAPS NODIGIT 0 NOPUNCT applied xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 low low l lo low low w ow low low NOCAPS NODIGIT 0 NOPUNCT low xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1644,6 +1647,7 @@ applied applied a ap app appl d ed ied lied NOCAPS NODIGIT 0 NOPUNCT applied xxx
 field field f fi fie fiel d ld eld ield NOCAPS NODIGIT 0 NOPUNCT field xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 Fig fig F Fi Fig Fig g ig Fig Fig INITCAP NODIGIT 0 NOPUNCT Fig Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ures ures u ur ure ures s es res ures NOCAPS NODIGIT 0 NOPUNCT ures xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 2 2 2 2 2 2 2 2 2 2 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1753,6 +1757,7 @@ enhanced enhanced e en enh enha d ed ced nced NOCAPS NODIGIT 0 NOPUNCT enhanced 
 upon upon u up upo upon n on pon upon NOCAPS NODIGIT 0 NOPUNCT upon xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 applying applying a ap app appl g ng ing ying NOCAPS NODIGIT 0 NOPUNCT applying xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pres pres p pr pre pres s es res pres NOCAPS NODIGIT 0 NOPUNCT pres xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 sure sure s su sur sure e re ure sure NOCAPS NODIGIT 0 NOPUNCT sure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 For for F Fo For For r or For For INITCAP NODIGIT 0 NOPUNCT For Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1867,6 +1872,7 @@ is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSI
 significantly significantly s si sig sign y ly tly ntly NOCAPS NODIGIT 0 NOPUNCT significantly xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 suppressed suppressed s su sup supp d ed sed ssed NOCAPS NODIGIT 0 NOPUNCT suppressed xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 be be b be be be e be be be NOCAPS NODIGIT 0 NOPUNCT be xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 cause cause c ca cau caus e se use ause NOCAPS NODIGIT 0 NOPUNCT cause xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 we we w we we we e we we we NOCAPS NODIGIT 0 NOPUNCT we xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 measured measured m me mea meas d ed red ured NOCAPS NODIGIT 0 NOPUNCT measured xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1906,6 +1912,7 @@ agreement agreement a ag agr agre t nt ent ment NOCAPS NODIGIT 0 NOPUNCT agreeme
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 those those t th tho thos e se ose hose NOCAPS NODIGIT 0 NOPUNCT those xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 de de d de de de e de de de NOCAPS NODIGIT 0 NOPUNCT de xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 termined termined t te ter term d ed ned ined NOCAPS NODIGIT 0 NOPUNCT termined xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 from from f fr fro from m om rom from NOCAPS NODIGIT 0 NOPUNCT from xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2020,7 +2027,8 @@ highest highest h hi hig high t st est hest NOCAPS NODIGIT 0 NOPUNCT highest xxx
 T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( DIFFERENTFONT HIGHERFONT false false BASELINE false
-∼55 ∼55 ∼ ∼5 ∼55 ∼55 5 55 ∼55 ∼55 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d SAMEFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ SAMEFONT SAMEFONTSIZE false false BASELINE false
+55 55 5 55 55 55 5 55 55 55 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2065,6 +2073,7 @@ by by b by by by y by by by NOCAPS NODIGIT 0 NOPUNCT by xx x SAMEFONT SAMEFONTSI
 using using u us usi usin g ng ing sing NOCAPS NODIGIT 0 NOPUNCT using xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 imagi imagi i im ima imag i gi agi magi NOCAPS NODIGIT 0 NOPUNCT imagi xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 nary nary n na nar nary y ry ary nary NOCAPS NODIGIT 0 NOPUNCT nary xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 part part p pa par part t rt art part NOCAPS NODIGIT 0 NOPUNCT part xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2103,6 +2112,7 @@ is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x DIFFERENTFONT HIGHE
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 angular angular a an ang angu r ar lar ular NOCAPS NODIGIT 0 NOPUNCT angular xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 fre fre f fr fre fre e re fre fre NOCAPS NODIGIT 0 NOPUNCT fre xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 quency quency q qu que quen y cy ncy ency NOCAPS NODIGIT 0 NOPUNCT quency xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 nuclei nuclei n nu nuc nucl i ei lei clei NOCAPS NODIGIT 0 NOPUNCT nuclei xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2121,6 +2131,7 @@ spin spin s sp spi spin n in pin spin NOCAPS NODIGIT 0 NOPUNCT spin xxxx x SAMEF
 fluctuations fluctuations f fl flu fluc s ns ons ions NOCAPS NODIGIT 0 NOPUNCT fluctuations xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 are are a ar are are e re are are NOCAPS NODIGIT 0 NOPUNCT are xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pre pre p pr pre pre e re pre pre NOCAPS NODIGIT 0 NOPUNCT pre xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 dominant dominant d do dom domi t nt ant nant NOCAPS NODIGIT 0 NOPUNCT dominant xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 Curie curie C Cu Cur Curi e ie rie urie INITCAP NODIGIT 0 NOPUNCT Curie Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2172,6 +2183,7 @@ behavior behavior b be beh beha r or ior vior NOCAPS NODIGIT 0 NOPUNCT behavior 
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 not not n no not not t ot not not NOCAPS NODIGIT 0 NOPUNCT not xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 observ observ o ob obs obse v rv erv serv NOCAPS NODIGIT 0 NOPUNCT observ xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 able able a ab abl able e le ble able NOCAPS NODIGIT 0 NOPUNCT able xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
@@ -2200,8 +2212,7 @@ c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false
 = = = = = = = = = = ALLCAPS NODIGIT 1 NOPUNCT = = = DIFFERENTFONT HIGHERFONT false false BASELINE false
 30 30 3 30 30 30 0 30 30 30 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
-20 20 2 20 20 20 0 20 20 20 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-: : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : DIFFERENTFONT HIGHERFONT false false BASELINE false
+: : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 compound compound c co com comp d nd und ound NOCAPS NODIGIT 0 NOPUNCT compound xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 exhibits exhibits e ex exh exhi s ts its bits NOCAPS NODIGIT 0 NOPUNCT exhibits xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2253,6 +2264,7 @@ confirmed confirmed c co con conf d ed med rmed NOCAPS NODIGIT 0 NOPUNCT confirm
 from from f fr fro from m om rom from NOCAPS NODIGIT 0 NOPUNCT from xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 neutron neutron n ne neu neut n on ron tron NOCAPS NODIGIT 0 NOPUNCT neutron xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 scattering scattering s sc sca scat g ng ing ring NOCAPS NODIGIT 0 NOPUNCT scattering xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 measurements measurements m me mea meas s ts nts ents NOCAPS NODIGIT 0 NOPUNCT measurements xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2263,7 +2275,6 @@ LaFeAsO lafeaso L La LaF LaFe O sO AsO eAsO INITCAP NODIGIT 0 NOPUNCT LaFeAsO Xx
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x SAMEFONT SAMEFONTSIZE false false SUBSCRIPT true
 H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT HIGHERFONT false false BASELINE true
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-21 21 2 21 21 21 1 21 21 21 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT SAMEFONTSIZE false false SUPERSCRIPT false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 LaFeAsO lafeaso L La LaF LaFe O sO AsO eAsO INITCAP NODIGIT 0 NOPUNCT LaFeAsO XxXxXxX XxXxXxX SAMEFONT SAMEFONTSIZE false false BASELINE true
 1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d DIFFERENTFONT LOWERFONT false false SUBSCRIPT true
@@ -2271,7 +2282,6 @@ LaFeAsO lafeaso L La LaF LaFe O sO AsO eAsO INITCAP NODIGIT 0 NOPUNCT LaFeAsO Xx
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x SAMEFONT SAMEFONTSIZE false false SUBSCRIPT true
 F f F F F F F F F F ALLCAPS NODIGIT 1 NOPUNCT F X X DIFFERENTFONT HIGHERFONT false false BASELINE true
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-22 22 2 22 22 22 2 22 22 22 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT SAMEFONTSIZE false false SUPERSCRIPT false
 : : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : DIFFERENTFONT HIGHERFONT false false BASELINE false
 An an A An An An n An An An INITCAP NODIGIT 0 NOPUNCT An Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 inelastic inelastic i in ine inel c ic tic stic NOCAPS NODIGIT 0 NOPUNCT inelastic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2295,6 +2305,7 @@ it it i it it it t it it it NOCAPS NODIGIT 0 NOPUNCT it xx x SAMEFONT SAMEFONTSI
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 unambiguously unambiguously u un una unam y ly sly usly NOCAPS NODIGIT 0 NOPUNCT unambiguously xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ob ob o ob ob ob b ob ob ob NOCAPS NODIGIT 0 NOPUNCT ob xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 servable servable s se ser serv e le ble able NOCAPS NODIGIT 0 NOPUNCT servable xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 near near n ne nea near r ar ear near NOCAPS NODIGIT 0 NOPUNCT near xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2344,6 +2355,7 @@ fact fact f fa fac fact t ct act fact NOCAPS NODIGIT 0 NOPUNCT fact xxxx x SAMEF
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 photoemission photoemission p ph pho phot n on ion sion NOCAPS NODIGIT 0 NOPUNCT photoemission xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 spec spec s sp spe spec c ec pec spec NOCAPS NODIGIT 0 NOPUNCT spec xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 troscopy troscopy t tr tro tros y py opy copy NOCAPS NODIGIT 0 NOPUNCT troscopy xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 measurements measurements m me mea meas s ts nts ents NOCAPS NODIGIT 0 NOPUNCT measurements xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 demonstrate demonstrate d de dem demo e te ate rate NOCAPS NODIGIT 0 NOPUNCT demonstrate xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2391,10 +2403,7 @@ using using u us usi usin g ng ing sing NOCAPS NODIGIT 0 NOPUNCT using xxxx x DI
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 Korringa korringa K Ko Kor Korr a ga nga inga INITCAP NODIGIT 0 NOPUNCT Korringa Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 relation relation r re rel rela n on ion tion NOCAPS NODIGIT 0 NOPUNCT relation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-24 24 2 24 24 24 4 24 24 24 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-25 25 2 25 25 25 5 25 25 25 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false SUPERSCRIPT false
-for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
+for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 d d d d d d d d d d NOCAPS NODIGIT 1 NOPUNCT d x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 electron electron e el ele elec n on ron tron NOCAPS NODIGIT 0 NOPUNCT electron xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2417,6 +2426,7 @@ represent represent r re rep repr t nt ent sent NOCAPS NODIGIT 0 NOPUNCT represe
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 gyromagnetic gyromagnetic g gy gyr gyro c ic tic etic NOCAPS NODIGIT 0 NOPUNCT gyromagnetic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ra ra r ra ra ra a ra ra ra NOCAPS NODIGIT 0 NOPUNCT ra xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tio tio t ti tio tio o io tio tio NOCAPS NODIGIT 0 NOPUNCT tio xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 75 75 7 75 75 75 5 75 75 75 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
@@ -2499,9 +2509,8 @@ been been b be bee been n en een been NOCAPS NODIGIT 0 NOPUNCT been xxxx x SAMEF
 estimated estimated e es est esti d ed ted ated NOCAPS NODIGIT 0 NOPUNCT estimated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 be be b be be be e be be be NOCAPS NODIGIT 0 NOPUNCT be xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-
-
-∼25 ∼25 ∼ ∼2 ∼25 ∼25 5 25 ∼25 ∼25 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT HIGHERFONT false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+25 25 2 25 25 25 5 25 25 25 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 kOe koe k kO kOe kOe e Oe kOe kOe NOCAPS NODIGIT 0 NOPUNCT kOe xXx xXx DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 / / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false false BASELINE false
 µ µ µ µ µ µ µ µ µ µ NOCAPS NODIGIT 1 NOPUNCT µ x x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2512,8 +2521,7 @@ K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X DIFFERENTFONT SAMEFONTSIZE f
 − − − − − − − − − − ALLCAPS NODIGIT 1 HYPHEN − − − DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 χ χ χ χ χ χ χ χ χ χ NOCAPS NODIGIT 1 NOPUNCT χ x x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 plot plot p pl plo plot t ot lot plot NOCAPS NODIGIT 0 NOPUNCT plot xxxx x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
-27 27 2 27 27 27 7 27 27 27 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 theoretically theoretically t th the theo y ly lly ally NOCAPS NODIGIT 0 NOPUNCT theoretically xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 calculated calculated c ca cal calc d ed ted ated NOCAPS NODIGIT 0 NOPUNCT calculated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2534,6 +2542,7 @@ x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT SAMEFONTSIZE fa
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ambient ambient a am amb ambi t nt ent ient NOCAPS NODIGIT 0 NOPUNCT ambient xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pres pres p pr pre pres s es res pres NOCAPS NODIGIT 0 NOPUNCT pres xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 sure sure s su sur sure e re ure sure NOCAPS NODIGIT 0 NOPUNCT sure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 are are a ar are are e re are are NOCAPS NODIGIT 0 NOPUNCT are xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2647,6 +2656,7 @@ agreement agreement a ag agr agre t nt ent ment NOCAPS NODIGIT 0 NOPUNCT agreeme
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 oretically oretically o or ore oret y ly lly ally NOCAPS NODIGIT 0 NOPUNCT oretically xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 estimated estimated e es est esti d ed ted ated NOCAPS NODIGIT 0 NOPUNCT estimated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 value value v va val valu e ue lue alue NOCAPS NODIGIT 0 NOPUNCT value xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2662,8 +2672,7 @@ x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT SAMEFONTSIZE fa
 0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 20 20 2 20 20 20 0 20 20 20 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-28 28 2 28 28 28 8 28 28 28 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT HIGHERFONT false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 At at A At At At t At At At INITCAP NODIGIT 0 NOPUNCT At Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 high high h hi hig high h gh igh high NOCAPS NODIGIT 0 NOPUNCT high xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperatures temperatures t te tem temp s es res ures NOCAPS NODIGIT 0 NOPUNCT temperatures xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2682,7 +2691,30 @@ is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x SAMEFONT SAMEFONTSI
 almost almost a al alm almo t st ost most NOCAPS NODIGIT 0 NOPUNCT almost xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 same same s sa sam same e me ame same NOCAPS NODIGIT 0 NOPUNCT same xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . DIFFERENTFONT LOWERFONT false false BASELINE false
+
+
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( DIFFERENTFONT HIGHERFONT false false BASELINE false
+color color c co col colo r or lor olor NOCAPS NODIGIT 0 NOPUNCT color xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+online online o on onl onli e ne ine line NOCAPS NODIGIT 0 NOPUNCT online xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
+a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
+) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false false BASELINE false
+T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false false BASELINE false
+for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+LaFeAsO lafeaso L La LaF LaFe O sO AsO eAsO INITCAP NODIGIT 0 NOPUNCT LaFeAsO XxXxXxX XxXxXxX SAMEFONT SAMEFONTSIZE false false BASELINE true
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE true
+− − − − − − − − − − ALLCAPS NODIGIT 1 HYPHEN − − − SAMEFONT SAMEFONTSIZE false false BASELINE true
+xFx xfx x xF xFx xFx x Fx xFx xFx NOCAPS NODIGIT 0 NOPUNCT xFx xXx xXx SAMEFONT SAMEFONTSIZE false false BASELINE true
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
+x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x SAMEFONT SAMEFONTSIZE false false BASELINE false
+= = = = = = = = = = ALLCAPS NODIGIT 1 NOPUNCT = = = SAMEFONT SAMEFONTSIZE false false BASELINE false
+0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 14 14 1 14 14 14 4 14 14 14 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2781,6 +2813,7 @@ and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SA
 GPa gpa G GP GPa GPa a Pa GPa GPa INITCAP NODIGIT 0 NOPUNCT GPa XXx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 respec respec r re res resp c ec pec spec NOCAPS NODIGIT 0 NOPUNCT respec xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tively tively t ti tiv tive y ly ely vely NOCAPS NODIGIT 0 NOPUNCT tively xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2793,6 +2826,8 @@ to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSI
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 eye eye e ey eye eye e ye eye eye NOCAPS NODIGIT 0 NOPUNCT eye xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2808,6 +2843,7 @@ that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEF
 Q q Q Q Q Q Q Q Q Q ALLCAPS NODIGIT 1 NOPUNCT Q X X DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 insensi insensi i in ins inse i si nsi ensi NOCAPS NODIGIT 0 NOPUNCT insensi xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tive tive t ti tiv tive e ve ive tive NOCAPS NODIGIT 0 NOPUNCT tive xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2836,6 +2872,7 @@ for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SA
 14 14 1 14 14 14 4 14 14 14 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 % % % % % % % % % % ALLCAPS NODIGIT 1 NOPUNCT % % % SAMEFONT SAMEFONTSIZE false false BASELINE false
 F f F F F F F F F F ALLCAPS NODIGIT 1 NOPUNCT F X X SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 samples samples s sa sam samp s es les ples NOCAPS NODIGIT 0 NOPUNCT samples xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2908,6 +2945,7 @@ H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X SAMEFONT SAMEFONTSIZE false 
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sam sam s sa sam sam m am sam sam NOCAPS NODIGIT 0 NOPUNCT sam xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ples ples p pl ple ples s es les ples NOCAPS NODIGIT 0 NOPUNCT ples xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 respectively respectively r re res resp y ly ely vely NOCAPS NODIGIT 0 NOPUNCT respectively xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2953,6 +2991,7 @@ H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X SAMEFONT SAMEFONTSIZE false 
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sam sam s sa sam sam m am sam sam NOCAPS NODIGIT 0 NOPUNCT sam xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ples ples p pl ple ples s es les ples NOCAPS NODIGIT 0 NOPUNCT ples xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 are are a ar are are e re are are NOCAPS NODIGIT 0 NOPUNCT are xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 also also a al als also o so lso also NOCAPS NODIGIT 0 NOPUNCT also xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3045,6 +3084,7 @@ Note note N No Not Note e te ote Note INITCAP NODIGIT 0 NOPUNCT Note Xxxx Xx SAM
 that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 oppo oppo o op opp oppo o po ppo oppo NOCAPS NODIGIT 0 NOPUNCT oppo xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 site site s si sit site e te ite site NOCAPS NODIGIT 0 NOPUNCT site xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 conclusion conclusion c co con conc n on ion sion NOCAPS NODIGIT 0 NOPUNCT conclusion xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 was was w wa was was s as was was NOCAPS NODIGIT 0 NOPUNCT was xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3146,6 +3186,7 @@ antiferromagnetism antiferromagnetism a an ant anti m sm ism tism NOCAPS NODIGIT
 or or o or or or r or or or NOCAPS NODIGIT 0 NOPUNCT or xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 AF af A AF AF AF F AF AF AF ALLCAPS NODIGIT 0 NOPUNCT AF XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
 fluc fluc f fl flu fluc c uc luc fluc NOCAPS NODIGIT 0 NOPUNCT fluc xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tuations tuations t tu tua tuat s ns ons ions NOCAPS NODIGIT 0 NOPUNCT tuations xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 For for F Fo For For r or For For INITCAP NODIGIT 0 NOPUNCT For Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3194,6 +3235,7 @@ phase phase p ph pha phas e se ase hase NOCAPS NODIGIT 0 NOPUNCT phase xxxx x SA
 boundary boundary b bo bou boun y ry ary dary NOCAPS NODIGIT 0 NOPUNCT boundary xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 de de d de de de e de de de NOCAPS NODIGIT 0 NOPUNCT de xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 pends pends p pe pen pend s ds nds ends NOCAPS NODIGIT 0 NOPUNCT pends xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 on on o on on on n on on on NOCAPS NODIGIT 0 NOPUNCT on xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3204,6 +3246,7 @@ causes causes c ca cau caus s es ses uses NOCAPS NODIGIT 0 NOPUNCT causes xxxx x
 an an a an an an n an an an NOCAPS NODIGIT 0 NOPUNCT an xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 apparent apparent a ap app appa t nt ent rent NOCAPS NODIGIT 0 NOPUNCT apparent xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 dis dis d di dis dis s is dis dis NOCAPS NODIGIT 0 NOPUNCT dis xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 crepancy crepancy c cr cre crep y cy ncy ancy NOCAPS NODIGIT 0 NOPUNCT crepancy xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 
@@ -3246,12 +3289,12 @@ candidate candidate c ca can cand e te ate date NOCAPS NODIGIT 0 NOPUNCT candida
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 orbital orbital o or orb orbi l al tal ital NOCAPS NODIGIT 0 NOPUNCT orbital xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 fluctuation fluctuation f fl flu fluc n on ion tion NOCAPS NODIGIT 0 NOPUNCT fluctuation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 mediated mediated m me med medi d ed ted ated NOCAPS NODIGIT 0 NOPUNCT mediated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 scenario scenario s sc sce scen o io rio ario NOCAPS NODIGIT 0 NOPUNCT scenario xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-28 28 2 28 28 28 8 28 28 28 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-would would w wo wou woul d ld uld ould NOCAPS NODIGIT 0 NOPUNCT would xxxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
+would would w wo wou woul d ld uld ould NOCAPS NODIGIT 0 NOPUNCT would xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 be be b be be be e be be be NOCAPS NODIGIT 0 NOPUNCT be xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 promising promising p pr pro prom g ng ing sing NOCAPS NODIGIT 0 NOPUNCT promising xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3337,6 +3380,7 @@ would would w wo wou woul d ld uld ould NOCAPS NODIGIT 0 NOPUNCT would xxxx x SA
 give give g gi giv give e ve ive give NOCAPS NODIGIT 0 NOPUNCT give xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 an an a an an an n an an an NOCAPS NODIGIT 0 NOPUNCT an xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 impor impor i im imp impo r or por mpor NOCAPS NODIGIT 0 NOPUNCT impor xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tant tant t ta tan tant t nt ant tant NOCAPS NODIGIT 0 NOPUNCT tant xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 clue clue c cl clu clue e ue lue clue NOCAPS NODIGIT 0 NOPUNCT clue xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3350,6 +3394,7 @@ scenario scenario s sc sce scen o io rio ario NOCAPS NODIGIT 0 NOPUNCT scenario 
 where where w wh whe wher e re ere here NOCAPS NODIGIT 0 NOPUNCT where xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pair pair p pa pai pair r ir air pair NOCAPS NODIGIT 0 NOPUNCT pair xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ing ing i in ing ing g ng ing ing NOCAPS NODIGIT 0 NOPUNCT ing xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 interaction interaction i in int inte n on ion tion NOCAPS NODIGIT 0 NOPUNCT interaction xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 originates originates o or ori orig s es tes ates NOCAPS NODIGIT 0 NOPUNCT originates xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3377,6 +3422,7 @@ and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SA
 or or o or or or r or or or NOCAPS NODIGIT 0 NOPUNCT or xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 charge charge c ch cha char e ge rge arge NOCAPS NODIGIT 0 NOPUNCT charge xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 teractions teractions t te ter tera s ns ons ions NOCAPS NODIGIT 0 NOPUNCT teractions xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 On on O On On On n On On On INITCAP NODIGIT 0 NOPUNCT On Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3400,6 +3446,7 @@ structure structure s st str stru e re ure ture NOCAPS NODIGIT 0 NOPUNCT structu
 could could c co cou coul d ld uld ould NOCAPS NODIGIT 0 NOPUNCT could xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 be be b be be be e be be be NOCAPS NODIGIT 0 NOPUNCT be xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ob ob o ob ob ob b ob ob ob NOCAPS NODIGIT 0 NOPUNCT ob xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 served served s se ser serv d ed ved rved NOCAPS NODIGIT 0 NOPUNCT served xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 as as a as as as s as as as NOCAPS NODIGIT 0 NOPUNCT as xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 observed observed o ob obs obse d ed ved rved NOCAPS NODIGIT 0 NOPUNCT observed xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3423,6 +3470,7 @@ c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false
 may may m ma may may y ay may may NOCAPS NODIGIT 0 NOPUNCT may xxx x DIFFERENTFONT HIGHERFONT false false BASELINE false
 increase increase i in inc incr e se ase ease NOCAPS NODIGIT 0 NOPUNCT increase xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 un un u un un un n un un un NOCAPS NODIGIT 0 NOPUNCT un xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 der der d de der der r er der der NOCAPS NODIGIT 0 NOPUNCT der xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 even even e ev eve even n en ven even NOCAPS NODIGIT 0 NOPUNCT even xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3443,6 +3491,7 @@ which which w wh whi whic h ch ich hich NOCAPS NODIGIT 0 NOPUNCT which xxxx x SA
 could could c co cou coul d ld uld ould NOCAPS NODIGIT 0 NOPUNCT could xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 cause cause c ca cau caus e se use ause NOCAPS NODIGIT 0 NOPUNCT cause xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ap ap a ap ap ap p ap ap ap NOCAPS NODIGIT 0 NOPUNCT ap xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 preciable preciable p pr pre prec e le ble able NOCAPS NODIGIT 0 NOPUNCT preciable xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 suppression suppression s su sup supp n on ion sion NOCAPS NODIGIT 0 NOPUNCT suppression xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3489,8 +3538,7 @@ F f F F F F F F F F ALLCAPS NODIGIT 1 NOPUNCT F X X SAMEFONT SAMEFONTSIZE false 
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 doped doped d do dop dope d ed ped oped NOCAPS NODIGIT 0 NOPUNCT doped xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 regime regime r re reg regi e me ime gime NOCAPS NODIGIT 0 NOPUNCT regime xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-29 29 2 29 29 29 9 29 29 29 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d DIFFERENTFONT LOWERFONT false false SUPERSCRIPT false
-or or o or or or r or or or NOCAPS NODIGIT 0 NOPUNCT or xx x DIFFERENTFONT HIGHERFONT false false BASELINE false
+or or o or or or r or or or NOCAPS NODIGIT 0 NOPUNCT or xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sufficiently sufficiently s su suf suff y ly tly ntly NOCAPS NODIGIT 0 NOPUNCT sufficiently xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X SAMEFONT SAMEFONTSIZE false false BASELINE true
 - - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3547,6 +3595,7 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x DIFFERENTFONT HIGHE
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 upon upon u up upo upon n on pon upon NOCAPS NODIGIT 0 NOPUNCT upon xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ap ap a ap ap ap p ap ap ap NOCAPS NODIGIT 0 NOPUNCT ap xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 plying plying p pl ply plyi g ng ing ying NOCAPS NODIGIT 0 NOPUNCT plying xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 without without w wi wit with t ut out hout NOCAPS NODIGIT 0 NOPUNCT without xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3591,6 +3640,7 @@ suggest suggest s su sug sugg t st est gest NOCAPS NODIGIT 0 NOPUNCT suggest xxx
 that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 super super s su sup supe r er per uper NOCAPS NODIGIT 0 NOPUNCT super xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 conductivity conductivity c co con cond y ty ity vity NOCAPS NODIGIT 0 NOPUNCT conductivity xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 has has h ha has has s as has has NOCAPS NODIGIT 0 NOPUNCT has xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 no no n no no no o no no no NOCAPS NODIGIT 0 NOPUNCT no xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -3599,6 +3649,7 @@ connection connection c co con conn n on ion tion NOCAPS NODIGIT 0 NOPUNCT conne
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 AF af A AF AF AF F AF AF AF ALLCAPS NODIGIT 0 NOPUNCT AF XX X SAMEFONT SAMEFONTSIZE false false BASELINE false
 fluctua fluctua f fl flu fluc a ua tua ctua NOCAPS NODIGIT 0 NOPUNCT fluctua xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tions tions t ti tio tion s ns ons ions NOCAPS NODIGIT 0 NOPUNCT tions xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 So so S So So So o So So So INITCAP NODIGIT 0 NOPUNCT So Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
