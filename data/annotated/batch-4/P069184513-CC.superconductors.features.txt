@@ -3440,7 +3440,8 @@ below below b be bel belo w ow low elow NOCAPS NODIGIT 0 NOPUNCT below xxxx x SA
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperature temperature t te tem temp e re ure ture NOCAPS NODIGIT 0 NOPUNCT temperature xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼7 ∼7 ∼ ∼7 ∼7 ∼7 7 ∼7 ∼7 ∼7 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+7 7 7 7 7 7 7 7 7 7 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 does does d do doe does s es oes does NOCAPS NODIGIT 0 NOPUNCT does xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -5606,6 +5607,7 @@ has has h ha has has s as has has NOCAPS NODIGIT 0 NOPUNCT has xxx x SAMEFONT SA
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 electron electron e el ele elec n on ron tron NOCAPS NODIGIT 0 NOPUNCT electron xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 configu configu c co con conf u gu igu figu NOCAPS NODIGIT 0 NOPUNCT configu xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ration ration r ra rat rati n on ion tion NOCAPS NODIGIT 0 NOPUNCT ration xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 [ [ [ [ [ [ [ [ [ [ ALLCAPS NODIGIT 1 OPENBRACKET [ [ [ SAMEFONT SAMEFONTSIZE false false BASELINE true

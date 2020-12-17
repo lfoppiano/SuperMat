@@ -1229,7 +1229,8 @@ much much m mu muc much h ch uch much NOCAPS NODIGIT 0 NOPUNCT much xxxx x SAMEF
 larger larger l la lar larg r er ger rger NOCAPS NODIGIT 0 NOPUNCT larger xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 than than t th tha than n an han than NOCAPS NODIGIT 0 NOPUNCT than xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼7 ∼7 ∼ ∼7 ∼7 ∼7 7 ∼7 ∼7 ∼7 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+7 7 7 7 7 7 7 7 7 7 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 5 5 5 5 5 5 5 5 5 5 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false

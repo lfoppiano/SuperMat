@@ -231,6 +231,12 @@ K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false 
 under under u un und unde r er der nder NOCAPS NODIGIT 0 NOPUNCT under xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 high high h hi hig high h gh igh high NOCAPS NODIGIT 0 NOPUNCT high xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
+4 4 4 4 4 4 4 4 4 4 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
+6 6 6 6 6 6 6 6 6 6 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+GPa gpa G GP GPa GPa a Pa GPa GPa INITCAP NODIGIT 0 NOPUNCT GPa XXx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
+) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 pressure pressure p pr pre pres e re ure sure NOCAPS NODIGIT 0 NOPUNCT pressure xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -311,8 +317,6 @@ above above a ab abo abov e ve ove bove NOCAPS NODIGIT 0 NOPUNCT above xxxx x SA
 30 30 3 30 30 30 0 30 30 30 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-
-
 For for F Fo For For r or For For INITCAP NODIGIT 0 NOPUNCT For Xxx Xx DIFFERENTFONT HIGHERFONT false false BASELINE false
 ( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE true
 LiNH linh L Li LiN LiNH H NH iNH LiNH INITCAP NODIGIT 0 NOPUNCT LiNH XxXXX XxX SAMEFONT SAMEFONTSIZE false false BASELINE true
@@ -962,20 +966,6 @@ respectively respectively r re res resp y ly ely vely NOCAPS NODIGIT 0 NOPUNCT r
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 
 
-a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x DIFFERENTFONT HIGHERFONT false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE false
-d d d d d d d d d d NOCAPS NODIGIT 1 NOPUNCT d x x SAMEFONT SAMEFONTSIZE false false BASELINE true
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE true
-- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE true
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT SAMEFONTSIZE false false BASELINE true
-f f f f f f f f f f NOCAPS NODIGIT 1 NOPUNCT f x x SAMEFONT SAMEFONTSIZE false false BASELINE true
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 show show s sh sho show w ow how show NOCAPS NODIGIT 0 NOPUNCT show xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 optical optical o op opt opti l al cal ical NOCAPS NODIGIT 0 NOPUNCT optical xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 microscopic microscopic m mi mic micr c ic pic opic NOCAPS NODIGIT 0 NOPUNCT microscopic xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1114,6 +1104,8 @@ with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEF
 decreasing decreasing d de dec decr g ng ing sing NOCAPS NODIGIT 0 NOPUNCT decreasing xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 thicknesses thicknesses t th thi thic s es ses sses NOCAPS NODIGIT 0 NOPUNCT thicknesses xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperature temperature t te tem temp e re ure ture NOCAPS NODIGIT 0 NOPUNCT temperature xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 dependence dependence d de dep depe e ce nce ence NOCAPS NODIGIT 0 NOPUNCT dependence xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1279,6 +1271,8 @@ same same s sa sam same e me ame same NOCAPS NODIGIT 0 NOPUNCT same xxxx x SAMEF
 bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sample sample s sa sam samp e le ple mple NOCAPS NODIGIT 0 NOPUNCT sample xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 Furthermore furthermore F Fu Fur Furt e re ore more INITCAP NODIGIT 0 NOPUNCT Furthermore Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1369,11 +1363,6 @@ increasing increasing i in inc incr g ng ing sing NOCAPS NODIGIT 0 NOPUNCT incre
 excess excess e ex exc exce s ss ess cess NOCAPS NODIGIT 0 NOPUNCT excess xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 Fe fe F Fe Fe Fe e Fe Fe Fe INITCAP NODIGIT 0 NOPUNCT Fe Xx Xx SAMEFONT SAMEFONTSIZE false false BASELINE true
 composition composition c co com comp n on ion tion NOCAPS NODIGIT 0 NOPUNCT composition xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-[ [ [ [ [ [ [ [ [ [ ALLCAPS NODIGIT 1 OPENBRACKET [ [ [ SAMEFONT SAMEFONTSIZE false false BASELINE false
-14 14 1 14 14 14 4 14 14 14 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-, , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
-15 15 1 15 15 15 5 15 15 15 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-] ] ] ] ] ] ] ] ] ] ALLCAPS NODIGIT 1 ENDBRACKET ] ] ] SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 Therefore therefore T Th The Ther e re ore fore INITCAP NODIGIT 0 NOPUNCT Therefore Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1745,9 +1734,6 @@ Hohenberg hohenberg H Ho Hoh Hohe g rg erg berg INITCAP NODIGIT 0 NOPUNCT Hohenb
 WHH whh W WH WHH WHH H HH WHH WHH ALLCAPS NODIGIT 0 NOPUNCT WHH XXX X SAMEFONT SAMEFONTSIZE false false BASELINE false
 ) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
 theory theory t th the theo y ry ory eory NOCAPS NODIGIT 0 NOPUNCT theory xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-[ [ [ [ [ [ [ [ [ [ ALLCAPS NODIGIT 1 OPENBRACKET [ [ [ SAMEFONT SAMEFONTSIZE false false BASELINE false
-16 16 1 16 16 16 6 16 16 16 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-] ] ] ] ] ] ] ] ] ] ALLCAPS NODIGIT 1 ENDBRACKET ] ] ] SAMEFONT SAMEFONTSIZE false false BASELINE false
 : : : : : : : : : : ALLCAPS NODIGIT 1 PUNCT : : : SAMEFONT SAMEFONTSIZE false false BASELINE false
 H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE false
 c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
@@ -2358,9 +2344,8 @@ bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEF
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 respectively respectively r re res resp y ly ely vely NOCAPS NODIGIT 0 NOPUNCT respectively xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-Fig fig F Fi Fig Fig g ig Fig Fig INITCAP NODIGIT 0 NOPUNCT Fig Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
-. . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
-3 3 3 3 3 3 3 3 3 3 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
+
+
 The the T Th The The e he The The INITCAP NODIGIT 0 NOPUNCT The Xxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperature temperature t te tem temp e re ure ture NOCAPS NODIGIT 0 NOPUNCT temperature xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 dependence dependence d de dep depe e ce nce ence NOCAPS NODIGIT 0 NOPUNCT dependence xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2468,79 +2453,4 @@ and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SA
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / DIFFERENTFONT LOWERFONT false true BASELINE false
-ab ab a ab ab ab b ab ab ab NOCAPS NODIGIT 0 NOPUNCT ab xx x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-on on o on on on n on on on NOCAPS NODIGIT 0 NOPUNCT on xx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-100 100 1 10 100 100 0 00 100 100 NOCAPS ALLDIGIT 0 NOPUNCT XXX ddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-nm nm n nm nm nm m nm nm nm NOCAPS NODIGIT 0 NOPUNCT nm xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-on on o on on on n on on on NOCAPS NODIGIT 0 NOPUNCT on xx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-100 100 1 10 100 100 0 00 100 100 NOCAPS ALLDIGIT 0 NOPUNCT XXX ddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-nm nm n nm nm nm m nm nm nm NOCAPS NODIGIT 0 NOPUNCT nm xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-ab ab a ab ab ab b ab ab ab NOCAPS NODIGIT 0 NOPUNCT ab xx x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-on on o on on on n on on on NOCAPS NODIGIT 0 NOPUNCT on xx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-on on o on on on n on on on NOCAPS NODIGIT 0 NOPUNCT on xx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / DIFFERENTFONT SAMEFONTSIZE false true BASELINE false
-ab ab a ab ab ab b ab ab ab NOCAPS NODIGIT 0 NOPUNCT ab xx x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-zero zero z ze zer zero o ro ero zero NOCAPS NODIGIT 0 NOPUNCT zero xxxx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-100 100 1 10 100 100 0 00 100 100 NOCAPS ALLDIGIT 0 NOPUNCT XXX ddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-nm nm n nm nm nm m nm nm nm NOCAPS NODIGIT 0 NOPUNCT nm xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-zero zero z ze zer zero o ro ero zero NOCAPS NODIGIT 0 NOPUNCT zero xxxx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-100 100 1 10 100 100 0 00 100 100 NOCAPS ALLDIGIT 0 NOPUNCT XXX ddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
-nm nm n nm nm nm m nm nm nm NOCAPS NODIGIT 0 NOPUNCT nm xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-ab ab a ab ab ab b ab ab ab NOCAPS NODIGIT 0 NOPUNCT ab xx x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-zero zero z ze zer zero o ro ero zero NOCAPS NODIGIT 0 NOPUNCT zero xxxx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT SAMEFONTSIZE false true BASELINE true
-/ / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x SAMEFONT SAMEFONTSIZE false true BASELINE false
-T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X SAMEFONT SAMEFONTSIZE false true BASELINE false
-c c c c c c c c c c NOCAPS NODIGIT 1 NOPUNCT c x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-zero zero z ze zer zero o ro ero zero NOCAPS NODIGIT 0 NOPUNCT zero xxxx x SAMEFONT LOWERFONT false false SUPERSCRIPT false
-( ( ( ( ( ( ( ( ( ( ALLCAPS NODIGIT 1 OPENBRACKET ( ( ( SAMEFONT HIGHERFONT false false BASELINE false
-bulk bulk b bu bul bulk k lk ulk bulk NOCAPS NODIGIT 0 NOPUNCT bulk xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-) ) ) ) ) ) ) ) ) ) ALLCAPS NODIGIT 1 ENDBRACKET ) ) ) SAMEFONT SAMEFONTSIZE false false BASELINE false
-
 

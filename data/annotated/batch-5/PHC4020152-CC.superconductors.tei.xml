@@ -8,22 +8,22 @@
       <publicationStmt>
         <publisher>National Institute for Materials Science (NIMS), Tsukuba, Japan</publisher>
         <availability>
-          <licence target="http://creativecommons.org/licenses/by/3.0/">
-            <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this document.</p>
           </licence>
         </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
       <appInfo>
-        <application ident="grobid-superconductors" version="project.version">
+        <application ident="grobid-superconductors" version="0.2.0-SNAPSHOT">
           <ref target="https://github.com/lfoppiano/grobid-superconductors">A machine learning software for extracting materials and their properties from scientific literature.</ref>
         </application>
       </appInfo>
     </encodingDesc>
     <profileDesc>
       <abstract>
-          <p>The Ba substitution by Sr has been studied in two <rs type="class">Hg-2212</rs> series: <rs type="material">Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</rs> and <rs type="material">Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</rs> . In both series a <rs type="tc">T c enhancement</rs> of about 40 K is observed when <rs type="material">Sr substitutes Ba from y = 0 to y = 1.0</rs>. The <rs type="material">y = 0</rs> compound of the first series is the <rs type="tcValue">non superconducting</rs> <rs type="material">Hg 2 Ba 2 YCu 2 O 8−δ</rs> prototype. In the second series, this <rs type="material">y = 0 compound</rs> is already <rs type="tc">superconducting</rs> at <rs type="tcValue">21 K</rs>. Indeed the members of this series present a higher charge carrier density in their CuO 2 superconducting planes than their homologues of the first series due to the doping introduced by the substitution of 20 % of Y by Ca. The compounds of both series were synthesized in high pressure (3.5 GPa) -high temperature (950 -1050˚C) conditions. In both cases Sr substitution was successful up to the full replacement of Ba (y = 1.0). The <rs type="material">Hg-2212</rs> phases were characterized by XRD, SEM, EDX and a.c. <rs type="me_method">susceptibility</rs>.</p>
+          <p>The Ba substitution by Sr has been studied in two <rs type="class">Hg-2212</rs> series: <rs type="material">Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</rs> and <rs type="material">Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</rs> . In both series a <rs type="tc">T c enhancement</rs> of about 40 K is observed when <rs type="material">Sr substitutes Ba from y = 0 to y = 1.0</rs>. The <rs type="material">y = 0</rs> compound of the first series is the <rs type="tc">non superconducting</rs> <rs type="material">Hg 2 Ba 2 YCu 2 O 8−δ</rs> prototype. In the second series, this <rs type="material">y = 0 compound</rs> is already <rs type="tc">superconducting</rs> at <rs type="tcValue">21 K</rs>. Indeed the members of this series present a higher charge carrier density in their CuO 2 superconducting planes than their homologues of the first series due to the doping introduced by the substitution of 20 % of Y by Ca. The compounds of both series were synthesized in high pressure (3.5 GPa) -high temperature (950 -1050˚C) conditions. In both cases Sr substitution was successful up to the full replacement of Ba (y = 1.0). The <rs type="material">Hg-2212</rs> phases were characterized by XRD, SEM, EDX and a.c. <rs type="me_method">susceptibility</rs>.</p>
       </abstract>
       <ab type="keywords"><rs type="class">Mercury-based</rs> high-T c superconductors, Pressure effects on superconductivity, High-T c superconductors transition temperature, High pressure -high temperature synthesis PACS: 74.72.H, 74.62.F, 74.62, 81.05</ab>
     </profileDesc>

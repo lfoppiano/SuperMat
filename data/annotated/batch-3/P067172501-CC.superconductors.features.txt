@@ -294,7 +294,8 @@ potential potential p po pot pote l al ial tial NOCAPS NODIGIT 0 NOPUNCT potenti
 is is i is is is s is is is NOCAPS NODIGIT 0 NOPUNCT is xx x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 pinned pinned p pi pin pinn d ed ned nned NOCAPS NODIGIT 0 NOPUNCT pinned xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼0 ∼0 ∼ ∼0 ∼0 ∼0 0 ∼0 ∼0 ∼0 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 4 4 4 4 4 4 4 4 4 4 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 eV ev e eV eV eV V eV eV eV NOCAPS NODIGIT 0 NOPUNCT eV xX xX DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
@@ -378,6 +379,7 @@ picture picture p pi pic pict e re ure ture NOCAPS NODIGIT 0 NOPUNCT picture xxx
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 are are a ar are are e re are are NOCAPS NODIGIT 0 NOPUNCT are xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 sugges sugges s su sug sugg s es ges gges NOCAPS NODIGIT 0 NOPUNCT sugges xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 tive tive t ti tiv tive e ve ive tive NOCAPS NODIGIT 0 NOPUNCT tive xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 a a a a a a a a a a NOCAPS NODIGIT 1 NOPUNCT a x x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -584,7 +586,8 @@ large large l la lar larg e ge rge arge NOCAPS NODIGIT 0 NOPUNCT large xxxx x SA
 downward downward d do dow down d rd ard ward NOCAPS NODIGIT 0 NOPUNCT downward xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 shift shift s sh shi shif t ft ift hift NOCAPS NODIGIT 0 NOPUNCT shift xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼0 ∼0 ∼ ∼0 ∼0 ∼0 0 ∼0 ∼0 ∼0 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 7 7 7 7 7 7 7 7 7 7 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 eV ev e eV eV eV V eV eV eV NOCAPS NODIGIT 0 NOPUNCT eV xX xX DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
@@ -1058,7 +1061,8 @@ may may m ma may may y ay may may NOCAPS NODIGIT 0 NOPUNCT may xxx x SAMEFONT SA
 estimate estimate e es est esti e te ate mate NOCAPS NODIGIT 0 NOPUNCT estimate xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 T t T T T T T T T T ALLCAPS NODIGIT 1 NOPUNCT T X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 N n N N N N N N N N ALLCAPS NODIGIT 1 NOPUNCT N X X DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-∼50 ∼50 ∼ ∼5 ∼50 ∼50 0 50 ∼50 ∼50 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT HIGHERFONT false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT HIGHERFONT false false BASELINE false
+50 50 5 50 50 50 0 50 50 50 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 230 230 2 23 230 230 0 30 230 230 NOCAPS ALLDIGIT 0 NOPUNCT XXX ddd d SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -1243,7 +1247,8 @@ measurements measurements m me mea meas s ts nts ents NOCAPS NODIGIT 0 NOPUNCT m
 high high h hi hig high h gh igh high NOCAPS NODIGIT 0 NOPUNCT high xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 voltages voltages v vo vol volt s es ges ages NOCAPS NODIGIT 0 NOPUNCT voltages xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼1 ∼1 ∼ ∼1 ∼1 ∼1 1 ∼1 ∼1 ∼1 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 kV kv k kV kV kV V kV kV kV NOCAPS NODIGIT 0 NOPUNCT kV xX xX DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 have have h ha hav have e ve ave have NOCAPS NODIGIT 0 NOPUNCT have xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 to to t to to to o to to to NOCAPS NODIGIT 0 NOPUNCT to xx x SAMEFONT SAMEFONTSIZE false false BASELINE false

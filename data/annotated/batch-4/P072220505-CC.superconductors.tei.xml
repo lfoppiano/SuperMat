@@ -8,15 +8,15 @@
       <publicationStmt>
         <publisher>National Institute for Materials Science (NIMS), Tsukuba, Japan</publisher>
         <availability>
-          <licence target="http://creativecommons.org/licenses/by/3.0/">
-            <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this document.</p>
           </licence>
         </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
       <appInfo>
-        <application ident="grobid-superconductors" version="project.version">
+        <application ident="grobid-superconductors" version="0.2.0-SNAPSHOT">
           <ref target="https://github.com/lfoppiano/grobid-superconductors">A machine learning software for extracting materials and their properties from scientific literature.</ref>
         </application>
       </appInfo>

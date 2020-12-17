@@ -454,6 +454,7 @@ candidate candidate c ca can cand e te ate date NOCAPS NODIGIT 0 NOPUNCT candida
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 ob ob o ob ob ob b ob ob ob NOCAPS NODIGIT 0 NOPUNCT ob xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 servation servation s se ser serv n on ion tion NOCAPS NODIGIT 0 NOPUNCT servation xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 such such s su suc such h ch uch such NOCAPS NODIGIT 0 NOPUNCT such xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -473,7 +474,8 @@ of of o of of of f of of of NOCAPS NODIGIT 0 NOPUNCT of xx x SAMEFONT SAMEFONTSI
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 Fermi fermi F Fe Fer Ferm i mi rmi ermi INITCAP NODIGIT 0 NOPUNCT Fermi Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 energy energy e en ene ener y gy rgy ergy NOCAPS NODIGIT 0 NOPUNCT energy xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼1 ∼1 ∼ ∼1 ∼1 ∼1 1 ∼1 ∼1 ∼1 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+1 1 1 1 1 1 1 1 1 1 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 eV ev e eV eV eV V eV eV eV NOCAPS NODIGIT 0 NOPUNCT eV xX xX DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 that that t th tha that t at hat that NOCAPS NODIGIT 0 NOPUNCT that xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -482,7 +484,8 @@ with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEF
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 Debye debye D De Deb Deby e ye bye ebye INITCAP NODIGIT 0 NOPUNCT Debye Xxxx Xx SAMEFONT SAMEFONTSIZE false false BASELINE false
 temperature temperature t te tem temp e re ure ture NOCAPS NODIGIT 0 NOPUNCT temperature xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼20 ∼20 ∼ ∼2 ∼20 ∼20 0 20 ∼20 ∼20 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+20 20 2 20 20 20 0 20 20 20 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 meV mev m me meV meV V eV meV meV NOCAPS NODIGIT 0 NOPUNCT meV xxX xX DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 , , , , , , , , , , ALLCAPS NODIGIT 1 COMMA , , , SAMEFONT SAMEFONTSIZE false false BASELINE false
 leads leads l le lea lead s ds ads eads NOCAPS NODIGIT 0 NOPUNCT leads xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -494,7 +497,8 @@ ratio ratio r ra rat rati o io tio atio NOCAPS NODIGIT 0 NOPUNCT ratio xxxx x SA
 / / / / / / / / / / ALLCAPS NODIGIT 1 NOPUNCT / / / DIFFERENTFONT HIGHERFONT false false BASELINE false
 E e E E E E E E E E ALLCAPS NODIGIT 1 NOPUNCT E X X SAMEFONT SAMEFONTSIZE false false BASELINE false
 f f f f f f f f f f NOCAPS NODIGIT 1 NOPUNCT f x x DIFFERENTFONT LOWERFONT false false SUBSCRIPT false
-∼0 ∼0 ∼ ∼0 ∼0 ∼0 0 ∼0 ∼0 ∼0 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT HIGHERFONT false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT HIGHERFONT false false BASELINE false
+0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false
 02 02 0 02 02 02 2 02 02 02 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 . . . . . . . . . . ALLCAPS NODIGIT 1 DOT . . . SAMEFONT SAMEFONTSIZE false false BASELINE false

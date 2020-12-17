@@ -516,6 +516,7 @@ while while w wh whi whil e le ile hile NOCAPS NODIGIT 0 NOPUNCT while xxxx x SA
 no no n no no no o no no no NOCAPS NODIGIT 0 NOPUNCT no xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 peaks peaks p pe pea peak s ks aks eaks NOCAPS NODIGIT 0 NOPUNCT peaks xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 associ associ a as ass asso i ci oci soci NOCAPS NODIGIT 0 NOPUNCT associ xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
+- - - - - - - - - - ALLCAPS NODIGIT 1 HYPHEN - - - SAMEFONT SAMEFONTSIZE false false BASELINE false
 ated ated a at ate ated d ed ted ated NOCAPS NODIGIT 0 NOPUNCT ated xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -966,7 +967,8 @@ comparison comparison c co com comp n on son ison NOCAPS NODIGIT 0 NOPUNCT compa
 method method m me met meth d od hod thod NOCAPS NODIGIT 0 NOPUNCT method xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 with with w wi wit with h th ith with NOCAPS NODIGIT 0 NOPUNCT with xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 the the t th the the e he the the NOCAPS NODIGIT 0 NOPUNCT the xxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼12 ∼12 ∼ ∼1 ∼12 ∼12 2 12 ∼12 ∼12 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+12 12 1 12 12 12 2 12 12 12 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 MHz mhz M MH MHz MHz z Hz MHz MHz INITCAP NODIGIT 0 NOPUNCT MHz XXx Xx DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 longitudinal longitudinal l lo lon long l al nal inal NOCAPS NODIGIT 0 NOPUNCT longitudinal xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 waves waves w wa wav wave s es ves aves NOCAPS NODIGIT 0 NOPUNCT waves xxxx x SAMEFONT SAMEFONTSIZE false false BASELINE false
@@ -2201,7 +2203,8 @@ x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT SAMEFONTSIZE fa
 and and a an and and d nd and and NOCAPS NODIGIT 0 NOPUNCT and xxx x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 R r R R R R R R R R ALLCAPS NODIGIT 1 NOPUNCT R X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 H h H H H H H H H H ALLCAPS NODIGIT 1 NOPUNCT H X X DIFFERENTFONT LOWERFONT false false SUBSCRIPT true
-∼0 ∼0 ∼ ∼0 ∼0 ∼0 0 ∼0 ∼0 ∼0 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼X ∼d ∼d DIFFERENTFONT HIGHERFONT false false BASELINE true
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT HIGHERFONT false false BASELINE true
+0 0 0 0 0 0 0 0 0 0 NOCAPS ALLDIGIT 1 NOPUNCT X d d SAMEFONT SAMEFONTSIZE false false BASELINE true
 for for f fo for for r or for for NOCAPS NODIGIT 0 NOPUNCT for xxx x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 x x x x x x x x x x NOCAPS NODIGIT 1 NOPUNCT x x x DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 = = = = = = = = = = ALLCAPS NODIGIT 1 NOPUNCT = = = DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
@@ -2618,7 +2621,8 @@ in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x DIFFERENTFONT HIGHE
 LYSCO lysco L LY LYS LYSC O CO SCO YSCO ALLCAPS NODIGIT 0 NOPUNCT LYSCO XXXX X SAMEFONT SAMEFONTSIZE false false BASELINE true
 or or o or or or r or or or NOCAPS NODIGIT 0 NOPUNCT or xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 at at a at at at t at at at NOCAPS NODIGIT 0 NOPUNCT at xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
-∼50 ∼50 ∼ ∼5 ∼50 ∼50 0 50 ∼50 ∼50 ALLCAPS CONTAINDIGIT 0 NOPUNCT ∼XX ∼dd ∼d DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ∼ ALLCAPS NODIGIT 1 NOPUNCT ∼ ∼ ∼ DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
+50 50 5 50 50 50 0 50 50 50 NOCAPS ALLDIGIT 0 NOPUNCT XX dd d SAMEFONT SAMEFONTSIZE false false BASELINE false
 K k K K K K K K K K ALLCAPS NODIGIT 1 NOPUNCT K X X DIFFERENTFONT SAMEFONTSIZE false false BASELINE false
 in in i in in in n in in in NOCAPS NODIGIT 0 NOPUNCT in xx x SAMEFONT SAMEFONTSIZE false false BASELINE false
 LSCO lsco L LS LSC LSCO O CO SCO LSCO ALLCAPS NODIGIT 0 NOPUNCT LSCO XXXX X SAMEFONT SAMEFONTSIZE false false BASELINE true
