@@ -1,7 +1,6 @@
 # SuperMat 
 SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties. 
 
-The dataset contains also copyrighted data, which, unfortunately, cannot be shared here. 
 ## Content
  - Annotated dataset:
     - XML-TEI annotated fulltext data:
@@ -96,6 +95,5 @@ The dataset is licensed under CC BY 4.0 CC
 The code is licences under Apache 2.0 
 
 ## To cite ths work
-TBA
 
-
+SuperMat: Construction of a linked annotated dataset from superconductors-related publications
