@@ -8,4 +8,4 @@ docs/_build
 .idea
 _build
 
-/*/.ipynb_checkpoints/
+/**/.ipynb_checkpoints/

@@ -1,26 +1,25 @@
-.. _GitLab project page: https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues
+.. _GitLab project page: https://gitlab.nims.go.jp/lfoppiano/SuperMat/issues
 
 .. _Guidelines:
 
 Guidelines
 ##########
 
-This section describes the principle and guidelines to be followed to successfully produce high-quality corpus for superconductor-related domain. The section is divided in three parts. First we illustrate the general principles, then each tag is discussed separately, with examples and references. The last subsection, :ref:`out of scope` provides information about the element currently not supported.
-
-This is a living document, which will be updated after every Review. For more information see section titled :ref:`matter link`.
+This section provides the guidelines to be followed to annotate.
+First we illustrate the general principles, then each element of the tag-set is discussed separately, with examples and references.
 
 Notations
 *********
 
 In this guidelines are used two notations:
- - XML notation, which is based on XML where each class is represented by a label (e.g. ``something important`` of type ``<label1>`` and ``important information`` of type ``<label2>`` are the label that represent the chunk of text within the tag.  We use the attributes `id` and `ptr` (pointer) to link two labels (notice that the value of the ``ptr`` attribute require to start with `#`).
+ - XML notation, which is based on XML where each class is represented by a ``<rs>`` tag with ``@type`` attribute describing the class or label (e.g. ``something important`` of type ``<rs type="label1">`` and ``important information`` of type ``<rs type="label2">`` are the label that represent the chunk of text within the tag. We use the attributes `@xml:id` and `@corresp` to link two entities (notice that the value of the ``@corresp`` attribute require to start with `#`).
     .. code-block:: xml
 
         <p>This is an example of XML.
-        We have <label1>something important</label1> and another
+        We have <rs type="label1">something important</rs> and another
         <label2>important information</label2>.
-        Here an example of linking <label1 id="123">label 1</label1>
-        to <label2 ptr="#123">label 2</label2>.
+        Here an example of linking <rs type="label1" xml:id="123">label 1</rs>
+        to <rs type="label2" ptr="#123">label 2</rs>.
 
 
  - Brat notation, which is based on the `brat annotation tool <https://brat.nlplab.org/>`_ and provide a easier visual interface
@@ -32,7 +31,7 @@ General principles
 ******************
 The general principles apply to every annotation, as a general strategy:
 
-- In case an annotator discover cases not covered by the guidelines, open an issue to the `GitLab project page`_.
+- In case an annotator discover cases not covered by the guidelines, open an issue to the `GitLab project page`_ (internal link).
 
     .. figure:: images/gitlab-issue-screenshot.png
         :alt: GitLab issues recording page screenshot
@@ -53,7 +52,7 @@ The annotation boundaries should follow these guidelines:
 
 - articles should not be included in the annotation,
 
-- ``superconductor`` / ``superconductors`` should not be included in the ``<material>`` annotation. For example: ``LaFeO2 superconductor`` should be annotated as ``<material>LaFeO2</material> superconductor``
+- ``superconductor`` / ``superconductors`` should not be included in the ``<material>`` annotation. For example: ``LaFeO2 superconductor`` should be annotated as ``<material>LaFeO2</rs> superconductor``
 
 - parenthesis and other marks that are part of the name or formula, must be included and/or corrected when necessary:
 
@@ -107,23 +106,22 @@ They are presented in several forms:
 The annotations should be added according to the following rules (called **Multiple values, ranges or intervals annotations**) (see `#1 <https://github.com/lfoppiano/grobid-superconductors-data/issues/1>`_):
 
 - Simple values (including preceeding symbols, like circa `~` for example) are annotated including the variable name, when present, e.g.
-    - we found superconductivity for ``<material>x = 0.5</material>``.
-    - the temperature is ``<tcValue>~60 K</tcValue>``
+    - we found superconductivity for ``<rs type="material">x = 0.5</rs>``.
+    - the temperature is ``<rs type="tcValue">~60 K</rs>``
 
 - Intervals and ranges should be annotated entirely, including **symbols and words representing greater than, lower than, up to**, following there are some examples:
-    - ``<material>0.5 < x < 0.9</material>``
-    - ``<material>up to 0.9%</material>``
-    - ``<tcValue>from 3 to 4 K</tcValue>``
-    - ``<pressure>up to 3 GPa</pressure>``
-    - ``<material>x varying from 0.5 to 0.9</material>`` (In this case `varying` is not important, but because x is there, annotators should try to catch the variable name)
+    - ``<rs type="material">0.5 < x < 0.9</rs>``
+    - ``<rs type="material">up to 0.9%</rs>``
+    - ``<rs type="tcValue">from 3 to 4 K</rs>``
+    - ``<pressure>up to 3 GPa</rs>``
+    - ``<rs type="material">x varying from 0.5 to 0.9</rs>`` (In this case `varying` is not important, but because x is there, annotators should try to catch the variable name)
 
 - Lists, e.g.
-    - ``<material>x =0.40 and 0.44</material>``
-    - ``<material>x = 0.1, 0.2, 0.3 and 0.4</material>``
+    - ``<rs type="material">x =0.40 and 0.44</rs>``
+    - ``<rs type="material">x = 0.1, 0.2, 0.3 and 0.4</rs>``
 
 
-.. note:: The idea behind is based on the fact that even complex value can be expanded and resolved on a later step. For example ``x = 0.1, 0.2`` would be resolved to two materials ``x = 0.1`` and ``x = 0.2``.
-In general all interval are important especially for pressures, and temperatures.
+.. note:: The idea behind is based on the fact that even complex value can be expanded and resolved on a later step. For example ``x = 0.1, 0.2`` would be resolved to two materials ``x = 0.1`` and ``x = 0.2``. In general all interval are important especially for pressures, and temperatures.
 
 Examples
 ^^^^^^^^
@@ -178,7 +176,7 @@ Class of materials
 
 A set of materials having similar characteristics or common strategic compounds that define their nature are represented by classes.
 
-**Tag**: ``<class>``
+**Tag**: ``<rs type="class">``
 
 **Motivation**: The material's class in the superconductors-related domain does not follow a strict definition. Some of the superconductors classes can be inferred from the composition of the materials such as cuprates, iron-based. Second-level classification is more arbitrary that domain experts learn with experience.
 
@@ -188,7 +186,7 @@ Basic rules
 ^^^^^^^^^^^
 
 In general, a class is an expression that represent more than one materials, given that such materials cannot be identified from the expression itself.
-For example ``R-123 (with R = Rare earth materials)`` is a class because is not possible to indistinguishably extract a deterministic list of materials (the rare earth materials might change in time). On the other hand ``X O (with X = Cu, Fr)`` represent the materials ``CuO`` and ``FeO`` which is a deterministic list of specific materials, therefore it's to be annotated as ``<material>``.
+For example ``R-123 (with R = Rare earth materials)`` is a class because is not possible to indistinguishably extract a deterministic list of materials (the rare earth materials might change in time). On the other hand ``X O (with X = Cu, Fr)`` represent the materials ``CuO`` and ``FeO`` which is a deterministic list of specific materials, therefore it's to be annotated as ``<rs type="material">``.
 
 Materials can be part of more than one class.
 
@@ -197,7 +195,7 @@ Class and Materials can overlap (see examples :ref:`below <example-class-materia
 Expressions that identify a class:
  - code or definition: ``ba1111 serie``, ``11 series FeSe``, ``HDoped Ba111 serie``
  - name: ``cuprates``, ``iron-based``, ``iron-pnictide``, ``pnictide`` alone (usually referring to ``iron-pnictide``) etc...
- - chunks of text with the suffix ``-based``  are generally classes (e.g. ``iron-based``, ``BiS2-based``, ...). See `comment on #9 discussion 3 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34815>`_.
+ - chunks of text with the suffix ``-based``  are generally classes (e.g. ``iron-based``, ``BiS2-based``, ...). See `#9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34815>`_.
  - (same as before) generic notation that represent more than one material, such as ``R-123`` with R representing the rare earth materials without any reference to any material. See `#18 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/18>`_.
 
 .. note:: Classes referred to the physical mechanism of a superconducting material, such as ``nematic``, ``BCS``, ``conventional``, ``unconventional``, ``nematic``, ``topological``, etc. should not be annotated.
@@ -232,7 +230,7 @@ Modifiers of the class name **should not be annotated**. See `decision in #2 <ht
 Examples:
  - ``high-tc`` in ``high-tc iron-pnictide`` should not be included in the annotation because it does not add more information (see `discussion in #2 <https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues/2>`_).
 
- - in the expression ``metallic pyrochlore oxide``, the modifier ``metallic`` should be ignored, resulting in the following annotation ``metallic <class>pyrochlore oxide</class>``. See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34804>`_)
+ - in the expression ``metallic pyrochlore oxide``, the modifier ``metallic`` should be ignored, resulting in the following annotation ``metallic <rs type="class">pyrochlore oxide</rs>``. See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34804>`_)
 
 .. _example-class-material-overlapping:
 
@@ -273,7 +271,7 @@ Material name
 
 Identifies a name of one or more materials, a sample of a material, a doped sample.
 
-**Tag**: ``<material>``
+**Tag**: ``<rs type="material">``
 
 **Motivation**: The material name is the most important annotation in this dataset. It covers materials an sample, expressions with formula, names, including, when available, information about shape, doping, and other parameters.
 
@@ -316,7 +314,7 @@ Examples:
 
     the annotation should include the modifier ``Pure`` to distinguish the material from ``doped``, ``overdoped``, etc.. as follow:
 
-    ``<material>Pure MgB 2</material> material has several advantages``
+    ``<rs type="material">Pure MgB 2</rs> material has several advantages``
 
     See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34820>`_.
 
@@ -325,23 +323,23 @@ Examples:
 
     the annotation should include the modifiers ``single-unit-cell thick`` and ``films deposited on SrTiO 3`` to give the material certain characteristics (shape, substrates, etc..) which are potentially varying the superconducting critical temperature:
 
-    ``-An extremely high critical temperature of about 109 K was achieved in <material>single-unit-cell thick FeSe films deposited on SrTiO 3</material> deposited on SrTiO 3 [20].``
+    ``-An extremely high critical temperature of about 109 K was achieved in <rs type="material">single-unit-cell thick FeSe films deposited on SrTiO 3</rs> deposited on SrTiO 3 [20].``
 
     See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34833>`_.
 
 - In the sentence
-    ``Growth and superconducting transition of Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5) epitaxial thin films``.
+    ``Growth and superconducting transition of Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5) epitaxial thin films``.
 
     the expression ``epitaxial thin films`` should be included because contains information about the shape of the material:
 
-    ``Growth and superconducting transition of <material>Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5) epitaxial thin films</material>``.
+    ``Growth and superconducting transition of <rs type="material">Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5) epitaxial thin films</rs>``.
 
     See `#13 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/13>`_
 
 ..
   - Following what said before, structure information are included as of in the following example:
 
-    ``unique crystal systems, namely; <material>hexagonal Mn 5 Si 3 -type</material> , <material>tetragonal Cr 5 B 3 and W 5 Si 3 -type</material> , and <material>orthorhombic Nb 5 As 3 and Y 5 Bi 3 -type</material> structures.``.
+    ``unique crystal systems, namely; <rs type="material">hexagonal Mn 5 Si 3 -type</rs> , <rs type="material">tetragonal Cr 5 B 3 and W 5 Si 3 -type</rs> , and <rs type="material">orthorhombic Nb 5 As 3 and Y 5 Bi 3 -type</rs> structures.``.
 
     See `#35 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/35>`_
 
@@ -352,7 +350,7 @@ Examples:
 
     should be annotated as follow:
 
-    ``New results from tunneling spectroscopies on <material>near optimally doped single crystal of Tl Ba Tl-2201</material> junctions [...]``
+    ``New results from tunneling spectroscopies on <rs type="material">near optimally doped single crystal of Tl Ba Tl-2201</rs> junctions [...]``
 
     where the ``near optimally doped single crystal`` is included, as an important informtion on doping and ``junctions`` is ignored because it's just an implementation for the measurment, and it does not have impacts on the superconducting critical temperature.
 
@@ -371,13 +369,13 @@ Doping ratio, abbreviation or variable following or preceding a material formula
 
 Doping ratios, abbreviations or variables attached to the material formula, should be annotated as a single annotation, together with the material formula, see the uses cases:
  - material names and their composition where the variable can be substituted and the result is a list of specific materials: ``Zr 5 X 3 (X = Sb, Pb, Sn, Ge, Si and Al)``, ``A x Bi 2 Se 3 (A = Cu , Sr , Nb )``. In these cases, in a post-processing task, the variable can be replaced with different compounds to obtains different materials formulas.
- - material name and their doping composition: ``La 2−x Sr x CuO 4 with x = 0.063 -0.125:``, ``Pr 1−x Ca x Ba 2 Cu 3 O 7−δ (x ≈0.5)``
+ - material name and their doping composition: ``La 2−x Sr x CuO 4 with x = 0.063 -0.125:``, ``Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5)``
  - material name and their abbreviation: ``La 2−x Sr x CuO 4 (LSCO)``
 
 .. note:: These annotation (doping ration, abbreviations or variables) are useful to perform linkage when the they are references in the text using the information between parenthesis: abbreviation (e.g. LSCO) or the doping rate (e.g. x = 0.3). As for other elements, the content will be post-processed and parsed on a following step.
 
 Material formula following the material name
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When a material name follow the material formula, only the formula should be annotated as <material>. The material name should be used, if applicable, to identify the material class.
 
@@ -386,7 +384,7 @@ Example 1:
 
  should be annotated as
 
-   ``We make the first report that a metallic <class>pyrochlore oxide</class> <material>Cd 2 Re 2 O 7</material>``
+   ``We make the first report that a metallic <rs type="class">pyrochlore oxide</rs> <rs type="material">Cd 2 Re 2 O 7</rs>``
 
  See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34804>`_, `#27 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/27>`_ or `#28 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/28>`_
 
@@ -394,13 +392,13 @@ Example 2:
     ``Recently discovered BiS 2 -based layered superconductors, R (O,F) BiS 2 (R: La, Ce, Pr, Nd, Yb)``
 
  should be annotated as
-    ``Recently discovered <class>BiS 2 -based layered superconductors</class>, <material>R (O,F) BiS 2 (R: La, Ce, Pr, Nd, Yb)</material>``
+    ``Recently discovered <rs type="class">BiS 2 -based layered superconductors</rs>, <rs type="material">R (O,F) BiS 2 (R: La, Ce, Pr, Nd, Yb)</rs>``
 
 Example 3:
     ``[...]Sodium cobalt oxide, Na x CoO 2 (x = 0.65 to 0.75), have shown [...]``
 
  should be annotated as
-    ``[...]<class>Sodium cobalt oxide</class>, <material>Na x CoO 2 (x = 0.65 to 0.75)</material>, have shown [...]``
+    ``[...]<rs type="class">Sodium cobalt oxide</rs>, <rs type="material">Na x CoO 2 (x = 0.65 to 0.75)</rs>, have shown [...]``
 
  See `comment in #9 discussion 4 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34816>`_
 
@@ -408,7 +406,7 @@ Example 4:
     ``After the discovery of superconductivity at 26 K in the iron oxypnictide, LaFeAs(O, F) [1], extensive research on ironbased superconductors has been carried out.``
 
  should be annotated as
-    ``After the discovery of superconductivity at 26 K in the <class>iron oxypnictide</class>, <material>LaFeAs(O, F)</material> [1], extensive research on ironbased superconductors has been carried out.``
+    ``After the discovery of superconductivity at 26 K in the <rs type="class">iron oxypnictide</rs>, <rs type="material">LaFeAs(O, F)</rs> [1], extensive research on ironbased superconductors has been carried out.``
 
  See `comment in #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34820>`_
 
@@ -419,29 +417,29 @@ Materials can be bulk, doped or grown on other substrate. If the substrate or pl
 When the substrate's Tc is explicitly mentioned, then the substrate shall be annotated as material regardless, and the tc linked to it (Example 4). See `#37 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/37>`_.
 
 Example 1:
-    ``The <material>basic FeSe</material> has been extensively investigated in various structural forms: polycrystalline samples , single crystals , thin films and novel monolayer structures (grown on SrTiO 3 ) with a critical temperature reaching <tcValue>65 K</tcValue>.``
+    ``The <rs type="material">basic FeSe</rs> has been extensively investigated in various structural forms: polycrystalline samples , single crystals , thin films and novel monolayer structures (grown on SrTiO 3 ) with a critical temperature reaching <rs type="tcValue">65 K</rs>.``
 
  we annotate ``basic FeSe`` and we link it with ``65K`` even though the temperature is referring to the material + substrate.
  See `discussion on #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34824>`_.
 
 Example 2:
  the whole expression is annotated as ``<material>``:
-    ``<material>P-or Co-doped Ba-122</material> have lower T c s of about 30 K and 24 K, respectively, which makes helium free operation questionable.``.
+    ``<rs type="material">P-or Co-doped Ba-122</rs> have lower T c s of about 30 K and 24 K, respectively, which makes helium free operation questionable.``.
 
  See `#12 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/12>`_
 
 Example 3:
  in the following case, the preceding modifier (150 nm thick) is included as well as the substrate information:
-    ``Another example, in this sentence a) and (b), the critical transition temperature of <material>150 nm thick Ba122 :Co films grown on MgO substrates</material> were T onset c = 20 K.``.
+    ``Another example, in this sentence a) and (b), the critical transition temperature of <rs type="material">150 nm thick Ba122 :Co films grown on MgO substrates</rs> were T onset c = 20 K.``.
 
  See `discussion in #2 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/12#note_34835>`_.
 
 Example 4 (created artificially to explain the concept):
  this example, since the substrate's Tc was explicitly mentioned. Base material and substrate are annotated and linked as separate entities. Should be annotated as follow
-    ``The <material id="1">MgB</material> grown on <material id="2">StRO3</material> (Tc = <tcValue ptr="#2">2K</tcValue>) has superconductor transition temperature of <tcValue ptr="#1">54K</tcValue>``
+    ``The <material id="1">MgB</rs> grown on <material id="2">StRO3</rs> (Tc = <tcValue ptr="#2">2K</rs>) has superconductor transition temperature of <tcValue ptr="#1">54K</rs>``
 
  the same example, when the substrate's Tc is not mentioned. Base material and substrate are annotated and linked in the same entity. Should be annotated as follow:
-    ``The <material id="1">MgB grown on StRO3</material> has superconductor transition temperature of <tcValue ptr="#1">54K</tcValue>``
+    ``The <material id="1">MgB grown on StRO3</rs> has superconductor transition temperature of <tcValue ptr="#1">54K</rs>``
 
  should be annotated
 
@@ -512,7 +510,7 @@ Such expressions include standard names, such as ``Tc`` and their variants, such
 
     Expressions related purely to the phenomenon of the superconductivity (and are not related to temperature), should be ignored, for example ``the superconductivity is interesting``.
 
-**Tag**: ``<tc>``
+**Tag**: ``<rs type="tc">``
 
 **Motivation**: The goal of these information is to compose a database of critical temperature expressions that can be used for identification of the critical temperatures values related to the phenomenon of superconductivity.
 
@@ -549,7 +547,7 @@ What to be annotated:
 
 .. note::
 
-    When the critical temperature expressions appears close to each other, the approach is to annotate them  separately. For example, in  the sentence like ``[..] the critical temperature (Tc) is [..]``, the approach is to annotate the two expressions (``tc`` and ``critical temperature``) separately, like: ``the <tc>critical temperature</tc> (<tc>Tc</tc>)``,
+    When the critical temperature expressions appears close to each other, the approach is to annotate them  separately. For example, in  the sentence like ``[..] the critical temperature (Tc) is [..]``, the approach is to annotate the two expressions (``tc`` and ``critical temperature``) separately, like: ``the <rs type="tc">critical temperature</rs> (<rs type="tc">Tc</rs>)``,
 
 .. warning:: Tc expressions referring to relative critical temperature values should not be annotated. For example ``ΔTc`` to express a difference of superconducting critical temperature.
 
@@ -609,7 +607,7 @@ Critical temperature value
 
 Represent the value of the superconducting critical temperature, Tc. Other temperatures (fabrication conditions, etc.) should not be annotated.
 
-**Tag**: ``<tcValue>``
+**Tag**: ``<rs type="tcValue">``
 
 **Basic rules**:
 
@@ -631,7 +629,7 @@ Critical pressure
 
 Represent the applied pressure when superconductivity is recorded
 
-**Tag**: ``<pressure>``
+**Tag**: ``<rs type="pressure">``
 
 **Motivation**: The superconductor critical temperature can be triggered by different conditions, one of the most studied is, in fact, the application of pressure. Since the same material can have multiple Tc, corresponding to different pressure conditions, this information is required.
 
@@ -651,7 +649,7 @@ Measurement method
 Indicates the techniques used to measure or calculate the presence of superconductivity.
 This includes also the study of temperature/resistivity, temperature/magnetic field graphs, not necessarily related to superconductivity.
 
-**Tag**: ``<me_method>``.
+**Tag**: ``<rs type="me_method">``.
 
 **Motivation**: This annotation can be used to:
  * understand how a critical temperature has been obtained because some papers associate different critical temperatures to different measurement methods.
@@ -721,7 +719,7 @@ Here some examples covering more than one annotation label:
 - ``electron-doped high-transition-temperature (Tc) iron-based pnictide`` should be annotated as follow:
    ::
 
-    The electron-doped <tc>high-transition-temperature</tc> (<tc>Tc</tc>) <class>iron-based pnictide</class> superconductor <material>LaFeAsO1−xHx</material> has a unique phase diagram:
+    The electron-doped <rs type="tc">high-transition-temperature</rs> (<tc>Tc</rs>) <rs type="class">iron-based pnictide</rs> superconductor <rs type="material">LaFeAsO1−xHx</rs> has a unique phase diagram:
 
 
   where the ``LaFeAsO1−xHx`` represent the material (chemical formula without doping rate) and class ``iron-based pnictide``.
@@ -737,9 +735,9 @@ The link between entities implements the relationship between them. The link can
 Definition
 ==========
 There are three type of links:
-    - ``material-tc`` connects a material (``<material>``) with its corresponding superconducting critical temperature value (``<tcValue>``).
-    - ``tc-pressure`` connects a superconducting critical temperature value (``<tcValue>``) with its related critical pressure (``<pressure>``).
-    - ``me_method-tc`` connects the superconducting critical temperature value (``<tcValue>``) to its corresponding measurement method (``<me_method>``)
+    - ``material-tc`` connects a material (``<rs type="material">``) with its corresponding superconducting critical temperature value (``<rs type="tcValue">``).
+    - ``tc-pressure`` connects a superconducting critical temperature value (``<rs type="tcValue">``) with its related critical pressure (``<rs type="pressure">``).
+    - ``me_method-tc`` connects the superconducting critical temperature value (``<rs type="tcValue">``) to its corresponding measurement method (``<rs type="me_method">``)
 
 Examples, directions and notations
 ==================================
@@ -770,18 +768,18 @@ XML Notation
 .. code-block:: xml
 
     Magnetic properties of the novel layered superconductor,
-    <material id="1">Na0.35CoO2·1.3H2O</material> have been investigated.
+    <material id="1">Na0.35CoO2·1.3H2O</rs> have been investigated.
     From the temperature dependence and field dependence of the magnetization,
     the superconducting transition temperature, as well as upper-and
     lower-critical fields have <me_method id="2">been estimated</me_method> to
-    be <tc>TC</tc> = <tcValue id="3" ptr="#1,2">4.6 K</tcValue>,
-    at <pressure ptr="#3">6GPa</pressure>.
+    be <rs type="tc">TC</rs> = <tcValue id="3" ptr="#1,2">4.6 K</rs>,
+    at <pressure ptr="#3">6GPa</rs>.
 
 In this XML example the linking is done using the attributes ``ptr -> #id`` (pointer -> identifier).
 In particular:
-    - the ``<tcValue>`` is linked to ``<material>`` with the ``tc-material`` link (see ``ptr`` containing value ``1`` which corresponds to the id of the ``<material>`` ``Na0.35CoO2·1.3H2O``)
-    - the ``<pressure>`` is linked to ``<tcValue>`` with the ``pressure-tc`` link
-    - the ``<tcValue>`` is also linked to a measurement method (theoretical calculation, ndr), via the link ``me_method-tc``.
+    - the ``<rs type="tcValue">`` is linked to ``<rs type="material">`` with the ``tc-material`` link (see ``@corresp`` containing value ``1`` which corresponds to the id of the ``<rs type="material">`` ``Na0.35CoO2·1.3H2O``)
+    - the ``<rs type="pressure">`` is linked to ``<rs type="tcValue">`` with the ``pressure-tc`` link
+    - the ``<rs type="tcValue">`` is also linked to a measurement method (theoretical calculation, ndr), via the link ``me_method-tc``.
 
 Multiple pointer can be added separated by a comma.
 
@@ -814,40 +812,3 @@ Basic rules
        :alt: Link direction example
 
        Link direction example
-
-.. _out of scope:
-
-Out of scope
-************
-In this subsection we group all the items that are currently out of scope.
-
-
-Material shape
-==============
-
-Material shape define the way the material sample is shaped: ``thin film``, ``wire``, ``rod``, ``powder``, etc...
-The shape is annotated only when is adjoined to a material.
-
-It should not be annotated when alone, like the word ``powder`` in the following sentence:
-::
-
-    The 75 As-NMR results for the powder samples show that
-
-More details in the section :ref:`material_name`.
-
-Critical field
-==============
-
-Critical field define the experiment condition for the applied field when measuring superconductivity
-
-
-Fabrication method
-==============
-
-The fabrication method describes the why the experiment is designed.
-
-
-Link <material> to <class>
-==============
-
-Link of `<material>` to `<class>` connect each material to its class information

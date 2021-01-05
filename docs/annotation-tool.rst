@@ -12,60 +12,41 @@
 
 .. _Annotation tools:
 
-Annotation Tools
-~~~~~~~~~~~~~~~~
-
-There are several tools that can be used for annotation, as reported in a `report on market research`_ from Hiroki Nakayama.
-We have tested several tools, opensource and we have selected `Inception`_ as a stable solution of an open source annotation tool.
-
-The reasons beyond this choice are
-    a) the possibility to use a customised tokenisation approach and load tokenised and pre-annotated data
-    b) out-of-the-box support for multi-user, role based, etc..
-    c) support for multi-annotator and curation merging process
-    d) active learning and additional aid for annotators based on previous annotations
-    e) search and replace strings and labels over several documents
-    f) open-source (Licence Apache 2.0)
-
-.. note:: In order to become familiar with the tool, it is recommended to start watching this quick video `Inception tutorial`_ and reading the `Inception user guide`_.
-
-.. warning:: Inception is still in development and it supports only Safari and Chrome. For annotation work Firefox might be used at your own risk.
+Annotation Support Tools
+~~~~~~~~~~~~~~~~~~~~~~~~
+This section describe the use of the annotaion support tools, namely the annotation tool Inception.
 
 Overview
 ^^^^^^^^
-
-The workflow using Inception it's a simple subset of the general workflow described in :ref:`Annotation workflow`.
 
 There are three mains tasks each user is required to perform:
  - correct documents (annotation)
  - cross-check other annotators-corrected documents (curation)
  - report issues or questions (documentation)
 
-The dataset id divided into numbered batches, each batch represent one annotation iteration (see :ref:`Annotation workflow`).
-
-
-`Inception`_ can be accessed at http://falcon.nims.go.jp/inception. After the login the user will reach a view with all the assigned projects:
+`Inception`_ can be accessed via web. After the login the user will reach a view with all the assigned projects:
 
 .. figure:: images/inception-home-view.png
    :alt: Project home view
 
-In the scope of this project, each Inception "project" corresponds with a batch of documents.
+In the scope of this project, each batch of documents will be assigned to a different Inception "project".
 
 .. _annotation:
 
 Document correction (Annotation)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Each annotator select a set of documents and start correcting them.
-To start the correction, select ``Annotations``
+
+To start the anntation process, select ``Annotations``
 
 .. figure:: images/inception-start-menu-annotation.png
    :alt: Annotation
 
-and then a file from the available list.
+and then a document from the available list.
 
 .. figure:: images/file-list.png
    :alt: File selection
 
-the annotation would look like:
+The annotated document look like:
 
 .. figure:: images/webanno-annotation-sample.png
    :alt: Annotation sample
@@ -77,17 +58,20 @@ The correction task can be summarised in the following actions:
     .. figure:: images/example-annotation-alignment.png
         :alt: Annotation alignment
 
-    (3) remove the annotation, when is not relevant (for example, if a ``<tcValue>>`` is identifying the temperature of annheling).
+        Annotation alignment
 
-.. warning:: The tool does not support dragging annotations around, so you have to select the annotation, delete it and add a new annotation in
-the new section of the text.
+    (3) remove the annotation, when is not relevant (for example, if a ``<tcValue>`` is identifying the temperature of annheling).
+
+.. warning:: The tool does not support dragging annotations. To move an annotation, it must be deleted and added as a new annotation in the new position.
 
 .. note:: The tool will log you off after 30 seconds of inactivity. Any modification is saved automatically.
 
-Once the document has been completely annotated, click on ``Finish`` (lock icon). After that, the document will pass on to the cross-check (curation) task and cannot be modified.
+Once the document has been completely annotated, the user has to click on the ``Finish`` button (lock icon) to lock the document and move it to the next step of the workflow: the cross-check (curation) task.
 
 .. figure:: images/inception-finish-document.png
-   :alt: Icon to complete a document
+   :alt: Icon to mark a document as "completed" and move it to the next step of the workflow
+
+    Icon to mark a document as "completed" and move it to the next step of the workflow
 
 .. note:: If you wish to modify a document that has been already ``closed``, contact one of the admins.
 
@@ -124,7 +108,7 @@ The curator can propagate annotations by clicking on it to have it in the output
 .. figure:: images/webanno-curation-sample-2.png
    :alt: Curation
 
-The annotation ``single crystal`` is propagated in he output file by clicking the annotation from one of the annotators.
+The annotation ``single crystal`` is propagated in the output file by clicking the annotation from one of the annotators.
 
 The curator can also add new annotation by highlight the text and selecting the label from the right panel (as explained for the task of annotation/correction).
 
@@ -150,7 +134,7 @@ In any projects:
 .. figure:: images/curation-in-annotation.png
    :alt: Curation-in annotation
 
-    How to access the curation-in annotation.
+  How to access the curation-in annotation.
 
 The violet-highlighted annotations belongs to the annotator while the other annotations (they can be pink or any other colors, depending on the selected palette), are the curation output.
 
