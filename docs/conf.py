@@ -32,7 +32,7 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo']
-pdf_documents = [('index', u'superconductors-documentation', u'Superconductors-related documents annotation guidelines',
+pdf_documents = [('index', u'superconductors-documentation', u'SuperMat (Superconductors Materials) corpus annotation guidelines',
                   u'Luca Foppiano, Sae Dieb, Pedro Castro, Suguru Iwasaki, Yan Meng, Akira Suzuki, Kensei Terashima, Yoshihiko Takano, Masashi Ishii')]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'SuperDoc'
+project = 'SuperMat'
 # copyright = '2019, Luca Foppiano <FOPPIANO.Luca@nims.go.jp>'
-copyright = '2019-2020, NIMS'
+copyright = 'CC-BY'
 author = 'Luca Foppiano <FOPPIANO.Luca@nims.go.jp>'
 
 numfig = True
@@ -124,14 +124,14 @@ latex_elements = {
 
     # Latex figure (float) alignment
     #
-    # 'figure_align': 'htbp',
+    'figure_align': 'htbp',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'superconductors-documentation.tex', 'Superconductors Documentation',
+    (master_doc, 'superconductors-documentation.tex', 'SuperMat (Superconductors Materials) corpus annotation guidelines',
      'Luca Foppiano \\textless{}FOPPIANO.Luca@nims.go.jp\\textgreater{}', 'manual'),
 ]
 
@@ -150,7 +150,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Grobid-superconductors', 'Grobid-superconductors Documentation',
+    (master_doc, 'Grobid-superconductors', 'SuperMat (Superconductors Matertials) corpus annotation guidelines',
      author, 'Grobid-superconductors', 'One line description of project.',
      'Miscellaneous'),
 ]
