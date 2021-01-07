@@ -1,3 +1,8 @@
+
+[![DOI](https://zenodo.org/badge/274084512.svg)](https://zenodo.org/badge/latestdoi/274084512)
+[![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
+
+
 # SuperMat 
 SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties. 
 
