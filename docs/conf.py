@@ -31,7 +31,8 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo']
+extensions = ['sphinx.ext.todo']
+# extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo']
 pdf_documents = [('index', u'superconductors-documentation', u'SuperMat (Superconductors Materials) corpus annotation guidelines',
                   u'Luca Foppiano, Sae Dieb, Pedro Castro, Suguru Iwasaki, Yan Meng, Akira Suzuki, Kensei Terashima, Yoshihiko Takano, Masashi Ishii')]
 
