@@ -25,7 +25,6 @@
       <abstract>
         <p>We report the results of <rs type="me_method">electrical resistivity</rs>, magnetic and thermodynamic measurements on <rs type="material">polycrystalline SnSb</rs>, whose structure consists of stacks of Sb bilayers and Sn 4 Sb 3 septuple layers along the c-axis. The material is found to be a weakly coupled, fully gapped, type-II superconductor with a <rs type="tc">bulk T c</rs> of <rs type="tcValue">1.50 K</rs>, while showing a zero resistivity transition at a significantly higher temperature of <rs type="tcValue">2.48 K</rs>. The Sommerfeld coefficient and upper critical field, obtained from <rs type="me_method">specific heat measurements</rs>, are 2.29 mJ mol −1 K −2 and 520 Oe, respectively. Compositional inhomogeneity and strain effect at the grain boundaries are proposed as possible origins for the difference in resistive and bulk superconducting transitions. In addition, a comparison with the rock-salt structure <rs type="material">SnAs</rs> superconductor is presented. Our results provide the first clear evidence of bulk superconductivity in a natural superlattice derived from a topological semimetal.</p>
       </abstract>
-<!--      <ab type="keywords">PACS numbers: 74.25.-q, 74.70.Ad, 74.78.Fk</ab>-->
     </profileDesc>
   </teiHeader>
   <text xml:lang="en">
