@@ -1,15 +1,20 @@
+
+[![DOI](https://zenodo.org/badge/274084512.svg)](https://zenodo.org/badge/latestdoi/274084512)
+[![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
+
+
 # SuperMat 
 SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties. 
 
 ## Content
  - Annotated dataset:
     - XML-TEI annotated fulltext data:
-        - [Annotated linked data](data/annotated) as XML-TEI format
-        - [Bibliographic](data/biblio) data as JSON (CORD-19) format
+        - [Annotated linked data](data/annotated) as XML-TEI basd format
+        - [Bibliographic](data/biblio) data references as XML-TEI or JSON (CORD-19) format
         - Source [PDFs](data/pdf)
-    - CSV tabular superconductors [data](data/csv/SuperMat-1.0.csv) (*)
+    - Tabular version of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
  - Annotation guidelines:
-    - [Online version](https://supermat.readthedocs.io) [will work after the repository will be published]
+    - [Online version](https://supermat.readthedocs.io)
     - [Changelog](docs/CHANGELOG.md)
     - [Source](docs), 
  - [Transformation scripts](super_mat/converters)
@@ -22,6 +27,23 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
  
 ## Dataset information
 
+## Reference
+
+If you use the data, please consider citing the related paper: 
+
+```
+@unpublished{foppiano:hal-03101177,
+  TITLE = {{SuperMat: Construction of a linked annotated dataset from superconductors-related publications}},
+  AUTHOR = {Foppiano, Luca and Dieb, Sae and Suzuki, Akira and Baptista de Castro, Pedro and Iwasaki, Suguru and Uzuki, Azusa and Esparza Echevarria, Miren Garbine and Meng, Yan and Terashima, Kensei and Romary, Laurent and Takano, Yoshihiko and Ishii, Masashi},
+  URL = {https://hal.inria.fr/hal-03101177},
+  NOTE = {working paper or preprint},
+  YEAR = {2021},
+  MONTH = Jan,
+  PDF = {https://hal.inria.fr/hal-03101177/file/SuperMat__Construction_of_a_linked_annotated_dataset_from_superconductors_related_publications-1.pdf},
+  HAL_ID = {hal-03101177},
+  HAL_VERSION = {v1},
+}
+```
  
 ## Usage
 
@@ -93,7 +115,3 @@ and a file with the specified name will be created in `builddir`.
 The dataset is licensed under CC BY 4.0 CC. The [Bibliographic](data/biblio) data refers to the original content. 
 
 The code is licences under Apache 2.0 
-
-## To cite ths work
-
-SuperMat: Construction of a linked annotated dataset from superconductors-related publications
