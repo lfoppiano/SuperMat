@@ -2,7 +2,6 @@
 <tei xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc xml:id="_0">
-        <!-- verify -->
       <titleStmt>
           <title>Magnetic-field effects on the in-plane <rs type="me_method">electrical resistivity</rs> in the <rs type="material">single-crystal La 2−x Ba x CuO 4 and La 1.6−x Nd 0.4 Sr x CuO 4 around x = 1/8</rs>: Relating to the field-induced stripe order</title>
       </titleStmt>
