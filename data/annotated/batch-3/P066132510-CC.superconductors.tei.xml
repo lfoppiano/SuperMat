@@ -26,6 +26,7 @@
     <abstract>
       <p>By means of <rs type="me_method" xml:id="x2-4">magnetization</rs>, <rs type="me_method">specific heat</rs> and muon-spin relaxation measurements, we investigate <rs type="material" xml:id="x4">high- pressure oxidized Cu0.75Mo0.25Sr2YCu2O7.54</rs>, in which overdoping is achieved up to p ∼ 0.45 hole/Cu, well beyond the Tc −p superconducting dome of <rs type="class">cuprates</rs>, where Fermi liquid behavior is expected. Surprisingly, we find <rs type="tc">bulk superconductivity</rs> with <rs type="tc">Tc</rs>=<rs corresp="#x2-4,#x4" type="tcValue">84 K</rs> and superfluid density similar to those of <rs type="material">optimally doped Y123</rs>. On the other hand, <rs type="me_method">specific heat</rs> data display a large electronic contribution at low temperature, comparable to that of nonsuperconducting <rs type="material">overdoped La214</rs>. These results point at an unusual high-Tc phase with a large fraction of unpaired holes. Further experiments may assess the Fermi liquid properties of the present phase, which would put into question the paradigm that the high Tc of <rs type="class">cuprates</rs> originates from a non-Fermi liquid ground state.</p>
     </abstract>
+    <!--<ab type="keywords">PACS numbers: 74.72.Gh, 74.62.Bf, 74.25.Ha, 74.25.Bt</ab>-->
   </profileDesc>
 </teiHeader>
 <text xml:lang="en">
