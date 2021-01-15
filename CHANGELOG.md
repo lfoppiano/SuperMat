@@ -4,9 +4,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.0.0] – 2020-12-17
+## [1.1] – 2021-1-15
 
-First release 1.0.0 
+Minor updates 
+
+### Changed
++ re-validated some parts
+
+### Fixed
++ solved small synchronisation issues with the feature files
+
+
+## [1.0] – 2020-12-17
+
+First release 1.0
 
 ### Added
 + 130 OA annotated articles 
@@ -15,6 +26,8 @@ First release 1.0.0
 + analysis scripts
 
 
-[Unreleased]: https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/lfoppiano/SuperMat/compare/v1.0...HEAD
+[1.1]: https://github.com/lfoppiano/SuperMat/compare/v1.0...v1.1
+[1.0]: https://github.com/lfoppiano/SuperMat/compare/2e73878898f5d07e4137b406aa3e0d53ad675198...v1.0
 
 <!-- markdownlint-disable-file MD024 MD033 -->
