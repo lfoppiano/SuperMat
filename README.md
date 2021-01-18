@@ -11,7 +11,7 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
     - XML-TEI annotated fulltext data:
         - [Annotated linked data](data/annotated) as XML-TEI based format
         - [Bibliographic](data/biblio) data references as XML-TEI or JSON (CORD-19) format
-        - Source [PDFs](data/pdf)
+        - Sources are referenced in the [Bibliographic](data/biblio) data
     - Tabular version of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
  - Annotation guidelines:
     - [Online version](https://supermat.readthedocs.io)
