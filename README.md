@@ -1,5 +1,7 @@
 
-[![DOI](https://zenodo.org/badge/274084512.svg)](https://zenodo.org/badge/latestdoi/274084512)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4448392.svg)](https://doi.org/10.5281/zenodo.4448392)
 [![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
 
 
