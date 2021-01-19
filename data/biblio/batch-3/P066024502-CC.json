@@ -1,1 +1,50 @@
-{"addrline": "Heisenbergstrasse 1", "volume": "98", "issue": "3", "page": "033913", "date": "2018-09-01", "ISSN": "0021-8979", "eISSN": "1089-7550", "DOI": "10.1063/1.2006992", "arXiv": "arXiv:cond-mat/0507109v1[cond-mat.supr-con]", "publisher": "AIP Publishing", "title_main_a": "Superconducting properties of ultrathin Bi2Sr2CaCu2O8+x single crystals", "title_main_j": "Journal of Applied Physics", "title_abbrev_j": "Journal of Applied Physics", "authors": [{"first": "L", "middle": "X", "surname": "You"}, {"first": "A", "surname": "Yurgens"}, {"first": "D", "surname": "Winkler"}, {"first": "C", "middle": "T", "surname": "Lin"}, {"first": "B", "surname": "Liang"}, {}, {}], "keywords": ["numbers: 74.25.Fy", "74.62.Yb", "74.72.Hs", "74.78.Bz"], "npl_publn_id": "P066024502-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0507109",
+  "addrline": "Heisenbergstrasse 1",
+  "volume": "98",
+  "issue": "3",
+  "page": "033913",
+  "date": "2018-09-01",
+  "ISSN": "0021-8979",
+  "eISSN": "1089-7550",
+  "DOI": "10.1063/1.2006992",
+  "arXiv": "arXiv:cond-mat/0507109v1[cond-mat.supr-con]",
+  "publisher": "AIP Publishing",
+  "title_main_a": "Superconducting properties of ultrathin Bi2Sr2CaCu2O8+x single crystals",
+  "title_main_j": "Journal of Applied Physics",
+  "title_abbrev_j": "Journal of Applied Physics",
+  "authors": [
+    {
+      "first": "L",
+      "middle": "X",
+      "surname": "You"
+    },
+    {
+      "first": "A",
+      "surname": "Yurgens"
+    },
+    {
+      "first": "D",
+      "surname": "Winkler"
+    },
+    {
+      "first": "C",
+      "middle": "T",
+      "surname": "Lin"
+    },
+    {
+      "first": "B",
+      "surname": "Liang"
+    },
+    {},
+    {}
+  ],
+  "keywords": [
+    "numbers: 74.25.Fy",
+    "74.62.Yb",
+    "74.72.Hs",
+    "74.78.Bz"
+  ],
+  "npl_publn_id": "P066024502-CC.tei.xml"
+}

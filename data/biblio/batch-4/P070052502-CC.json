@@ -1,1 +1,33 @@
-{"addrline": "Furo-cho, Chikusa-ku", "volume": "72", "issue": "9", "date": "2003-09-15", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.72.2161", "note": "Received May 20, 2003", "publisher": "Physical Society of Japan", "title_main_a": "59Co NQR Study on Superconducting NaxCoO2\u00b7yH2O", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Yoshiaki", "surname": "Kobayashi"}, {"first": "Mai", "surname": "Yokoi"}, {"first": "Masatoshi", "surname": "Sato"}], "keywords": [], "npl_publn_id": "P070052502-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0305649",
+  "arXiv": "arXiv:cond-mat/0305649v2",
+  "addrline": "Furo-cho, Chikusa-ku",
+  "volume": "72",
+  "issue": "9",
+  "date": "2003-09-15",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.72.2161",
+  "note": "Received May 20, 2003",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "59Co NQR Study on Superconducting NaxCoO2\u00b7yH2O",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Yoshiaki",
+      "surname": "Kobayashi"
+    },
+    {
+      "first": "Mai",
+      "surname": "Yokoi"
+    },
+    {
+      "first": "Masatoshi",
+      "surname": "Sato"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "P070052502-CC.tei.xml"
+}

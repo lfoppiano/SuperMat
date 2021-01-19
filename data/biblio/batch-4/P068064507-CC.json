@@ -1,4 +1,6 @@
 {
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0304552",
   "volume": "68",
   "issue": "6",
   "date": "2003-08-21",
@@ -6,7 +8,7 @@
   "eISSN": "1095-3795",
   "DOI": "10.1103/physrevb.68.064507",
   "publisher": "American Physical Society (APS)",
-  "title_main_a": "Competition of superconductivity and magnetism inMoSr2R1.5Ce0.5Cu2O10\u2212\u03b4(R=rare\u2212earth)",
+  "title_main_a": "Competition of superconductivity and magnetism in MoSr2R1.5Ce0.5Cu2O10\u2212\u03b4(R=rare\u2212earth)",
   "title_main_j": "Physical Review B",
   "title_abbrev_j": "Phys. Rev. B",
   "authors": [

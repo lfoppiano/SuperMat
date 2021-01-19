@@ -1,1 +1,37 @@
-{"volume": "78", "issue": "1", "page": "013709", "date": "2008-11-19", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.78.013709", "arXiv": "arXiv:0810.4856v2[cond-mat.supr-con]", "publisher": "Physical Society of Japan", "title_main_a": "Abrupt Emergence of Pressure-Induced Superconductivity of 34 K in SrFe2As2: A Resistivity Study under Pressure", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Hisashi", "surname": "Kotegawa"}, {"first": "Hitoshi", "surname": "Sugawara"}, {"first": "Hideki", "surname": "Tou"}], "keywords": ["SrFe2As2", "superconductivity", "pressure", "single crystal"], "npl_publn_id": "kotegawa2008abrupt-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "url": "https://arxiv.org/abs/0810.4856",
+  "volume": "78",
+  "issue": "1",
+  "page": "013709",
+  "date": "2008-11-19",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.78.013709",
+  "arXiv": "arXiv:0810.4856v2[cond-mat.supr-con]",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Abrupt Emergence of Pressure-Induced Superconductivity of 34 K in SrFe2As2: A Resistivity Study under Pressure",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Hisashi",
+      "surname": "Kotegawa"
+    },
+    {
+      "first": "Hitoshi",
+      "surname": "Sugawara"
+    },
+    {
+      "first": "Hideki",
+      "surname": "Tou"
+    }
+  ],
+  "keywords": [
+    "SrFe2As2",
+    "superconductivity",
+    "pressure",
+    "single crystal"
+  ],
+  "npl_publn_id": "kotegawa2008abrupt-CC.tei.xml"
+}

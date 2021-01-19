@@ -1,1 +1,42 @@
-{"addrline": "3-1 Morinosato Wakamiya, Atsugi-shi", "volume": "88", "issue": "20", "date": "2018-10-31", "ISSN": "0031-9007", "eISSN": "1079-7114", "DOI": "10.1103/physrevlett.88.207003", "arXiv": "arXiv:cond-mat/0107122v3[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Evidence for a Nodeless Gap from the Superfluid Density of Optimally DopedPr1.855Ce0.145CuO4\u2212yFilms", "title_main_j": "Physical Review Letters", "title_abbrev_j": "Phys. Rev. Lett.", "authors": [{"first": "John", "middle": "A", "surname": "Skinta"}, {"first": "Thomas", "middle": "R", "surname": "Lemberger"}, {"first": "T", "surname": "Greibe"}, {"first": "M", "surname": "Naito"}], "keywords": ["numbers: 74.25.Fy", "74.76.Bz", "74.72.Jt"], "npl_publn_id": "L088207003-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0108054",
+  "addrline": "3-1 Morinosato Wakamiya, Atsugi-shi",
+  "volume": "88",
+  "issue": "20",
+  "date": "2018-10-31",
+  "ISSN": "0031-9007",
+  "eISSN": "1079-7114",
+  "DOI": "10.1103/physrevlett.88.207003",
+  "arXiv": "arXiv:cond-mat/0107122v3[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Evidence for a Nodeless Gap from the Superfluid Density of Optimally DopedPr1.855Ce0.145CuO4\u2212yFilms",
+  "title_main_j": "Physical Review Letters",
+  "title_abbrev_j": "Phys. Rev. Lett.",
+  "authors": [
+    {
+      "first": "John",
+      "middle": "A",
+      "surname": "Skinta"
+    },
+    {
+      "first": "Thomas",
+      "middle": "R",
+      "surname": "Lemberger"
+    },
+    {
+      "first": "T",
+      "surname": "Greibe"
+    },
+    {
+      "first": "M",
+      "surname": "Naito"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.25.Fy",
+    "74.76.Bz",
+    "74.72.Jt"
+  ],
+  "npl_publn_id": "L088207003-CC.tei.xml"
+}

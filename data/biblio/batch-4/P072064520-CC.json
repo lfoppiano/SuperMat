@@ -1,1 +1,53 @@
-{"addrline": "BP 220", "volume": "72", "issue": "6", "date": "2018-11-19", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.72.064520", "arXiv": "arXiv:cond-mat/0503597v1[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Structural properties of the sesquicarbide superconductorLa2C3at high pressure", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "X", "surname": "Wang"}, {"first": "I", "surname": "Loa"}, {"first": "K", "surname": "Syassen"}, {"first": "R", "middle": "K", "surname": "Kremer"}, {"first": "A", "surname": "Simon"}, {"first": "M", "surname": "Hanfland"}, {"first": "K", "surname": "Ahn"}], "keywords": ["numbers: : 61.50.Ks", "62.50.+p", "77.80.Bh"], "npl_publn_id": "P072064520-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0503597",
+  "addrline": "BP 220",
+  "volume": "72",
+  "issue": "6",
+  "date": "2018-11-19",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.064520",
+  "arXiv": "arXiv:cond-mat/0503597v1[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Structural properties of the sesquicarbide superconductorLa2C3at high pressure",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "X",
+      "surname": "Wang"
+    },
+    {
+      "first": "I",
+      "surname": "Loa"
+    },
+    {
+      "first": "K",
+      "surname": "Syassen"
+    },
+    {
+      "first": "R",
+      "middle": "K",
+      "surname": "Kremer"
+    },
+    {
+      "first": "A",
+      "surname": "Simon"
+    },
+    {
+      "first": "M",
+      "surname": "Hanfland"
+    },
+    {
+      "first": "K",
+      "surname": "Ahn"
+    }
+  ],
+  "keywords": [
+    "numbers: : 61.50.Ks",
+    "62.50.+p",
+    "77.80.Bh"
+  ],
+  "npl_publn_id": "P072064520-CC.tei.xml"
+}

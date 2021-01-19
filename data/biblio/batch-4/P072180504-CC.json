@@ -1,1 +1,31 @@
-{"volume": "72", "issue": "18", "date": "2018-10-31", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.72.180504", "arXiv": "arXiv:cond-mat/0509018v2[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Type-I superconductivity of the layered silver oxideAg5Pb2O6", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "Shingo", "surname": "Yonezawa"}, {"first": "Yoshiteru", "surname": "Maeno"}], "keywords": ["numbers: 74.10.+v", "74.25.Dw", "74.70.Dd"], "npl_publn_id": "P072180504-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0509018",
+  "volume": "72",
+  "issue": "18",
+  "date": "2018-10-31",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.180504",
+  "arXiv": "arXiv:cond-mat/0509018v2[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Type-I superconductivity of the layered silver oxideAg5Pb2O6",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "Shingo",
+      "surname": "Yonezawa"
+    },
+    {
+      "first": "Yoshiteru",
+      "surname": "Maeno"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.10.+v",
+    "74.25.Dw",
+    "74.70.Dd"
+  ],
+  "npl_publn_id": "P072180504-CC.tei.xml"
+}

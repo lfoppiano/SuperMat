@@ -1,1 +1,65 @@
-{"addrline": "1-1 Namiki", "volume": "72", "issue": "12", "date": "2003-08-25", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.72.3041", "arXiv": "arXiv:cond-mat/0308506v1[cond-mat.supr-con]", "publisher": "Physical Society of Japan", "title_main_a": "Unconventional Superconductivity and Nearly Ferromagnetic Spin Fluctuations in NaxCoO2\u00b7yH2O", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "K", "surname": "Ishida"}, {"first": "Y", "surname": "Ihara"}, {"first": "Y", "surname": "Maeno"}, {"first": "C", "surname": "Michioka"}, {"first": "M", "surname": "Kato"}, {"first": "K", "surname": "Yoshimura"}, {"first": "K", "surname": "Takada"}, {"first": "T", "surname": "Sasaki"}, {"first": "H", "surname": "Sakurai"}, {"first": "E", "surname": "Takayama-Muromachi"}], "keywords": ["superconductivity", "hydrous sodium cobalt oxide", "NQR", "spin fluctuations"], "npl_publn_id": "JPS0723041-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0308506",
+  "addrline": "1-1 Namiki",
+  "volume": "72",
+  "issue": "12",
+  "date": "2003-08-25",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.72.3041",
+  "arXiv": "arXiv:cond-mat/0308506v1[cond-mat.supr-con]",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Unconventional Superconductivity and Nearly Ferromagnetic Spin Fluctuations in NaxCoO2\u00b7yH2O",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "K",
+      "surname": "Ishida"
+    },
+    {
+      "first": "Y",
+      "surname": "Ihara"
+    },
+    {
+      "first": "Y",
+      "surname": "Maeno"
+    },
+    {
+      "first": "C",
+      "surname": "Michioka"
+    },
+    {
+      "first": "M",
+      "surname": "Kato"
+    },
+    {
+      "first": "K",
+      "surname": "Yoshimura"
+    },
+    {
+      "first": "K",
+      "surname": "Takada"
+    },
+    {
+      "first": "T",
+      "surname": "Sasaki"
+    },
+    {
+      "first": "H",
+      "surname": "Sakurai"
+    },
+    {
+      "first": "E",
+      "surname": "Takayama-Muromachi"
+    }
+  ],
+  "keywords": [
+    "superconductivity",
+    "hydrous sodium cobalt oxide",
+    "NQR",
+    "spin fluctuations"
+  ],
+  "npl_publn_id": "JPS0723041-CC.tei.xml"
+}

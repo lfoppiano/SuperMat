@@ -1,1 +1,49 @@
-{"addrline": "LPM", "volume": "72", "issue": "9", "date": "2004-11-29", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.72.094504", "arXiv": "arXiv:cond-mat/0411719v1[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Pressure effect on the magnetic penetration depth inMgB2", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "D", "surname": "Di Castro"}, {"first": "R", "surname": "Khasanov"}, {"first": "C", "surname": "Grimaldi"}, {"first": "J", "surname": "Karpinski"}, {"first": "S", "middle": "M", "surname": "Kazakov"}, {"first": "R", "surname": "Br\u00fctsch"}, {"first": "H", "surname": "Keller"}], "keywords": [], "npl_publn_id": "P072094504-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0411719",
+  "addrline": "LPM",
+  "volume": "72",
+  "issue": "9",
+  "date": "2004-11-29",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.094504",
+  "arXiv": "arXiv:cond-mat/0411719v1[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Pressure effect on the magnetic penetration depth inMgB2",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "D",
+      "surname": "Di Castro"
+    },
+    {
+      "first": "R",
+      "surname": "Khasanov"
+    },
+    {
+      "first": "C",
+      "surname": "Grimaldi"
+    },
+    {
+      "first": "J",
+      "surname": "Karpinski"
+    },
+    {
+      "first": "S",
+      "middle": "M",
+      "surname": "Kazakov"
+    },
+    {
+      "first": "R",
+      "surname": "Br\u00fctsch"
+    },
+    {
+      "first": "H",
+      "surname": "Keller"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "P072094504-CC.tei.xml"
+}

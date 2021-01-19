@@ -1,1 +1,46 @@
-{"volume": "71", "issue": "3", "date": "2001-12-25", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.71.709", "arXiv": "arXiv:cond-mat/0112448v1[cond-mat.supr-con]", "note": "Received September 12, 2001", "publisher": "Physical Society of Japan", "title_main_a": "Quasiparticle Excitation in the Superconducting Pyrochlore Cd2Re2O7Probed by Muon Spin Rotation", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Ryosuke", "surname": "Kadono"}, {"first": "Wataru", "surname": "Higemoto"}, {"first": "Akihiro", "surname": "Koda"}, {"first": "Yu", "surname": "Kawasaki"}, {"first": "Masashi", "surname": "Hanawa"}, {"first": "Zenji", "surname": "Hiroi"}, {}, {}], "keywords": [], "npl_publn_id": "JPS0710709-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0112448",
+  "volume": "71",
+  "issue": "3",
+  "date": "2001-12-25",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.71.709",
+  "arXiv": "arXiv:cond-mat/0112448v1[cond-mat.supr-con]",
+  "note": "Received September 12, 2001",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Quasiparticle Excitation in the Superconducting Pyrochlore Cd2Re2O7Probed by Muon Spin Rotation",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Ryosuke",
+      "surname": "Kadono"
+    },
+    {
+      "first": "Wataru",
+      "surname": "Higemoto"
+    },
+    {
+      "first": "Akihiro",
+      "surname": "Koda"
+    },
+    {
+      "first": "Yu",
+      "surname": "Kawasaki"
+    },
+    {
+      "first": "Masashi",
+      "surname": "Hanawa"
+    },
+    {
+      "first": "Zenji",
+      "surname": "Hiroi"
+    },
+    {},
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "JPS0710709-CC.tei.xml"
+}

@@ -1,1 +1,60 @@
-{"addrline": "24 quai Ernest-Ansermet", "volume": "224", "issue": "3-4", "date": "1994-05", "ISSN": "0921-4534", "DOI": "10.1016/0921-4534(94)90263-1", "publisher": "Elsevier BV", "title_main_a": "Reversible magnetization below Tc in high-quality superconducting ceramics", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "G", "surname": "Triscone"}, {"first": "A", "middle": "F", "surname": "Khoder"}, {"first": "C", "surname": "Opagiste"}, {"first": "J-Y", "surname": "Genoud"}, {"first": "T", "surname": "Graf"}, {"first": "E", "surname": "Junod"}, {"first": "T", "surname": "Tsukamoto"}, {"first": "M", "surname": "Couach"}, {"first": "A", "surname": "Junod"}, {"first": "J", "surname": "Muller"}], "keywords": [], "npl_publn_id": "PHC2240263-CC.tei.xml"}
+{
+  "__comment": "To be checked",
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://hal.archives-ouvertes.fr/hal-00585258/",
+  "addrline": "24 quai Ernest-Ansermet",
+  "volume": "224",
+  "issue": "3-4",
+  "date": "1994-05",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/0921-4534(94)90263-1",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Reversible magnetization below Tc in high-quality superconducting ceramics",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "G",
+      "surname": "Triscone"
+    },
+    {
+      "first": "A",
+      "middle": "F",
+      "surname": "Khoder"
+    },
+    {
+      "first": "C",
+      "surname": "Opagiste"
+    },
+    {
+      "first": "J-Y",
+      "surname": "Genoud"
+    },
+    {
+      "first": "T",
+      "surname": "Graf"
+    },
+    {
+      "first": "E",
+      "surname": "Junod"
+    },
+    {
+      "first": "T",
+      "surname": "Tsukamoto"
+    },
+    {
+      "first": "M",
+      "surname": "Couach"
+    },
+    {
+      "first": "A",
+      "surname": "Junod"
+    },
+    {
+      "first": "J",
+      "surname": "Muller"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "PHC2240263-CC.tei.xml"
+}

@@ -1,1 +1,35 @@
-{"volume": "11", "issue": "15", "date": "1999-03-24", "ISSN": "0953-8984", "eISSN": "1361-648X", "DOI": "10.1088/0953-8984/11/15/022", "arXiv": "arXiv:cond-mat/9903023v2[cond-mat.supr-con]", "publisher": "IOP Publishing", "title_main_a": "Anisotropic resistivity of the antiferromagnetic insulator", "title_main_j": "Journal of Physics: Condensed Matter", "title_abbrev_j": "J. Phys.: Condens. Matter", "authors": [{"first": "T", "surname": "Kitajima"}, {"first": "T", "surname": "Takayanagi"}, {"first": "T", "surname": "Takemura"}, {"first": "I", "surname": "Terasaki"}], "keywords": [], "npl_publn_id": "JP01103169-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/9903023",
+  "volume": "11",
+  "issue": "15",
+  "date": "1999-03-24",
+  "ISSN": "0953-8984",
+  "eISSN": "1361-648X",
+  "DOI": "10.1088/0953-8984/11/15/022",
+  "arXiv": "arXiv:cond-mat/9903023v2[cond-mat.supr-con]",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Anisotropic resistivity of the antiferromagnetic insulator",
+  "title_main_j": "Journal of Physics: Condensed Matter",
+  "title_abbrev_j": "J. Phys.: Condens. Matter",
+  "authors": [
+    {
+      "first": "T",
+      "surname": "Kitajima"
+    },
+    {
+      "first": "T",
+      "surname": "Takayanagi"
+    },
+    {
+      "first": "T",
+      "surname": "Takemura"
+    },
+    {
+      "first": "I",
+      "surname": "Terasaki"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "JP01103169-CC.tei.xml"
+}

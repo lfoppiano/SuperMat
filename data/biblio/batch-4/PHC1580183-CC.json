@@ -1,1 +1,50 @@
-{"volume": "T29", "date": "1989-01-01", "ISSN": "0031-8949", "eISSN": "1402-4896", "DOI": "10.1088/0031-8949/1989/t29/017", "note": "Received March 7. 1989; accepted April 11, 1989", "publisher": "IOP Publishing", "title_main_a": "The Crystal Structure of Superconducting La2CuO4.032 by Neutron Diffraction", "title_main_j": "Physica Scripta", "title_abbrev_j": "Phys. Scr.", "authors": [{"first": "C", "surname": "Chaillout"}, {"first": "S", "middle": "W", "surname": "Cheong"}, {"first": "Z", "surname": "Fisk"}, {"first": "M", "middle": "S", "surname": "Lehmann"}, {"first": "M", "surname": "Marezio"}, {"first": "B", "surname": "Morosin"}, {"first": "J", "middle": "E", "surname": "Schirber"}, {}], "keywords": [], "npl_publn_id": "PHC1580183-CC.tei.xml"}
+{
+  "licence": "CC-BY",
+  "url": "https://escholarship.org/uc/item/3t6494qj",
+  "volume": "T29",
+  "date": "1989-01-01",
+  "ISSN": "0031-8949",
+  "eISSN": "1402-4896",
+  "DOI": "10.1088/0031-8949/1989/t29/017",
+  "note": "Received March 7. 1989; accepted April 11, 1989",
+  "publisher": "IOP Publishing",
+  "title_main_a": "The Crystal Structure of Superconducting La2CuO4.032 by Neutron Diffraction",
+  "title_main_j": "Physica Scripta",
+  "title_abbrev_j": "Phys. Scr.",
+  "authors": [
+    {
+      "first": "C",
+      "surname": "Chaillout"
+    },
+    {
+      "first": "S",
+      "middle": "W",
+      "surname": "Cheong"
+    },
+    {
+      "first": "Z",
+      "surname": "Fisk"
+    },
+    {
+      "first": "M",
+      "middle": "S",
+      "surname": "Lehmann"
+    },
+    {
+      "first": "M",
+      "surname": "Marezio"
+    },
+    {
+      "first": "B",
+      "surname": "Morosin"
+    },
+    {
+      "first": "J",
+      "middle": "E",
+      "surname": "Schirber"
+    },
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "PHC1580183-CC.tei.xml"
+}

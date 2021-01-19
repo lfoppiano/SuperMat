@@ -1,1 +1,76 @@
-{"volume": "313", "issue": "1-2", "date": "1999-02", "ISSN": "0921-4534", "DOI": "10.1016/s0921-4534(99)00011-8", "publisher": "Elsevier BV", "title_main_a": "Critical currents, pinning forces and irreversibility fields in (YxTm1\u2212x)Ba2Cu3O7 single crystals with columnar defects in fields up to 50 T", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "Lieven", "surname": "Trappeniers"}, {"first": "J", "surname": "Vanacken"}, {"first": "L", "surname": "Weckhuysen"}, {"first": "K", "surname": "Rosseel"}, {"first": "A", "middle": "Yu. ", "surname": "Didyk"}, {"first": "I", "middle": "N", "surname": "Goncharov"}, {"first": "L", "middle": "I", "surname": "Leonyuk"}, {"first": "W", "surname": "Boon"}, {"first": "F", "surname": "Herlach"}, {"first": "V", "middle": "V", "surname": "Moshchalkov"}, {"first": "Y", "surname": "Bruynseraede"}, {}], "keywords": ["Columnar Defects", "Flux Pinning", "Critical Current Density", "Magnetisation", "Pinning Force PACS: 74.60Ge", "74.62Dh", "74.25Ha", "74.60Jg"], "npl_publn_id": "PHC3130001-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/9902323",
+  "arXiv": "arXiv:cond-mat/9902323v1",
+  "volume": "313",
+  "issue": "1-2",
+  "date": "1999-02",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/s0921-4534(99)00011-8",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Critical currents, pinning forces and irreversibility fields in (YxTm1\u2212x)Ba2Cu3O7 single crystals with columnar defects in fields up to 50 T",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "Lieven",
+      "surname": "Trappeniers"
+    },
+    {
+      "first": "J",
+      "surname": "Vanacken"
+    },
+    {
+      "first": "L",
+      "surname": "Weckhuysen"
+    },
+    {
+      "first": "K",
+      "surname": "Rosseel"
+    },
+    {
+      "first": "A",
+      "middle": "Yu. ",
+      "surname": "Didyk"
+    },
+    {
+      "first": "I",
+      "middle": "N",
+      "surname": "Goncharov"
+    },
+    {
+      "first": "L",
+      "middle": "I",
+      "surname": "Leonyuk"
+    },
+    {
+      "first": "W",
+      "surname": "Boon"
+    },
+    {
+      "first": "F",
+      "surname": "Herlach"
+    },
+    {
+      "first": "V",
+      "middle": "V",
+      "surname": "Moshchalkov"
+    },
+    {
+      "first": "Y",
+      "surname": "Bruynseraede"
+    },
+    {}
+  ],
+  "keywords": [
+    "Columnar Defects",
+    "Flux Pinning",
+    "Critical Current Density",
+    "Magnetisation",
+    "Pinning Force PACS: 74.60Ge",
+    "74.62Dh",
+    "74.25Ha",
+    "74.60Jg"
+  ],
+  "npl_publn_id": "PHC3130001-CC.tei.xml"
+}

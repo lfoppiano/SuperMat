@@ -1,1 +1,38 @@
-{"addrline": "Winterthurerstrasse 190", "volume": "17", "issue": "15", "date": "2004-11-26", "ISSN": "0953-8984", "eISSN": "1361-648X", "DOI": "10.1088/0953-8984/17/15/016", "arXiv": "arXiv:cond-mat/0411674v1[cond-mat.supr-con]", "publisher": "IOP Publishing", "title_main_a": "Pressure effect on the in-plane magnetic penetration depth in YBa2Cu4O8", "title_main_j": "Journal of Physics: Condensed Matter", "title_abbrev_j": "J. Phys.: Condens. Matter", "authors": [{"first": "R", "surname": "Khasanov"}, {"first": "J", "surname": "Karpinski"}, {"first": "H", "surname": "Keller"}], "keywords": ["numbers: 74.70.Dd", "74.25.Op", "74.25.Ha", "76.75.+i", "83.80.Fg"], "npl_publn_id": "P072104504-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0411674",
+  "addrline": "Winterthurerstrasse 190",
+  "volume": "17",
+  "issue": "15",
+  "date": "2004-11-26",
+  "ISSN": "0953-8984",
+  "eISSN": "1361-648X",
+  "DOI": "10.1088/0953-8984/17/15/016",
+  "arXiv": "arXiv:cond-mat/0411674v1[cond-mat.supr-con]",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Pressure effect on the in-plane magnetic penetration depth in YBa2Cu4O8",
+  "title_main_j": "Journal of Physics: Condensed Matter",
+  "title_abbrev_j": "J. Phys.: Condens. Matter",
+  "authors": [
+    {
+      "first": "R",
+      "surname": "Khasanov"
+    },
+    {
+      "first": "J",
+      "surname": "Karpinski"
+    },
+    {
+      "first": "H",
+      "surname": "Keller"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.70.Dd",
+    "74.25.Op",
+    "74.25.Ha",
+    "76.75.+i",
+    "83.80.Fg"
+  ],
+  "npl_publn_id": "P072104504-CC.tei.xml"
+}

@@ -1,1 +1,46 @@
-{"volume": "68", "issue": "21", "date": "2003-12-29", "ISSN": "0163-1829", "eISSN": "1095-3795", "DOI": "10.1103/physrevb.68.214517", "publisher": "American Physical Society (APS)", "title_main_a": "Crystal structure of the sodium cobaltate deuterate superconductorNaxCoO2\u22c54xD2O(x\u224813)", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "J", "middle": "D", "surname": "Jorgensen"}, {"first": "M", "surname": "Avdeev"}, {"first": "D", "middle": "G", "surname": "Hinks"}, {"first": "J", "middle": "C", "surname": "Burley"}, {"first": "S", "surname": "Short"}], "keywords": ["74.70.-b", "74.62.Bf", "61.12.-q"], "npl_publn_id": "P068214517-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0307627",
+  "arXiv": "arXiv:cond-mat/0307627v1",
+  "volume": "68",
+  "issue": "21",
+  "date": "2003-12-29",
+  "ISSN": "0163-1829",
+  "eISSN": "1095-3795",
+  "DOI": "10.1103/physrevb.68.214517",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Crystal structure of the sodium cobaltate deuterate superconductorNaxCoO2\u22c54xD2O(x\u224813)",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "J",
+      "middle": "D",
+      "surname": "Jorgensen"
+    },
+    {
+      "first": "M",
+      "surname": "Avdeev"
+    },
+    {
+      "first": "D",
+      "middle": "G",
+      "surname": "Hinks"
+    },
+    {
+      "first": "J",
+      "middle": "C",
+      "surname": "Burley"
+    },
+    {
+      "first": "S",
+      "surname": "Short"
+    }
+  ],
+  "keywords": [
+    "74.70.-b",
+    "74.62.Bf",
+    "61.12.-q"
+  ],
+  "npl_publn_id": "P068214517-CC.tei.xml"
+}

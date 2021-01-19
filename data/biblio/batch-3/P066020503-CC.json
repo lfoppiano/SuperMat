@@ -1,1 +1,52 @@
-{"addrline": "B\u00e2t 415", "volume": "66", "issue": "2", "date": "2002-07-03", "ISSN": "0163-1829", "eISSN": "1095-3795", "DOI": "10.1103/physrevb.66.020503", "publisher": "American Physical Society (APS)", "title_main_a": "Thermopower in the strongly overdoped region of single-layerBi2Sr2CuO6+\u03b4superconductor", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "Z", "surname": "Konstantinovi\u0107"}, {"first": "G", "surname": "Le Bras"}, {"first": "A", "surname": "Forget"}, {"first": "D", "surname": "Colson"}, {"first": "F", "surname": "Jean"}, {"first": "G", "surname": "Collin"}, {"first": "M", "surname": "Ocio"}, {"first": "C", "surname": "Ayache"}], "keywords": [], "npl_publn_id": "P066020503-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0203515",
+  "arXiv": "arXiv:cond-mat/0203515v1",
+  "addrline": "B\u00e2t 415",
+  "volume": "66",
+  "issue": "2",
+  "date": "2002-07-03",
+  "ISSN": "0163-1829",
+  "eISSN": "1095-3795",
+  "DOI": "10.1103/physrevb.66.020503",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Thermopower in the strongly overdoped region of single-layerBi2Sr2CuO6+\u03b4superconductor",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "Z",
+      "surname": "Konstantinovi\u0107"
+    },
+    {
+      "first": "G",
+      "surname": "Le Bras"
+    },
+    {
+      "first": "A",
+      "surname": "Forget"
+    },
+    {
+      "first": "D",
+      "surname": "Colson"
+    },
+    {
+      "first": "F",
+      "surname": "Jean"
+    },
+    {
+      "first": "G",
+      "surname": "Collin"
+    },
+    {
+      "first": "M",
+      "surname": "Ocio"
+    },
+    {
+      "first": "C",
+      "surname": "Ayache"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "P066020503-CC.tei.xml"
+}

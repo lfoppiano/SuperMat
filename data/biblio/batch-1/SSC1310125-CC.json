@@ -1,1 +1,52 @@
-{"addrline": "Zhejiang 310027", "date": "2018-08-24", "ISSN": "0038-1098", "DOI": "10.1016/s0038-1098(04)00335-7", "arXiv": "arXiv:cond-mat/0402638v1[cond-mat.supr-con]", "note": "Preprint submitted to Elsevier Science", "publisher": "Elsevier BV", "title_main_a": "Proton incorporations and superconductivity in a cobalt oxyhydrate", "title_main_j": "Solid State Communications", "title_abbrev_j": "Solid State Communications", "authors": [{"first": "Guanghan", "surname": "Cao"}, {"first": "Xiaoming", "surname": "Tang"}, {"first": "Yi", "surname": "Xu"}, {"first": "Ming", "surname": "Zhong"}, {"first": "Xuezhi", "surname": "Chen"}, {"first": "Chunmu", "surname": "Feng"}, {"first": "Zhu", "middle": "'", "surname": "An Xu"}], "keywords": ["74.62.Bf", "74.70.-b", "74.10.+v A. Superconductors, C. Thermogravimetric analysis", "C. X-ray diffraction"], "npl_publn_id": "SSC1310125-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0402638",
+  "addrline": "Zhejiang 310027",
+  "date": "2018-08-24",
+  "ISSN": "0038-1098",
+  "DOI": "10.1016/s0038-1098(04)00335-7",
+  "arXiv": "arXiv:cond-mat/0402638v1[cond-mat.supr-con]",
+  "note": "Preprint submitted to Elsevier Science",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Proton incorporations and superconductivity in a cobalt oxyhydrate",
+  "title_main_j": "Solid State Communications",
+  "title_abbrev_j": "Solid State Communications",
+  "authors": [
+    {
+      "first": "Guanghan",
+      "surname": "Cao"
+    },
+    {
+      "first": "Xiaoming",
+      "surname": "Tang"
+    },
+    {
+      "first": "Yi",
+      "surname": "Xu"
+    },
+    {
+      "first": "Ming",
+      "surname": "Zhong"
+    },
+    {
+      "first": "Xuezhi",
+      "surname": "Chen"
+    },
+    {
+      "first": "Chunmu",
+      "surname": "Feng"
+    },
+    {
+      "first": "Zhu",
+      "middle": "'",
+      "surname": "An Xu"
+    }
+  ],
+  "keywords": [
+    "74.62.Bf",
+    "74.70.-b",
+    "74.10.+v A. Superconductors, C. Thermogravimetric analysis",
+    "C. X-ray diffraction"
+  ],
+  "npl_publn_id": "SSC1310125-CC.tei.xml"
+}

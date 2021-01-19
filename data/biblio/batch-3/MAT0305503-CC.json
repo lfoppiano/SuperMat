@@ -1,1 +1,51 @@
-{"date": "2018-11-18", "ISSN": "0038-1098", "DOI": "10.1016/s0038-1098(04)00335-7", "arXiv": "arXiv:cond-mat/0305503v2[cond-mat.supr-con]", "publisher": "Elsevier BV", "title_main_a": "Proton incorporations and superconductivity in a cobalt oxyhydrate", "title_main_j": "Solid State Communications", "title_abbrev_j": "Solid State Communications", "authors": [{"first": "Guanghan", "surname": "Cao"}, {"first": "Chunmu", "surname": "Feng"}, {"first": "Yi", "surname": "Xu"}, {"first": "Wen", "surname": "Lu"}, {"first": "Jingqin", "surname": "Shen"}, {"first": "Minghu", "surname": "Fang"}, {"first": "Zhu", "middle": "'", "surname": "An Xu"}], "keywords": ["numbers: 74.70.-b", "74.25.-q", "74.20.Rp Cobalt oxyhydrate superconductor", "Type-II superconductivity", "Superconducting gap structure"], "npl_publn_id": "MAT0305503-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0305503",
+  "date": "2018-11-18",
+  "ISSN": "0038-1098",
+  "DOI": "10.1016/s0038-1098(04)00335-7",
+  "arXiv": "arXiv:cond-mat/0305503v2[cond-mat.supr-con]",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Proton incorporations and superconductivity in a cobalt oxyhydrate",
+  "title_main_j": "Solid State Communications",
+  "title_abbrev_j": "Solid State Communications",
+  "authors": [
+    {
+      "first": "Guanghan",
+      "surname": "Cao"
+    },
+    {
+      "first": "Chunmu",
+      "surname": "Feng"
+    },
+    {
+      "first": "Yi",
+      "surname": "Xu"
+    },
+    {
+      "first": "Wen",
+      "surname": "Lu"
+    },
+    {
+      "first": "Jingqin",
+      "surname": "Shen"
+    },
+    {
+      "first": "Minghu",
+      "surname": "Fang"
+    },
+    {
+      "first": "Zhu",
+      "middle": "'",
+      "surname": "An Xu"
+    }
+  ],
+  "keywords": [
+    "numbers: 74.70.-b",
+    "74.25.-q",
+    "74.20.Rp Cobalt oxyhydrate superconductor",
+    "Type-II superconductivity",
+    "Superconducting gap structure"
+  ],
+  "npl_publn_id": "MAT0305503-CC.tei.xml"
+}

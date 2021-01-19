@@ -1,1 +1,50 @@
-{"addrline": "Winterthurerstrasse 190", "volume": "72", "issue": "22", "date": "2018-11-19", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.72.224509", "arXiv": "arXiv:cond-mat/0507028v1[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Anomalous electron-phonon coupling probed on the surface of superconductorZrB12", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "R", "surname": "Khasanov"}, {"first": "D", "surname": "Di Castro"}, {"first": "M", "surname": "Belogolovskii"}, {"first": "Yu", "middle": "U", "surname": "Paderno"}, {"first": "V", "surname": "Filippov"}, {"first": "R", "surname": "Br\u00fctsch"}, {"first": "H", "surname": "Keller"}, {}], "keywords": [], "npl_publn_id": "P072224509-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0507028",
+  "addrline": "Winterthurerstrasse 190",
+  "volume": "72",
+  "issue": "22",
+  "date": "2018-11-19",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.224509",
+  "arXiv": "arXiv:cond-mat/0507028v1[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Anomalous electron-phonon coupling probed on the surface of superconductorZrB12",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "R",
+      "surname": "Khasanov"
+    },
+    {
+      "first": "D",
+      "surname": "Di Castro"
+    },
+    {
+      "first": "M",
+      "surname": "Belogolovskii"
+    },
+    {
+      "first": "Yu",
+      "middle": "U",
+      "surname": "Paderno"
+    },
+    {
+      "first": "V",
+      "surname": "Filippov"
+    },
+    {
+      "first": "R",
+      "surname": "Br\u00fctsch"
+    },
+    {
+      "first": "H",
+      "surname": "Keller"
+    },
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "P072224509-CC.tei.xml"
+}

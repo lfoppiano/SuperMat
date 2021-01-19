@@ -1,1 +1,40 @@
-{"volume": "123", "issue": "1-2", "date": "2018-10-31", "ISSN": "0038-1098", "DOI": "10.1016/s0038-1098(02)00202-8", "arXiv": "arXiv:cond-mat/0102420v3[cond-mat.supr-con]", "publisher": "Elsevier BV", "title_main_a": "Three-dimensional superconductivity in the infinite-layer compound Sr0.9La0.1CuO2 in entire region below Tc", "title_main_j": "Solid State Communications", "title_abbrev_j": "Solid State Communications", "authors": [{"first": "Mun-Seog", "surname": "Kim"}, {"first": "C", "middle": "U", "surname": "Jung"}, {"first": "J", "middle": "Y", "surname": "Kim"}, {"first": "Jae-Hyuk", "surname": "Choi"}, {"first": "Sung-Ik", "surname": "Lee"}], "keywords": [], "npl_publn_id": "SSC1230017-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0102420",
+  "volume": "123",
+  "issue": "1-2",
+  "date": "2018-10-31",
+  "ISSN": "0038-1098",
+  "DOI": "10.1016/s0038-1098(02)00202-8",
+  "arXiv": "arXiv:cond-mat/0102420v3[cond-mat.supr-con]",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Three-dimensional superconductivity in the infinite-layer compound Sr0.9La0.1CuO2 in entire region below Tc",
+  "title_main_j": "Solid State Communications",
+  "title_abbrev_j": "Solid State Communications",
+  "authors": [
+    {
+      "first": "Mun-Seog",
+      "surname": "Kim"
+    },
+    {
+      "first": "C",
+      "middle": "U",
+      "surname": "Jung"
+    },
+    {
+      "first": "J",
+      "middle": "Y",
+      "surname": "Kim"
+    },
+    {
+      "first": "Jae-Hyuk",
+      "surname": "Choi"
+    },
+    {
+      "first": "Sung-Ik",
+      "surname": "Lee"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "SSC1230017-CC.tei.xml"
+}

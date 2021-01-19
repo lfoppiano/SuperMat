@@ -1,1 +1,47 @@
-{"addrline": "8-15-1 Todoroki, Setagaya-ku", "volume": "421", "issue": "1-4", "date": "2005-05", "ISSN": "0921-4534", "DOI": "10.1016/j.physc.2005.02.006", "publisher": "Elsevier BV", "title_main_a": "Effects of carbon incorporation on doping state of YBa2Cu3Oy", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "A", "surname": "Yamamoto"}, {"first": "K", "surname": "Hirose"}, {"first": "Y", "surname": "Itoh"}, {"first": "T", "surname": "Kakeshita"}, {"first": "S", "surname": "Tajima"}, {}], "keywords": ["Y-123", "residual carbon concentration", "overdoped state", "carbon incorporation PACS: 74.72.Bk", "74.62.Bf", "74.62.Dh"], "npl_publn_id": "PHC4210001-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0412722",
+  "arXiv": "arXiv:cond-mat/0412722v1",
+  "addrline": "8-15-1 Todoroki, Setagaya-ku",
+  "volume": "421",
+  "issue": "1-4",
+  "date": "2005-05",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/j.physc.2005.02.006",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Effects of carbon incorporation on doping state of YBa2Cu3Oy",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "A",
+      "surname": "Yamamoto"
+    },
+    {
+      "first": "K",
+      "surname": "Hirose"
+    },
+    {
+      "first": "Y",
+      "surname": "Itoh"
+    },
+    {
+      "first": "T",
+      "surname": "Kakeshita"
+    },
+    {
+      "first": "S",
+      "surname": "Tajima"
+    },
+    {}
+  ],
+  "keywords": [
+    "Y-123",
+    "residual carbon concentration",
+    "overdoped state",
+    "carbon incorporation PACS: 74.72.Bk",
+    "74.62.Bf",
+    "74.62.Dh"
+  ],
+  "npl_publn_id": "PHC4210001-CC.tei.xml"
+}

@@ -1,1 +1,37 @@
-{"addrline": "Furo-cho, Chikusa-ku Nagoya", "volume": "72", "issue": "10", "date": "2003-10-15", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.72.2453", "note": "Received June 12, 2003", "publisher": "Physical Society of Japan", "title_main_a": "59Co-NMR Knight Shift of Superconducting NaxCoO2\u00b7yH2O", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Yoshiaki", "surname": "Kobayashi"}, {"first": "Mai", "surname": "Yokoi"}, {"first": "Masatoshi", "surname": "Sato"}], "keywords": ["Na x CoO 2 \u22c5yH 2 O", "superconductivity", "NMR", "Knight shift"], "npl_publn_id": "JPS0722453-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0306264",
+  "addrline": "Furo-cho, Chikusa-ku Nagoya",
+  "volume": "72",
+  "issue": "10",
+  "date": "2003-10-15",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.72.2453",
+  "note": "Received June 12, 2003",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "59Co-NMR Knight Shift of Superconducting NaxCoO2\u00b7yH2O",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Yoshiaki",
+      "surname": "Kobayashi"
+    },
+    {
+      "first": "Mai",
+      "surname": "Yokoi"
+    },
+    {
+      "first": "Masatoshi",
+      "surname": "Sato"
+    }
+  ],
+  "keywords": [
+    "Na x CoO 2 \u22c5yH 2 O",
+    "superconductivity",
+    "NMR",
+    "Knight shift"
+  ],
+  "npl_publn_id": "JPS0722453-CC.tei.xml"
+}

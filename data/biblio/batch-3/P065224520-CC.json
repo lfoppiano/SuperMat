@@ -1,7 +1,9 @@
 {
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0111421",
   "addrline": "Private Bag",
   "date": "2001-12-20",
-  "title_main_a": "Gap Anisotropy, Spin Fluctuations and Normal-State Properties of the Electron Doped",
+  "title_main_a": "Gap Anisotropy, Spin Fluctuations and Normal-State Properties of the Electron Doped Superconductor Sr0.9La0.1CuO2",
   "authors": [
     {
       "first": "Superconductor",

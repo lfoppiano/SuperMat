@@ -1,1 +1,63 @@
-{"addrline": "Newtonstrasse 15", "volume": "79", "issue": "5", "page": "57005", "date": "2007-08-01", "ISSN": "0295-5075", "eISSN": "1286-4854", "DOI": "10.1209/0295-5075/79/57005", "publisher": "IOP Publishing", "title_main_a": "Magnetic-field\u2013induced 3D-to-1D crossover in Sr 0.9 La 0.1 CuO 2", "title_main_j": "Europhysics Letters (EPL)", "title_abbrev_j": "Europhys. Lett.", "authors": [{"first": "M", "surname": "Schneider"}, {"first": "R.-S", "surname": "Unger"}, {"first": "R", "surname": "Mitdank"}, {"first": "R", "surname": "M\u00fcller"}, {"first": "A", "surname": "Krapf"}, {"first": "S", "surname": "Rogaschewski"}, {"first": "H", "surname": "Dwelk"}, {"first": "C", "surname": "Janowitz"}, {"first": "R", "surname": "Manzke"}], "keywords": ["78.40.-q", "79.60.-i", "74.72.-h", "74.25.-q"], "npl_publn_id": "P072014504-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0504590",
+  "arXiv": "arXiv:cond-mat/0504590v2",
+  "__comment": "The record below is not correct",
+  "addrline": "Newtonstrasse 15",
+  "volume": "79",
+  "issue": "5",
+  "page": "57005",
+  "date": "2007-08-01",
+  "ISSN": "0295-5075",
+  "eISSN": "1286-4854",
+  "DOI": "10.1209/0295-5075/79/57005",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Magnetic-field\u2013induced 3D-to-1D crossover in Sr 0.9 La 0.1 CuO 2",
+  "title_main_j": "Europhysics Letters (EPL)",
+  "title_abbrev_j": "Europhys. Lett.",
+  "authors": [
+    {
+      "first": "M",
+      "surname": "Schneider"
+    },
+    {
+      "first": "R.-S",
+      "surname": "Unger"
+    },
+    {
+      "first": "R",
+      "surname": "Mitdank"
+    },
+    {
+      "first": "R",
+      "surname": "M\u00fcller"
+    },
+    {
+      "first": "A",
+      "surname": "Krapf"
+    },
+    {
+      "first": "S",
+      "surname": "Rogaschewski"
+    },
+    {
+      "first": "H",
+      "surname": "Dwelk"
+    },
+    {
+      "first": "C",
+      "surname": "Janowitz"
+    },
+    {
+      "first": "R",
+      "surname": "Manzke"
+    }
+  ],
+  "keywords": [
+    "78.40.-q",
+    "79.60.-i",
+    "74.72.-h",
+    "74.25.-q"
+  ],
+  "npl_publn_id": "P072014504-CC.tei.xml"
+}

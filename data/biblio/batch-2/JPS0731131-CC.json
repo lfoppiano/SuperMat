@@ -1,1 +1,49 @@
-{"addrline": "Katahira 2-1-1, Aoba-ku", "volume": "73", "issue": "5", "date": "2004-02-13", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.73.1131", "arXiv": "arXiv:cond-mat/0402355v1[cond-mat.supr-con]", "publisher": "Physical Society of Japan", "title_main_a": "Superconducting Properties under Magnetic Field in Na0.35CoO2\u00b71.3H2O Single Crystal", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Takahiko", "surname": "Sasaki"}, {"first": "Petre", "surname": "Badica"}, {"first": "Naoki", "surname": "Yoneyama"}, {"first": "Kazuyoshi", "surname": "Yamada"}, {"first": "Kazumasa", "surname": "Togano"}, {"first": "Norio", "surname": "Kobayashi"}], "keywords": ["Na0.35CoO2\u20221.3H2O", "superconductivity", "upper critical field", "anisotropy"], "npl_publn_id": "JPS0731131-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0402355",
+  "addrline": "Katahira 2-1-1, Aoba-ku",
+  "volume": "73",
+  "issue": "5",
+  "date": "2004-02-13",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.73.1131",
+  "arXiv": "arXiv:cond-mat/0402355v1[cond-mat.supr-con]",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "Superconducting Properties under Magnetic Field in Na0.35CoO2\u00b71.3H2O Single Crystal",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Takahiko",
+      "surname": "Sasaki"
+    },
+    {
+      "first": "Petre",
+      "surname": "Badica"
+    },
+    {
+      "first": "Naoki",
+      "surname": "Yoneyama"
+    },
+    {
+      "first": "Kazuyoshi",
+      "surname": "Yamada"
+    },
+    {
+      "first": "Kazumasa",
+      "surname": "Togano"
+    },
+    {
+      "first": "Norio",
+      "surname": "Kobayashi"
+    }
+  ],
+  "keywords": [
+    "Na0.35CoO2\u20221.3H2O",
+    "superconductivity",
+    "upper critical field",
+    "anisotropy"
+  ],
+  "npl_publn_id": "JPS0731131-CC.tei.xml"
+}

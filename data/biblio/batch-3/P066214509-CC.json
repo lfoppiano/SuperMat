@@ -1,1 +1,49 @@
-{"volume": "1", "issue": "2-3", "date": "2000-10-20", "ISSN": "1567-1739", "DOI": "10.1016/s1567-1739(01)00010-4", "arXiv": "arXiv:cond-mat/0010304v1[cond-mat.supr-con]", "publisher": "Elsevier BV", "title_main_a": "Synthesis and characterization of the infinite-layer superconductor Sr0.9La0.1CuO2", "title_main_j": "Current Applied Physics", "title_abbrev_j": "Current Applied Physics", "authors": [{"first": "C", "middle": "U", "surname": "Jung"}, {"first": "J", "middle": "Y", "surname": "Kim"}, {"first": "Mun-Seog", "surname": "Kim"}, {"first": "Sung-Ik", "middle": "Y", "surname": "Lee"}, {"first": "Sung-Ik", "middle": "Y", "surname": "Lee"}, {"first": "D", "middle": "H", "surname": "Ha"}, {}, {}], "keywords": [], "npl_publn_id": "P066214509-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0010304",
+  "volume": "1",
+  "issue": "2-3",
+  "date": "2000-10-20",
+  "ISSN": "1567-1739",
+  "DOI": "10.1016/s1567-1739(01)00010-4",
+  "arXiv": "arXiv:cond-mat/0010304v1[cond-mat.supr-con]",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Synthesis and characterization of the infinite-layer superconductor Sr0.9La0.1CuO2",
+  "title_main_j": "Current Applied Physics",
+  "title_abbrev_j": "Current Applied Physics",
+  "authors": [
+    {
+      "first": "C",
+      "middle": "U",
+      "surname": "Jung"
+    },
+    {
+      "first": "J",
+      "middle": "Y",
+      "surname": "Kim"
+    },
+    {
+      "first": "Mun-Seog",
+      "surname": "Kim"
+    },
+    {
+      "first": "Sung-Ik",
+      "middle": "Y",
+      "surname": "Lee"
+    },
+    {
+      "first": "Sung-Ik",
+      "middle": "Y",
+      "surname": "Lee"
+    },
+    {
+      "first": "D",
+      "middle": "H",
+      "surname": "Ha"
+    },
+    {},
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "P066214509-CC.tei.xml"
+}

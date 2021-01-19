@@ -1,1 +1,48 @@
-{"volume": "85", "issue": "17", "date": "2000-01-12", "ISSN": "0031-9007", "eISSN": "1079-7114", "DOI": "10.1103/physrevlett.85.3696", "arXiv": "arXiv:cond-mat/0001166v1[cond-mat.supr-con]", "publisher": "American Physical Society (APS)", "title_main_a": "Microwave Electrodynamics of Electron-Doped Cuprate Superconductors", "title_main_j": "Physical Review Letters", "title_abbrev_j": "Phys. Rev. Lett.", "authors": [{"first": "J", "middle": "David", "surname": "Kokales"}, {"first": "Patrick", "surname": "Fournier"}, {"first": "Lucia", "middle": "V", "surname": "Mercaldo"}, {"first": "Vladimir", "middle": "V", "surname": "Talanov"}, {"first": "Richard", "middle": "L", "surname": "Greene"}, {"first": "Steven", "middle": "M", "surname": "Anlage"}], "keywords": [], "npl_publn_id": "PHC3411655-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0001166",
+  "volume": "85",
+  "issue": "17",
+  "date": "2000-01-12",
+  "ISSN": "0031-9007",
+  "eISSN": "1079-7114",
+  "DOI": "10.1103/physrevlett.85.3696",
+  "arXiv": "arXiv:cond-mat/0001166v1[cond-mat.supr-con]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Microwave Electrodynamics of Electron-Doped Cuprate Superconductors",
+  "title_main_j": "Physical Review Letters",
+  "title_abbrev_j": "Phys. Rev. Lett.",
+  "authors": [
+    {
+      "first": "J",
+      "middle": "David",
+      "surname": "Kokales"
+    },
+    {
+      "first": "Patrick",
+      "surname": "Fournier"
+    },
+    {
+      "first": "Lucia",
+      "middle": "V",
+      "surname": "Mercaldo"
+    },
+    {
+      "first": "Vladimir",
+      "middle": "V",
+      "surname": "Talanov"
+    },
+    {
+      "first": "Richard",
+      "middle": "L",
+      "surname": "Greene"
+    },
+    {
+      "first": "Steven",
+      "middle": "M",
+      "surname": "Anlage"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "PHC3411655-CC.tei.xml"
+}

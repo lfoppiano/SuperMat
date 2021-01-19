@@ -1,1 +1,47 @@
-{"volume": "402", "issue": "1-2", "date": "2004-02", "ISSN": "0921-4534", "DOI": "10.1016/j.physc.2003.08.005", "publisher": "Elsevier BV", "title_main_a": "Specific heat study of the Na0.3CoO2\u00b71.3H2O superconductor: influence of the complex chemistry", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "B", "middle": "G", "surname": "Ueland"}, {"first": "P", "surname": "Schiffer"}, {"first": "R", "middle": "E", "surname": "Schaak"}, {"first": "M", "middle": "L", "surname": "Foo"}, {"first": "V", "middle": "L", "surname": "Miller"}, {"first": "R", "middle": "J", "surname": "Cava"}], "keywords": [], "npl_publn_id": "PHC4020027-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0307106",
+  "arXiv": "arXiv:cond-mat/0307106v3",
+  "volume": "402",
+  "issue": "1-2",
+  "date": "2004-02",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/j.physc.2003.08.005",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Specific heat study of the Na0.3CoO2\u00b71.3H2O superconductor: influence of the complex chemistry",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "B",
+      "middle": "G",
+      "surname": "Ueland"
+    },
+    {
+      "first": "P",
+      "surname": "Schiffer"
+    },
+    {
+      "first": "R",
+      "middle": "E",
+      "surname": "Schaak"
+    },
+    {
+      "first": "M",
+      "middle": "L",
+      "surname": "Foo"
+    },
+    {
+      "first": "V",
+      "middle": "L",
+      "surname": "Miller"
+    },
+    {
+      "first": "R",
+      "middle": "J",
+      "surname": "Cava"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "PHC4020027-CC.tei.xml"
+}

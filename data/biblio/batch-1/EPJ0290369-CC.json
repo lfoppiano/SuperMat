@@ -1,7 +1,9 @@
 {
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0308227",
   "addrline": "Wetenschapspark 1",
   "title_main_a": "High field magnetoresistivity of epitaxial La 2-x Sr x CuO 4 thin films",
-  "arXiv": "https://arxiv.org/ftp/cond-mat/papers/0308/0308227.pdf",
+  "arXiv": "arXiv:cond-mat/0308227v1",
   "authors": [
     {
       "first": "J",

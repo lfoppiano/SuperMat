@@ -1,5 +1,7 @@
 {
-  "arXiv": "arXiv:cond-mat/1306.0429v2[cond-mat.supr-con]",
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0408212",
+  "arXiv": "arXiv:cond-mat/0408212v1[cond-mat.supr-con]",
   "DOI": "10.1007/3-540-27294-1_1",
   "publisher": "Springer-Verlag",
   "title_main_a": "Superconducting Materials \u2014 A Topical Overview",

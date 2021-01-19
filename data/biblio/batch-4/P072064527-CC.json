@@ -1,1 +1,78 @@
-{"addrline": "SPring-8, Sayo-gun", "volume": "72", "issue": "6", "date": "2005-08-31", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.72.064527", "publisher": "American Physical Society (APS)", "title_main_a": "Carbon-substitution dependent multiple superconducting gap ofMgB2: A sub-meV resolution photoemission study", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "S", "surname": "Tsuda"}, {"first": "T", "surname": "Yokoya"}, {"first": "T", "surname": "Kiss"}, {"first": "T", "surname": "Shimojima"}, {"first": "S", "surname": "Shin"}, {"first": "T", "surname": "Togashi"}, {"first": "S", "surname": "Watanabe"}, {"first": "C", "surname": "Zhang"}, {"first": "C", "middle": "T", "surname": "Chen"}, {"first": "S", "surname": "Lee"}, {"first": "H", "surname": "Uchiyama"}, {"first": "S", "surname": "Tajima"}, {"first": "N", "surname": "Nakai"}, {"first": "K", "surname": "Machida"}, {}], "keywords": [], "npl_publn_id": "P072064527-CC.tei.xml"}
+{
+  "licence": "Copyright © 2005 The American Physical Society. All rights reserved.",
+  "url": "https://arxiv.org/abs/cond-mat/0409219",
+  "arXiv": "arXiv:cond-mat/0409219v1",
+  "addrline": "SPring-8, Sayo-gun",
+  "volume": "72",
+  "issue": "6",
+  "date": "2005-08-31",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.72.064527",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Carbon-substitution dependent multiple superconducting gap ofMgB2: A sub-meV resolution photoemission study",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "S",
+      "surname": "Tsuda"
+    },
+    {
+      "first": "T",
+      "surname": "Yokoya"
+    },
+    {
+      "first": "T",
+      "surname": "Kiss"
+    },
+    {
+      "first": "T",
+      "surname": "Shimojima"
+    },
+    {
+      "first": "S",
+      "surname": "Shin"
+    },
+    {
+      "first": "T",
+      "surname": "Togashi"
+    },
+    {
+      "first": "S",
+      "surname": "Watanabe"
+    },
+    {
+      "first": "C",
+      "surname": "Zhang"
+    },
+    {
+      "first": "C",
+      "middle": "T",
+      "surname": "Chen"
+    },
+    {
+      "first": "S",
+      "surname": "Lee"
+    },
+    {
+      "first": "H",
+      "surname": "Uchiyama"
+    },
+    {
+      "first": "S",
+      "surname": "Tajima"
+    },
+    {
+      "first": "N",
+      "surname": "Nakai"
+    },
+    {
+      "first": "K",
+      "surname": "Machida"
+    },
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "P072064527-CC.tei.xml"
+}

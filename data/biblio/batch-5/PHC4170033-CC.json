@@ -1,1 +1,68 @@
-{"addrline": "Research Homi Bhabha Road", "volume": "417", "issue": "1-2", "date": "2004-12", "ISSN": "0921-4534", "DOI": "10.1016/j.physc.2004.10.003", "publisher": "Elsevier BV", "title_main_a": "Induction of superconductivity in Y0.4Pr0.6Ba2\u2212xSrxCu3O7 system with increasing Sr substitution", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "V", "middle": "P S", "surname": "Awana"}, {"first": "M", "middle": "A", "surname": "Ansari"}, {"first": "Anurag", "surname": "Gupta"}, {"first": "R", "middle": "B", "surname": "Saxena"}, {"first": "H", "surname": "Kishan"}, {"first": "Rajeev", "surname": "Rawat"}, {"first": "V", "surname": "Ganesan"}, {"first": "A", "middle": "V", "surname": "Narlikar"}, {"first": "Devendra", "surname": "Buddhikot"}, {"first": "S", "middle": "K", "surname": "Malik"}, {}, {}, {}], "keywords": ["74.25. Ha", "74.72. Jt", "75.25. +z", "75.30. Cr. 2"], "npl_publn_id": "PHC4170033-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0408345",
+  "addrline": "Research Homi Bhabha Road",
+  "volume": "417",
+  "issue": "1-2",
+  "date": "2004-12",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/j.physc.2004.10.003",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Induction of superconductivity in Y0.4Pr0.6Ba2\u2212xSrxCu3O7 system with increasing Sr substitution",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "V",
+      "middle": "P S",
+      "surname": "Awana"
+    },
+    {
+      "first": "M",
+      "middle": "A",
+      "surname": "Ansari"
+    },
+    {
+      "first": "Anurag",
+      "surname": "Gupta"
+    },
+    {
+      "first": "R",
+      "middle": "B",
+      "surname": "Saxena"
+    },
+    {
+      "first": "H",
+      "surname": "Kishan"
+    },
+    {
+      "first": "Rajeev",
+      "surname": "Rawat"
+    },
+    {
+      "first": "V",
+      "surname": "Ganesan"
+    },
+    {
+      "first": "A",
+      "middle": "V",
+      "surname": "Narlikar"
+    },
+    {
+      "first": "Devendra",
+      "surname": "Buddhikot"
+    },
+    {
+      "first": "S",
+      "middle": "K",
+      "surname": "Malik"
+    }
+  ],
+  "keywords": [
+    "74.25. Ha",
+    "74.72. Jt",
+    "75.25. +z",
+    "75.30. Cr. 2"
+  ],
+  "npl_publn_id": "PHC4170033-CC.tei.xml"
+}

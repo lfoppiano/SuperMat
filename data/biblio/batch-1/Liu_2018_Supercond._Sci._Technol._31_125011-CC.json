@@ -1,5 +1,7 @@
 {
-  "arXiv": "arXiv:cond-mat/180808500v2[cond-mat.supr-con]",
+  "licence": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+  "url": "https://arxiv.org/abs/1808.08500",
+  "arXiv": "arXiv:cond-mat/1808500v2[cond-mat.supr-con]",
   "volume": "31",
   "issue": "12",
   "page": "125011",

@@ -1,1 +1,74 @@
-{"addrline": "N\u00f6thnitzer Str. 40", "volume": "27", "issue": "14", "page": "145701", "date": "2015-03-19", "ISSN": "0953-8984", "eISSN": "1361-648X", "DOI": "10.1088/0953-8984/27/14/145701", "note": "Received September 2014, revised 5 January 2015 Accepted for publication 19 February 2015", "publisher": "IOP Publishing", "title_main_a": "Combined external pressure and Cu-substitution studies on BaFe2As2single crystals", "title_main_j": "Journal of Physics: Condensed Matter", "title_abbrev_j": "J. Phys.: Condens. Matter", "authors": [{"first": "M", "middle": "M", "surname": "Piva"}, {"first": "M", "surname": "Besser"}, {"first": "K", "surname": "Mydeen"}, {"first": "T", "middle": "M", "surname": "Garitezi"}, {"first": "P F S", "middle": "F S", "surname": "Rosa"}, {"first": "C", "surname": "Adriano"}, {"first": "T", "surname": "Grant"}, {"first": "Z", "surname": "Fisk"}, {"first": "R", "middle": "R", "surname": "Urbano"}, {"first": "M", "surname": "Nicklas"}, {"first": "P", "middle": "G", "surname": "Pagliuso"}], "keywords": ["superconductivity", "pressure effects", "magnetic pair-breaking"], "npl_publn_id": "piva2015combined.tei.xml"}
+{
+  "licence": "CC-BY",
+  "url": "https://escholarship.org/uc/item/3cd7g3j2",
+  "addrline": "N\u00f6thnitzer Str. 40",
+  "volume": "27",
+  "issue": "14",
+  "page": "145701",
+  "date": "2015-03-19",
+  "ISSN": "0953-8984",
+  "eISSN": "1361-648X",
+  "DOI": "10.1088/0953-8984/27/14/145701",
+  "note": "Received September 2014, revised 5 January 2015 Accepted for publication 19 February 2015",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Combined external pressure and Cu-substitution studies on BaFe2As2single crystals",
+  "title_main_j": "Journal of Physics: Condensed Matter",
+  "title_abbrev_j": "J. Phys.: Condens. Matter",
+  "authors": [
+    {
+      "first": "M",
+      "middle": "M",
+      "surname": "Piva"
+    },
+    {
+      "first": "M",
+      "surname": "Besser"
+    },
+    {
+      "first": "K",
+      "surname": "Mydeen"
+    },
+    {
+      "first": "T",
+      "middle": "M",
+      "surname": "Garitezi"
+    },
+    {
+      "first": "P F S",
+      "middle": "F S",
+      "surname": "Rosa"
+    },
+    {
+      "first": "C",
+      "surname": "Adriano"
+    },
+    {
+      "first": "T",
+      "surname": "Grant"
+    },
+    {
+      "first": "Z",
+      "surname": "Fisk"
+    },
+    {
+      "first": "R",
+      "middle": "R",
+      "surname": "Urbano"
+    },
+    {
+      "first": "M",
+      "surname": "Nicklas"
+    },
+    {
+      "first": "P",
+      "middle": "G",
+      "surname": "Pagliuso"
+    }
+  ],
+  "keywords": [
+    "superconductivity",
+    "pressure effects",
+    "magnetic pair-breaking"
+  ],
+  "npl_publn_id": "piva2015combined.tei.xml"
+}

@@ -1,1 +1,42 @@
-{"addrline": "Narutowicza 11/12", "volume": "133", "issue": "6", "date": "2005-02", "ISSN": "0038-1098", "DOI": "10.1016/j.ssc.2004.11.027", "publisher": "Elsevier BV", "title_main_a": "Superconductivity in three-layer Na0.3CoO2\u00b71.3H2O", "title_main_j": "Solid State Communications", "title_abbrev_j": "Solid State Communications", "authors": [{"first": "M", "middle": "L", "surname": "Foo"}, {"first": "T", "surname": "Klimczuk"}, {"first": "Lu", "surname": "Li"}, {"first": "N", "middle": "P", "surname": "Ong"}, {"first": "R", "middle": "J", "surname": "Cava"}], "keywords": [], "npl_publn_id": "P068180505-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0406409",
+  "arXiv": "arXiv:cond-mat/0406409v1",
+  "addrline": "Narutowicza 11/12",
+  "volume": "133",
+  "issue": "6",
+  "date": "2005-02",
+  "ISSN": "0038-1098",
+  "DOI": "10.1016/j.ssc.2004.11.027",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Superconductivity in three-layer Na0.3CoO2\u00b71.3H2O",
+  "title_main_j": "Solid State Communications",
+  "title_abbrev_j": "Solid State Communications",
+  "authors": [
+    {
+      "first": "M",
+      "middle": "L",
+      "surname": "Foo"
+    },
+    {
+      "first": "T",
+      "surname": "Klimczuk"
+    },
+    {
+      "first": "Lu",
+      "surname": "Li"
+    },
+    {
+      "first": "N",
+      "middle": "P",
+      "surname": "Ong"
+    },
+    {
+      "first": "R",
+      "middle": "J",
+      "surname": "Cava"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "P068180505-CC.tei.xml"
+}

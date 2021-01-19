@@ -1,1 +1,39 @@
-{"volume": "73", "issue": "10", "date": "2004-10-15", "ISSN": "0031-9015", "eISSN": "1347-4073", "DOI": "10.1143/jpsj.73.2912", "publisher": "Physical Society of Japan", "title_main_a": "High Pressure Effects on Superconductivity in the \u03b2-Pyrochlore Oxides AOs2O6(A = K, Rb, Cs)", "title_main_j": "Journal of the Physical Society of Japan", "title_abbrev_j": "J. Phys. Soc. Jpn.", "authors": [{"first": "Takaki", "surname": "Muramatsu"}, {"first": "Shigeki", "surname": "Yonezawa"}, {"first": "Yuji", "surname": "Muraoka"}, {"first": "Zenji", "surname": "Hiroi"}], "keywords": ["superconductivity", "\u03b2-pyrochlore oxide", "pressure", "magnetization"], "npl_publn_id": "JPS0732912-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0407610",
+  "volume": "73",
+  "issue": "10",
+  "date": "2004-10-15",
+  "ISSN": "0031-9015",
+  "eISSN": "1347-4073",
+  "DOI": "10.1143/jpsj.73.2912",
+  "publisher": "Physical Society of Japan",
+  "title_main_a": "High Pressure Effects on Superconductivity in the \u03b2-Pyrochlore Oxides AOs2O6(A = K, Rb, Cs)",
+  "title_main_j": "Journal of the Physical Society of Japan",
+  "title_abbrev_j": "J. Phys. Soc. Jpn.",
+  "authors": [
+    {
+      "first": "Takaki",
+      "surname": "Muramatsu"
+    },
+    {
+      "first": "Shigeki",
+      "surname": "Yonezawa"
+    },
+    {
+      "first": "Yuji",
+      "surname": "Muraoka"
+    },
+    {
+      "first": "Zenji",
+      "surname": "Hiroi"
+    }
+  ],
+  "keywords": [
+    "superconductivity",
+    "\u03b2-pyrochlore oxide",
+    "pressure",
+    "magnetization"
+  ],
+  "npl_publn_id": "JPS0732912-CC.tei.xml"
+}

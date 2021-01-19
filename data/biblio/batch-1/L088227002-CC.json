@@ -1,4 +1,6 @@
 {
+  "licence": "https://arxiv.org/licenses/assumed-1991-2003/license.html",
+  "url": "https://arxiv.org/abs/cond-mat/0206255",
   "volume": "88",
   "issue": "22",
   "date": "2002-05-16",
@@ -10,6 +12,7 @@
   "title_main_a": "Strongly Correlateds-Wave Superconductivity in theN-Type Infinite-Layer Cuprate",
   "title_main_j": "Physical Review Letters",
   "title_abbrev_j": "Phys. Rev. Lett.",
+  "arxiv": "arXiv:cond-mat/0206255 [cond-mat.supr-con]",
   "authors": [
     {
       "first": "C-T",

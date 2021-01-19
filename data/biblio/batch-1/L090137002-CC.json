@@ -1,1 +1,56 @@
-{"addrline": "Sakyo-ku", "volume": "460-462", "date": "2006-07-26", "ISSN": "0921-4534", "DOI": "10.1016/j.physc.2007.03.122", "arXiv": "arXiv:cond-mat/0607671v1[cond-mat.supr-con]", "publisher": "Elsevier BV", "title_main_a": "Role of pair-breaking and phase fluctuations in c-axis tunneling in underdoped Bi2Sr2CaCu2O8+\u03b4", "title_main_j": "Physica C: Superconductivity", "title_abbrev_j": "Physica C: Superconductivity", "authors": [{"first": "C", "middle": "J", "surname": "Van Der Beek"}, {"first": "P", "surname": "Spathis"}, {"first": "S", "surname": "Colson"}, {"first": "P", "surname": "Gierlowski"}, {"first": "M", "surname": "Gaifullin"}, {"first": "Yuji", "surname": "Matsuda"}, {"first": "P", "middle": "H", "surname": "Kes"}], "keywords": ["Disorder", "Interlayer coupling", "Josephson Plasma Resonance", "Quantum fluctuations PACS: 74.40.+k", "74.50.+r", "74.62.-c", "74.62.Dh"], "npl_publn_id": "L090137002-CC.tei.xml"}
+{
+  "licence": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+  "url": "https://arxiv.org/abs/cond-mat/0607671",
+  "addrline": "Sakyo-ku",
+  "volume": "460-462",
+  "date": "2006-07-26",
+  "ISSN": "0921-4534",
+  "DOI": "10.1016/j.physc.2007.03.122",
+  "arXiv": "arXiv:cond-mat/0607671v1[cond-mat.supr-con]",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Role of pair-breaking and phase fluctuations in c-axis tunneling in underdoped Bi2Sr2CaCu2O8+\u03b4",
+  "title_main_j": "Physica C: Superconductivity",
+  "title_abbrev_j": "Physica C: Superconductivity",
+  "authors": [
+    {
+      "first": "C",
+      "middle": "J",
+      "surname": "Van Der Beek"
+    },
+    {
+      "first": "P",
+      "surname": "Spathis"
+    },
+    {
+      "first": "S",
+      "surname": "Colson"
+    },
+    {
+      "first": "P",
+      "surname": "Gierlowski"
+    },
+    {
+      "first": "M",
+      "surname": "Gaifullin"
+    },
+    {
+      "first": "Yuji",
+      "surname": "Matsuda"
+    },
+    {
+      "first": "P",
+      "middle": "H",
+      "surname": "Kes"
+    }
+  ],
+  "keywords": [
+    "Disorder",
+    "Interlayer coupling",
+    "Josephson Plasma Resonance",
+    "Quantum fluctuations PACS: 74.40.+k",
+    "74.50.+r",
+    "74.62.-c",
+    "74.62.Dh"
+  ],
+  "npl_publn_id": "L090137002-CC.tei.xml"
+}

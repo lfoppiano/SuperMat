@@ -1,1 +1,53 @@
-{"volume": "48", "issue": "1", "date": "1999-08-26", "ISSN": "0295-5075", "eISSN": "1286-4854", "DOI": "10.1209/epl/i1999-00116-1", "arXiv": "arXiv:cond-mat/9908383v1[cond-mat.supr-con]", "publisher": "IOP Publishing", "title_main_a": "Universal relationship between the penetration depth and the normal-state conductivity in YBaCuO", "title_main_j": "Europhysics Letters (EPL)", "title_abbrev_j": "Europhys. Lett.", "authors": [{"first": "A", "surname": "Pimenov"}, {"first": "A", "surname": "Loidl"}, {"first": "B", "surname": "Schey"}, {"first": "B", "surname": "Stritzker"}, {"first": "G", "surname": "Jakob"}, {"first": "H", "surname": "Adrian"}, {"first": "A", "middle": "V", "surname": "Pronin"}, {"first": "Yu.", "middle": "G", "surname": "Goncharov"}], "keywords": [], "npl_publn_id": "EPL0480073-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/9908383",
+  "volume": "48",
+  "issue": "1",
+  "date": "1999-08-26",
+  "ISSN": "0295-5075",
+  "eISSN": "1286-4854",
+  "DOI": "10.1209/epl/i1999-00116-1",
+  "arXiv": "arXiv:cond-mat/9908383v1[cond-mat.supr-con]",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Universal relationship between the penetration depth and the normal-state conductivity in YBaCuO",
+  "title_main_j": "Europhysics Letters (EPL)",
+  "title_abbrev_j": "Europhys. Lett.",
+  "authors": [
+    {
+      "first": "A",
+      "surname": "Pimenov"
+    },
+    {
+      "first": "A",
+      "surname": "Loidl"
+    },
+    {
+      "first": "B",
+      "surname": "Schey"
+    },
+    {
+      "first": "B",
+      "surname": "Stritzker"
+    },
+    {
+      "first": "G",
+      "surname": "Jakob"
+    },
+    {
+      "first": "H",
+      "surname": "Adrian"
+    },
+    {
+      "first": "A",
+      "middle": "V",
+      "surname": "Pronin"
+    },
+    {
+      "first": "Yu.",
+      "middle": "G",
+      "surname": "Goncharov"
+    }
+  ],
+  "keywords": [],
+  "npl_publn_id": "EPL0480073-CC.tei.xml"
+}

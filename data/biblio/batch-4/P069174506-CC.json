@@ -1,1 +1,73 @@
-{"addrline": "San Diego, La Jolla", "volume": "69", "issue": "17", "date": "2003-09-15", "ISSN": "1098-0121", "eISSN": "1550-235X", "DOI": "10.1103/physrevb.69.174506", "arXiv": "arXiv:cond-mat/0309362v1[cond-mat.str-el]", "publisher": "American Physical Society (APS)", "title_main_a": "Thermodynamic properties of excess-oxygen-dopedLa2CuO4.11near a simultaneous transition to superconductivity and long-range magnetic order", "title_main_j": "Physical Review B", "title_abbrev_j": "Phys. Rev. B", "authors": [{"first": "G", "middle": "A", "surname": "Jorge"}, {"first": "M", "surname": "Jaime"}, {"first": "L", "surname": "Civale"}, {"first": "C", "middle": "D", "surname": "Batista"}, {"first": "B", "middle": "L", "surname": "Zink"}, {"first": "F", "surname": "Hellman"}, {"first": "B", "surname": "Khaykovich"}, {"first": "M", "middle": "A", "surname": "Kastner"}, {"first": "Y", "middle": "S", "surname": "Lee"}, {"first": "R", "middle": "J", "surname": "Birgeneau"}, {}], "keywords": ["numbers: 74.72.Dn", "74.40.+k", "75.30.Fv", "75.10.Jm", "75.50.Ee"], "npl_publn_id": "P069174506-CC.tei.xml"}
+{
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+  "url": "https://arxiv.org/abs/cond-mat/0309362",
+  "addrline": "San Diego, La Jolla",
+  "volume": "69",
+  "issue": "17",
+  "date": "2003-09-15",
+  "ISSN": "1098-0121",
+  "eISSN": "1550-235X",
+  "DOI": "10.1103/physrevb.69.174506",
+  "arXiv": "arXiv:cond-mat/0309362v1[cond-mat.str-el]",
+  "publisher": "American Physical Society (APS)",
+  "title_main_a": "Thermodynamic properties of excess-oxygen-dopedLa2CuO4.11near a simultaneous transition to superconductivity and long-range magnetic order",
+  "title_main_j": "Physical Review B",
+  "title_abbrev_j": "Phys. Rev. B",
+  "authors": [
+    {
+      "first": "G",
+      "middle": "A",
+      "surname": "Jorge"
+    },
+    {
+      "first": "M",
+      "surname": "Jaime"
+    },
+    {
+      "first": "L",
+      "surname": "Civale"
+    },
+    {
+      "first": "C",
+      "middle": "D",
+      "surname": "Batista"
+    },
+    {
+      "first": "B",
+      "middle": "L",
+      "surname": "Zink"
+    },
+    {
+      "first": "F",
+      "surname": "Hellman"
+    },
+    {
+      "first": "B",
+      "surname": "Khaykovich"
+    },
+    {
+      "first": "M",
+      "middle": "A",
+      "surname": "Kastner"
+    },
+    {
+      "first": "Y",
+      "middle": "S",
+      "surname": "Lee"
+    },
+    {
+      "first": "R",
+      "middle": "J",
+      "surname": "Birgeneau"
+    },
+    {}
+  ],
+  "keywords": [
+    "numbers: 74.72.Dn",
+    "74.40.+k",
+    "75.30.Fv",
+    "75.10.Jm",
+    "75.50.Ee"
+  ],
+  "npl_publn_id": "P069174506-CC.tei.xml"
+}

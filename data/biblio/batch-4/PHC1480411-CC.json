@@ -1,1 +1,61 @@
-{"volume": "148", "issue": "1-3", "date": "1987-12", "ISSN": "0378-4363", "DOI": "10.1016/0378-4363(87)90248-8", "publisher": "Elsevier BV", "title_main_a": "Resistivity of EuBa2(Cu1\u2212yZny)3Ox as a function of temperature, magnetic field, pressure and Zn concentration", "title_main_j": "Physica B+C", "title_abbrev_j": "Physica B+C", "authors": [{"first": "H", "middle": "A", "surname": "Borges"}, {"first": "G", "middle": "L", "surname": "Wells"}, {"first": "S-W", "surname": "Cheong"}, {"first": "R", "middle": "S", "surname": "Kwok"}, {"first": "J", "middle": "D", "surname": "Thompson"}, {"first": "Z", "surname": "Fisk"}, {"first": "J", "middle": "L", "surname": "Smith"}, {"first": "S", "middle": "B", "surname": "Oseroff"}, {}], "keywords": ["BORGES", "HA WELLS", "GL CHEONG", "SW et al"], "npl_publn_id": "PHC1480411-CC.tei.xml"}
+{
+  "licence": "CC-BY 4.0",
+  "url": "https://escholarship.org/uc/item/0x07v809",
+  "volume": "148",
+  "issue": "1-3",
+  "date": "1987-12",
+  "ISSN": "0378-4363",
+  "DOI": "10.1016/0378-4363(87)90248-8",
+  "publisher": "Elsevier BV",
+  "title_main_a": "Resistivity of EuBa2(Cu1\u2212yZny)3Ox as a function of temperature, magnetic field, pressure and Zn concentration",
+  "title_main_j": "Physica B+C",
+  "title_abbrev_j": "Physica B+C",
+  "authors": [
+    {
+      "first": "H",
+      "middle": "A",
+      "surname": "Borges"
+    },
+    {
+      "first": "G",
+      "middle": "L",
+      "surname": "Wells"
+    },
+    {
+      "first": "S-W",
+      "surname": "Cheong"
+    },
+    {
+      "first": "R",
+      "middle": "S",
+      "surname": "Kwok"
+    },
+    {
+      "first": "J",
+      "middle": "D",
+      "surname": "Thompson"
+    },
+    {
+      "first": "Z",
+      "surname": "Fisk"
+    },
+    {
+      "first": "J",
+      "middle": "L",
+      "surname": "Smith"
+    },
+    {
+      "first": "S",
+      "middle": "B",
+      "surname": "Oseroff"
+    },
+    {}
+  ],
+  "keywords": [
+    "BORGES",
+    "HA WELLS",
+    "GL CHEONG",
+    "SW et al"
+  ],
+  "npl_publn_id": "PHC1480411-CC.tei.xml"
+}
