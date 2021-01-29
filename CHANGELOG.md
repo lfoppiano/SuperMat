@@ -9,10 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 Minor updates 
 
 ### Changed
-+ re-validated some parts
-
-### Fixed
-+ solved small synchronisation issues with the feature files
++ added references to papers 
 
 
 ## [1.0] – 2020-12-17
@@ -20,7 +17,6 @@ Minor updates
 First release 1.0
 
 ### Added
-+ 130 OA annotated articles 
 + annotation guidelines ([changelog](docs/CHANGELOG.md))
 + transformation scripts
 + analysis scripts

@@ -1,7 +1,4 @@
 
-
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4448392.svg)](https://doi.org/10.5281/zenodo.4448392)
 [![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
 
 
@@ -11,7 +8,6 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
 ## Content
  - Annotated dataset:
     - XML-TEI annotated fulltext data:
-        - [Annotated linked data](data/annotated) as XML-TEI based format
         - [Bibliographic](data/biblio) data references as XML-TEI or JSON (CORD-19) format
         - Sources are referenced in the [Bibliographic](data/biblio) data
     - Tabular version of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
@@ -43,7 +39,7 @@ If you use the data, please consider citing the related paper:
   MONTH = Jan,
   PDF = {https://hal.inria.fr/hal-03101177/file/SuperMat__Construction_of_a_linked_annotated_dataset_from_superconductors_related_publications-1.pdf},
   HAL_ID = {hal-03101177},
-  HAL_VERSION = {v1},
+  HAL_VERSION = {v2},
 }
 ```
  
