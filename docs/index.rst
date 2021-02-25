@@ -5,4 +5,5 @@ SuperMat corpus: annotation guidelines
 
   introduction.rst
   guidelines.rst
+  guidelines-material-parser.rst
   annotation-tool.rst
