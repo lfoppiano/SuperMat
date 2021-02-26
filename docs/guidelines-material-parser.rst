@@ -38,7 +38,7 @@ The component to be annotated are:
 
  - :ref:`substrate`
 
- - :ref:`variables`..
+ - :ref:`variables`
 
 In each section we provide a ``Motivation`` section which describes why such data is important, and ``Utilisation``, describing how we plan to use the data.
 
