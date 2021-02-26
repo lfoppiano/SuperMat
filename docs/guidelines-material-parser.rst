@@ -105,6 +105,7 @@ Identify the shape of the material,
 **Tag**: ``<shape>``
 
 Examples:
+
 - ``single crystal``
 - ``polycrystaline``
 - ``thin film``
@@ -124,6 +125,7 @@ Identify the variables that can be substituted in the formula.
 **Tag**: ``<variable>``
 
 Examples:
+
 - ``La x Fe 1-x O 7 with x < 3``, the variable should be ``x`` as ``La x Fe 1-x O 7 with <variable>x</variable> < 3``
 - ``La x Fe 1-x O 7 with 1 < x < 3``, the variable should be ``x``  as ``La x Fe 1-x O 7 with 1 < <variable>x</variable> < 3``
 - ``La x Fe 1-x O 7 with x = 1,2,3, and 4``, the variable should be ``x``` as ``La x Fe 1-x O 7 with <variable>x</variable> = 1,2,3, and 4``
@@ -163,6 +165,7 @@ Fabrication
 Represent all the various information that are not belonging to any of the previous tags
 
 Examples:
+
  - ``HfNCl containing cointercalated tetrahydrofuran solvent (THF)``
  - ``intercalated``
  - ``synthesized by MBE method``
