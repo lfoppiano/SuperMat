@@ -36,10 +36,11 @@ If you use the data, please consider citing the related paper:
   URL = {https://hal.inria.fr/hal-03101177},
   NOTE = {working paper or preprint},
   YEAR = {2021},
-  MONTH = Jan,
-  PDF = {https://hal.inria.fr/hal-03101177/file/SuperMat__Construction_of_a_linked_annotated_dataset_from_superconductors_related_publications-1.pdf},
+  MONTH = Apr,
+  KEYWORDS = {ontology ; data structure ; Databases ; text and data mining ; superconductors ; dataset ; materials informatics ; machine learning},
+  PDF = {https://hal.inria.fr/hal-03101177v3/file/main.pdf},
   HAL_ID = {hal-03101177},
-  HAL_VERSION = {v2},
+  HAL_VERSION = {v3},
 }
 ```
  
