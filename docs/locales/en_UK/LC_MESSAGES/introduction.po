@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) CC-BY
+# This file is distributed under the same license as the SuperMat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperMat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../introduction.rst:4 7ee32e5eea1c49a79f18be0e25a0ee1e
+msgid "Introduction"
+msgstr ""
+
+#: ../../introduction.rst:6 9e61aa6a4d52400eadafdcf8f4dcd971
+msgid ""
+"This is the public version of the annotation guidelines developed along "
+"the construction of the SuperMat (Superconductors Materials) dataset. "
+"This documentation is organised as follow: section :ref:`Guidelines` "
+"describes the rules for annotations, while :ref:`Annotation tools` "
+"provides an introduction on the annotation support tools."
+msgstr ""
+
+#: ../../introduction.rst:10 4736d148e69540c9a8386dcb33f40e20
+msgid "The main reference of this work is the article"
+msgstr ""
+
+#: ../../introduction.rst:12 09baeaee74ce421fbd79a191ba5adc31
+msgid ""
+"``SuperMat: Construction of a linked annotated dataset from "
+"superconductors-related publications``"
+msgstr ""
+
+#: ../../introduction.rst:14 1f871408559d4b34a39b72d0d8a99a88
+msgid ""
+"``Luca Foppiano 1, Sae Dieb 1, Akira Suzuki 1, Pedro Baptista de Castro "
+"2, Suguru Iwasaki 2, Azusa Uzuki 2, Miren Garbine Esparza Echevarria 2, "
+"Yan Meng 2, Kensei Terashima 2, Laurent Romary 3, Yoshihiko Takano 2, and"
+" Masashi Ishii 1``"
+msgstr ""
+
+#: ../../introduction.rst:16 9207aafc5e714eae84e080f9c011ee05
+msgid ""
+"``1 Material Database Group, MaDIS, NIMS, Tsukuba, 305-0044, Japan`` ``2 "
+"Nano Frontier Superconducting Materials Group, MANA, NIMS, Tsukuba, "
+"305-0047, Japan`` ``3 ALMAnaCH, Inria, Paris, 75012, France``"
+msgstr ""
+

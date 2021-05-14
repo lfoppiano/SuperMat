@@ -1,0 +1,434 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) CC-BY
+# This file is distributed under the same license as the SuperMat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperMat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../annotation-tool.rst:16 75966fc5e82c4b709e12df27b2bbbb12
+msgid "Annotation Support Tools"
+msgstr ""
+
+#: ../../annotation-tool.rst:17 9de0beddfae4437bade6b005f9cbe912
+msgid ""
+"This section describe the use of the annotaion support tools, namely the "
+"annotation tool Inception."
+msgstr ""
+
+#: ../../annotation-tool.rst:20 017f1bcc42d247388931951a7bdcc39b
+msgid "Overview"
+msgstr ""
+
+#: ../../annotation-tool.rst:25 3db85b7d23ee47419078469f5139d857
+msgid "There are three mains tasks each user is required to perform:"
+msgstr ""
+
+#: ../../annotation-tool.rst:23 0d5a497ecac4474084657c2d324176da
+msgid "correct documents (annotation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:24 de065e742d3c4cc681a82d850e7af5e2
+msgid "cross-check other annotators-corrected documents (curation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:25 b264ba8915694fe59d6a51ea2802d71a
+msgid "report issues or questions (documentation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:27 b525a5aa36894585a2250b6371437d5b
+msgid ""
+"`Inception`_ can be accessed via web. After the login the user will reach"
+" a view with all the assigned projects:"
+msgstr ""
+
+#: 980439350d1b490d846c6e9b1b7dfdd0
+msgid "Project home view"
+msgstr ""
+
+#: ../../annotation-tool.rst:32 4e64262fc5604d279ba83b54c38ada4d
+msgid ""
+"In the scope of this project, each batch of documents will be assigned to"
+" a different Inception \"project\"."
+msgstr ""
+
+#: ../../annotation-tool.rst:37 88c2f15770014617a37f92273420cf71
+msgid "Document correction (Annotation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:39 b5dc781dba034e45a749947b6ad5d6b7
+msgid "To start the anntation process, select ``Annotations``"
+msgstr ""
+
+#: 77f34ed8af6645988fca39497c416cca
+msgid "Annotation"
+msgstr ""
+
+#: ../../annotation-tool.rst:44 664abf96453c4337b3d4df48b9a7df24
+msgid "and then a document from the available list."
+msgstr ""
+
+#: f2e5d1363c1f4bf6a8cd18418ededf60
+msgid "File selection"
+msgstr ""
+
+#: ../../annotation-tool.rst:49 f62fc4335ee044fcb91a23111caaa64e
+msgid "The annotated document look like:"
+msgstr ""
+
+#: 40e06b566ff34e4096eecc9cc7977297
+msgid "Annotation sample"
+msgstr ""
+
+#: ../../annotation-tool.rst:63 978462906b1f47908c3cad8252e5d2aa
+msgid "The correction task can be summarised in the following actions:"
+msgstr ""
+
+#: ../../annotation-tool.rst:55 41fcb14d86394fc991231399f52f9a15
+msgid "select the annotation and modify the label or,"
+msgstr ""
+
+#: ../../annotation-tool.rst:56 21a2b95dd77f463c904c07c5f1af54a0
+msgid ""
+"move the annotation (see warning below), when for example there are "
+"character missing or when the annotation is not aligned (see below, in "
+"red the correct annotation span)"
+msgstr ""
+
+#: ../../annotation-tool.rst ../../annotation-tool.rst:61
+#: 0333f47b5855494e8e2ed98629373705 fdfaa60e1e024ec3ad624065e997da51
+msgid "Annotation alignment"
+msgstr ""
+
+#: ../../annotation-tool.rst:63 44914df1b6764e19aaaae339a08ef950
+msgid ""
+"remove the annotation, when is not relevant (for example, if a "
+"``<tcValue>`` is identifying the temperature of annheling)."
+msgstr ""
+
+#: ../../annotation-tool.rst:65 7558cc199507496dbbaee2751b387152
+msgid ""
+"The tool does not support dragging annotations. To move an annotation, it"
+" must be deleted and added as a new annotation in the new position."
+msgstr ""
+
+#: ../../annotation-tool.rst:67 80ec25a0ad754490a644b0ab8f59e807
+msgid ""
+"The tool will log you off after 30 seconds of inactivity. Any "
+"modification is saved automatically."
+msgstr ""
+
+#: ../../annotation-tool.rst:69 d0f9ee6c47fc4c3b958f328c6aedb006
+msgid ""
+"Once the document has been completely annotated, the user has to click on"
+" the ``Finish`` button (lock icon) to lock the document and move it to "
+"the next step of the workflow: the cross-check (curation) task."
+msgstr ""
+
+#: e31707a60eac412e9085b52bc8ab8c14
+msgid ""
+"Icon to mark a document as \"completed\" and move it to the next step of "
+"the workflow"
+msgstr ""
+
+#: ../../annotation-tool.rst:76 7a9b142fd5a94f73ba785dad06e4b8f6
+msgid ""
+"If you wish to modify a document that has been already ``closed``, "
+"contact one of the admins."
+msgstr ""
+
+#: ../../annotation-tool.rst:79 ec144f248a504659a76ea925913a4156
+msgid "Cross-validation (Curation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:81 06f406bb0e6f45fab5fba0fceecde3aa
+msgid ""
+"After a document has been annotated by an annotator it requires to be "
+"cross-validated by a domain-expert."
+msgstr ""
+
+#: ../../annotation-tool.rst:85 1246318188d341c3990c8d3ece87e48a
+msgid ""
+"The Cross-validation is referred also as Curation and can be done in two "
+"ways:"
+msgstr ""
+
+#: ../../annotation-tool.rst:84 15b80448dec240ef9ab6fefe65d6139c
+msgid "through the Curation interface"
+msgstr ""
+
+#: ../../annotation-tool.rst:85 29fd8dea3c8d49509d0560bb185309cd
+msgid "through the Curation-in-annotation interface"
+msgstr ""
+
+#: ../../annotation-tool.rst:87 ae07697bfe7e497dba5afae6731cf2fd
+msgid ""
+"While curating, if some differences between the annotated document and "
+"the guidelines are found, they should be discussed first between "
+"annotators and reported using the `GitLab issues project page`_, to keep "
+"track and to be integrated in the guidelines."
+msgstr ""
+
+#: ../../annotation-tool.rst:90 c50932db171848fc95bddc29bf40d309
+msgid "Classic Curation interface"
+msgstr ""
+
+#: ../../annotation-tool.rst:91 383079ffb4ab4670b98793eec806eee5
+msgid "To start the cross-validation, firstly open the Curation interface"
+msgstr ""
+
+#: 21ec0e9c3e0b431b9b8ac09f1b3362b3 4d799c0d09a549d496080d66661327f1
+#: 7d0f8c3a97df4f3ab5edb0caa75e8d73 e48604cae5a44ec69ff6787588032433
+msgid "Curation"
+msgstr ""
+
+#: ../../annotation-tool.rst:96 cccff424afab4dd79935ae5ef1ac50bb
+msgid ""
+"select a document and verify the annotations that are shown in the **top "
+"box**:"
+msgstr ""
+
+#: ../../annotation-tool.rst:101 b7586a7d65c34970bd1fe426fbd630a5
+msgid ""
+"In this example there there are two annotators (lower boxes) which have "
+"some disagreement. The curator (the person who is currently cross-"
+"validating), should make changes, when needed, to the document by select "
+"already annotated elements from the annotators or add new ones."
+msgstr ""
+
+#: ../../annotation-tool.rst:104 fff6a4f51feb45ad91a54edc28f3079e
+msgid ""
+"The curator can propagate annotations by clicking on it to have it in the"
+" output (top box)"
+msgstr ""
+
+#: ../../annotation-tool.rst:106 d2095e38bf334f5aabc6c710bf7b5d99
+msgid "(See below)"
+msgstr ""
+
+#: ../../annotation-tool.rst:111 d79ec396efe9474e8bc3f33c3b31861f
+msgid ""
+"The annotation ``single crystal`` is propagated in the output file by "
+"clicking the annotation from one of the annotators."
+msgstr ""
+
+#: ../../annotation-tool.rst:113 728509026d5f4024b6696296b93ad53b
+msgid ""
+"The curator can also add new annotation by highlight the text and "
+"selecting the label from the right panel (as explained for the task of "
+"annotation/correction)."
+msgstr ""
+
+#: ../../annotation-tool.rst:118 91528a790ea94fb384e78e1941570770
+msgid ""
+"Another example showing a new annotation that wasn't identified by any of"
+" the annotators (**this example is conceptually wrong, just for "
+"illustrating the principle**):"
+msgstr ""
+
+#: ../../annotation-tool.rst:121 78904a0d929c42beb9bf60885cc10a5f
+msgid "New Curation interface (Curation-in-annotation)"
+msgstr ""
+
+#: ../../annotation-tool.rst:122 7b7d982670954d3485e3ebff4954d4bb
+msgid ""
+"The ``Curation-in-annotation`` interface is a new concept developed "
+"recently by the Inception team."
+msgstr ""
+
+#: ../../annotation-tool.rst:124 e7b84ab5a77f4e659492cbd6fc7b2a0b
+msgid ""
+"It provides the possibility to visualise annotations from multiple users "
+"in a single document, therefore using the whole space available in the "
+"screen. One of the problem of the curation interface is that it splits "
+"the screen makes it hard to use it properly."
+msgstr ""
+
+#: ../../annotation-tool.rst:132 6f301f9004d24e119992dfb0ac0531e9
+msgid "In any projects:"
+msgstr ""
+
+#: ../../annotation-tool.rst:127 84655252487e43e7b690425eed7ad024
+msgid "enter \"annotation\","
+msgstr ""
+
+#: ../../annotation-tool.rst:128 8f6feba37e5e469c98f3b5425272ce7d
+msgid "click second icon from the top,"
+msgstr ""
+
+#: ../../annotation-tool.rst:129 b985f9fea7b849ef8f35894d0b5ffde9
+msgid "tick on the user you want the annotations to be visualised (who annotated)"
+msgstr ""
+
+#: ../../annotation-tool.rst:130 899c813bd17e4e28ba7252f51d5e5085
+msgid ""
+"save - after clicking that button, you will see the annotations from the "
+"user appearing"
+msgstr ""
+
+#: ../../annotation-tool.rst:131 f8b63862e4e44b438a4c735e2483c4b2
+msgid "click on settings, and"
+msgstr ""
+
+#: ../../annotation-tool.rst:132 a0848150c311485bb6b89a7f0c45d7d4
+msgid ""
+"select to save the document as \"curation document\" - click on \"apply "
+"changes\""
+msgstr ""
+
+#: ../../annotation-tool.rst:137 02c2299eb87b4435a39535add4ae9dca
+msgid "How to access the curation-in annotation."
+msgstr ""
+
+#: ../../annotation-tool.rst:139 3d698825b7904299ba3aee9c49487484
+msgid ""
+"The violet-highlighted annotations belongs to the annotator while the "
+"other annotations (they can be pink or any other colors, depending on the"
+" selected palette), are the curation output."
+msgstr ""
+
+#: ../../annotation-tool.rst:144 ../../annotation-tool.rst:152
+#: ../../annotation-tool.rst:170 a741a405c75c47b09d07cbcfb98a66e2
+#: e321bd3cb81c46ba8e5ec1cb1a87592d e67f9554941c4dcdb99ca97324924456
+msgid "Curation-in annotation"
+msgstr ""
+
+#: ../../annotation-tool.rst:144 79d9ade2f2104faa9b5d48fdcf2c4b6a
+msgid "Other users annotations are violet"
+msgstr ""
+
+#: ../../annotation-tool.rst:147 11dd42001c224aa4bb0d71b72f9fbb3a
+msgid ""
+"It's possible to identify the owner of each annotation, by hovering the "
+"mouse on top of it:"
+msgstr ""
+
+#: ../../annotation-tool.rst:152 bddc5eecf5fb4e8185cf8f5e0b663714
+msgid ""
+"To distinguish the other annotations, just hover with the mouse and you "
+"will see the identification information"
+msgstr ""
+
+#: ../../annotation-tool.rst:155 8b342978fac940ff8d75a66fcb64c08e
+msgid ""
+"Annotations can be added manually by selecting the text in the classical "
+"way, but is possible to click on the annotator's annotations to replicate"
+" in the curation output."
+msgstr ""
+
+#: e2e63326ba554d9ea66a68cdf67ed202
+msgid "Adding annotation"
+msgstr ""
+
+#: ../../annotation-tool.rst:163 a7b53bfa9dbe4327b5c51b3275c41aec
+msgid "Annotation added"
+msgstr ""
+
+#: ../../annotation-tool.rst:163 36905acf080d4001b8d1a679819e6d9b
+msgid ""
+"Example of copying the annotation from one of the annotators ot the "
+"curation document"
+msgstr ""
+
+#: ../../annotation-tool.rst:165 f67be6935bdd48aaaa481460944bef15
+msgid ""
+"It's possible to merge all annotator annotations by clicking on the "
+"\"recycle icon\":"
+msgstr ""
+
+#: ../../annotation-tool.rst:170 6632016f2af3484d8830997368f18597
+msgid "Example of how to merge all annotations from others annotators"
+msgstr ""
+
+#: ../../annotation-tool.rst:175 d624d93cbd9f4246a6ea4125a178d96d
+msgid "Linking"
+msgstr ""
+
+#: ../../annotation-tool.rst:176 9a8f05cf94344dada99033b2c32f3554
+msgid ""
+"The linking is the process of linking different entities as discussed in "
+"the annotation guidelines page :ref:`Guidelines`."
+msgstr ""
+
+#: ../../annotation-tool.rst:178 9a25a7e65d74483ebb67be5fc5148605
+msgid ""
+"After identifying two entities (or labels), the user can create the link "
+"by dragging and dropping from the origin to the destination (**the order "
+"does matter**)."
+msgstr ""
+
+#: 22a7b6a2793140a1ba99dccdc51ca3a7 9ab073e03add4e16ad6316b129c449b0
+msgid "Linking drag & drop"
+msgstr ""
+
+#: ../../annotation-tool.rst:183 237503b098d74e6e9a9fb010c55b6df3
+msgid "once the link is made, it is possible to select the type of relationship:"
+msgstr ""
+
+#: ../../annotation-tool.rst:190 41b5dd5748444af68dda90c660207c63
+msgid "Recommendation system"
+msgstr ""
+
+#: ../../annotation-tool.rst:192 5783691f3c2f46569d1dc38945c731bc
+msgid ""
+"The recommendation system that allow suggestion of entities based on what"
+" previously annotated. This can be configured using a Named Entities "
+"Recognition engine or a string matching approach."
+msgstr ""
+
+#: 52778a9461d04782bb2b30322194a5cb
+msgid "Inception documentation on recommendations"
+msgstr ""
+
+#: ../../annotation-tool.rst:197 b45b0c64b79148658e92bbefc4c69f76
+msgid ""
+"The user can accept the suggestion just by clicking on them. Beside the "
+"precision/recall of the suggestions, this allow users to reduce "
+"dramatically errors due to overlooking."
+msgstr ""
+
+#: ../../annotation-tool.rst:201 eb6618dc806348b6a36ad1471dbaa391
+msgid "Global search"
+msgstr ""
+
+#: ../../annotation-tool.rst:202 8b8737ae965049e18a2966dba10dc47a
+msgid "This function is basically a find and replace over multiple files."
+msgstr ""
+
+#: ../../annotation-tool.rst:204 eaa1db644f1c43f5802a1cfcc8e25b67
+msgid ""
+"Massive annotation modification cannot be undone (unless resetting **all "
+"modification** to the documents), take extra care to use this feature. We"
+" recommend also to always limit the search/replace to the the current "
+"document."
+msgstr ""
+
+#: ../../annotation-tool.rst:206 41166c774e03475b8b20bac9817431b9
+msgid "For adding new annotations on a specific value:"
+msgstr ""
+
+#: 8478487b9f3b4849a640e116900ef100
+msgid "Find-and-replace example of adding new annotation"
+msgstr ""
+
+#: ../../annotation-tool.rst:212 301216d154df49a782c991e72731911f
+msgid ""
+"To modify (add/remove) all annotations with a specific class, the user "
+"can use some advanced parameters in HTML:"
+msgstr ""
+
+#: 7e39ed90bdfe460c961791535fdbb6cf
+msgid "Find-and-replace with advanced parameters"
+msgstr ""
+
