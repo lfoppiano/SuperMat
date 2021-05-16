@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Grobid-quantities documentation build configuration file, created by
+# Supermat documentation build configuration file, created by
 # sphinx-quickstart on Fri Aug 11 14:42:55 2017.
 #
 # This file is execfile()d with the current directory set to its
