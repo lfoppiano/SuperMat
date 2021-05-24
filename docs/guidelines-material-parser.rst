@@ -21,6 +21,14 @@ In this guidelines we use only the XML notation where each class is represented 
             [...]
 
 
+Data quality
+************
+
+The "pre-annotated" data can for this model may contains mistakes or be incomplete. The quality depends on external causes and often incorrect data cannot be fixed.
+It may happens happens that the upstream model is not able to extract the material correctly, or a formula is truncated irremediably.
+For example the formula ``0.1 Cu O 7`` misses the initial material.
+**All lines that contains mistakes should be ignored** using the notation ``<!-- -->``.
+
 Tag set
 *******
 
@@ -92,7 +100,7 @@ Examples:
 - pure
 - ``Zn-doped`` should be annotated as ``<doping>Zn</doping>-doped``
 - ``Zn concentration`` should be annotated as ``<doping>Zn concentration</doping>``
-- 1% Zn should be annotated as ``<doping>1% Zn</doping>``
+- ``1% Zn`` should be annotated as ``<doping>1% Zn</doping>``
 
 
 .. _shape:
