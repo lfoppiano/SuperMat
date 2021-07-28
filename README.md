@@ -30,17 +30,26 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
 If you use the data, please consider citing the related paper: 
 
 ```
-@unpublished{foppiano:hal-03101177,
-  TITLE = {{SuperMat: Construction of a linked annotated dataset from superconductors-related publications}},
-  AUTHOR = {Foppiano, Luca and Dieb, Sae and Suzuki, Akira and Baptista de Castro, Pedro and Iwasaki, Suguru and Uzuki, Azusa and Esparza Echevarria, Miren Garbine and Meng, Yan and Terashima, Kensei and Romary, Laurent and Takano, Yoshihiko and Ishii, Masashi},
-  URL = {https://hal.inria.fr/hal-03101177},
-  NOTE = {working paper or preprint},
-  YEAR = {2021},
-  MONTH = Apr,
-  KEYWORDS = {ontology ; data structure ; Databases ; text and data mining ; superconductors ; dataset ; materials informatics ; machine learning},
-  PDF = {https://hal.inria.fr/hal-03101177v3/file/main.pdf},
-  HAL_ID = {hal-03101177},
-  HAL_VERSION = {v3},
+@article{doi:10.1080/27660400.2021.1918396,
+author = {Luca Foppiano and Sae Dieb and Akira Suzuki and Pedro Baptista de Castro and Suguru Iwasaki and Azusa Uzuki and Miren Garbine Esparza Echevarria and Yan Meng and Kensei Terashima and Laurent Romary and Yoshihiko Takano and Masashi Ishii},
+title = {SuperMat: construction of a linked annotated dataset from superconductors-related publications},
+journal = {Science and Technology of Advanced Materials: Methods},
+volume = {1},
+number = {1},
+pages = {34-44},
+year  = {2021},
+publisher = {Taylor & Francis},
+doi = {10.1080/27660400.2021.1918396},
+
+URL = { 
+        https://doi.org/10.1080/27660400.2021.1918396
+    
+},
+eprint = { 
+        https://doi.org/10.1080/27660400.2021.1918396
+    
+}
+
 }
 ```
  
