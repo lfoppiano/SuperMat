@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>potassium</doping>-doped <formula>C60</formula></material>
+	<material><formula>C60</formula></material>
+	<material><formula>C70</formula></material>
+	<material><formula>C60</formula></material>
+	<material><formula>C70</formula></material>
+	<material><doping>potassium</doping>-doped <formula>C60</formula> both as <shape>films</shape> and <shape>bulk</shape></material>
+	<material><formula>C60</formula></material>
+	<material><formula>C60</formula></material>
+	<material><doping>K</doping>-doped <formula>C60</formula></material>
+	<material><formula>KxC60</formula></material>
+	<material><doping>potassium</doping>-doped <shape>films</shape> of <formula>C60</formula></material>
+	<material><formula>KxC60</formula> <shape>film</shape></material>
+	<material>bulk <shape>polycrystalline</shape> sample of nominal composition <formula>K3C60</formula></material>
+	<material><formula>KxC60</formula></material>
+	<material><formula>KxC60</formula></material>
+	<material><formula>C60</formula></material>
+	<material><formula>K3C60</formula></material>
+	<material><formula>KxC60</formula> crystalline</material>
+	<material><formula>KxC60</formula></material>
+	<material><doping>potassium-inter- calated</doping> <name>graphite</name></material>
+</materials>

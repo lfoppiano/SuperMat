@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg(B 1-x C x ) 2</formula></material>
+    <!-- not sure this is a variable... -->
+	<material><variable>x</variable> = <value>7.5 %</value></material>
+	<material><name>magnesium diboride</name> (<value>MgB 2</value> )</material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+    <material><fabrication>electron-doped</fabrication> <formula>MgB 2</formula> by <doping>chemical substitution of boron with carbon</doping></material>
+	<material><formula>pure MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>carbon substituted</doping> <formula>Mg(B 1-x C x ) 2</formula> <shape>polycrystalline</shape></material>
+	<material><variable>x</variable> = <value>0 %</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg(B 1-x C x ) 2</formula></material>
+	<material><variable>x</variable> = <value>7.5 %</value></material>
+	<material><variable>x</variable> = <value>7.5 %</value></material>
+	<material><variable>x</variable> = <value>7.5%</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>7.5 %</formula></material>
+	<material><variable>x</variable> = <value>0%</value></material>
+	<material><variable>x</variable> = <value>0 %</value></material>
+</materials>

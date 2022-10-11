@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Pr 2−x Ce x CuO 4−y</formula></material>
+	<material><formula>Nd 2−x Ce x CuO 4−y</formula></material>
+	<material><formula>Pr2−xCexCuO4−y</formula></material>
+	<material><formula>Nd2−xCexCuO4−y</formula> <shape>crystals</shape></material>
+	<material><formula>Nd</formula></material>
+	<material><formula>Nd 2−x Ce x CuO 4−y</formula> (<name>NCCO</name>)</material>
+	<material><formula>Pr 2−x Ce x CuO 4−y</formula> (<name>PCCO</name>)</material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name> <shape>crystal</shape></material>
+	<material><name>NCCO</name> <shape>crys- tal</shape></material>
+	<material><name>PCCO</name> <shape>crystal</shape></material>
+	<material><name>PCCO</name> <shape>crystal</shape></material>
+	<material><name>NCCO</name> <shape>crystal</shape></material>
+	<material><name>NCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name> <shape>crystals</shape></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name> <shape>crystals</shape></material>
+	<material><name>NCCO</name></material>
+</materials>

@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) CC-BY
+# This file is distributed under the same license as the SuperMat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperMat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../guidelines-material-parser.rst:6 5abfa2faf70e4aa787164795e2bddc18
+msgid "Material parser Guidelines"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:8 8ea3d6937af14a288969e3c17c4f013b
+msgid ""
+"This section provides the guidelines for the material parser. The "
+"material parser assume that the input string is a material name and "
+"outputs such name segmenting various components, such as formula, name, "
+"doping ratio etc.. more details below."
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:12 a7a1eaf0617a47619c7ca288f2617c06
+msgid "Notations"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:22 95a401a92ba94ae09bc2d015749cb39f
+msgid ""
+"In this guidelines we use only the XML notation where each class is "
+"represented by a ``<class_name>`` tag."
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:25 685fa3f3ba794282aafc11269e43f62b
+msgid "Tag set"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:27 1fcf368967414354b8f0c02e0a259736
+msgid "The component to be annotated are:"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:29 0cca03c1d6064bf8aabf338bcfda7454
+msgid ":ref:`name`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:31 a40b93e510024dffb540e8726cb7d492
+msgid ":ref:`formula`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:33 d345447e1c1c451f8e6012efc6a12ed9
+msgid ":ref:`doping`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:35 74eede34cb7544189e11f8432bf841dd
+msgid ":ref:`shape`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:37 82b1e00cf66e4bd986138fe414cb635f
+msgid ":ref:`fabrication`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:39 5bf2224ffeb444a3b78800639e7dd836
+msgid ":ref:`substrate`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:41 6043cf41bfa046b19f822f57be9cdbd8
+msgid ":ref:`variables`"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:43 013f694e55764799a727378a05dd3e4f
+msgid ""
+"In each section we provide a ``Motivation`` section which describes why "
+"such data is important, and ``Utilisation``, describing how we plan to "
+"use the data."
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:48 6556a21492894a688d7ac3fc6a8ba5e3
+msgid "Material name"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:50 fb9c328c83284dc39263cd4c30627edd
+msgid "Represent the canonical name of a material"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:52 de2d1c504e924b4b80e1e2e7a5a0663c
+msgid "**Tag**: ``<name>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:54
+#: ../../guidelines-material-parser.rst:71
+#: ../../guidelines-material-parser.rst:86
+#: ../../guidelines-material-parser.rst:107
+#: ../../guidelines-material-parser.rst:127
+#: ../../guidelines-material-parser.rst:141
+#: ../../guidelines-material-parser.rst:156
+#: ../../guidelines-material-parser.rst:167 06be7ac1f77247b0b82ded2b0ebea92e
+#: 22431211de194634a903f0ab9487f2ea 2dd3f23d1ad94b1a80a292bb9e696085
+#: 35c39108206b45738506e9bde508913e 4b3a9e732b4a415bbe59178024d341a1
+#: 612248f82d86445bb58eb7249cb27ce4 68312dcd416e40a99c6f69c686a57b66
+#: b92a0c83d7a340a3aa1db1be02b1b28e
+msgid "Examples:"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:56 b7e27719ea084215b7a85b18cd381986
+msgid "PCCO"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:57 aebf42f00b1544c9b41c11d459ec923c
+msgid "PCO"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:58 31cf916e244c4353a780b6a823e070e0
+msgid "Metal diboride"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:59 0f0660841f3e4ce189a1bb4fcefb27e9
+msgid "hydryde"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:60 44f97f77b1774b6d8a036222eb20ee50
+msgid "carbon"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:65 12b4d27049144668bcb8f59d9044fb13
+msgid "Formula"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:67 a560c2c3a26143baaef72c618b431356
+msgid "Identify the material as expressed from the chemical formula"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:69 c1d79217ce1e4165b029945a6eed6800
+msgid "**Tag**: ``<formula>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:73 d7b7d13c60fa42a9b3dfdf9922ba6e14
+msgid "Pr1.869Ce0.131CuO 4−δ"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:74 e00f69135b2d420e8337ac0d6986ebef
+msgid "MgB2"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:75 b733c4bd7d134a3b9f06580938e64005
+msgid "La 2-x Sr x CuO 4"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:80 a707b5091a394487b56f1309cbb5ab04
+msgid "Doping"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:82 108ae7c4e316478ca6f194e05a4f05d7
+msgid ""
+"Identify the doping ratio and doping materials that are adjointed to the "
+"material name"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:84 3f1371789a8c4fc792888e424eef3898
+msgid "**Tag**: ``<doping>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:88 91ddbb5953ae4605a02c2f01b8f37753
+msgid "overdoped"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:89 824c9063e4e74e1781cdeb4ad5d7b11c
+msgid "underdopded"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:90 f47a03d111e34ad7b90b3af1a5175562
+msgid "optimally doped"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:91 8bae8f6ec83e4d2d876534fae88aa50e
+msgid "bulk"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:92 59a832ca0c61476994da685545807ad1
+msgid "pure"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:93 12faf8fdedc8437895c79b830c538a32
+msgid "``Zn-doped`` should be annotated as ``<doping>Zn</doping>-doped``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:94 42e1d7978f4849929e46fafcaa929e62
+msgid ""
+"``Zn concentration`` should be annotated as ``<doping>Zn "
+"concentration</doping>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:95 1c93649522184490bc6ede51f03644cb
+msgid "1% Zn should be annotated as ``<doping>1% Zn</doping>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:101 b8ed543b867447f88d5414d3b964a992
+msgid "Shape"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:103 365fcc62f3da4fd696ca7bd34964bb1d
+msgid "Identify the shape of the material,"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:105 b38983788be94ff3b225eeaa263f6497
+msgid "**Tag**: ``<shape>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:109 8cd5a1375bb04d8b8776fc682730f04e
+msgid "``single crystal``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:110 ab4e73656e894af38629b2428fcb68df
+msgid "``polycrystaline``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:111 1c4a2d3a9dd04ae78d6a13e34b10e0c1
+msgid "``thin film``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:112 d4799c15b2e145a9bd273c55a4c317d3
+msgid "``powder``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:113 bda3962c1a434efb9703bf12e42b928a
+msgid "``film``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:119 fb2b0382db0c4889859ee0981b96c8e4
+msgid "Variables"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:123 ada73bf3e0cf4b17a87076d8ad506309
+msgid "Identify the variables that can be substituted in the formula."
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:125 c5b426ad66664ce9867ccbd4e3c8519d
+msgid "**Tag**: ``<variable>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:129 a20e2060592e45d58c556abc84e9ab2e
+msgid ""
+"``La x Fe 1-x O 7 with x < 3``, the variable should be ``x`` as ``La x Fe"
+" 1-x O 7 with <variable>x</variable> < 3``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:130 34c9d827d77a47e8b6aff383e318830d
+msgid ""
+"``La x Fe 1-x O 7 with 1 < x < 3``, the variable should be ``x``  as ``La"
+" x Fe 1-x O 7 with 1 < <variable>x</variable> < 3``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:131 09cad3eeaca044ef8269352e24cf9003
+msgid ""
+"``La x Fe 1-x O 7 with x = 1,2,3, and 4``, the variable should be ``x``` "
+"as ``La x Fe 1-x O 7 with <variable>x</variable> = 1,2,3, and 4``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:132 6b138da5af244e78a4c5ae49cc8da5dd
+msgid ""
+"``La x Fe y O 7 with x = 1,2,3, and 4 and y = 2,3,4`` the variables "
+"should be ``x`` and ``y`` as ``La x Fe y O 7 with <variable>x</variable> "
+"= 1,2,3, and 4 and <variable>y</variable> = 2,3,4``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:135 864ae9d5c421461e86fd1745a8e80f89
+msgid "Values"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:137 aa77bcaa394944b580052012662632d9
+msgid "Identify the values expressed in the stoichiometric doping."
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:139 f1cb55e456fb4eb898a15edc17b03e9a
+msgid "**Tag**: ``<value>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:143 270c4bc9714a432d914cab78ea469799
+msgid ""
+"``La x Fe 1-x O 7 with x < 3``, the value should be ``< 3`` as ``La x Fe "
+"1-x O 7 with x <value>< 3</value>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:144 cc0bc064eb2044d38f3a5e71299e7456
+msgid ""
+"``La x Fe 1-x O 7 with 1 < x < 3``, the value should be ``< 3`` and ``1 "
+"<`` as ``La x Fe 1-x O 7 with <value>1 <</value> x <value>< 3</value>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:145 e1cb38246fb749f5a57bf1af4e2aa7a3
+msgid ""
+"``La x Fe 1-x O 7 with x = 1,2,3, and 4``, the value should be ``1,2,3, "
+"and 4`` as ``La x Fe 1-x O 7 with x = <value>1,2,3, and 4</value>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:150 f80ccb64dce64ea49cb20f056ba83408
+msgid "Substrate"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:152 f1ea94ed9e3f475996686d7bd4d36faa
+msgid "Identify the substrates as defined in the material name"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:154 d1c1643b11e34b8e81320a1a39eb094b
+msgid "**Tag**: ``<substrate>``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:158 322f6135791a486186727e76e48d98b9
+msgid ""
+"``PCCO films onto Pr 2 CuO 4 (PCO)/SrTiO 3``` the substrate should be "
+"annotated as ``PCCO films onto <substrate>Pr 2 CuO 4 (PCO)/SrTiO "
+"3</substrate>```"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:163 aba16ce8bdd34351ac7fa9bd849f8304
+msgid "Fabrication"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:165 a495b5173beb4190819433659de651c4
+msgid ""
+"Represent all the various information that are not belonging to any of "
+"the previous tags"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:169 3ec0f50624f545c6af9c0da34b52d012
+msgid "``HfNCl containing cointercalated tetrahydrofuran solvent (THF)``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:170 c2b495348810469998c3d28dcce81758
+msgid "``intercalated``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:171 319340e905744670b1502a330faa819a
+msgid "``synthesized by MBE method``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:172 b784789d7a8b41b089e605b6236cc71d
+msgid "``electron-doped``"
+msgstr ""
+
+#: ../../guidelines-material-parser.rst:173 eec52841ae4f44f180610bf03a51a584
+msgid "``hole-doped``"
+msgstr ""
+

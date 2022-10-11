@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Eu 1−x K x Fe 2 As 2</formula> with <variable>x</variable>= <value>0, 0.35, 0.45 and 0.5</value></material>
+	<material><shape>single crystalline</shape> <formula>EuFe 2 As 2</formula></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><formula>AFe 2 As 2</formula> (<variable>A</variable>: <value>Ba, Sr, Eu or Ca</value>)</material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape> and <formula>Eu 0.5 K 0.5 Fe 2 As 2</formula> <shape>polycrystals</shape></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>Eu 0.5 K 0.5 Fe 2 As 2</formula></material>
+	<material><formula>Eu 0.5 K 0.5 Fe 2 As 2</formula></material>
+	<material><formula>Eu 0.5 K 0.5 Fe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>Eu 1−x K x Fe 2 As 2</formula></material>
+	<material><variable>x</variable>= <value>0.35, 0.45 and 0.5</value></material>
+	<material><variable>x</variable>= <value>0.5</value></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material>of <shape>polycrystalline</shape> samples of <formula>Eu 1−x K x Fe 2 As 2</formula></material>
+	<material><variable>x</variable>= <value>0.0, 0.45 and 0.5</value></material>
+	<material>electrical resistivity</material>
+	<material><formula>Eu 1−x K x Fe 2 As 2</formula> samples with <variable>x</variable> = <value>0.35, 0.45 and 0.5</value></material>
+	<material><variable>x</variable> = <value>0.45</value></material>
+	<material><variable>x</variable> = <value>0.35 and 0.5</value></material>
+	<material><formula>Eu 0.55 K 0.45 Fe 2 As 2</formula></material>
+	<material><formula>Eu 0.5 K 0.5 Fe 2 As 2</formula></material>
+	<material><variable>x</variable>= <value>0, 0.45 and 0.5</value></material>
+	<material><variable>x</variable>= <value>0.45 and 0.5</value></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>Eu 0.55 K 0.45 Fe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>FeAs</formula></material>
+</materials>

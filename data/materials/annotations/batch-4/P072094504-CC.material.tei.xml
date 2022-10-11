@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>MgB 2</formula></material>
+	<material><shape>polycrystalline</shape> <formula>MgB2</formula></material>
+	<material><formula>MgB2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula> (<name>Y124</name>)</material>
+	<material><shape>polycrystalline</shape> <formula>MgB 2</formula></material>
+	<material><name>Y124</name></material>
+	<material><formula>MgB 2</formula> <shape>powder</shape></material>
+	<material><name>lead</name></material>
+	<material><formula>MgB2</formula></material>
+	<material><name>lead</name></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>Y124</name></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+</materials>

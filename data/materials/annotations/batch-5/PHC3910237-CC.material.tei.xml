@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 Cu 5 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> with <variable>x</variable> = <value>0.00, 0.01, 0.03, 0.05 and 0.10</value></material>
+	<material><name>La-2125</name></material>
+	<material><formula>La 1.5 R 0.5 Ca 1 Ba 2 Cu 5 O z</formula> with <variable>R</variable> = <value>rare earth</value></material>
+	<material><name>La-2125</name></material>
+	<material><name>La-2125</name></material>
+	<material><name>La-3137</name></material>
+	<material><name>La-2125</name></material>
+	<material><name>La-3137</name></material>
+	<material><formula>La 2 Ba 2 Cu 4 O z</formula></material>
+	<material><formula>La 3 Ba 3 Cu 6 O z</formula></material>
+	<material><formula>RBa 2 Cu 3 O z</formula> (<variable>R</variable>=<value>Y or rare earth ion</value>, <name>R-123</name>)</material>
+	<material><name>R-123</name></material>
+	<material><name>R-123</name></material>
+	<material><formula>La 2-x R x Ca y Ba 2 Cu 4+y O z</formula></material>
+	<material>substitute elements such as <value>Fe, Co, Ni, Hf, Mo</value> etc. for <formula>Cu in La 1.5 R 0.5 Ca 1 Ba 2 Cu 5 O z</formula> (<name>LRCBCuMO</name>)</material>
+	<material><doping>Mo-substituted</doping> samples</material>
+	<material><name>LNCBCuMO</name></material>
+	<material><variable>R</variable> = <value>Nd</value> in <name>LRCBCuMO</name></material>
+	<material><name>LNCBCuMO</name></material>
+	<material><formula>YBa 2 Cu 3 O z</formula></material>
+	<material><formula>GdBa 2 Cu 3 O z</formula></material>
+	<material><name>LNCBCuMO</name></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> series (<value>0 ≤</value> <variable>x</variable> <value>≤ 0.1</value>)</material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><formula>Nd 2 O 3</formula></material>
+	<material><formula>CaCO 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>MoO 3</formula></material>
+	<material><doping>Mo</doping>-doped <formula>YBa 2 Cu 3 O z</formula></material>
+	<material><formula>GdBa 2 Cu 3 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><doping>Mo</doping> doped <name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><variable>x</variable> = <value>0.0 to 0.03</value></material>
+	<material><variable>x</variable> = <value>0.05 -0.10</value></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><formula>La 0.3 Nd 0.3 Ca 0.4 )(Ba 1.2 La 0.6 Ca 0.2 )(Cu 1-x Mo x ) 3 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><doping>Mo</doping>-doped <name>Y-123</name></material>
+	<material><name>Gd-123</name></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><doping>10 % Mo</doping> substitution for <formula>Cu</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><variable>x</variable> = <value>0.00, 0.01, 0.03 and 0.05</value></material>
+	<material><name>LNCBCuMO</name></material>
+	<material><variable>z</variable> <value>decreases from 11.583 to 11.119</value></material>
+	<material><value>0.00</value></material>
+	<material><value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.00 to 0.10</value></material>
+	<material><name>LNCBCuMO</name></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> samples with <variable>x</variable> = <value>0.00, 0.01, 0.03 and 0.05</value></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 Cu 5 O z</formula> (<variable>x</variable> = <value>0.00</value>)</material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><doping>Mo</doping> doped <formula>YBa 2 (Cu 1-x Mo x ) 3 O z</formula></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> for <variable>x</variable> = <value>0.00, 0.01, 0.03 and 0.05</value></material>
+	<material><doping>Mo</doping>-doped <name>Y-123</name></material>
+	<material><variable>x</variable> = <value>0.01 and 0.03</value></material>
+	<material><doping>Mo</doping>-doped <name>Y-123</name></material>
+	<material><name>LNCBCuMO</name></material>
+	<material><variable>x</variable> = <value>0.01 and 0.03</value></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><formula>Mo in La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> type mixed oxide</material>
+	<material><doping>Mo</doping>- doped <name>LNCBCuMO</name></material>
+	<material><formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+	<material><doping>pure</doping> <formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula> (<variable>x</variable> = <value>0.00</value>)</material>
+	<material><doping>Mo-doped</doping> <formula>La 1.5 Nd 0.5 Ca 1 Ba 2 (Cu 1-x Mo x ) 5 O z</formula></material>
+</materials>

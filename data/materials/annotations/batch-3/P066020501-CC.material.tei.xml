@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa2(Cu1−yCoy)3O 7+δ</formula> (<variable>y</variable>=<value>0.013</value></material>
+	<material><doping>superoxygenated</doping> <formula>La 2 CuO 4+δ</formula></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><doping>underdoped regime</doping> of <formula>YBa 2 Cu 3 O 6+x</formula> (<variable>x</variable>=<value>0.5-0.6</value>)</material>
+	<material><doping>fully oxydised</doping> superconducting <formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><variable>y</variable> ≃ <value>0.013</value></material>
+    <material><shape>single crystal</shape> (1.4 cm 3 ) of <doping>fully oxy- genated</doping> <formula>YBa 2 (Cu 1−y Co y ) 3 O 7+δ</formula></material>
+	<material><variable>y</variable>=<value>0.013</value></material>
+	<material><formula>YBa 2 Cu 3 O 6</formula></material>
+	<material><doping>non-superconducting</doping> <formula>YBa 2 (Cu 1−y Co y ) 3 O 7+δ</formula></material>
+	<material><formula>YBa 2 (Cu 0.94 Co 0.06 ) 3 O 7+δ</formula></material>
+	<material><formula>YBa 2 (Cu 1−y (Co, Fe) y ) 3 O 7+δ</formula></material>
+	<material><formula>YBa 2 (Cu 1−y Co y ) 3 O 7+δ</formula></material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 3 O 6+x</formula> (<variable>x</variable> ∼ <value>0.5 -0.6</value>)</material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 3 O 6.6</formula></material>
+    <material><doping>cobalt-free optimally doped</doping> <formula>YBa 2 Cu 3 O 7−δ</formula></material>
+    <material><doping>Co-free</doping> compound <formula>YBa 2 Cu 3 O 6.97</formula></material>
+    <material><doping>Co-free</doping> system</material>
+    <material><doping>Co-free</doping> compound</material>
+	<material><formula>YBa 2 (Cu 1−y Co y ) 3 O 7+δ</formula> (<variable>y</variable>=<value>0.013</value></material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 3 O 6.6</formula></material>
+</materials>

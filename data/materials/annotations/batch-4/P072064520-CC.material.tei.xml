@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La2C3</formula></material>
+	<material><formula>La2C3</formula></material>
+	<material><formula>LaC2</formula></material>
+    <material><formula>RE 2 C 3</formula> , <variable>RE</variable> being the nonmagnetic rare earth metals <value>Y and La</value></material>
+	<material>binary <formula>Y 2 C 3</formula></material>
+	<material><formula>RE 2 C 3</formula></material>
+	<material><formula>Y 2 C 3</formula></material>
+	<material><formula>Y 2 C 3</formula></material>
+	<material><formula>La2C3</formula></material>
+	<material><formula>Y 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3−x</formula></material>
+	<material><formula>La 2 C 3</formula>−<variable>x</variable> (<value>0 &lt;</value> <variable>x</variable> <value>&lt; 0.33</value>)</material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> = <value>0.33</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> = <value>0.33</value></material>
+	<material><formula>La2C3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><shape>polycrystalline</shape> sample of <formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<!-- <material>tetragonal <formula>LaC 2</formula> (<variable>a</variable>=<value>3.9323(6)Å</value>, <variable>c</variable>=<value>6.574(1)Å</value>)</material> -->
+	<material><formula>La2C3</formula></material>
+    <material>tetrag- onal <formula>LaC2</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material>tetragonal <formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material>tetragonal <formula>LaC 2</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>Y 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material>cubic <formula>La2C3</formula></material>
+	<material>tetragonal <formula>LaC2</formula></material>
+	<material><formula>La2C3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>Y 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La</formula> metal</material>
+<!--	<material>carbon in the diamond modification</material>-->
+	<material><formula>La</formula> metal</material>
+	<material><name>diamond</name></material>
+	<material><formula>La</formula> metal</material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><variable>z</variable>=<value>0.4026</value></material>
+<!--    <material>cI16 phase of <formula>Li</formula></material>-->
+    <material><formula>La 2 C 3</formula></material>
+    <material><formula>Y 2 C 3</formula></material>
+    <material><formula>Y 2 C 3</formula></material>
+    <material><formula>La 2 C 3</formula></material>
+<!--    <material><shape>tetragonal CaC2-type</shape> <shape>crystal</shape> structure of <formula>LaC2</formula></material>-->
+    <material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>LaC 2</formula></material>
+	<material><formula>CaC 2</formula></material>
+	<material>tetragonal <formula>LaC2</formula></material>
+	<material>tetragonal <formula>LaC 2</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+	<material><formula>La 2 C 3</formula></material>
+</materials>

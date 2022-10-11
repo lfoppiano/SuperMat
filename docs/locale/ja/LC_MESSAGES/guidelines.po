@@ -1,0 +1,1994 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) CC-BY
+# This file is distributed under the same license as the SuperMat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperMat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../guidelines.rst:6 393ac1eff31f4687886f2bf22a7bf638
+msgid "Guidelines"
+msgstr ""
+
+#: ../../guidelines.rst:8 088dfe10acc2491e87965ce40c20922b
+msgid ""
+"This section provides the guidelines to be followed to annotate. First we"
+" illustrate the general principles, then each element of the tag-set is "
+"discussed separately, with examples and references."
+msgstr ""
+
+#: ../../guidelines.rst:12 1916513a2c624c7c8de5cd566ca8ca85
+msgid "Notations"
+msgstr ""
+
+#: ../../guidelines.rst:28 74a5ef224bf5426eba2acb29ff65faee
+msgid "In this guidelines are used two notations:"
+msgstr ""
+
+#: ../../guidelines.rst:23 96c737c8f73e482ab7beed36491e063c
+msgid ""
+"XML notation, which is based on XML where each class is represented by a "
+"``<rs>`` tag with ``@type`` attribute describing the class or label (e.g."
+" ``something important`` of type ``<rs type=\"label1\">`` and ``important"
+" information`` of type ``<rs type=\"label2\">`` are the label that "
+"represent the chunk of text within the tag. We use the attributes "
+"`@xml:id` and `@corresp` to link two entities (notice that the value of "
+"the ``@corresp`` attribute require to start with `#`)."
+msgstr ""
+
+#: ../../guidelines.rst:25 85e4ce56294247c1a1a4d496e8b8400f
+msgid ""
+"Brat notation, which is based on the `brat annotation tool "
+"<https://brat.nlplab.org/>`_ and provide a easier visual interface"
+msgstr ""
+
+#: ../../guidelines.rst b65d6a0701274c95be71f68bc6c2d635
+msgid "Example notation brat"
+msgstr ""
+
+#: ../../guidelines.rst:31 962ad75d341d46dcaf260e38700fce91
+msgid "General principles"
+msgstr ""
+
+#: ../../guidelines.rst:32 c95fab68f05a46b3a633df03e6a447e9
+msgid "The general principles apply to every annotation, as a general strategy:"
+msgstr ""
+
+#: ../../guidelines.rst:34 525247c61a3f47fb9868e53bd4803628
+msgid ""
+"In case an annotator discover cases not covered by the guidelines, open "
+"an issue to the `GitLab project page`_ (internal link)."
+msgstr ""
+
+#: ../../guidelines.rst f59c31971cbf4d7db06e224618254346
+msgid "GitLab issues recording page screenshot"
+msgstr ""
+
+#: ../../guidelines.rst:39 93c9e66d28b14b03964065d30e093dba
+msgid ""
+"Annotations related to complex description should be kept simple, and "
+"systematic. If in the same sentence the same entity refers to different "
+"labels, it should be carefully revised. See an example at `#1 "
+"<https://gitlab.nims.go.jp/a017873/superconductors-"
+"documentation/issues/1>`_"
+msgstr ""
+
+#: ../../guidelines.rst:46 2cc4e1589522457a94ebd0cf56885f6c
+msgid ""
+"Indirect references should not be annotated, e.g. the token ``it`` is "
+"only a reference to a superconductor material and should be ignored:"
+msgstr ""
+
+#: ../../guidelines.rst:49 1e0531f4c6ea4afca769100213914f19
+msgid "Annotation boundaries"
+msgstr ""
+
+#: ../../guidelines.rst:51 a4816e2fb15f4825a0cc2ffffaf165c8
+msgid "The annotation boundaries should follow these guidelines:"
+msgstr ""
+
+#: ../../guidelines.rst:53 a564d126414c46f0bdbab98a965c0a5c
+msgid "articles should not be included in the annotation,"
+msgstr ""
+
+#: ../../guidelines.rst:55 21320898abbd4a419faa8693530f7bd9
+msgid ""
+"``superconductor`` / ``superconductors`` should not be included in the "
+"``<material>`` annotation. For example: ``LaFeO2 superconductor`` should "
+"be annotated as ``<material>LaFeO2</rs> superconductor``"
+msgstr ""
+
+#: ../../guidelines.rst:57 af128fa26ae34a19b3fb7b47f2129a81
+msgid ""
+"parenthesis and other marks that are part of the name or formula, must be"
+" included and/or corrected when necessary:"
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:62
+#: e1081030ad6b48248f0750cf4b190155 e28c9da76c27483585412d4a71f6ae68
+msgid "Example of missing parenthesis in annotation"
+msgstr ""
+
+#: ../../guidelines.rst:65 41cb04eba1ac432d9a05cd543a84c4f6
+msgid "Layout"
+msgstr ""
+
+#: ../../guidelines.rst:67 4044ad7c9e6846daa689664cfc49b539
+msgid ""
+"Only text coming from the body of the document should be annotated: "
+"title, abstract, body. For what concern figures, tables and equation, we "
+"are interested only in captions. Sometimes, unfortunately, additional "
+"elements are structured into the text body."
+msgstr ""
+
+#: ../../guidelines.rst:70 1ff39e2d759d40af977aa553c5aab7ad
+msgid ""
+"Text coming from table body and other part of the document not mentioned "
+"should not be annotated. For example given the following table:"
+msgstr ""
+
+#: ../../guidelines.rst:75 86392be0baab42d09946541182d1ed8a
+#: ec6888debab147acb400bd3c81ad6d43
+msgid "Example of original table"
+msgstr ""
+
+#: ../../guidelines.rst:78 3bfcbc79e03d491d98e673d2ad845806
+msgid "only the material mentioned in the caption should be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:83 c53693b1c81a4091b15f955fa52d7f0c
+#: ecaba427602e43c3b1bebba6f35b5483
+msgid "Example of annotation of a table caption"
+msgstr ""
+
+#: ../../guidelines.rst:89 817d9c09d51a486d922a8bd255076530
+msgid "Values representation"
+msgstr ""
+
+#: ../../guidelines.rst:91 e9bc698ef2664f4cba5f1f31cd35ad66
+msgid ""
+"Values are used to represent doping ratios, variable/values information, "
+"pressures, temperatures, etc. They are presented in several forms:"
+msgstr ""
+
+#: ../../guidelines.rst:96 59d54ad7954945fda22459eb61efc229
+msgid "Atomic values, e.g."
+msgstr ""
+
+#: ../../guidelines.rst:95 5fb75ce513724fe2aeadf78868face69
+msgid "``x = 0.5`` (with variable name ``x``),"
+msgstr ""
+
+#: ../../guidelines.rst:96 216451a19e7747f8abd1abcd0c749fca
+msgid "``3 K`` (without variable name)"
+msgstr ""
+
+#: ../../guidelines.rst:102 50e55bb7dd9c47a894a266df2f13a610
+msgid "Intervals or ranges, e.g."
+msgstr ""
+
+#: ../../guidelines.rst:99 5bc0af959ee743efa30697cc2500bba0
+msgid "``0.5 < x < 0.9``,"
+msgstr ""
+
+#: ../../guidelines.rst:100 f827f60a85c84944b759edc334cfaedc
+msgid "``from 20 to 25``,"
+msgstr ""
+
+#: ../../guidelines.rst:101 2a5bfe8c8cfd4a0cb4e606818986cd5b
+msgid "``up to 30``,"
+msgstr ""
+
+#: ../../guidelines.rst:102 88e7640a61a0455a8c586bb99f5bae0b
+msgid "``up to 50``"
+msgstr ""
+
+#: ../../guidelines.rst:104 63a1751ab3504a4696685cd0c7a0f76a
+msgid "Lists, e.g. ``x = 0.01, 0.2, 0.3 and 0.4``"
+msgstr ""
+
+#: ../../guidelines.rst:106 128a808bb4b04326a5578cf56c185df2
+msgid ""
+"The annotations should be added according to the following rules (called "
+"**Multiple values, ranges or intervals annotations**) (see `#1 "
+"<https://github.com/lfoppiano/grobid-superconductors-data/issues/1>`_):"
+msgstr ""
+
+#: ../../guidelines.rst:110 b60347121e724b0f8e17a8301b411e3d
+msgid ""
+"Simple values (including preceeding symbols, like circa `~` for example) "
+"are annotated including the variable name, when present, e.g."
+msgstr ""
+
+#: ../../guidelines.rst:109 bb1d0cd93e294685aeb5b15105563a3b
+msgid "we found superconductivity for ``<rs type=\"material\">x = 0.5</rs>``."
+msgstr ""
+
+#: ../../guidelines.rst:110 4681e07aeba04caca767828baaa36af8
+msgid "the temperature is ``<rs type=\"tcValue\">~60 K</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:117 2c0dd072299e41b1827a2734bcafa873
+msgid ""
+"Intervals and ranges should be annotated entirely, including **symbols "
+"and words representing greater than, lower than, up to**, following there"
+" are some examples:"
+msgstr ""
+
+#: ../../guidelines.rst:113 03ed4ede18db499aaa0f96301a7945e9
+msgid "``<rs type=\"material\">0.5 < x < 0.9</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:114 d7c1e240b1e144d5a80e91d6e503d510
+msgid "``<rs type=\"material\">up to 0.9%</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:115 63a9a7d90e9b4aa9a80031a6be6d1023
+msgid "``<rs type=\"tcValue\">from 3 to 4 K</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:116 2d48b8e643fc47e4af2c07c3f0257528
+msgid "``<pressure>up to 3 GPa</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:117 dfd0a66abeb84205b5e49233174e8527
+msgid ""
+"``<rs type=\"material\">x varying from 0.5 to 0.9</rs>`` (In this case "
+"`varying` is not important, but because x is there, annotators should try"
+" to catch the variable name)"
+msgstr ""
+
+#: ../../guidelines.rst:122 e685db0ee3074cb299e5e3c0ad3e0b78
+msgid "Lists, e.g."
+msgstr ""
+
+#: ../../guidelines.rst:120 61688c3619d747819bbf3c207165a0bf
+msgid "``<rs type=\"material\">x =0.40 and 0.44</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:121 0c06ac4200a341f691fd910714dee1b3
+msgid "``<rs type=\"material\">x = 0.1, 0.2, 0.3 and 0.4</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:124 661a12e4f7ab4d428cd628154124d866
+msgid ""
+"The idea behind is based on the fact that even complex value can be "
+"expanded and resolved on a later step. For example ``x = 0.1, 0.2`` would"
+" be resolved to two materials ``x = 0.1`` and ``x = 0.2``. In general all"
+" interval are important especially for pressures, and temperatures."
+msgstr ""
+
+#: ../../guidelines.rst:127 4aef2fc0098f414284b6383bba40c4bc
+msgid "Examples"
+msgstr ""
+
+#: ../../guidelines.rst:133 9bb22fc446d84f24b54b3a5eb8a77ff2
+msgid "Example 1: ``x = 0.11 and 0.05`` are annotated as a single annotation."
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:133
+#: 70322f8ad3c24983964ed03f6f9db242 b54123a455be40db995ff7c50fd9c3d0
+msgid "Example multiple values annotated as a single annotations"
+msgstr ""
+
+#: ../../guidelines.rst:144 5576604863674aff933e68bae182ad9b
+msgid ""
+"Example 2: here the whole expression ``up to 9.4 GPa`` should be "
+"annotated (second Figure)"
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:139
+#: 3409c1aa62964a30984821b42806517c f6af77ee6d544a3983b8b2ffddb33b56
+msgid "Example interval value wrongly annotated"
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:144
+#: 7e642b81af2a441c8516abce2f42bffc a7d4e1f4b0424999bd74b450ad5ccc76
+#: e2c79d8b27b1460a8ffecb7f3a7fa5f5
+msgid "Example interval value correctly annotated"
+msgstr ""
+
+#: ../../guidelines.rst:151 a50aa79c42a545afb401cc72e721d1fc
+msgid "Example 3: the whole expression ``0.8-1.6 GPa`` is annotated:"
+msgstr ""
+
+#: ../../guidelines.rst:151 c62f51169ff94372b156be0ca98c44a5
+msgid "Example value correctly annotated as interval"
+msgstr ""
+
+#: ../../guidelines.rst:154 77cb304216b84531acb16ab0c0937b28
+msgid "Tag set"
+msgstr ""
+
+#: ../../guidelines.rst:156 b5f097a055354e988bd918c614f12482
+msgid "The component to be annotated are:"
+msgstr ""
+
+#: ../../guidelines.rst:158 9a6a2bd7a2324e6cba68c3f7c23e8696
+msgid ":ref:`material_class`"
+msgstr ""
+
+#: ../../guidelines.rst:160 5bd18bb7594f4e8bb6605ad848fd0246
+msgid ":ref:`material_name`"
+msgstr ""
+
+#: ../../guidelines.rst:162 52051de17ef04157a9ef4d48dce540ba
+msgid ":ref:`tc_expressions`"
+msgstr ""
+
+#: ../../guidelines.rst:164 616f71e5d1714c89bbaa77f66b0d221c
+msgid ":ref:`tcValue`"
+msgstr ""
+
+#: ../../guidelines.rst:166 0117cf56f43f4c159885be0c971f3567
+msgid ":ref:`condition_expressions`"
+msgstr ""
+
+#: ../../guidelines.rst:168 7635cdd79e474658b26cd1065ff38296
+msgid ":ref:`me_method`"
+msgstr ""
+
+#: ../../guidelines.rst:170 22c650fe4e01431298f930341be779d9
+msgid ""
+"In each section we provide a ``Motivation`` section which describes why "
+"such data is important, and ``Utilisation``, describing how we plan to "
+"use the data."
+msgstr ""
+
+#: ../../guidelines.rst:175 7bd6b8cfdbd3432e9940c58b488df695
+msgid "Class of materials"
+msgstr ""
+
+#: ../../guidelines.rst:177 9677a9c232bf49349fc600bcecd151c4
+msgid ""
+"A set of materials having similar characteristics or common strategic "
+"compounds that define their nature are represented by classes."
+msgstr ""
+
+#: ../../guidelines.rst:179 99bd474360f8470d9fc7e29a60067cda
+msgid "**Tag**: ``<rs type=\"class\">``"
+msgstr ""
+
+#: ../../guidelines.rst:181 7d72aaeb46af495989797ce36fbbf3f3
+msgid ""
+"**Motivation**: The material's class in the superconductors-related "
+"domain does not follow a strict definition. Some of the superconductors "
+"classes can be inferred from the composition of the materials such as "
+"cuprates, iron-based. Second-level classification is more arbitrary that "
+"domain experts learn with experience."
+msgstr ""
+
+#: ../../guidelines.rst:183 1931443c4dcc420281caf182731ef6b4
+msgid ""
+"The class information at document level can be used for clustering, "
+"information retrieval or recommendation."
+msgstr ""
+
+#: ../../guidelines.rst:186 ../../guidelines.rst:279 ../../guidelines.rst:531
+#: ../../guidelines.rst:660 ../../guidelines.rst:788
+#: 178ffba9729e4fda87f78a8a7ce05062 1a804ccc2c86402e93e20198d100b02c
+#: 278cbaa002604fd6b89e7bacd01feebe 47959cf5630842a494b7c1abbbe1770e
+#: d25c96e59cc94d83bd84242ee7dd1e89
+msgid "Basic rules"
+msgstr ""
+
+#: ../../guidelines.rst:188 311e0a840db448d2871ed3620b2a9da2
+msgid ""
+"In general, a class is an expression that represent more than one "
+"materials, given that such materials cannot be identified from the "
+"expression itself. For example ``R-123 (with R = Rare earth materials)`` "
+"is a class because is not possible to indistinguishably extract a "
+"deterministic list of materials (the rare earth materials might change in"
+" time). On the other hand ``X O (with X = Cu, Fr)`` represent the "
+"materials ``CuO`` and ``FeO`` which is a deterministic list of specific "
+"materials, therefore it's to be annotated as ``<rs type=\"material\">``."
+msgstr ""
+
+#: ../../guidelines.rst:191 5194d3054439402eb999d0c06a8653a4
+msgid "Materials can be part of more than one class."
+msgstr ""
+
+#: ../../guidelines.rst:193 b01a00630383486fb3b165de3193649e
+msgid ""
+"Class and Materials can overlap (see examples :ref:`below <example-class-"
+"material-overlapping>`)"
+msgstr ""
+
+#: ../../guidelines.rst:199 042de5cbd6f4432091b845f99abb9e06
+msgid "Expressions that identify a class:"
+msgstr ""
+
+#: ../../guidelines.rst:196 19d5718ece754ea0bba94c6ac15a1a1c
+msgid ""
+"code or definition: ``ba1111 serie``, ``11 series FeSe``, ``HDoped Ba111 "
+"serie``"
+msgstr ""
+
+#: ../../guidelines.rst:197 db64b729b983486ba8cb28071ec8fb26
+msgid ""
+"name: ``cuprates``, ``iron-based``, ``iron-pnictide``, ``pnictide`` alone"
+" (usually referring to ``iron-pnictide``) etc..."
+msgstr ""
+
+#: ../../guidelines.rst:198 39bb7dc19e074c408a76b7ff89acd06c
+msgid ""
+"chunks of text with the suffix ``-based``  are generally classes (e.g. "
+"``iron-based``, ``BiS2-based``, ...). See `#9 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34815>`_."
+msgstr ""
+
+#: ../../guidelines.rst:199 27cacdb232184414bfb83e989436a601
+msgid ""
+"(same as before) generic notation that represent more than one material, "
+"such as ``R-123`` with R representing the rare earth materials without "
+"any reference to any material. See `#18 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/18>`_."
+msgstr ""
+
+#: ../../guidelines.rst:201 2afcebc05a3949758ad67eee4959d32b
+msgid ""
+"Classes referred to the physical mechanism of a superconducting material,"
+" such as ``nematic``, ``BCS``, ``conventional``, ``unconventional``, "
+"``nematic``, ``topological``, etc. should not be annotated. Classes of "
+"superconductors, such as ``type-I`` or ``type-II`` should not be "
+"annotated as well. See `#22 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/22>`_."
+msgstr ""
+
+#: ../../guidelines.rst:205 19a3f11155124ca6a19d1c36f9102200
+msgid ""
+"Classes should not be linked, even though the critical temperature is "
+"referred to the class, because the information is too vague to be used."
+msgstr ""
+
+#: ../../guidelines.rst:207 63bb347fd84549b383ba5027b5a90353
+msgid ""
+"See `discussion in #9 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/9#note_34834>`_ and `#8 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/8>`_"
+msgstr ""
+
+#: ../../guidelines.rst:210 42d3c05e636d459bb8ff74e500889455
+msgid "Largest match"
+msgstr ""
+
+#: ../../guidelines.rst:212 63606c2f824d4245ab576be3cd484e4d
+msgid ""
+"In the occurrence that several terms, which are also class by themselves,"
+" are close together, then the **largest match should be annotated**. For "
+"example, in the sentence ``We report transverse field and zero field muon"
+" spin rotation studies of the superconducting rhenium oxide pyrochlore, "
+"Cd2Re2O7.``, the largest match ``rhenium oxide pyrochlore`` should be "
+"annotated. See `#33 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/33>`_."
+msgstr ""
+
+#: ../../guidelines.rst:214 5d917a49d8e14b039fed275778143723
+msgid "See extension of the rule, in the next section."
+msgstr ""
+
+#: ../../guidelines.rst:217 2e7b3b14f2fb40edafbb71cfb3d6adbc
+msgid "Modifiers/adjectives preceding or following the class name"
+msgstr ""
+
+#: ../../guidelines.rst:219 8b8aabcbeb7e4bcf8a3ac8977d5e32c1
+msgid ""
+"Modifiers of the class name **should not be annotated**. See `decision in"
+" #2 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/2>`_."
+msgstr ""
+
+#: ../../guidelines.rst:221 4041a67a911041749bef97ad71aea320
+msgid ""
+"If the modifier is a compound (e.g. cuprate, etc..), a structure (e.g.  "
+"pyrochlore) then should be included. Basically any word giving an idea of"
+" the composition."
+msgstr ""
+
+#: ../../guidelines.rst:222 85fababaa61248efb0c95a3b9dc50362
+msgid ""
+"If the modifier is not a compound (e.g. metallic, magnetic, doped, ...) "
+"then should be ignored"
+msgstr ""
+
+#: ../../guidelines.rst:228 027ade7f122a49b6882b363dd1dd27a6
+#: f6a91c0e2e8442e094a81b8025dbf8f9
+msgid "Example of irrelevant modifier to be ignored"
+msgstr ""
+
+#: ../../guidelines.rst:233 ../../guidelines.rst:309
+#: 195d4ee5ac824e98ace55ad72c36a8fe 4d303cd2e46f4d209f6728d2e20ed6bc
+msgid "Examples:"
+msgstr ""
+
+#: ../../guidelines.rst:231 0639c4c0941c4c2b8f68a47fcd904660
+msgid ""
+"``high-tc`` in ``high-tc iron-pnictide`` should not be included in the "
+"annotation because it does not add more information (see `discussion in "
+"#2 <https://gitlab.nims.go.jp/a017873/superconductors-"
+"documentation/issues/2>`_)."
+msgstr ""
+
+#: ../../guidelines.rst:233 0a8a1cdff6d943c9b4a619d3bfc9a968
+msgid ""
+"in the expression ``metallic pyrochlore oxide``, the modifier "
+"``metallic`` should be ignored, resulting in the following annotation "
+"``metallic <rs type=\"class\">pyrochlore oxide</rs>``. See `comment in #9"
+" discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34804>`_)"
+msgstr ""
+
+#: ../../guidelines.rst:238 2707c3dd8da84785a7ca767b7e1c7151
+msgid "Overlap between Class and Material"
+msgstr ""
+
+#: ../../guidelines.rst:240 8934a6c74e1c464ea9515ebdc39246c6
+msgid "There are several cases where class and material are heavily overlapping."
+msgstr ""
+
+#: ../../guidelines.rst:243 780ef6aac2b74d8ba0d4a75f10e38f73
+msgid "For example in the sentence"
+msgstr ""
+
+#: ../../guidelines.rst:243 f7698935f8ef44ab90ea14dd95bd86d0
+msgid "``Superconductivity in a pyrochlore oxide is [...]``,"
+msgstr ""
+
+#: ../../guidelines.rst:245 5de58f474f694d81a6533750b9bcdd7c
+msgid "*pyrochlore oxide*, in this case is the **material** name."
+msgstr ""
+
+#: ../../guidelines.rst:248 803ad15e4a3b44b1b58904a074741107
+msgid "In this other example"
+msgstr ""
+
+#: ../../guidelines.rst:248 6d652c99e1d14a19aa5a798b3cbc39b3
+msgid ""
+"``Until now, however, no superconductivity has been reported for "
+"frustrated pyrochlore oxides.``"
+msgstr ""
+
+#: ../../guidelines.rst:250 d3d6565d97824ba4beb31fd8e7b9710b
+msgid "*pyrochlore oxides* refers at it as a class."
+msgstr ""
+
+#: ../../guidelines.rst:252 aef004cc7d68406fb36e1bdda1bfa618
+msgid ""
+"When in doubt, as a rule-of-thumb, the **singular name usually refers to "
+"the material**, while the **plural name to the class**."
+msgstr ""
+
+#: ../../guidelines.rst:254 acd93dbf009c48bf8b20bbff0e5a7ae4
+msgid ""
+"See additional discussions in `#46 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/46>`_, `#23 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/23>`_"
+msgstr ""
+
+#: ../../guidelines.rst:257 4dee0882cf8d4235a78bd16cf22d6ba8
+msgid "Additional information"
+msgstr ""
+
+#: ../../guidelines.rst:259 f22f95101e4d4ef298bb615f054f532d
+msgid ""
+"In this section there is a collection of discussions and information that"
+" are not belonging under any of the previous categories:"
+msgstr ""
+
+#: ../../guidelines.rst:261 4e80006e93f547079fbb490d73be3a6a
+msgid ""
+"Classes can also be identified by formulas. See discussion in `#9 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/20>`_."
+msgstr ""
+
+#: ../../guidelines.rst:265 a016720687994d75acb4b9b30050835b
+msgid ""
+"The expression ``HTS`` and it's expansions ``High-Temperature "
+"superconductors`` should not be annotated (see above), there are certain "
+"cases where HTS is used in combination of the class name."
+msgstr ""
+
+#: ../../guidelines.rst:264 bd96f8d1170743c4927a7ee880776924
+msgid ""
+"When the class name is a name or a unique identifier such as ``214``, "
+"``111``, in expressions like ``214-HTS``, ``111-HTS`` then only ``214``, "
+"``111`` should be annotated."
+msgstr ""
+
+#: ../../guidelines.rst:265 cb6b98c581584c5fa3d3b968cf7bf7a0
+msgid ""
+"When the class name is an ambiguous identifier, such as ``Cu`` (overlap "
+"with a material or compound name), then the whole expression should be "
+"ignored."
+msgstr ""
+
+#: ../../guidelines.rst:270 b03bcdd9dc594b76a403015bb18b81d1
+msgid "Material name"
+msgstr ""
+
+#: ../../guidelines.rst:272 ab61eaec092c4b6fbb1a31af22f13d7e
+msgid ""
+"Identifies a name of one or more materials, a sample of a material, a "
+"doped sample."
+msgstr ""
+
+#: ../../guidelines.rst:274 9b1c2652362e4ac096b3a96104edfb7f
+msgid "**Tag**: ``<rs type=\"material\">``"
+msgstr ""
+
+#: ../../guidelines.rst:276 583bf1c9c73b48d39045c43c5c7771b4
+msgid ""
+"**Motivation**: The material name is the most important annotation in "
+"this dataset. It covers materials an sample, expressions with formula, "
+"names, including, when available, information about shape, doping, and "
+"other parameters."
+msgstr ""
+
+#: ../../guidelines.rst:289 63b7ca07d9fd44ee92431813d6b72a0b
+msgid "The material can be expressed as follow:"
+msgstr ""
+
+#: ../../guidelines.rst:282 14b6644abcd2451393c0bbd811ea3979
+msgid "chemical formula with variables not substituted, like ``La(1-x)Fe(x)``,"
+msgstr ""
+
+#: ../../guidelines.rst:283 ab8ad44b853e46d7b158864df5e6d063
+msgid ""
+"chemical formula with substitution variable like ``Zr 5 X 3 (X = Sb, Pb, "
+"Sn, Ge, Si and Al)``"
+msgstr ""
+
+#: ../../guidelines.rst:284 9ed254a6fcdb4bb5aa4e368deabadd73
+msgid "with complete or partial abbreviations like ``(TMTSF) 2 PF 6``,"
+msgstr ""
+
+#: ../../guidelines.rst:285 c544e108e9f042638c889163206714b0
+msgid ""
+"doping rates represented as variables (``x``, ``y`` or other letters) "
+"appearing in the material names. These values can be used to complement "
+"the material variables (e.g. ``LaFexO1-x``)."
+msgstr ""
+
+#: ../../guidelines.rst:286 4b02c33bc60b404a99a3a13fecdf916b
+msgid ""
+"doping rates as percentages, like ``4% Hdoped sample`` or ``14% Cu doped "
+"sample``"
+msgstr ""
+
+#: ../../guidelines.rst:287 509ba382315a4743ba5120f435355875
+msgid ""
+"material chemical form with no variables e.g. ``LaFe03NaCl2`` where the "
+"doping rates are included in the name"
+msgstr ""
+
+#: ../../guidelines.rst:288 0cf8d265d25940079c7a7f7c5b11f733
+msgid ""
+"chemical substitution or replacements, like (A is a random variable, can "
+"be any symbol): ``A = Ni, Cu``, ``A = Ni``, ``Ni substituted`` (which "
+"means ``A = Ni``)"
+msgstr ""
+
+#: ../../guidelines.rst:289 ae1f50ad06504ed8b7f6449b81b6ecd9
+msgid ""
+"chemical substitution with doping ratio, like (A is a random variable, "
+"can be any symbol): ``A = Ni and x = 0.2``"
+msgstr ""
+
+#: ../../guidelines.rst:291 cdcb755b2684493ab42a7a5bc03fc9f8
+msgid ""
+"See :ref:`below <material-out-of-scope>` the explicit list of element to "
+"be ignored and/or not annotated."
+msgstr ""
+
+#: ../../guidelines.rst:296 d769a98284de4d56bf09da5659347176
+msgid "Doping ratios and variables"
+msgstr ""
+
+#: ../../guidelines.rst:298 bd1df25af6134e67a8f95d3acfdc549e
+msgid ""
+"Doping ratio and other variable/values information, that can be used for "
+"substitution in formula should be annotated as described in the section "
+"related to :ref:`values representation <values-representation>`."
+msgstr ""
+
+#: ../../guidelines.rst:300 9ac2ec332f8448f48e1b633cc62c530e
+msgid ""
+"Usually doping ratio that are expressed as \"concentration ratio\" "
+"(usually identified with variable ``p``) are not to be annotated (even in"
+" cases the Tc is being reported). Exception exist for cases where the "
+"concentration ratio is equivalent to a variable name which can be applied"
+" for substitution in a formula."
+msgstr ""
+
+#: ../../guidelines.rst:303 5f899075d31c4a80a471e8b44b2595db
+msgid "Modifiers/adjective preceding or following the material name"
+msgstr ""
+
+#: ../../guidelines.rst:305 b4bbd400153049439d96a8c76df18686
+msgid ""
+"Material modifiers, attached right before or after, should be included in"
+" the material name, if the modifier seems (sometimes it not clear, nor "
+"obvious, it requires some domain knowledge) to be affecting to the "
+"physical property of the material, such as the superconducting critical "
+"temperature, Tc. This rule can be valid even when the modifier can be "
+"also considered a class. These can be considered like the doping ratio, "
+"which coudl be class by themselves but that we consdier materials "
+"modifiers. If a modifier does not contribute and or impact the "
+"superconducting critical temperature, should be ignored."
+msgstr ""
+
+#: ../../guidelines.rst:311 ../../guidelines.rst:328 ../../guidelines.rst:337
+#: b22fa2b5123c416981e5cbba13fcd355 bfe1e2e03236483b8e7e7f21c35fba7c
+#: fbdb68a4418b4d52a622383cd2ef88d8
+msgid "In the sentence"
+msgstr ""
+
+#: ../../guidelines.rst:313 18dd147edb2f40d49ecabec43d22d924
+msgid "``Pure MgB 2 material has several advantages``"
+msgstr ""
+
+#: ../../guidelines.rst:315 28030c11f3bd4843b6d1545da73a5e9a
+msgid ""
+"the annotation should include the modifier ``Pure`` to distinguish the "
+"material from ``doped``, ``overdoped``, etc.. as follow:"
+msgstr ""
+
+#: ../../guidelines.rst:317 7e54db5102294ee1ad1f5d9bd10b3264
+msgid "``<rs type=\"material\">Pure MgB 2</rs> material has several advantages``"
+msgstr ""
+
+#: ../../guidelines.rst:319 6ee6ef4963534048ace1c88b998312c5
+msgid ""
+"See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34820>`_."
+msgstr ""
+
+#: ../../guidelines.rst:322 8694e782c3e44b40bd2da9842c6d3da3
+msgid ""
+"``-An extremely high critical temperature of about 109 K was achieved in "
+"single-unit-cell thick FeSe films deposited on SrTiO 3 [20].``"
+msgstr ""
+
+#: ../../guidelines.rst:324 edfc30c6df514c5b86756653cfdde5df
+msgid ""
+"the annotation should include the modifiers ``single-unit-cell thick`` "
+"and ``films deposited on SrTiO 3`` to give the material certain "
+"characteristics (shape, substrates, etc..) which are potentially varying "
+"the superconducting critical temperature:"
+msgstr ""
+
+#: ../../guidelines.rst:326 be8d9fd171414dbab55f158e1d6935e5
+msgid ""
+"``-An extremely high critical temperature of about 109 K was achieved in "
+"<rs type=\"material\">single-unit-cell thick FeSe films deposited on "
+"SrTiO 3</rs> deposited on SrTiO 3 [20].``"
+msgstr ""
+
+#: ../../guidelines.rst:328 c88f0d2d61254feea6b3c45c366a69ee
+msgid ""
+"See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34833>`_."
+msgstr ""
+
+#: ../../guidelines.rst:331 2fc60a3e93ab44fb86bcc08ea2514830
+msgid ""
+"``Growth and superconducting transition of Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x"
+" ≈0.5) epitaxial thin films``."
+msgstr ""
+
+#: ../../guidelines.rst:333 19f7017b21b2478486effc78c689a13c
+msgid ""
+"the expression ``epitaxial thin films`` should be included because "
+"contains information about the shape of the material:"
+msgstr ""
+
+#: ../../guidelines.rst:335 27213c73116c4c3b98a1e400f19d779c
+msgid ""
+"``Growth and superconducting transition of <rs type=\"material\">Pr 1-x "
+"Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5) epitaxial thin films</rs>``."
+msgstr ""
+
+#: ../../guidelines.rst:337 ef5d3337c9fa41139b63bdbc1cc9b018
+msgid ""
+"See `#13 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/13>`_"
+msgstr ""
+
+#: ../../guidelines.rst:347 eb4d8bdbfbca46d3b042c65685d9c067
+msgid "In the following example"
+msgstr ""
+
+#: ../../guidelines.rst:349 05e443c6ae3e462fa64a329e161eecba
+msgid ""
+"``New results from tunneling spectroscopies on near optimally doped "
+"single crystal of Tl Ba Tl-2201 junctions [...]``"
+msgstr ""
+
+#: ../../guidelines.rst:351 5b154fa12588474cae202e6546154e98
+msgid "should be annotated as follow:"
+msgstr ""
+
+#: ../../guidelines.rst:353 b1e8a25c7df049f0bd3a49d53abbb369
+msgid ""
+"``New results from tunneling spectroscopies on <rs type=\"material\">near"
+" optimally doped single crystal of Tl Ba Tl-2201</rs> junctions [...]``"
+msgstr ""
+
+#: ../../guidelines.rst:355 a86cfc0e37e5471883b5ba8bc8d570be
+msgid ""
+"where the ``near optimally doped single crystal`` is included, as an "
+"important informtion on doping and ``junctions`` is ignored because it's "
+"just an implementation for the measurment, and it does not have impacts "
+"on the superconducting critical temperature."
+msgstr ""
+
+#: ../../guidelines.rst:357 ec12b68d12b34bf5a3070bd889cfeb36
+msgid ""
+"See `#56 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/-/issues/56>`_."
+msgstr ""
+
+#: ../../guidelines.rst:359 fb93e23ba1b24dcc8fe2807c3cb3a4c2
+msgid "Example of modifiers that are classes but should not threated as such:"
+msgstr ""
+
+#: ../../guidelines.rst:361 902f476b7cec4fae9fde3cb61d48dc83
+msgid ""
+"``bilayer-hydrate NaCo1-x yH2O``, ``bilayer-hydrate`` can be a broad "
+"class, but in this case indicate the layering of the hydrogen which has "
+"impract on the Tc."
+msgstr ""
+
+#: ../../guidelines.rst:365 69917c7f7225484a964d38213713e2dc
+msgid ""
+"Material modifiers without formula or name, even though they might be "
+"linkable, should not be annotated. See `#59 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/-/issues/59>`_."
+msgstr ""
+
+#: ../../guidelines.rst:368 16913cfd22a942abab4c503ee455def5
+msgid ""
+"Doping ratio, abbreviation or variable following or preceding a material "
+"formula"
+msgstr ""
+
+#: ../../guidelines.rst:373 8cc3818ec4c74ffca55adb535563b9fa
+msgid ""
+"Doping ratios, abbreviations or variables attached to the material "
+"formula, should be annotated as a single annotation, together with the "
+"material formula, see the uses cases:"
+msgstr ""
+
+#: ../../guidelines.rst:371 49eb09a14f554daa8bcb348bd1cd866b
+msgid ""
+"material names and their composition where the variable can be "
+"substituted and the result is a list of specific materials: ``Zr 5 X 3 (X"
+" = Sb, Pb, Sn, Ge, Si and Al)``, ``A x Bi 2 Se 3 (A = Cu , Sr , Nb )``. "
+"In these cases, in a post-processing task, the variable can be replaced "
+"with different compounds to obtains different materials formulas."
+msgstr ""
+
+#: ../../guidelines.rst:372 cd2e020b41244de9888b6709c46414cc
+msgid ""
+"material name and their doping composition: ``La 2−x Sr x CuO 4 with x = "
+"0.063 -0.125:``, ``Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5)``"
+msgstr ""
+
+#: ../../guidelines.rst:373 02f2d423cf16448383b0490d83eb9e3f
+msgid "material name and their abbreviation: ``La 2−x Sr x CuO 4 (LSCO)``"
+msgstr ""
+
+#: ../../guidelines.rst:375 608d8acd54d84967bed9022df669279d
+msgid ""
+"These annotation (doping ration, abbreviations or variables) are useful "
+"to perform linkage when the they are references in the text using the "
+"information between parenthesis: abbreviation (e.g. LSCO) or the doping "
+"rate (e.g. x = 0.3). As for other elements, the content will be post-"
+"processed and parsed on a following step."
+msgstr ""
+
+#: ../../guidelines.rst:378 f7b9a766e13b41268205ea6e6215ff7f
+msgid "Material formula following the material name"
+msgstr ""
+
+#: ../../guidelines.rst:380 5fed4a2100d34fe18f6e247289b2ad3b
+msgid ""
+"When a material name follow the material formula, only the formula should"
+" be annotated as <material>. The material name should be used, if "
+"applicable, to identify the material class."
+msgstr ""
+
+#: ../../guidelines.rst:389 ../../guidelines.rst:423
+#: 04d96285602a40f29d575cfef76fbde6 c381578d3b534666934a63f3d49d2c11
+msgid "Example 1:"
+msgstr ""
+
+#: ../../guidelines.rst:383 87642deb245549b7ad4dc3b5f2e4eb38
+msgid ""
+"``We make the first report that a metallic pyrochlore oxide Cd 2 Re 2 O "
+"7``"
+msgstr ""
+
+#: ../../guidelines.rst:385 ../../guidelines.rst:395 ../../guidelines.rst:401
+#: ../../guidelines.rst:409 2f371d45c33a478d961350bc13a6ce16
+#: 489b16c475c449ea96635c85bbce04eb a457edd42793470984d0ab3e04b10bd4
+#: a9453b2ddd7b493583b8314779244241
+msgid "should be annotated as"
+msgstr ""
+
+#: ../../guidelines.rst:387 374c3f5188ba4b9d86cf8e99f0564b84
+msgid ""
+"``We make the first report that a metallic <rs type=\"class\">pyrochlore "
+"oxide</rs> <rs type=\"material\">Cd 2 Re 2 O 7</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:389 6fdf6d2f7a664fa994a6179c90d1874c
+msgid ""
+"See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/9#note_34804>`_, `#27 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/27>`_ or `#28 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/28>`_"
+msgstr ""
+
+#: ../../guidelines.rst:395 ../../guidelines.rst:429
+#: 1e96096b3947402eb9d2914b734c1acf 26be7ac834ff432793e91118d9eda32b
+msgid "Example 2:"
+msgstr ""
+
+#: ../../guidelines.rst:392 8c2ac1bc10214a36ac7f060c1fd682ee
+msgid ""
+"``Recently discovered BiS 2 -based layered superconductors, R (O,F) BiS 2"
+" (R: La, Ce, Pr, Nd, Yb)``"
+msgstr ""
+
+#: ../../guidelines.rst:395 81b45131ae024dffbc95101386f0052d
+msgid ""
+"``Recently discovered <rs type=\"class\">BiS 2 -based layered "
+"superconductors</rs>, <rs type=\"material\">R (O,F) BiS 2 (R: La, Ce, Pr,"
+" Nd, Yb)</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:403 ../../guidelines.rst:435
+#: 58856af5934a4be1a3f5faefe64bdb02 c6c0164840024301932849eab556e690
+msgid "Example 3:"
+msgstr ""
+
+#: ../../guidelines.rst:398 a7215fc297f2437886ee46061cf006ec
+msgid ""
+"``[...]Sodium cobalt oxide, Na x CoO 2 (x = 0.65 to 0.75), have shown "
+"[...]``"
+msgstr ""
+
+#: ../../guidelines.rst:401 e5a7cb7bade04f9b969736c786c1e760
+msgid ""
+"``[...]<rs type=\"class\">Sodium cobalt oxide</rs>, <rs "
+"type=\"material\">Na x CoO 2 (x = 0.65 to 0.75)</rs>, have shown [...]``"
+msgstr ""
+
+#: ../../guidelines.rst:403 d06ddb48717a48ef89fa144b1cdb08e1
+msgid ""
+"See `comment in #9 discussion 4 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/9#note_34816>`_"
+msgstr ""
+
+#: ../../guidelines.rst:411 39f01fd707a2477982c4de78a26e83b3
+msgid "Example 4:"
+msgstr ""
+
+#: ../../guidelines.rst:406 89dc3ad8310447f8ad0f597994ee8c54
+msgid ""
+"``After the discovery of superconductivity at 26 K in the iron "
+"oxypnictide, LaFeAs(O, F) [1], extensive research on ironbased "
+"superconductors has been carried out.``"
+msgstr ""
+
+#: ../../guidelines.rst:409 1f429d3114334b63945c3d44f151e32e
+msgid ""
+"``After the discovery of superconductivity at 26 K in the <rs "
+"type=\"class\">iron oxypnictide</rs>, <rs type=\"material\">LaFeAs(O, "
+"F)</rs> [1], extensive research on ironbased superconductors has been "
+"carried out.``"
+msgstr ""
+
+#: ../../guidelines.rst:411 52a4ed1a5c2b4fccb3eed2ebdd156f90
+msgid ""
+"See `comment in #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34820>`_"
+msgstr ""
+
+#: ../../guidelines.rst:414 b659cac6590c4e89a2333d16db545760
+msgid "Substrate information"
+msgstr ""
+
+#: ../../guidelines.rst:416 a93d2c8811384cd6b8388de3875bc786
+msgid ""
+"Materials can be bulk, doped or grown on other substrate. If the "
+"substrate or plated material is adjacent to the material (e.g. "
+"``blablabla/StRO3``, ``material grown on substrate StRO3``), the whole "
+"sequence should be annotated as `<material>` but **if the substrate or "
+"plated material is apart from the material name**, it should be ignored. "
+"When the substrate's Tc is explicitly mentioned, then the substrate shall"
+" be annotated as material regardless, and the tc linked to it (Example "
+"4). See `#37 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/37>`_."
+msgstr ""
+
+#: ../../guidelines.rst:420 2874dc1babef4b8a871ec44a8822fc95
+msgid ""
+"``The <rs type=\"material\">basic FeSe</rs> has been extensively "
+"investigated in various structural forms: polycrystalline samples , "
+"single crystals , thin films and novel monolayer structures (grown on "
+"SrTiO 3 ) with a critical temperature reaching <rs type=\"tcValue\">65 "
+"K</rs>.``"
+msgstr ""
+
+#: ../../guidelines.rst:422 91339435ecf146e48d0f91e537dad188
+msgid ""
+"we annotate ``basic FeSe`` and we link it with ``65K`` even though the "
+"temperature is referring to the material + substrate. See `discussion on "
+"#9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34824>`_."
+msgstr ""
+
+#: ../../guidelines.rst:427 3b15c4e81e5b4335baeb36ad517e19f1
+msgid "the whole expression is annotated as ``<material>``:"
+msgstr ""
+
+#: ../../guidelines.rst:427 3cbba08c44e34532aac0b1ffc4c9721a
+msgid ""
+"``<rs type=\"material\">P-or Co-doped Ba-122</rs> have lower T c s of "
+"about 30 K and 24 K, respectively, which makes helium free operation "
+"questionable.``."
+msgstr ""
+
+#: ../../guidelines.rst:429 ce79c3eb57fe45ac895da3cc544fe35f
+msgid ""
+"See `#12 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/12>`_"
+msgstr ""
+
+#: ../../guidelines.rst:433 9eaef0ea59f941eaa56d8aec12e36966
+msgid ""
+"in the following case, the preceding modifier (150 nm thick) is included "
+"as well as the substrate information:"
+msgstr ""
+
+#: ../../guidelines.rst:433 1bea850396f14a409df22d18722d36a9
+msgid ""
+"``Another example, in this sentence a) and (b), the critical transition "
+"temperature of <rs type=\"material\">150 nm thick Ba122 :Co films grown "
+"on MgO substrates</rs> were T onset c = 20 K.``."
+msgstr ""
+
+#: ../../guidelines.rst:435 bf069531a6314049b6122fc483ca3636
+msgid ""
+"See `discussion in #2 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/12#note_34835>`_."
+msgstr ""
+
+#: ../../guidelines.rst:444 703d08efbf3147aea054fc353c283123
+msgid "Example 4 (created artificially to explain the concept):"
+msgstr ""
+
+#: ../../guidelines.rst:439 45090a1739764dc0a18056f46e25344d
+msgid ""
+"this example, since the substrate's Tc was explicitly mentioned. Base "
+"material and substrate are annotated and linked as separate entities. "
+"Should be annotated as follow"
+msgstr ""
+
+#: ../../guidelines.rst:439 505f883d23b0452f9293967435e74de5
+msgid ""
+"``The <material id=\"1\">MgB</rs> grown on <material id=\"2\">StRO3</rs> "
+"(Tc = <tcValue ptr=\"#2\">2K</rs>) has superconductor transition "
+"temperature of <tcValue ptr=\"#1\">54K</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:442 2c1867029c1647029aeb8f68aedae80b
+msgid ""
+"the same example, when the substrate's Tc is not mentioned. Base material"
+" and substrate are annotated and linked in the same entity. Should be "
+"annotated as follow:"
+msgstr ""
+
+#: ../../guidelines.rst:442 a09459a8e9a24673a32f811576b0b694
+msgid ""
+"``The <material id=\"1\">MgB grown on StRO3</rs> has superconductor "
+"transition temperature of <tcValue ptr=\"#1\">54K</rs>``"
+msgstr ""
+
+#: ../../guidelines.rst:444 137db97c2ab8423d9cc3457d52faaa44
+msgid "should be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:446 18a877a5a0af44869809167669dd2fa0
+msgid ""
+"Multiple tc values should be linked to the same materials even if "
+"substrate is ignored"
+msgstr ""
+
+#: ../../guidelines.rst:448 9dcd8479f89c4c3791ca30a3ec9ad836
+msgid ""
+"See `comment in #9 discussion 2 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/9#note_34805>`_."
+msgstr ""
+
+#: ../../guidelines.rst:452 fbf3cc7d59de434d84ba633c639634a2
+msgid "Starting materials, crystal structure, and dopants"
+msgstr ""
+
+#: ../../guidelines.rst:480 f88e1b1e9fbc4dcba11052ead2e02ed0
+msgid ""
+"In this section are discussed three elements that might occur in or near "
+"a material definition."
+msgstr ""
+
+#: ../../guidelines.rst:456 7c58fc5d0dba426cba0b0b7bfe7ebd2f
+msgid ""
+"**Starting material**: the materials used to create the sample described "
+"in the text. Usually they are part of the fabrication process. **Do not "
+"annotate**. See `#26 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/-/issues/26>`_"
+msgstr ""
+
+#: ../../guidelines.rst:456 248316b08aee496a9d961d0b6f4c1a81
+msgid ""
+"Starting materials with a clear reference to their Critical temperature "
+"from the text, should be annotated."
+msgstr ""
+
+#: ../../guidelines.rst:458 d659c3d5c55f4fae84163f780414a3be
+msgid ""
+"**Crystal structures**: they are describing the layers of a crystal "
+"structure in reference to some materials."
+msgstr ""
+
+#: ../../guidelines.rst:462 89504f2d26f44ab191e3110ef9421276
+msgid "Example: ``UPt3`` in a sentence:"
+msgstr ""
+
+#: ../../guidelines.rst:461 cb015e1d1e674239a2572bb8f46e0428
+msgid "``crystal structure of UPt3`` should be annotated as material"
+msgstr ""
+
+#: ../../guidelines.rst:462 60dcdcd56508444dbdd35e902a71a5d6
+msgid ""
+"``we made the experiment studying the UPt3-type structure.`` should not "
+"be annotated, as it refers to the structure only."
+msgstr ""
+
+#: ../../guidelines.rst:464 4ebacae96daf4b42a1c59f2c27d0b1c5
+msgid ""
+"The general rule is **do not annotate unless the material-structure-type "
+"is adjoined to the reference material**."
+msgstr ""
+
+#: ../../guidelines.rst:469 8bf8f1c0fbd143a6abdf1ec8740d6cc4
+msgid "For example:"
+msgstr ""
+
+#: ../../guidelines.rst:467 392fc5ecaee14be2a3709715acdda32e
+msgid "``ThCr2Si2-type YBCO`` should be annotated as ``<material>``"
+msgstr ""
+
+#: ../../guidelines.rst:468 0c58c587655143fab603bab8f02be350
+msgid "``YBCO crystallized in ThCr2Si2 structure`` should not be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:469 919d9cae312349e186f69024b9763c9e
+msgid "``tethragonal YBCO`` should be annotated as ``<material>``"
+msgstr ""
+
+#: ../../guidelines.rst:471 37b9f207afb24290a1e9f21dbc314116
+msgid ""
+"Among the keywods to describe the structures: ``layer``, but "
+"\"tetrahedra\" (``AlO4``, ``CoO4``, or ``GaO4``) is also a name of a "
+"structure."
+msgstr ""
+
+#: ../../guidelines.rst:474 46986a031e3d422e92ca2ea156674310
+msgid ""
+"**Dopants**: a compound used to dope a starting material or compound. "
+"**Annotate**."
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:479
+#: 3f8aaa0af213450e8c9606cddc5a22af d5753e217fb54b7f98c41eb4bb6fa706
+msgid "Example of dopants annotated as materials"
+msgstr ""
+
+#: ../../guidelines.rst:485 7dffea52784d42bc846fc409148fa9b9
+msgid "Out of scope / Ignored / Not to be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:491 8335302158014685bbbcd67fa8da470d
+msgid ""
+"Chemical compound or names related to equipments or other tools. For "
+"example:"
+msgstr ""
+
+#: ../../guidelines.rst:493 c611360df441493b82cf9e456146a342
+msgid ""
+"``NiCrAl-CuBe`` represent a piston-cylinder-type cell part of the "
+"experiment equipment and should not be annotated."
+msgstr ""
+
+#: ../../guidelines.rst:495 7fd54093d705457db90d293c101a3ec8
+msgid ""
+"Substrate that is appearing alone in the text. See `comment in #9 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/9#note_34805>`_."
+msgstr ""
+
+#: ../../guidelines.rst:497 4ba0758fd6c946b39a0b279bd2b28ac2
+msgid ""
+"partial information about the material structure such as: ``The crystal "
+"has an alternate stacking of BiS 2 and CeO layers`` should be ignored"
+msgstr ""
+
+#: ../../guidelines.rst:502 86296ee98d5840aeb9d50312bd1b2643
+msgid "Critical Temperature expressions"
+msgstr ""
+
+#: ../../guidelines.rst:503 2868e42d0613415e87d0f578bd6c96bf
+msgid ""
+"Represents any expression in the text that provide information about the "
+"phenomenon of superconductivity related to a value, interval or variation"
+" of the Supeconducting critical temperature."
+msgstr ""
+
+#: ../../guidelines.rst:507 9486fa1022b6441d8a33287155a65f1d
+msgid ""
+"Such expressions include standard names, such as ``Tc`` and their "
+"variants, such as"
+msgstr ""
+
+#: ../../guidelines.rst:506 69b5d51dc5604629961f7284ced1c375
+msgid ""
+"adjectives and/or modifiers like ``high-critical-temperature``, "
+"``critical temperature``,"
+msgstr ""
+
+#: ../../guidelines.rst:507 6de877a124b740ad94555f242a23c2c9
+msgid ""
+"verbs like ``superconducts``, ``show superconductivity``, "
+"``superconducts``, etc..."
+msgstr ""
+
+#: ../../guidelines.rst:511 ../../guidelines.rst:572
+#: 39d3a152ec604d76a798fe00294452b7 8cab8708a0a4402e95cf7d782e715391
+msgid ""
+"Expressions related purely to the phenomenon of the superconductivity "
+"(and are not related to temperature), should be ignored, for example "
+"``the superconductivity is interesting``."
+msgstr ""
+
+#: ../../guidelines.rst:513 179e951391874d3ebec6d242eb7065a3
+msgid "**Tag**: ``<rs type=\"tc\">``"
+msgstr ""
+
+#: ../../guidelines.rst:515 35baf23633b043f18eac12864f12a57d
+msgid ""
+"**Motivation**: The goal of these information is to compose a database of"
+" critical temperature expressions that can be used for identification of "
+"the critical temperatures values related to the phenomenon of "
+"superconductivity."
+msgstr ""
+
+#: ../../guidelines.rst:517 8ae5762c6f4b4e32a4f1857231b46a88
+msgid "The main objectives are:"
+msgstr ""
+
+#: ../../guidelines.rst:519 c7002027830b4520af7e9c12e6f5f4ee
+msgid ""
+"identification of the type of superconductivity: onset, midpoint, zero "
+"resistivity, etc."
+msgstr ""
+
+#: ../../guidelines.rst:521 446c25c4f4334b60b78a9c9976d75110
+msgid ""
+"identification of dynamic changes in superconductivity: increase, "
+"decrease, suppression, etc."
+msgstr ""
+
+#: ../../guidelines.rst:523 a9002b96523d4ef3a917cf4fcf79b575
+msgid ""
+"identification when superconductivity is explicitly declared as absent or"
+" temporally suppressed"
+msgstr ""
+
+#: ../../guidelines.rst:525 447e5eb0906a4090b4196d9dbbcbf914
+msgid ""
+"When the expression ``tc`` or ``Tc`` is used to identify ``Curie "
+"Temperature`` or experimental information, which still refer to a "
+"temperature but with a different meaning, they should not be annotated. "
+"Generally, Curie Temperature is characterised by uppercase ``C`` when not"
+" specified at the beginning of the paper, however this is not always the "
+"case."
+msgstr ""
+
+#: ../../guidelines.rst:528 c95e4c2b1efd4fa78d9a2632a00e4b22
+msgid ""
+"Critical temperature expressions and Measurement Method may overlap. See "
+"more details :ref:`here <example-tc-me_method-overlapping>`."
+msgstr ""
+
+#: ../../guidelines.rst:533 43a42ae1d1b44f6aa62b0ab5929cedd6
+msgid "What to be annotated:"
+msgstr ""
+
+#: ../../guidelines.rst:535 de8868c752c54db69a51986549b1e75a
+msgid ""
+"information about the phenomenon of superconductivity related to a value,"
+" interval or variation of the ``superconducting critical temperature``"
+msgstr ""
+
+#: ../../guidelines.rst:537 07dff54fff99485285fcf7cc6896ae76
+msgid ""
+"expressions describing the superconductivity phenomenon associated with "
+"ah temperature value,"
+msgstr ""
+
+#: ../../guidelines.rst:539 9175bb0e984742d6bd4dffb5871996f8
+msgid ""
+"information about the absence of Tc (permanently or temporarly), for "
+"example: ``suppression of Tc``,"
+msgstr ""
+
+#: ../../guidelines.rst:541 4d9aeed7746b4c7a8822e724ac71d6e9
+msgid ""
+"verbs expressing superconductivity or non-superconductivity, such as "
+"``superconducts``, ``does not superconduct``, etc.."
+msgstr ""
+
+#: ../../guidelines.rst:543 b32c7d202c29467889804f3b4687efc9
+msgid ""
+"expressions indicating superconductor critical temperature more "
+"precisely, such as ``Tc onset``, ``Tc zero`` and other expressions "
+"indicating low or zero resistance (in certain papers, these expression "
+"can be arbitrary - see next point)"
+msgstr ""
+
+#: ../../guidelines.rst:545 251eaaff32a6454b8ff67db3f23af3c2
+#, python-format
+msgid ""
+"expression of Tc with arbitrary definition, for example when the author "
+"defines ``Tc by the temperature where resistivity becomes less than 50% "
+"of the value``. See `#38 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/38>`_."
+msgstr ""
+
+#: ../../guidelines.rst:550 a880b4b472e74d16b4a819b0be2a71d0
+msgid ""
+"When the critical temperature expressions appears close to each other, "
+"the approach is to annotate them  separately. For example, in  the "
+"sentence like ``[..] the critical temperature (Tc) is [..]``, the "
+"approach is to annotate the two expressions (``tc`` and ``critical "
+"temperature``) separately, like: ``the <rs type=\"tc\">critical "
+"temperature</rs> (<rs type=\"tc\">Tc</rs>)``,"
+msgstr ""
+
+#: ../../guidelines.rst:552 5db988ea3efe4430b2d040804db6ff52
+msgid ""
+"Tc expressions referring to relative critical temperature values should "
+"not be annotated. For example ``ΔTc`` to express a difference of "
+"superconducting critical temperature."
+msgstr ""
+
+#: ../../guidelines.rst:555 ../../guidelines.rst:676
+#: 015987c5f953405f8f0ad3471f27097b 6815d24ce0f34ae08dd3487981d92529
+msgid "Modifiers"
+msgstr ""
+
+#: ../../guidelines.rst:557 9ac9310101774e9e95c4c544fd822ef3
+msgid ""
+"Modifiers (and their synonyms), such as adjectives, verbs providing "
+"additional information, like ``highest Tc`` and ``record Tc``, "
+"``enhancing Tc`` and ``increasing Tc``) should be included in the "
+"annotation, for example (`ref #10 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/10>`_):"
+msgstr ""
+
+#: ../../guidelines.rst:559 db6dd6c2734b413a9034711d07030c8a
+msgid ""
+"``max/min``, and other derivation like ``maximum``, ``maximal``, "
+"``minimum``, ``minimal``, ``highest\\lowest``"
+msgstr ""
+
+#: ../../guidelines.rst:561 fbce46e06bb44ba38c9d04a6d4061faf
+msgid "``upper``, ``upper limit``, ``lower``, ``lower limit`` etc..."
+msgstr ""
+
+#: ../../guidelines.rst:563 21496123fdaa4ac1a6e82d823a542e4e
+msgid ""
+"relative information attached to critical temperature should be "
+"annotated, for example: ``increasing Tc``, ``raising Tc``, etc.."
+msgstr ""
+
+#: ../../guidelines.rst:565 be5fb0c989b24d2ca6b32ea45d898d20
+msgid ""
+"``High`` in ``high-transition-temperature`` or any similar expression, "
+"should not be included in the annotation"
+msgstr ""
+
+#: ../../guidelines.rst:568 1b77e2fdf94441118d7dbadd74c26d34
+msgid "Out of scope / to not to be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:570 b851840e0226468882d255167061e361
+msgid "In the following cases the expressions should be completely ignored:"
+msgstr ""
+
+#: ../../guidelines.rst:574 1b2ab2de006f4f9e9ab545e3e33224e7
+msgid ""
+"the expression is part of a formula, for example ``Tc`` in the formula "
+"``T / Tc``"
+msgstr ""
+
+#: ../../guidelines.rst:576 271e90ef082746adbf81840ffaefb869
+msgid "the expression is ``high-Tc``. For example ``high-Tc cuprates``."
+msgstr ""
+
+#: ../../guidelines.rst:578 0415f7046264430fb1940bbb0adea1f5
+msgid ""
+"the critical temperature is not directly referred as a property but an "
+"entity related to other materials, for example:"
+msgstr ""
+
+#: ../../guidelines.rst:580 bf3f8805741842f7861da1cb385c45d4
+msgid ""
+"``The conventional nature of the temperature dependence is also found in "
+"case [..]``"
+msgstr ""
+
+#: ../../guidelines.rst:582 e1d044293b5c43978676f9bc4ad14c6b
+msgid "where ``temperature dependence`` is not a <tc>."
+msgstr ""
+
+#: ../../guidelines.rst:584 590336d4dfab4ff0bf4298a04c225720
+msgid "the temperature is referring to aspects other than the superconductivity:"
+msgstr ""
+
+#: ../../guidelines.rst:586 2c325417052743aab622a5a644200668
+msgid ""
+"``The spin-fluctuation-mediated mechanism is a major candidate for the "
+"high-T c mechanism.``"
+msgstr ""
+
+#: ../../guidelines.rst:588 f20da4a45ff94db2a16e76ca12a5ad6f
+msgid "the expression is referred to something else,"
+msgstr ""
+
+#: ../../guidelines.rst:590 c1ce42d5d23047e0b122f129fef6e175
+msgid ""
+"for example in ``higher Tc phase``, ``Tc`` is referring to the phase, not"
+" to the superconductivity."
+msgstr ""
+
+#: ../../guidelines.rst:592 066743188a89439db82dd1ed7fab60be
+msgid ""
+"in the following example the ``type-I superconducting phase`` should not "
+"be annotated, as does not relate to a superconductor material nor to a "
+"critical temperature:"
+msgstr ""
+
+#: ../../guidelines.rst:594 767494ba994c4c08b8408431427a1908
+msgid ""
+"``While certain experiments indicated an unexpected type-I "
+"superconducting phase, other experiments revealed formation of vortices "
+"under the application of magnetic fields``."
+msgstr ""
+
+#: ../../guidelines.rst:596 17fe3a3818cb40e5b8049ffa5ccff8d3
+msgid ""
+"the expression does not express a clear state, for example ``When the "
+"high-temperature cuprates are doped with P r the superconductivity is "
+"usually suppressed``. See `#14 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/14>`_."
+msgstr ""
+
+#: ../../guidelines.rst:598 bd686fbd90674fa1b00622a8aaca165f
+msgid ""
+"the expression is a vague modifier, such as ``other``, ``variation of`` "
+"which doesn't add any useful information. See `#19 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/19>`_."
+msgstr ""
+
+#: ../../guidelines.rst:601 31c21936de604e228a6fef40d5313908
+msgid ""
+"Tc expressions modifiers, such as `nematic` or `s-wave` superconductivity"
+" can be ignored. See `#21 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/21>`_."
+msgstr ""
+
+#: ../../guidelines.rst:606 4ff840b4a36145c48e1f7781560c7633
+msgid "Critical temperature value"
+msgstr ""
+
+#: ../../guidelines.rst:608 cc43edc40bf14e818b5fe03aef942af0
+msgid ""
+"Represent the value of the superconducting critical temperature, Tc. "
+"Other temperatures (fabrication conditions, etc.) should not be "
+"annotated."
+msgstr ""
+
+#: ../../guidelines.rst:610 7a49ab73bf0a4240a69abc1a5104a9b0
+msgid "**Tag**: ``<rs type=\"tcValue\">``"
+msgstr ""
+
+#: ../../guidelines.rst:612 bf09b0d99513444cb75935c5d9d24ea3
+msgid "**Basic rules**:"
+msgstr ""
+
+#: ../../guidelines.rst:614 990198ab78b9423ea1a9f5e33d949355
+msgid ""
+"the superconducting critical temperatures includes the concepts of zero "
+"resistivity temperature, onset temperature and offset temperature, and "
+"should be all annotated."
+msgstr ""
+
+#: ../../guidelines.rst:615 bf326b44250f47b1ba328f57163442b1
+msgid ""
+"authors could define the three concepts described above (zero "
+"resistivity, onset, offset) in arbitrary ways, in this case, the values "
+"should be also annotated."
+msgstr ""
+
+#: ../../guidelines.rst:616 d460b102f77e42cfae9d0813cbd3ddcd
+msgid ""
+"when Tc is used to described phenomenon happening at certain "
+"temperatures, which are not superconductivity (or absence of "
+"resistivity), they should not be annotated."
+msgstr ""
+
+#: ../../guidelines.rst:617 f73e29867f494331a6feb1ce47c476d9
+msgid ""
+"expression concerning the topic of ``transition temperature`` (which is "
+"not explicitly defined as transition due to superconductivity) should be "
+"annotated only after having carefully examined the sentence and what the "
+"authors intended to communicate."
+msgstr ""
+
+#: ../../guidelines.rst:618 91b08919b5474d928e7d02d675750b5f
+msgid "**relative temperatures, deltas, differences should not be annotated**"
+msgstr ""
+
+#: ../../guidelines.rst:619 66a2a7c6365245139f3e085ff68f5d9a
+msgid ""
+"Superconducting critical temperature that are measured under magnetic "
+"field higher than 0.01 T should not be annotated. Exceptions exist for Tc"
+" that are induced by magnetic field, which should be annotated (in this "
+"particular case, the material, at normal condition, is not a "
+"superconductor)"
+msgstr ""
+
+#: ../../guidelines.rst:622 ../../guidelines.rst:643
+#: 4aaf6d08f85b45278536e81499e6114a 65ec97b8ce7c4c5d9ff214d6a62ffbb7
+msgid ""
+"Intervals, list of values and other complex expressions should follow the"
+" same rules as described in the section describing the :ref:`values "
+"representation <values-representation>`."
+msgstr ""
+
+#: ../../guidelines.rst:628 af24effae1f141ab88d788abbec163f3
+msgid "Critical pressure"
+msgstr ""
+
+#: ../../guidelines.rst:630 0adcd81dc37146339110ddb961f18fd6
+msgid "Represent the applied pressure when superconductivity is recorded"
+msgstr ""
+
+#: ../../guidelines.rst:632 d300e3fef02c4853b6ede1f1b3369459
+msgid "**Tag**: ``<rs type=\"pressure\">``"
+msgstr ""
+
+#: ../../guidelines.rst:634 b8fd103582b6464dbeaac1a7cb93ad01
+msgid ""
+"**Motivation**: The superconductor critical temperature can be triggered "
+"by different conditions, one of the most studied is, in fact, the "
+"application of pressure. Since the same material can have multiple Tc, "
+"corresponding to different pressure conditions, this information is "
+"required."
+msgstr ""
+
+#: ../../guidelines.rst:640 319a201dbd0748dd926fb2cd1ec35ece
+msgid "**Basic rules**"
+msgstr ""
+
+#: ../../guidelines.rst:637 7f07e4ea0fb64aeaa0653764db315413
+msgid ""
+"discrete or relatives values for example ``remains unchanged``, ``is "
+"increasing`` are ignored"
+msgstr ""
+
+#: ../../guidelines.rst:638 1b93eb84a7624f90bfe480d43db37da9
+msgid ""
+"any other pressure that is not related to superconductivity, shall be "
+"ignored"
+msgstr ""
+
+#: ../../guidelines.rst:639 985dea1da00941afab175e3714d58335
+msgid "**only annotate pressures that are linkable to a critical temperature**"
+msgstr ""
+
+#: ../../guidelines.rst:640 dd0e9aa0a57f491eb82bf3ad0d3581e2
+msgid ""
+"values that are not clearly defined, such as ``high pressure`` should not"
+" be annotated"
+msgstr ""
+
+#: ../../guidelines.rst:648 c5fd2d142df34ff8bbfb3d39d30269d1
+msgid "Measurement method"
+msgstr ""
+
+#: ../../guidelines.rst:649 0e42f3c185794bf098c413cb30cb4bbd
+msgid ""
+"Indicates the techniques used to measure or calculate the presence of "
+"superconductivity. This includes also the study of "
+"temperature/resistivity, temperature/magnetic field graphs, not "
+"necessarily related to superconductivity."
+msgstr ""
+
+#: ../../guidelines.rst:652 e8d99bfa451e4876842f1db23a2653e8
+msgid "**Tag**: ``<rs type=\"me_method\">``."
+msgstr ""
+
+#: ../../guidelines.rst:657 274398d3b180463d95660398272243e8
+msgid "**Motivation**: This annotation can be used to:"
+msgstr ""
+
+#: ../../guidelines.rst:655 2cd4306c577e43d288836c7550e2f0a6
+msgid ""
+"understand how a critical temperature has been obtained because some "
+"papers associate different critical temperatures to different measurement"
+" methods."
+msgstr ""
+
+#: ../../guidelines.rst:656 72a3d989016e49c784bee1f627eef6ea
+msgid "clustering papers by measurement method."
+msgstr ""
+
+#: ../../guidelines.rst:662 4c4990d795ac484c98dba145858d5a1f
+msgid ""
+"The measurement method can be *experimental*: magnetic, resistivity and "
+"heat, or can be calculated *theoretically*. The most common, although not"
+" exclusively, keywords used to describe a measurement method are:"
+msgstr ""
+
+#: ../../guidelines.rst:665 659cc1665d4445b1be1e862f9513d8af
+msgid ""
+"**magnetic**: ``magnetic measurement``, ``magnetic susceptibility``, "
+"``susceptibility``"
+msgstr ""
+
+#: ../../guidelines.rst:666 c86a7c4757904fe6b7f59d71b4585473
+msgid "**heat**: ``specific heat measurement``,"
+msgstr ""
+
+#: ../../guidelines.rst:667 2a58f0b29ae04110b2998599d5556c68
+msgid ""
+"**resistivity**: ``resistivity measurement``, ``in-plane resistivity``, "
+"``electrical resistivity``"
+msgstr ""
+
+#: ../../guidelines.rst:668 3a678adacb784fe3bd16c4e436082466
+msgid "**theoretical**: ``calculations``, ``empirically``"
+msgstr ""
+
+#: ../../guidelines.rst:670 2a0c76e304174b8d836435fa8887a579
+msgid ""
+"This list of keywords is incomplete as more variation could appear as "
+"more papers will be annotated."
+msgstr ""
+
+#: ../../guidelines.rst:672 46551605b7db49bdbc86b3a03e4d0574
+msgid ""
+"It's acceptable to annotate a measurement method even when the "
+"superconductivity (in the form of the supercondcuting critical "
+"temperature value) is not directly mentioned."
+msgstr ""
+
+#: ../../guidelines.rst:678 d127d2aced754d2292aaf762834bdbfc
+msgid ""
+"AC/DC modifiers (type of current) should not be included because there is"
+" substantially very low difference between the two approaches. See "
+"discussion in `#16 <https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/16>`_."
+msgstr ""
+
+#: ../../guidelines.rst:681 52098060980e41a9afe97d62f42fd98b
+msgid "Other methods often used for assessing superconductivity"
+msgstr ""
+
+#: ../../guidelines.rst:683 ff0c28375aae418eadd162468b122bd8
+msgid ""
+"Method for measurements of other types or minor methods, should not be "
+"annotated:"
+msgstr ""
+
+#: ../../guidelines.rst:685 feabc168ea6f4ae7b7cfd9159f447eb8
+msgid ""
+"NMR/NRQ and ARPES shall not be annotated. See `#11 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/11>`_, `#29 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/29>`_"
+msgstr ""
+
+#: ../../guidelines.rst:686 5f0d67fb3b8441b0b1010daabc4f07b6
+msgid ""
+"``iodometric double titration`` as well. See `#25 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/25>`_."
+msgstr ""
+
+#: ../../guidelines.rst:687 4421b0b4f3c34c36a9657d818c2a18f3
+msgid ""
+"``Andreev critical temperature``. See `#31 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/issues/31>`_."
+msgstr ""
+
+#: ../../guidelines.rst:688 e127df5cd77746559aba1dec7567d110
+msgid ""
+"``PCAR``, ``STM``, etc. See examples and (general justification for not "
+"annotating them) in `#30 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/30>`_."
+msgstr ""
+
+#: ../../guidelines.rst:689 a35292a208c1487e832b78f2851acc44
+msgid ""
+"``Magnetic torque``. See `#42 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/42>`_."
+msgstr ""
+
+#: ../../guidelines.rst:690 cad9fadea8884767a4b6eb88aab2c507
+msgid ""
+"``Magnetoresistivity``. See `#39 <https://gitlab.nims.go.jp/lfoppiano"
+"/superconductors-documentation/issues/39>`_."
+msgstr ""
+
+#: ../../guidelines.rst:692 f25fdcd0bec341f88fe52ccb581c11dd
+msgid ""
+"``SQUID Magnetometer`` although defining the technique (and not the "
+"method) can be annotated in case there are no other expressions that can "
+"be used in this particular case. See `#55 "
+"<https://gitlab.nims.go.jp/lfoppiano/superconductors-"
+"documentation/-/issues/55>`_"
+msgstr ""
+
+#: ../../guidelines.rst:695 4d861b67408f4597acac7ad574cee21a
+msgid "**Examples**:"
+msgstr ""
+
+#: ../../guidelines.rst:697 747a9f99bf414907b90ed87dd99f1fb5
+msgid ""
+"``[..] transition temperature with magnetic field, with  "
+"<me_method>magnetic susceptibility measurements</me_method> confirming a "
+"T c of 203 kelvin.``"
+msgstr ""
+
+#: ../../guidelines.rst:699 5974038688a14c659664d1c8e5b3e191
+msgid ""
+"``[..] moderate T c of 17 kelvin has been <me_method>observed "
+"experimentally</me_method>.``"
+msgstr ""
+
+#: ../../guidelines.rst:701 700e524116e34c8fb60dc1bf8cd187fb
+msgid ""
+"The classification of measurements into ``Experimental/Theoretical`` will"
+" be performed in a step using the extracted content."
+msgstr ""
+
+#: ../../guidelines.rst:706 13e6ed17a6684121b9b002541ad26c3e
+msgid "Overlap between Tc expressions and Me_Method"
+msgstr ""
+
+#: ../../guidelines.rst:708 6434126a08324bf6b2164febe5f6720e
+msgid "Tc expressions (``<tc>``) has priority over ``<me_method>``."
+msgstr ""
+
+#: ../../guidelines.rst:710 40c4edb4c91540638670c2b52e7aff24
+msgid ""
+"There are cases where expressions such as ``zero resitivity`` indicate "
+"both ``superconducting critical temperature``, more precisely, T0, and "
+"``resistivity`` method of measurement. For consistency, the tc expression"
+" has higher priority over the measurement method, even though this is "
+"impacting the information we are collecting because the link betweeen "
+"measurement method and tcvalue is lost."
+msgstr ""
+
+#: ../../guidelines.rst:715 e3d44d1fc5204e57b8d2a645e5e5b247
+msgid "Aggregated examples"
+msgstr ""
+
+#: ../../guidelines.rst:717 0e8a8c1c562f4245b65690d5c7ef509a
+msgid "Here some examples covering more than one annotation label:"
+msgstr ""
+
+#: ../../guidelines.rst:723 d5bcf6a42f3d477dbef2ca6ee4b2c0a1
+msgid ""
+"``electron-doped high-transition-temperature (Tc) iron-based pnictide`` "
+"should be annotated as follow:"
+msgstr ""
+
+#: ../../guidelines.rst:725 18f5c39897894cb4b1d097a28edba308
+msgid ""
+"where the ``LaFeAsO1−xHx`` represent the material (chemical formula "
+"without doping rate) and class ``iron-based pnictide``."
+msgstr ""
+
+#: ../../guidelines.rst:730 7d048b542ab04d99bbb849d7877b3b4a
+msgid "Linking"
+msgstr ""
+
+#: ../../guidelines.rst:732 c9121a3a61da4e599eeafa4d29c2fb03
+msgid ""
+"The link between entities implements the relationship between them. The "
+"link can be local (within the same sentence) or distant (on separated "
+"sentences or paragraphs)."
+msgstr ""
+
+#: ../../guidelines.rst:736 b53b19a04583483590ceb35d01b6ab39
+msgid "Definition"
+msgstr ""
+
+#: ../../guidelines.rst:740 716611e639e144d8a8e9ed70869c6b38
+msgid "There are three type of links:"
+msgstr ""
+
+#: ../../guidelines.rst:738 6b3b2eb0ef7f45b7915d7ad5ed5d7fb6
+msgid ""
+"``material-tc`` connects a material (``<rs type=\"material\">``) with its"
+" corresponding superconducting critical temperature value (``<rs "
+"type=\"tcValue\">``)."
+msgstr ""
+
+#: ../../guidelines.rst:739 7a7d94dc5c754fe4bdace472a3452a28
+msgid ""
+"``tc-pressure`` connects a superconducting critical temperature value "
+"(``<rs type=\"tcValue\">``) with its related critical pressure (``<rs "
+"type=\"pressure\">``)."
+msgstr ""
+
+#: ../../guidelines.rst:740 f66ac7e6a2bd429c8eb8244b0ec2a6a5
+msgid ""
+"``me_method-tc`` connects the superconducting critical temperature value "
+"(``<rs type=\"tcValue\">``) to its corresponding measurement method "
+"(``<rs type=\"me_method\">``)"
+msgstr ""
+
+#: ../../guidelines.rst:743 1a7c3907dcd14d9ba372ee16ba12a7b9
+msgid "Examples, directions and notations"
+msgstr ""
+
+#: ../../guidelines.rst:746 ae3cd08098b4460fa080bf6a683c434a
+msgid "Brat notation"
+msgstr ""
+
+#: ../../guidelines.rst:751 ce1a688fc77d4ba18e12d90028d36db5
+msgid "Linking example material-tc"
+msgstr ""
+
+#: ../../guidelines.rst:751 44f2d1b933bf4328a0ce271b104e56f8
+msgid "Example of linking material and Tc value"
+msgstr ""
+
+#: ../../guidelines.rst:753 f4fe33ebd3ed4013b0fff16654e9f3f8
+msgid "The same is applied for ``Pressure - tcValue``:"
+msgstr ""
+
+#: ../../guidelines.rst:758 59c705ab0379499489150839d08dda8a
+msgid "Linking example of pressure - TcValue"
+msgstr ""
+
+#: ../../guidelines.rst:758 8eb7034107454c6e8b9d06cc6b175203
+msgid "Example of linking pressure and Tc value"
+msgstr ""
+
+#: ../../guidelines.rst:760 7c1c701ef4f14ac5bfea23bf56008096
+msgid "and ``Measurement Method - tcValue``"
+msgstr ""
+
+#: 1a95f8b267754b67bd0a9c2fd54d99d8
+msgid "Linking example of measurement method - TcValue"
+msgstr ""
+
+#: ../../guidelines.rst:766 a5c58ec138fd49f6bc7221620c35d9f5
+msgid "XML Notation"
+msgstr ""
+
+#: ../../guidelines.rst:778 a73ef82a932b465db3c007c658326eae
+msgid ""
+"In this XML example the linking is done using the attributes ``ptr -> "
+"#id`` (pointer -> identifier). In particular:"
+msgstr ""
+
+#: ../../guidelines.rst:780 450a04698f80437397697e1eafb6a785
+msgid ""
+"the ``<rs type=\"tcValue\">`` is linked to ``<rs type=\"material\">`` "
+"with the ``tc-material`` link (see ``@corresp`` containing value ``1`` "
+"which corresponds to the id of the ``<rs type=\"material\">`` "
+"``Na0.35CoO2·1.3H2O``)"
+msgstr ""
+
+#: ../../guidelines.rst:781 5a39ace2205d4ef8a050066f4f9f62ab
+msgid ""
+"the ``<rs type=\"pressure\">`` is linked to ``<rs type=\"tcValue\">`` "
+"with the ``pressure-tc`` link"
+msgstr ""
+
+#: ../../guidelines.rst:782 ae8549b7bef3429f8e50f761e00bd8b1
+msgid ""
+"the ``<rs type=\"tcValue\">`` is also linked to a measurement method "
+"(theoretical calculation, ndr), via the link ``me_method-tc``."
+msgstr ""
+
+#: ../../guidelines.rst:784 68dd7b53da0543b9b2f8bd5aaebfc479
+msgid "Multiple pointer can be added separated by a comma."
+msgstr ""
+
+#: ../../guidelines.rst:790 77e74277b33e4faa97e8c5f952ecd62a
+msgid "There is no limitation to one link per entity or element."
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:795
+#: 3ac3d86f6e9b4ed8a2dde1efe270333e ae44593c888e4ad8818b45efe658fbc7
+msgid "Example of multiple links to the same material"
+msgstr ""
+
+#: ../../guidelines.rst:797 7e76a77e86d3472388a11a89f76b1530
+msgid ""
+"In case of complex sentences is possible to link multiple expressions "
+"referring to the same entity. For example, in the case below, the formula"
+" ``AOs 2 O 6(A = Cs, Rb, K)`` can be expanded as ``CsOs 2 O 6``, ``RbOs 2"
+" O 6`` and ``KOs 2 O 6``, which are reported with their relative critical"
+" temperatures, just below as ``Cs``,``Rb`` and ``K``. The best approach "
+"is to link all Tcs with their doping values and then link also such Tcs "
+"with the initial formula:"
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:802
+#: 05fc61b3dda94fa5a2895f0a15c0a570 7ad2a7e2bd7f47af814cb9677d56906b
+msgid "Example of links of multiple instance of the same material entity"
+msgstr ""
+
+#: ../../guidelines.rst:805 285626853fba40bdb61372cfe91a2b6d
+msgid "since the links are oriented, the convention adopted is the following:"
+msgstr ""
+
+#: ../../guidelines.rst:807 04cc606ffa3b4070ae5eec46a07ae6da
+msgid "``pressure`` to ``tcValue``"
+msgstr ""
+
+#: ../../guidelines.rst:808 bd554ed084db47f28cb85258ab3cf36d
+msgid "``tcValue`` to ``material``"
+msgstr ""
+
+#: ../../guidelines.rst:809 2e4d4d32857648308943f44c9b9d8ad6
+msgid "``tcValue`` to ``me_method``"
+msgstr ""
+
+#: ../../guidelines.rst ../../guidelines.rst:814
+#: 68cbaf838cf447f4868ed20930809883 7aa01da2d97449d3b85b2e2445db40cb
+msgid "Link direction example"
+msgstr ""
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><doping>Sr</doping>-and <doping>Zn</doping>-doped <formula>La 2 CuO 4</formula> <shape>single crystals</shape></material>
+    <material><doping>lightly doped</doping> <formula>La2−xSrxCuO4</formula> and <formula>La2Cu1−yZnyO4</formula> <shape>single crystals</shape> (<variable>x</variable> or <variable>y</variable> = <value>0 -0.04</value>)</material>
+	<material><doping>lightly doped</doping> <name>LSCO</name></material>
+    <material><formula>La1.28Nd0.6Sr0.12CuO4</formula> and <formula>La1.68Eu0.2Sr0.12CuO4</formula> <shape>single crystals</shape></material>
+	<material><doping>Zn</doping> doping</material>
+    <material><doping>1% of Sr</doping> doping</material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><doping>Sr</doping>-doped <formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>) with <variable>x</variable> = <value>0.10 -0.20</value></material>
+	<material><doping>overdoped</doping> <formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><doping>rare earth (RE) and Sr co-doped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><formula>La 1.28 Nd 0.6 Sr 0.12 CuO 4</formula></material>
+	<material><name>LSCO</name></material>
+    <!-- check -->
+	<material><doping>RE-and Sr</doping>-doped <formula>La 2 CuO 4</formula></material>
+	<material><doping>lightly doped</doping> <name>LSCO</name> (<variable>x</variable> = <value>0.01 -0.05</value>)</material>
+	<material><doping>lightly doped</doping> <name>LSCO</name></material>
+	<material><doping>lightly doped</doping> <name>LSCO</name> <shape>single crystals</shape></material>
+	<material><doping>lightly doped</doping> <formula>La 2−x Sr x CuO 4</formula> (<variable>x</variable> = <value>0 -0.04</value>) <shape>single crystals</shape></material>
+	<material><formula>La 2 Cu 1−y Zn y O 4</formula> (<name>LCZO</name>) (<variable>y</variable> = <value>0 -0.04</value>) <shape>single crystals</shape></material>
+    <material><doping>lightly doped</doping> <formula>La2−xSrxCuO4</formula> and <formula>La2Cu1−yZnyO4</formula> <shape>single crystals</shape></material>
+	<material><formula>La1.96Sr0.04CuO4</formula></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LSCO</name></material>
+	<material><shape>single crystals</shape> of <name>LSCO</name> and <name>LCZO</name></material>
+	<material><doping>pure</doping> <formula>La 2 CuO 4</formula></material>
+	<material><name>LSCO</name> and <name>LCZO</name> <shape>single crystals</shape></material>
+	<material><doping>undoped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><formula>CuGeO 3</formula></material>
+	<material><formula>Sr 2 CuO 3</formula></material>
+	<material><formula>SrCuO 2</formula></material>
+	<material><formula>(Sr,Ca) 14 Cu 24 O 41</formula></material>
+	<material><formula>K 2 V 3 O 8</formula></material>
+	<material><doping>undoped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><doping>1% doping concentration</doping></material>
+	<material><doping>Zn</doping>-doped</material>
+    <material><formula>La2−xSrxCuO4</formula> and (b) <formula>La2Cu1−yZnyO4</formula> <shape>single crystals</shape></material>
+	<material><variable>y</variable> = <value>0.04</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.01</value></material>
+    <material><formula>La2−xSrxCuO4</formula> and <formula>La2Cu1−yZnyO4</formula> <shape>sin- gle crystals</shape></material>
+	<material><formula>La 1.96 Sr 0.04 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.04</value></material>
+	<material><name>LSCO</name> (<variable>x</variable> = <value>0.12</value>) <shape>single crystals</shape></material>
+	<material><doping>Nd</doping>-and <doping>Eu</doping>-doped <shape>crystals</shape></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+	<material><doping>RE</doping>- doped <name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><doping>RE</doping>- doped <shape>crystals</shape> at <variable>x</variable> = <value>0.12</value></material>
+	<material><doping>RE-free</doping> <name>LSCO</name> <shape>crystals</shape> at <variable>x</variable> = <value>0.04</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LCZO</name></material>
+	<material><doping>pure</doping> <formula>La 2 CuO 4</formula></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material>from <variable>x</variable> = <value>0 to 0.01</value></material>
+	<material><name>LCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><doping>doped</doping> <name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.01 to 0.04</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><doping>lightly doped</doping> <name>LSCO</name></material>
+	<material><name>LCZO</name> <shape>single crystals</shape></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.01</value></material>
+	<material><name>LCZO</name> with <variable>y</variable> = <value>0.04</value></material>
+    <material><doping>Rare- earth (Nd or Eu)</doping> doping for <name>LSCO</name> (<variable>x</variable> = <value>0.12</value>)</material>
+	<material><doping>rare-earth-free</doping> <name>LSCO</name> with <variable>x</variable> = <value>0.04</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCZO</name></material>
+	<material><doping>lightly doped</doping> <name>LSCO</name></material>
+</materials>

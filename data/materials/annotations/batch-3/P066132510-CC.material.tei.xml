@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><fabrication>high- pressure oxidized</fabrication> <formula>Cu0.75Mo0.25Sr2YCu2O7.54</formula></material>
+    <material><doping>optimally doped</doping> <name>Y123</name></material>
+	<material><doping>overdoped</doping> <name>La214</name></material>
+	<material><formula>Cu 1−x Mo x Sr 2 (Y,Ce) s Cu 2 O 5+2s+δ</formula></material>
+	<material><formula>Cu 1−x Mo x Sr 2 YCu 2 O 7+δ</formula> ,with <variable>x</variable>=<value>0.25</value></material>
+	<material><name>(Cu,Mo)1212</name></material>
+	<material><doping>doped</doping> <formula>Y123</formula></material>
+	<material><name>(Cu,Mo)1212</name></material>
+	<material><name>(Cu,Mo)1212</name> <shape>powder</shape></material>
+	<material><formula>KClO 3</formula></material>
+	<material><fabrication>high-pressure oxidized</fabrication> <name>(Cu,Mo)1212</name> <shape>powders</shape></material>
+	<material><name>(Cu,Mo)1212</name> <shape>powder</shape></material>
+	<material><formula>Cu1−xMoxSr2YCu2O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><formula>Cu 1−x Mo x Sr 2 YCu 2 O 7+δ</formula></material>
+	<material><doping>underdoped</doping> (<doping>op- timally doped</doping>) <name>Y123</name></material>
+	<material><name>(Cu,Mo)1212</name></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><fabrication>oxi- dized</fabrication> <name>(Cu,Mo)1212</name></material>
+	<material><name>Y123</name></material>
+	<material><formula>YBa 2 Cu 3 O 6</formula></material>
+	<material><doping>doped</doping> <formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<material><name>Y123</name></material>
+<!--	<material>occurrence of superconductivity</material>-->
+    <material><doping>optimally doped</doping> <name>Y123</name></material>
+    <material><doping>optimally-and over-doped</doping> <formula>La 2−x Sr x CuO 4</formula> (<name>La214</name>) <shape>single crystals</shape></material>
+    <material><doping>overdoped</doping> <formula>La214</formula></material>
+    <material><doping>optimally doped</doping> <formula>Bi 2 Sr 2 CaCu 2 O 8 25</formula></material>
+	<material><doping>over-doped</doping> <formula>La 2−x Sr x CuO 4</formula> (<name>La214</name>) <shape>single crystals</shape></material>
+	<material><formula>Sr 2 CaCu 2 O 8 25</formula></material>
+	<material><doping>overdoped</doping> <formula>Tl 2 Ba 2 CuO 6+δ 26</formula></material>
+	<material><name>(Cu,Mo)1212</name></material>
+	<material><doping>over- doped</doping> <formula>La2−xSrxCuO4</formula> with <variable>x</variable>=<value>0.259</value></material>
+	<material><variable>x</variable>=<value>0.290</value></material>
+	<material><doping>opti- mally doped</doping> <formula>La2−xSrxCuO4</formula> with <variable>x</variable>=<value>0.178</value></material>
+	<material><formula>YBa2Cu3O 7−δ</formula> with <variable>δ</variable>=<value>0.05</value></material>
+	<material><name>La214</name></material>
+	<material><name>Y123</name></material>
+    <material><name>(Cu,Mo)1212</name> <shape>powder</shape></material>
+	<material><name>(Cu,Mo)1212</name> <shape>powder</shape></material>
+	<material><doping>optimally doped</doping> <name>Y123</name></material>
+    <material><doping>overdoped</doping> <name>La214</name> <shape>single crystals</shape></material>
+	<material><name>La214</name> <shape>single-crystal films</shape></material>
+	<material><name>(Cu,Mo)1212</name></material>
+</materials>

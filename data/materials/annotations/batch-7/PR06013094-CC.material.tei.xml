@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa2Cu4O8</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><shape>polycrystalline</shape> <formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa2Cu4O8</formula> <shape>powder</shape></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa 2 Cu 2 O 8</formula></material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 4 O 8</formula></material>
+</materials>

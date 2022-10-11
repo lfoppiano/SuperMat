@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Y x Tm l-x )Ba 2 Cu 3 O 7</formula> <shape>Single Crystals</shape></material>
+	<material><shape>single crystalline</shape> <formula>(Y x Tm 1-x )Ba 2 Cu 3 O 7</formula></material>
+	<material><formula>(Y 0.14 Tm 0.85 )Ba 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+	<material><formula>Y 0.14 Tm 0.85 )Ba 2 Cu 3 O 7</formula></material>
+	<material><formula>ZrO 2</formula></material>
+	<material><formula>Tm 2 O 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>ZrO 2</formula></material>
+	<material><formula>Y x Tm 1-x )Ba 2 Cu 3 O 7</formula> <shape>single crystal</shape></material>
+	<material><formula>(Y x Tm 1-x )Ba 2 Cu 3 O 7</formula> <shape>single crystal</shape></material>
+	<material><formula>Y 0.14 Tm 0.85 Ba 2 Cu 3 O x</formula> <shape>crystals</shape></material>
+	<material><formula>Y 0.14 Tm 0.85 Ba 2 Cu 3 O x</formula> <shape>crystals</shape></material>
+	<material><fabrication>irradiated</fabrication> <formula>(Y 0.14 Tm 0.85 )Ba 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+	<material><formula>(Y 0.14 Tm 0.85 )Ba 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+	<material><formula>(Y 0.14 Tm 0.85 )Ba 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+</materials>

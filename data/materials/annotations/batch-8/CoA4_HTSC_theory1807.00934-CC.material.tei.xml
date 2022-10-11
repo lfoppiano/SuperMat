@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>CuInCo 2 (S, Se, Te) 4</formula></material>
+	<material><formula>CuInM 2</formula> (<name>S, Se, Te) 4</name> with <variable>M</variable> = <value>Mn, Fe, Co and Ni</value></material>
+	<material><formula>CuInM 2 A 4</formula> (<variable>M</variable>=<value>Mn, Fe, Co, Ni</value>, <variable>A</variable>=<value>S,Se,Te</value>)</material>
+	<material><formula>CuInCo 2 A 4</formula> (<variable>A</variable>=<value>S, Se, Te</value>)</material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>CuInCo2A4</formula> (<variable>A</variable>=<value>S, Se, Te</value>)</material>
+	<material><formula>CuInCo2A4</formula>(<variable>A</variable> = <value>S, Se, Te</value>)</material>
+	<material><formula>CuInCo 2 A 4</formula> for <variable>A</variable>=<value>S,Se,Te</value></material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>CuInCo 2 A 4</formula></material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>CuInM 2 A 4</formula></material>
+	<material><formula>CuInM2A4</formula> (<variable>M</variable> = <value>Mn, Fe, Co, Ni</value>; <variable>A</variable> = <value>S, Se, Te</value>)</material>
+	<material><formula>CuInFe 2 Te 4</formula></material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>CuInM2A4</formula> (<variable>M</variable> = <value>Mn, Fe, Co, Ni</value>; <variable>A</variable> = <value>Se, Te</value>)</material>
+	<material><formula>CuInCo2Te4</formula></material>
+	<material><formula>CuInM 2 Te 4</formula></material>
+	<material><formula>CuInM 2 Se 4</formula></material>
+	<material><formula>BaM 2 As 2</formula> with <variable>M</variable>=<value>Cr, Mn, Fe, Co</value></material>
+	<material><formula>ZnCoS 2</formula></material>
+	<material><formula>CuInCo 2 A 4</formula></material>
+	<material><formula>CuInCo 2 A 4</formula></material>
+	<material><formula>CuInM2Te4</formula> (<variable>M</variable> = <value>Cr, Mn, Fe, Co, Ni</value>)</material>
+	<material><formula>CuInNi2Te4</formula></material>
+	<material><formula>BaM2As2</formula> (<variable>M</variable> = <value>Cr, Mn, Fe, Co, Ni</value>)</material>
+	<material><formula>CuInCo2Te4</formula></material>
+	<material><formula>ZnCoS2</formula></material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>ZnCoS 2</formula></material>
+	<material><formula>CuInCo 2 Te 4</formula></material>
+	<material><formula>ZnCoS 2</formula></material>
+	<material><formula>CuInCo 2 A 4</formula></material>
+	<material><formula>CuInCo 2 A 4</formula></material>
+	<material><formula>ZnCoS 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>ZnCoS 2</formula></material>
+</materials>

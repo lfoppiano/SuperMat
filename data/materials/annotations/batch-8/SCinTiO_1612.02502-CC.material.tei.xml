@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><name>mercury</name></material>
+	<material><name>Magnesium diboride</name></material>
+	<material><name>sulphur hydride</name></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula> <shape>films</shape> synthesized using advanced epitaxial growth on specific oxide substrates</material>
+	<material><formula>TiO2</formula></material>
+	<material><formula>TiO</formula></material>
+	<material><formula>Ti2O3</formula></material>
+	<material><formula>TinO2n-1, n ≥ 4</formula></material>
+	<material><formula>TiO2 (121</formula>)</material>
+	<material>Magnéli-phase <formula>Ti4O7</formula></material>
+	<material><name>Trititanium pentoxide</name> (<formula>Ti3O5</formula>)</material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><name>titanium-oxide</name> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown on (<substrate>LaAlO3)0. 3-(SrAl0.5Ta0.5O3)0.7</substrate> (<name>LSAT</name>) (100) substrates</material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape> grown on α-<substrate>Al2O3</substrate> (0001) substrates</material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape> <name>grown</name></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown under PO2</material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>d-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>TiO</formula></material>
+	<material><formula>NbO</formula></material>
+	<material><formula>SnO</formula></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>films</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><name>titanium-oxide</name> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>bulk</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula>)</material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown on <substrate>MgAl2O4</substrate> (100)</material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>TiOx</formula> ceramic tablet with the majority phase of <formula>Ti2O3</formula></material>
+	<material><name>titanium-oxide</name> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti 3O5</formula></material>
+	<material>Magnéli-phase <formula>TinO2n-1</formula> (<variable>n</variable> = <value>4</value>)</material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti3O5</formula></material>
+	<material>Magnéli phase <formula>(TinO2n-1</formula> at <variable>n</variable> = 3)</material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti 3O5</formula></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown on <substrate>LSAT</substrate> (100) substrates in <fabrication>Ar gas</fabrication></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape> grown on a-<substrate>Al2O3</substrate></material>
+	<material><formula>g-Ti3O</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti 3O5</formula></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>g-Ti 3O5</formula></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material>superconducting <formula>Ti4O7</formula></material>
+	<material><doping>insulating and superconducting</doping> <formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>insulating Ti4O7</formula> <shape>film</shape></material>
+	<material>superconducting <formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7 134</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material><formula>Ti4O7</formula></material>
+	<material>superconducting <formula>Ti4O7</formula> <shape>film</shape> grown on the <substrate>LSAT</substrate> (100) substrate</material>
+	<material><formula>insulating Ti4O7</formula> <shape>film</shape></material>
+	<material>superconducting <formula>Ti4O7</formula> <shape>film</shape></material>
+	<material>insulating (left) and superconducting (light) <formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> 134</material>
+	<material>superconducting <formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>g-Ti 3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape> grown on a-<substrate>Al2O3</substrate> (0001) substrates</material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape> grown on a-<substrate>Al2O3</substrate> (0001) substrates</material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula></material>
+	<material><formula>g-Ti 3O5</formula> <shape>films</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>g-Ti3O5</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown on <substrate>MgAl2O4</substrate> (100) substrates</material>
+	<material><formula>Ti4O7</formula> <shape>film</shape> grown on <substrate>MgAl2O4</substrate> (100) substrate</material>
+	<material><formula>Ti4O7</formula> <shape>film</shape> grown on <substrate>LSAT</substrate> (100) substrate</material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>films</shape></material>
+	<material><formula>Ti4O7</formula> <shape>film</shape> grown on <substrate>MgAl2O4</substrate> (100)</material>
+	<material><formula>Ti4O7</formula> <shape>films</shape> grown on (a) <substrate>MgAl2O4</substrate> (100) and (b) <name>LSAT</name> (100) substrates</material>
+</materials>

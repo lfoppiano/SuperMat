@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Na z CoO 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z Co 1-x M x O 2 ⋅yH 2 O</formula></material>
+	<material><variable>M</variable>=<value>Ir and Ga</value></material>
+	<material><formula>Na z CoO 2 ⋅yH 2 O</formula></material>
+    <!-- check -->
+    <material><shape>Polycrystalline</shape> samples of <formula>Na z&apos; Co 1-x M x O 2</formula> (<variable>M</variable>=<value>Ir and Ga</value>)</material>
+    <material><variable>z</variable>&apos; was <value>0.7 or 0.75</value></material>
+    <material><formula>Na z&apos; Co 1-x M x O 2</formula> (<variable>M</variable>=<value>Ir and Ga</value>)</material>
+    <material><variable>M</variable>=<value>Ir and Ga</value></material>
+    <material><variable>M</variable>=<value>Ir and for Ga</value></material>
+    <material><variable>x</variable>=<value>0</value></material>
+    <material>layered <name>cobalt oxide</name> <formula>Na z CoO 2 ⋅yH 2 O</formula> ( <variable>z</variable>~<value>0.3</value> and <variable>y</variable>~<value>1.3</value>)</material>
+	<material><name>cobalt oxide</name></material>
+    <material><formula>Na z CoO 2 ⋅yH 2 O</formula> ( <variable>z</variable>~<value>0.3</value> and <variable>y</variable>~<value>1.3</value>)</material>
+	<material><formula>Na z&apos; Co 1-x M x O 2</formula></material>
+	<material><formula>Na z Co 1-x M x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x M x O 2</formula></material>
+    <material><formula>Na z&apos; Co 1-x M x O 2</formula> sample</material>
+    <material><doping>Ir</doping>-doped system</material>
+    <material><doping>Ga</doping>-doped system</material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><formula>Co 1-x M x O 2</formula></material>
+	<material><formula>Co 1-x M x O 2</formula></material>
+	<material><formula>Co 1-x M x O 2</formula></material>
+	<material><formula>Na z Co 1-x M x O 2 ⋅yH 2 O</formula></material>
+    <material><variable>z</variable>&apos; is <value>0.75</value></material>
+    <material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+    <material><variable>x</variable> as <value>small as 0.02</value></material>
+    <material><formula>Co 1-x Ir x O 2</formula></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+	<material>Series B of <doping>Ir</doping>-doped system</material>
+	<material><variable>z</variable>&apos; is <value>0.75</value></material>
+	<material>series B of <doping>Ir</doping>-doped system</material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material>Series of <doping>Ga</doping>-doped system</material>
+	<material><variable>z</variable>&apos; is <value>0.7</value></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x M x O 2</formula></material>
+    <material><formula>Na z Co 1-x M x O 2 ⋅yH 2 O</formula> (<variable>M</variable>=<value>Ir and Ga</value>)</material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+	<material><formula>La 1.85 Sr 0.15 Cu 1-x Zn x O 4</formula></material>
+	<material><formula>Mg(B 1-x C x ) 2</formula></material>
+	<material><formula>Mg(B 1-x C x ) 2</formula></material>
+	<material><formula>La 1.85 Sr 0.15 Cu 1-x Zn x O 4</formula></material>
+	<material><formula>Cu(Co 1-x M x ) 2 S 4</formula></material>
+	<material><formula>(Co 1-x M x ) 4</formula></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><variable>x</variable>=<value>0.01</value></material>
+	<material><formula>La 1.85 Sr 0.15 Cu 1-x Zn x O 4</formula></material>
+	<material><formula>Cu(Co 1-x M x ) 2 S 4</formula></material>
+	<material><variable>M</variable>=<value>Ir</value></material>
+	<material><formula>Na z&apos; CoO 2</formula></material>
+<!--	<material><formula>T c</formula></material>-->
+	<material><formula>Na z CoO 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+    <material><variable>z&apos;</variable>=<value>0.75</value></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+    <material><variable>z&apos;</variable>=<value>0.75</value></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+	<material><variable>z&apos;</variable>=<value>0.75</value></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+	<material><variable>z&apos;</variable>=<value>0.75</value></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z Co 1-x Ir x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x Ga x O 2</formula></material>
+    <material><variable>z&apos;</variable>=<value>0.7</value></material>
+	<material><formula>Na z&apos; Co 1-x Ga x O 2</formula></material>
+    <material><variable>z&apos;</variable>=<value>0.7</value></material>
+	<material><formula>Na z Co 1-x Ga x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z Co 1-x Ga x O 2 ⋅yH 2 O</formula></material>
+	<material><formula>Na z&apos; Co 1-x Ir x O 2</formula></material>
+    <material><variable>z&apos;</variable>=<value>0.75</value></material>
+</materials>

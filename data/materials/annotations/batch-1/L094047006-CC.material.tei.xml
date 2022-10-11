@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Bi 2 Sr 2−x La x CuO 6+δ</formula></material>
+	<material><formula>Bi2Sr2−xLaxCuO 6+δ</formula> (<variable>x</variable>=<value>0.65, 0.40, 0.25, 0.15 and 0</value>)</material>
+	<material><variable>x</variable> <value>∼ 0.05</value></material>
+	<material><variable>x</variable>=<value>0.40</value></material>
+	<material><formula>Bi 2 Sr 2−x La x CuO 6+δ</formula></material>
+	<material><variable>x</variable>=<value>0.40, 0.25, 0.15 and 0</value></material>
+	<material><formula>Bi 2 Sr 2−x La x CuO 6+δ</formula></material>
+	<material><formula>Bi 2 O 3</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<!-- <material><formula>CuO 2</formula></material> -->
+	<material><formula>Bi2Sr2−xLaxCuO 6+δ</formula></material>
+	<material><formula>Bi 2 Sr 2 CuO 6.36</formula></material>
+	<material><variable>x</variable>=<value>0.4</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0.4</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable> <value>≥0.15</value></material>
+	<material><variable>x</variable>=<value>0.65</value></material>
+	<material><variable>x</variable>=<value>0.35</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable> <value>≤0.15</value></material>
+	<material><variable>x</variable> <value>≥0.25</value></material>
+	<material><variable>x</variable>=<value>0.40</value></material>
+	<material><variable>x</variable>=<value>0.40</value></material>
+	<material><variable>x</variable> <value>≤0.40</value></material>
+	<material><formula>Bi2Sr1.6La0.4CuO 6+δ</formula></material>
+	<material><formula>Bi2Sr2CuO 6+δ</formula></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><formula>Bi2Sr2−xLaxCuO 6+δ</formula></material>
+    <material><variable>x opt</variable> =<value>0.40</value></material>
+	<material>around <variable>x</variable>=<value>0.05</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><formula>Bi 2 Sr 1.6 La 0.4 CuO 6+δ</formula></material>
+	<material><formula>CeRh 1−x Ir x In 5</formula></material>
+	<material><formula>Bi 2 Sr 2−x La x CuO 6+δ</formula></material>
+	<material>(<variable>x</variable>=<value>0, 0.15, 0.25, 0.40 and 0.65</value>)</material>
+	<material><variable>x</variable> <value>≤0.40</value></material>
+	<material><variable>x</variable> <value>∼0.05</value></material>
+</materials>

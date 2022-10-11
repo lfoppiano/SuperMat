@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Overdoped</doping> <formula>La 2-x Sr x CuO 4</formula></material>
+	<material><doping>overdoped</doping> <formula>La 2-x Sr x CuO 4</formula> <shape>films</shape></material>
+	<material><formula>T 2 Ba 2 CuO 6+δ</formula></material>
+	<material><doping>underdoped</doping> <formula>YBa 2 Cu 3 O 7-δ</formula> (<name>YBCO</name>) <shape>films</shape></material>
+	<material><name>YBCO</name></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><formula>T 2 Ba 2 CuO 6+δ</formula> (<name>T2201</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><name>T2201</name></material>
+	<material><variable>x</variable> <value>&gt; 0.22</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>T2201</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> <shape>films</shape></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.27 and 0.30</value></material>
+	<material><doping>overdoped</doping> <name>LSCO</name> <shape>crystal</shape></material>
+	<material><name>LSCO</name> <shape>films</shape></material>
+	<material><name>LSCO</name> <shape>powders</shape></material>
+	<material><name>T2201</name> <shape>powders</shape></material>
+	<material><variable>x</variable> <value>≤ 0.21</value></material>
+	<material><variable>x</variable>  <value>0.24</value></material>
+	<material><variable>x</variable> = <value>0.30</value> <shape>film</shape></material>
+	<material><variable>x</variable>  <value>0.15</value></material>
+	<material><variable>x</variable>  <value>0.03 and 0.30</value></material>
+	<material><name>LSCO</name> <shape>powders</shape></material>
+	<material><variable>x</variable>  <value>0.19</value></material>
+	<material><doping>overdoped</doping><name> T2201</name></material>
+	<material><name>LSCO</name> <shape>films</shape></material>
+	<material><doping>under-and overdoped</doping> <name>LSCO</name> <shape>films</shape></material>
+	<material><doping>underdoped Ca</doping>-<name>YBCO</name> <shape>thick film</shape></material>
+	<material><name>LSCO</name></material>
+	<material><doping>overdoped</doping> <name>LSCO</name> <shape>films</shape></material>
+	<material><doping>Ca</doping>-doped <name>YBCO</name></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+	<material><doping>overdoped</doping><name> T2201</name></material>
+	<material><name>T2201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>T2201</name></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+	<material><doping>underdoped</doping> <name>LSCO</name> <shape>films</shape></material>
+	<material><name>LSCO</name></material>
+	<material>&quot;thick&quot; underdoped <name>YBCO</name> <shape>films</shape></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>T2201</name></material>
+	<material><name>T2201</name></material>
+	<material><name>LSCO</name></material>
+	<material><doping>underdoped</doping> <name>YBCO</name></material>
+	<material><doping>underdoped</doping> <name>LSCO</name></material>
+	<material><formula>La 2- x Sr x CuO 4</formula> <shape>films</shape>: <variable>x</variable> = <value>0.06, 0.15, 0.21, 0.30</value></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> <shape>films</shape>: <variable>x</variable> = <value>0.06, 0.15, 0.21, 0.30</value></material>
+	<material><name>LSCO</name> <shape>films</shape></material>
+	<material><name>LSCO</name></material>
+	<material><doping>overdoped</doping> <name>LSCO</name> <shape>film</shape></material>
+	<material><doping>overdoped</doping> <name>LSCO</name> <shape>films</shape></material>
+	<material><name>YBCO</name></material>
+	<material><doping>Ca</doping>-doped <name>YBCO</name> <shape>films</shape></material>
+	<material><doping>underdoped Ca</doping>- <name>YBCO</name> <shape>films</shape></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+</materials>

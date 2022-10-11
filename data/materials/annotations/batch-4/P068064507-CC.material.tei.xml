@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10-δ</formula> (<variable>R</variable>=<value>Rare-earth</value>, <name>Mo-1222</name>)</material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10-δ</formula> (<name>Mo-1222R</name>, <variable>R</variable>=<value>rare earth</value>)</material>
+	<material><formula>RuSr 2 R 1.5 Ce 0.5 Cu 2 O 10-δ</formula> (<name>Ru-1222</name>)</material>
+	<material><name>Mo-1222</name></material>
+<!--	<material><doping>middle R ions (Sm and Eu)</doping></material>-->
+	<material><variable>R</variable>=<value>Gd</value></material>
+	<material><formula>RuSr 2 R 2-x Ce x Cu 2 O 10</formula> (<variable>R</variable>= <value>Eu and Gd</value>, <name>Ru-1222</name>)</material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula> (<name>Ru-1212</name>)</material>
+    <!-- check seems like a class -->
+	<material><name>Ru-1222</name> materials</material>
+	<material><name>M-1222</name> (<variable>M</variable>= <value>Nb and Ta</value>)</material>
+	<material><name>Ru-1222</name></material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula> (<name>Mo-1222</name>)</material>
+	<material><name>Ru-1222</name></material>
+	<material><name>Mo-1222</name></material>
+	<material><name>M-1222</name> (<variable>M</variable>=<value>Nb, Ta</value>)</material>
+	<material><name>Ru-1222</name> materials</material>
+	<material><name>Mo-1222</name></material>
+	<material><name>Mo-1222</name></material>
+    <!-- probably a class -->
+<!--	<material><doping>light R element (Pr and Nd</doping>)</material>-->
+    <material><variable>R</variable>=<value>Sm and Eu</value></material>
+    <!-- check -->
+<!--	<material><name>heavy R ions</name> (<doping>Ho-Yb and Y</doping>)</material>-->
+	<material><formula>MoSr 2 Gd 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+	<material><name>Mo-1222</name></material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula> (<name>Mo-1222R</name>)</material>
+<!--	<material><formula>MoSr 2 RCeCu 2 O 10</formula> (<variable>R/Ce</variable>=<value>1</value>)</material>-->
+	<material><name>Mo1222R</name> (<variable>R</variable>= <value>Eu, Gd and Y</value>)</material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+	<material><variable>R</variable>=<value>Pr and Nd</value></material>
+	<material><variable>R</variable>=<value>Yb</value></material>
+	<material><name>Mo-1222Eu</name></material>
+	<material><name>Mo-1222Y</name></material>
+	<material><formula>SrMoO 4</formula></material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula> (<variable>R</variable>=<value>Pr and Nd</value>)</material>
+	<material><name>Mo-1222R</name> (<variable>R</variable>=<value>Pr Nd and La</value>)</material>
+	<material><name>Mo-1222Y</name></material>
+	<material><formula>Y Ba 2 Cu 2 O 7</formula></material>
+	<material><name>Y123</name></material>
+	<material><name>Mo-1222R</name> (<variable>R</variable>=<value>Pr and Nd</value>)</material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula> (<variable>R</variable>=<value>Sm and Eu</value>)</material>
+	<material><name>Mo-1222Eu</name></material>
+	<material><formula>MoSr 2 EuCeCu 2 O 10</formula></material>
+	<material><variable>R</variable>=<value>Sm</value></material>
+	<material><variable>R</variable>=<value>Sm</value></material>
+    <material><variable>R</variable>=<value>Eu</value></material>
+	<material><name>Ru-1222</name></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+    <material><name>Mo-1222</name> (<doping>Sr 2+ , Cu 2+ and O 2-</doping>)</material>
+	<material><formula>Eu 2 O 3</formula></material>
+	<material><formula>MoSr 2 EuCeCu 2 O 10</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>MoEu 1.5 Ce 0.5 Sr 2 Cu 2 O 10-δ</formula></material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula> (<variable>R</variable>=<value>Ho-Lu and Y</value>)</material>
+	<material><name>Mo-1222R</name> (<variable>R</variable>=<value>Y, Er and Tm</value>)</material>
+	<material><variable>R</variable>=<value>Ho and Lu</value></material>
+	<material><variable>R</variable>=<value>Yb</value></material>
+	<material><name>Mo-1222Y</name></material>
+	<material><formula>SrMoO 4</formula></material>
+<!--	<material><formula>Mo 5+ (4d 1</formula> , <variable>S</variable>=<value>0.5</value>)</material>-->
+	<material><variable>R</variable>=<value>Ho-Yb</value></material>
+	<material><variable>R</variable>=<value>Tb and Dy</value></material>
+	<material><variable>R</variable>= <value>Dy</value></material>
+	<material><variable>R</variable>=<value>Tb</value></material>
+	<material><name>Tb123</name></material>
+	<material><formula>MoSr 2 Gd 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+	<material><name>Gd123</name></material>
+	<material><name>M-1212</name> (<variable>M</variable>=<value>Ru and Mo</value>)</material>
+	<material><name>Ru-1222</name></material>
+	<material><formula>MoSr 2 GdCeCu 2 O 10</formula> (Gd/Ce=1)</material>
+	<material><formula>MoSr 2 GdCeCu 2 O 10</formula></material>
+	<material><variable>R</variable>=<value>Gd</value></material>
+	<material><name>Mo-1222R</name></material>
+	<material><name>Mo-1222</name></material>
+	<material><name>Mo-1222</name> (<value>Mo 5+</value> )</material>
+	<material><formula>MoSr 2 R 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+	<material><name>Mo-1222</name></material>
+	<material><formula>MoSr 2 Eu 1.5 Ce 0.5 Cu 2 O 10</formula> (SC)</material>
+	<material><formula>MoSr 2 EuCeCu 2 O 10</formula></material>
+	<material><name>Mo-1222R</name> <variable>R</variable>= <value>Er, Tm and Y</value> (inset)</material>
+	<material><formula>MoSr 2 Gd 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+	<material><formula>MoSr 2 GdCeCu 2 O 10</formula></material>
+	<material><formula>MoSr 2 Gd 1.5 Ce 0.5 Cu 2 O 10</formula></material>
+</materials>

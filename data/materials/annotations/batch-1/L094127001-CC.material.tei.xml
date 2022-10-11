@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>R 2−x Ce x CuO 4−δ</formula> (<variable>R</variable>= <value>Nd, Sm, Pr</value>)</material>
+    <material><formula>(Sr,Ln)CuO 2</formula> (<variable>Ln</variable>=<value>La, Sm, Nd, Gd</value>)</material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula> (<name>SLCO</name>)</material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+    <!-- check -->
+	<material>n-type <name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4</formula> (<name>NCCO</name>) <shape>single crystals</shape></material>
+	<material><name>SLCO</name></material>
+    <!-- check -->
+    <material><name>n-type NCCO</name></material>
+	<material><formula>Sr0.9La0.1CuO2</formula> (<name>SLCO</name>)</material>
+	<material><formula>Nd1.85Ce0.15CuO 4−δ</formula> (<name>NCCO</name>) <shape>single crys- tals</shape></material>
+	<material><shape>single crystals</shape> of <name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><name>SLCO</name></material>
+</materials>

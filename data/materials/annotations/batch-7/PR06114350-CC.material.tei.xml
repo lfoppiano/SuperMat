@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula></material>
+	<material><formula>L a 1.78 Sr 0.22 CuO 4</formula></material>
+	<material><formula>La 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula></material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><formula>La 1.78 Sr 0.22 CuO 4</formula></material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><formula>La 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula> with nominal <variable>x</variable>=<value>0, 0.01, and 0.02</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><value>0.01</value></material>
+	<material><value>0.02</value></material>
+	<material><formula>Sr 0.22 Cu 1-x Ni x O 4</formula></material>
+	<material><variable>x</variable>=<value>0, 0.01 and 0.02</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0.01</value></material>
+	<material><variable>x</variable>=<value>0.01 and 0.02</value></material>
+	<material><variable>x</variable>=<value>0.01</value></material>
+	<material><formula>L a 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula></material>
+	<material><variable>x</variable>=<value>0, 0.01, and 0.02</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><doping>Ni</doping>-doped</material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><variable>x</variable>=<value>0.01 and 0.02</value></material>
+	<material><variable>x</variable>=<value>0.02</value></material>
+	<material><variable>x</variable>=<value>0.02</value></material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><formula>YBa 2 Cu 3 O 7-d</formula></material>
+	<material><formula>La 1-x Sr x CuO 4</formula></material>
+	<material><formula>La 1.78 Sr 0.22 CuO 4</formula></material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><doping>Ni</doping>-doped samples</material>
+	<material><formula>La 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula> with <variable>x</variable>=<value>0,0.01 and 0.02</value></material>
+	<material><formula>Sr 0.22 Cu 0.99 Ni 0.01 O 4</formula></material>
+	<material><formula>La 1.78 Sr 0.22 Cu 0.99 Ni 0.01 O 4</formula></material>
+	<material><formula>La 1.78 Sr 0.22 Cu 1-x Ni x O 4</formula></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0.01</value></material>
+	<material><variable>x</variable>=<value>0.02</value></material>
+</materials>

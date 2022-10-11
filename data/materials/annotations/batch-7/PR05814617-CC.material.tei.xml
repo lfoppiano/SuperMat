@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><shape>single-crystal</shape> <formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa2Cu4O8</formula> (<name>Y-124</name>) <shape>single crystals</shape></material>
+	<material><formula>YBa2Cu3O6+x</formula> (<name>Y-123</name>)</material>
+	<material><formula>YBa2Cu3O6+x</formula> (<name>Y-123</name>)</material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>Nd 2−x Ce x CuO 4</formula> (<name>Nd-214</name>)</material>
+	<material><formula>Bi 2 Sr 2 CaCuO 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+x</formula> (<name>Y-123</name>)</material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>La-214</name>)</material>
+	<material><doping>un- doped</doping>, insulating <name>Y-123</name> and <name>La-214</name></material>
+	<material><doping>optimally-doped</doping> <name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula> (<name>Y-124</name>)</material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y- 123</name></material>
+	<material>189 and 259) were grown in <formula>Al 2 O 3</formula> crucibles</material>
+	<material>third crystal (315), grown in <formula>Y 2 O 3</formula></material>
+	<material>spec- imen 315</material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<!-- <material><name>189 and 259</name></material> -->
+	<!-- <material><name>315</name></material> -->
+	<material><name>Nd- 214</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-124</name></material>
+	<!-- <material><name>189 and 259</name></material> -->
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name> <shape>crystals</shape></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><doping>Al</doping>-doped <shape>crystals</shape></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y- 123</name></material>
+	<!-- <material><name>Al-free specimen 315</name></material> -->
+	<!-- <material><name>spec- imen 259</name></material> -->
+	<!-- <material><name>specimen 259</name></material> -->
+	<material>un- twinned <name>Y-123</name></material>
+	<material><doping>optimally-doped</doping> <name>Y-123</name></material>
+	<material><name>Y- 123</name></material>
+	<material><doping>optimally-doped</doping> <name>Y-123</name></material>
+	<material><doping>underdoped</doping> <name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><doping>optimally-doped</doping> <name>Y-123</name></material>
+</materials>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La2−xSrxCuO4</formula> <shape>polycrystalline</shape> <doping>compounds with Sr concentration up</doping> to <variable>x</variable>=<value>0.24</value></material>
+	<material><formula>YBa 2 Cu 3 O 6.5</formula></material>
+	<material><formula>YBa 2 Cu 2 O</formula> <shape>over</shape></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O x</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>YBa 2 Cu 3 CuO x</formula></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><name>LSCO</name> <shape>polycrystalline compounds</shape> with <variable>x</variable>=<value>0.06−0.24</value></material>
+	<material><variable>x</variable>=<value>0.24</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.06 and 0.07</value></material>
+	<material><formula>La 1.76 Sr 0.24 CuO 4</formula></material>
+	<material><formula>La 1.94 Sr 0.06 CuO 4</formula></material>
+	<material><formula>La 1.93 Sr 0.07 CuO 4</formula></material>
+	<material><formula>La 1.94 Sr 0.06 CuO 4</formula></material>
+	<material><formula>La 1.93 Sr 0.07 CuO 4</formula></material>
+	<material><doping>Sr contents</doping> up to <variable>x</variable>=<value>0.17</value></material>
+</materials>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Ba 0.63 K 0.37 BiO 3</formula> <shape>single crystal</shape></material>
+	<material><formula>Ba0.63K0.37BiO3</formula> <shape>single crystal</shape></material>
+	<material><name>BKBO</name></material>
+	<material><formula>Ba 1−x K x BiO 3</formula> (<name>BKBO</name>)</material>
+	<material><name>BKBO</name></material>
+	<material><name>BKBO</name></material>
+	<material><name>BKBO</name> <shape>single crystal</shape></material>
+	<material><name>BKBO</name></material>
+	<material><formula>Ba 0.63 K 0.37 BiO 3</formula> <shape>single crystal</shape></material>
+	<material><variable>x</variable>≈<value>0.37</value></material>
+	<material><name>BKBO</name></material>
+</materials>

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Grobid-quantities documentation build configuration file, created by
+# Supermat documentation build configuration file, created by
 # sphinx-quickstart on Fri Aug 11 14:42:55 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -71,6 +71,9 @@ release = '1.0.0'
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
 language = "en"
+
+locale_dirs = ['locale/']
+gettext_compact = False
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -175,3 +178,7 @@ epub_copyright = copyright
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+
+gettext_uuid = True
+gettext_compact = False

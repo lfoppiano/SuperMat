@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><fabrication>Untwinned</fabrication> <formula>YBa 2 Cu 3 O y</formula> <shape>Single Crystals</shape></material>
+	<material><fabrication>untwinned</fabrication> <formula>YBa2Cu3Oy</formula> <shape>single crystals</shape></material>
+	<material><variable>y</variable> = <value>6.45 − 7.0</value></material>
+	<material><doping>optimally- doped</doping> <formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><fabrication>un- twinned</fabrication> <formula>YBa 2 Cu 3 O y</formula> (<name>YBCO</name>) <shape>single crystals</shape></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><variable>y</variable> ≃ <value>6.65</value></material>
+	<material><name>YBCO</name> <shape>single crystals</shape></material>
+	<material><formula>Y 2 O 3</formula></material>
+	<material><variable>y</variable> = <value>6.45 − 7.0</value></material>
+	<material><variable>y</variable>=<value>6.50</value></material>
+	<material><variable>y</variable>=<value>6.95 and 7.0</value></material>
+	<material><variable>y</variable>=<value>6.8</value></material>
+	<material><variable>y</variable>=<value>6.8</value></material>
+	<material><variable>y</variable>=<value>6.7</value></material>
+	<material><name>YBCO</name></material>
+	<material><variable>y</variable>=<value>6.7</value></material>
+	<material><variable>y</variable> ≃ <value>6.7</value></material>
+	<material><variable>y</variable>=<value>6.7</value></material>
+	<material><name>YBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.12</value></material>
+	<material><name>YBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.12</value></material>
+	<material><variable>y</variable> ≃ <value>6.65</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.12</value></material>
+	<material><name>YBCO</name></material>
+	<material><variable>y</variable> ≃ <value>6.65</value></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>Nd-free</doping> <name>LSCO</name></material>
+	<material><variable>y</variable>=<value>6.7</value></material>
+</materials>

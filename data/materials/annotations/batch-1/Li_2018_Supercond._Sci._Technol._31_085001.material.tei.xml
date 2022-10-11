@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>doped</doping> <formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr5Ge3</formula></material>
+	<material><formula>BaBi3</formula></material>
+	<material><formula>SrBi3</formula> <shape>single crystals</shape></material>
+	<material><doping>doped</doping> <formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3−x Ru x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Ta 5 Ge 3</formula></material>
+	<material><formula>Nb 5 Si 3</formula></material>
+	<material><formula>Zr 5 X 3</formula> (<variable>X</variable>=<value>Sb, Pb, Sn, Ge, Si and Al</value>)</material>
+	<material><formula>Zr 5 Sb 3</formula></material>
+	<material><doping>Ru</doping>-doped <formula>Zr 5 Sb 3</formula></material>
+	<material><formula>Hf 5 Sb 3</formula></material>
+	<material><doping>Ru</doping>-doped <formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><doping>Pt</doping> doped <formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Ru x</formula></material>
+	<material><doping>Pd</doping>, or <doping>Ir</doping> doping</material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+    <material><formula>Zr 5 Sb 3−x Ru x</formula> and <formula>Hf 5 Sb 3−x Ru x</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><doping>Ru</doping> doping</material>
+	<material><formula>Pd</formula></material>
+	<material><formula>Ir</formula></material>
+	<material><name>Pt</name>,</material>
+	<material><formula>Ru</formula></material>
+	<material><formula>Zr 5 Ir 3</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>ZrGe 2</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pd 0.5</formula></material>
+    <material><variable>x</variable>=<value>0.5</value></material>
+    <material><formula>Zr 5 Ge 3−x M x</formula> (<variable>M</variable>=<value>Pd, Ir, and Pt</value>)</material>
+	<material><formula>ZrPd</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+<!--	<material><doping>Zr-Ir</doping> alloy</material>-->
+	<material><formula>Pt</formula></material>
+	<material><formula>Ru</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+    <!--    check -->
+	<material><doping>Ge site doped</doping> sample <formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+    <!--    check -->
+	<material><fabrication>Zr site</fabrication> <formula>Zr 4.5 Pt 0.5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Sb 3−x Ru x</formula></material>
+	<material><formula>Hf 5 Sb 3−x Ru x</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Ru x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><variable>x</variable>=<value>0, 0.2, 0.5, 1.0 and 1.2</value></material>
+    <material><doping>0%, 6.7%, 16.7%, 33.3%, and 40%</doping></material>
+    <material><variable>x</variable> = <value>1</value></material>
+	<material><formula>Zr 5 Ge 2 Pt</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Ir 0.5</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pd 0.5</formula></material>
+	<material><formula>ZrGe 2</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>ZrPd</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pd 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3−x M x</formula></material>
+	<material><doping>doped</doping> <formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 2.8 Pt 0.2</formula></material>
+	<material><formula>Zr 5 Ge 2 Pt</formula></material>
+	<material><formula>Zr 5 Ge 2.8 Pt 0.2</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula> samples</material>
+	<material><formula>Zr 5 Ge 2 Pt</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><name>Pt</name> doped <formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Zr 5 Pt 3</formula></material>
+	<material><formula>Zr 5 Ge 2 Pt</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Sb 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Ru 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><name>Pt</name> doped <formula>Zr 5 Ge 3</formula></material>
+	<material><name>Pt</name> doped <formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><variable>x</variable>=<value>0, 0.2, 0.5 and 1.0</value></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Y 5 Ge 3</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Cr 5 Ge 3</formula></material>
+	<material><formula>W 5 Si 3</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>W 5 Si 3</formula></material>
+	<material><formula>Zr 5−x Y x Ge 3</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Zr 5−x Cr x Ge 3</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>ZrCrGe 2</formula></material>
+	<material><formula>Mn 5 Si 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 2.5 Pt 0.5</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5 Sb 3−x Ru x</formula></material>
+	<material><formula>Hf 5 Sb 3−x Ru x</formula></material>
+	<material><formula>Zr 5 Ge 3−x Pt x</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+	<material><formula>Zr 5−x Y x Ge 3</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Zr 5−x Cr x Ge 3</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>ZrCrGe 2</formula></material>
+	<material><formula>Zr 5 Ge 3</formula></material>
+</materials>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba1−xKxBiO3</formula></material>
+	<material><formula>Sm 2−x Ce x CuO 4</formula></material>
+	<material><formula>Tl 2 Ba 2 CuO 6+δ</formula></material>
+	<material><formula>Bi 2 Sr 2 CuO y</formula></material>
+	<material><formula>YBa 2 (Cu 1−x Zn x )O 7−δ</formula></material>
+    <!-- check - probably wrong annotation in the other data -->
+	<material>non magnetic <formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material>The <shape>single-crystalline</shape> <formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula> <shape>single crystal</shape></material>
+	<material><formula>Ba1−xKxBiO3</formula> <shape>single crystal</shape></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula> <shape>film</shape></material>
+	<material><formula>Ba1−xKxBiO3-Ag</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+	<material><formula>Ba1−xKxBiO3</formula></material>
+	<material><formula>Ba 1−x K x BiO 3</formula> <shape>crystal</shape></material>
+	<material><formula>Ba 1−x K x BiO 3</formula></material>
+</materials>

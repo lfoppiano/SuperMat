@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><doping>pure</doping> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><variable>x opd</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><doping>Cu 2+ substituted</doping> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>RFeAsO</formula> (<variable>R</variable> = <value>La − Gd</value>)</material>
+	<material><formula>AFe 2 As 2</formula> (<variable>A</variable> = <value>Ba, Sr, Ca, Eu</value>)</material>
+	<material>semi-metallic <formula>BaFe 2 As 2</formula></material>
+	<material><doping>Mn and Cr substituted</doping> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><doping>Co-substituted</doping> samples</material>
+	<material><doping>Cu-substituted</doping> <formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><variable>x opd</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><doping>Cu-substituted</doping> <formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><name>lead</name></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula> <shape>single crystals</shape> with <variable>x</variable> = <value>0, 0.02, 0.09, 0.10, 0.11 and 0.13</value></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula> <shape>single crystals</shape> for <variable>x</variable> = <value>0, 0.02, 0.09, 0.10, 0.11 and 0.13</value></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><variable>x</variable> <value>0.09</value></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><variable>x</variable> = <value>0.09</value></material>
+	<material><variable>x</variable> = <value>0.10 and 0.11</value></material>
+	<material><variable>x opd</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> <value>&gt; 0.10</value></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula> <shape>single crystals</shape></material>
+	<material><variable>x</variable> = <value>0.11 and 0.13</value></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula> <shape>single crystals</shape></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><formula>BaFe 1.89 Cu 0.11 As 2</formula></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><formula>BaFe 1.98 Cu 0.02 As 2</formula></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><doping>pure</doping> <formula>BaFe 2 As 2</formula></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><formula>BaCu 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaCu 2 As 2</formula></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>BaFe 2−x Cu x As 2</formula></material>
+	<material><variable>x opd</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+	<material><variable>x</variable> = <value>0.02</value></material>
+</materials>

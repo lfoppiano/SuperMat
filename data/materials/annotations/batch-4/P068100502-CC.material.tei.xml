@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La1.7Sr0.3CuO4</formula></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><doping>OD</doping> <formula>Tl 2 Ba 2 CuO 6+δ</formula> (<name>Tl2201</name>)</material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>) <shape>crystals</shape> (<variable>x</variable> = <value>0.30</value>)</material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><doping>OD</doping> <name>Tl2201</name></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula> <shape>single crystal</shape></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><doping>OD</doping> <name>Tl2201</name></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><name>LSCO</name></material>
+	<material><doping>OD</doping> <name>Tl2201</name></material>
+	<material><formula>Pr 2−x Ce x CuO 4</formula> (<name>PCCO</name>)</material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><name>LSCO</name></material>
+	<material><doping>OD</doping> <name>Tl2201</name></material>
+	<material><doping>OD</doping> <name>PCCO</name></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><formula>La 1.7 Sr 0.3 CuO 4</formula></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+</materials>

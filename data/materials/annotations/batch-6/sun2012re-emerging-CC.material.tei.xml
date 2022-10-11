@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>A 1-x Fe 2-y Se 2</formula> (<variable>A</variable>=<value>K, Rb or Cs, with possible Tl</value> substitution)</material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula> <shape>single crystals</shape></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula> <shape>single crystals</shape></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>Tl 0.6 Rb 0.4 Fe 1.67 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.7 Se 2</formula></material>
+	<material><formula>K 0.8 Fe 1.78 Se 2</formula></material>
+</materials>

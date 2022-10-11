@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><doping>Gd</doping> doped <shape>single crystals</shape></material>
+	<material><formula>YBa2Cu3O6+y</formula></material>
+	<material>samples with ≈ <doping>1% substitution</doping></material>
+	<material><formula>GdxY1−xBa2Cu3O6+y</formula></material>
+	<material><variable>y</variable> = <value>0.993</value></material>
+	<material><variable>y</variable> = <value>0.77</value></material>
+	<material><variable>y</variable> = <value>0.52</value></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula> at <variable>y</variable>=<value>0.60 and 0.95</value></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+    <material><formula>Gd 2 O 3 :Y 2 O 3</formula></material>
+	<material><doping>slightly over- doped</doping> (nearly full CuO chains, <variable>y</variable>=<value>0.993</value>)</material>
+	<material>ortho-II ordered (alternating full and empty chains, <variable>y</variable>=<value>0.52</value>) <shape>crystals</shape></material>
+	<material><variable>y</variable>=<value>0.67</value></material>
+	<material><variable>y</variable>=<value>0.77</value></material>
+	<material><formula>Ga 3 Gd 5 O 12</formula></material>
+    <!-- check -->
+    <!-- <material><formula>GdLα</formula></material> -->
+	<material><formula>LiF</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.95</formula></material>
+    <!-- check -->
+    <!-- <material><formula>BaLα</formula></material> -->
+	<material>PET</material>
+	<material><formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<!-- <material><formula>CuKα</formula></material> -->
+	<material><formula>LiF</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<!-- These are spectroscospic lines -->
+	<!-- <material><formula>OKα</formula></material> -->
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula> <shape>crystal</shape></material>
+    <material><variable>x</variable>= <value>1.05</value>(.06)%</material>
+    <material><variable>x</variable>= <value>1.37</value>(.12)%.</material>
+    <material><shape>single crystal</shape> <formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+    <material><doping>pure and Gd</doping> doped <formula>YBa 2 Cu 3 O 6.99</formula></material>
+    <material><formula>Gd0.01Y0.99Ba2Cu3O6.99</formula> <shape>single crystal</shape></material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.99</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<material><formula>Gd 0.01 Y 0.99 Ba 2 Cu 3 O 6.95</formula></material>
+	<material><doping>Gd</doping> doped <formula>YBa 2 Cu 3 O 6.99</formula></material>
+    <!-- check -->
+	<material><formula>Gd:YBa 2 Cu 3 O 6.99</formula></material>
+	<material><doping>Pure</doping> <formula>YBa 2 Cu 3 O 6.99</formula></material>
+	<material><formula>Gd0.01Y0.99Ba2Cu3O6.99</formula></material>
+    <material><doping>Gd</doping> doped samples</material>
+    <material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+    <material><formula>Gd 0.01 Y 0.99 Ba 2 Cu 3 O 6.99</formula></material>
+	<material><variable>y</variable>=<value>0.93</value>)</material>
+	<material><formula>GdxY1−xBa2Cu3O6+y</formula> sample with <variable>x</variable>=<value>.03</value></material>
+    <material><formula>YBa 2 Cu 3 O 6+y</formula> <shape>single crystals</shape></material>
+    <material><doping>optimally doped</doping> (<variable>y</variable>=<value>0.93</value>) <shape>crystals</shape> having <fabrication>three different concentrations of Gd ions</fabrication>; <variable>x</variable>≃ <value>0.5%</value>, <variable>x</variable>≃ <value>1%</value>, and <variable>x</variable>≃ <value>3%</value></material>
+<!--    <material><doping>nomi- nally 0</doping>.5% and 3% samples</material>-->
+    <material><variable>x</variable>= <value>1%</value></material>
+    <material><doping>optimally doped</doping> <formula>GdxY1−xBa2Cu3O6+y</formula> sample with <variable>x</variable>=<value>.03</value></material>
+    <material><doping>1% Gd</doping> samples</material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+	<material><fabrication>magnetically aligned</fabrication> <formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula> <shape>powders</shape></material>
+	<material><variable>y</variable> <value>≈ 0.5</value></material>
+	<material><formula>Gd 0.01 Y 0.99 Ba 2 Cu 3 O 6+y</formula></material>
+	<material><variable>y</variable>=<value>0.93</value>)</material>
+	<material><name>YBCO</name></material>
+	<material><doping>oxygen-overdoped</doping> <formula>Gd.01Y.99Ba2Cu3O6.993</formula></material>
+	<material><formula>Gd.01Y.99Ba2Cu3O6+y</formula></material>
+	<material><formula>Gd x Y 1−x Ba 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.60</formula></material>
+	<material><doping>optimally doped</doping> sample of <formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6.99</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+	<material><formula>YBa2Cu3O6+y</formula> for <variable>y</variable>=<value>0.52</value>, <variable>y</variable>=<value>0.77</value> and <variable>y</variable>=<value>0.995</value></material>
+	<material><formula>YBa 2 Cu 3 O 6.993</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6+y</formula></material>
+</materials>

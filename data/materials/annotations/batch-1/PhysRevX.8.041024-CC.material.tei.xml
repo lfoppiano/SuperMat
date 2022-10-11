@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+    <material><doping>Cu-</doping>, <doping>Sr-</doping>, and <doping>Nb</doping>-doped <formula>Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula> (<variable>x</variable> ¼ <value>0.31</value>) <shape>single crystals</shape></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula> <shape>crystals</shape></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula> <shape>crystals</shape></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><fabrication>intercalated</fabrication> <formula>Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Bi 2 Te 3</formula> <shape>films</shape> grown on a <substrate>NbSe 2</substrate> substrate</material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Bi 2 Te 3</formula> <shape>films</shape> grown on <substrate>NbSe 2</substrate></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+	<material><doping>doped</doping> <formula>Bi 2 Se 3</formula></material>
+	<material><formula>Cu x Bi 2 Se 3</formula></material>
+</materials>

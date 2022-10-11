@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 RCu 2 O 8</formula> (<variable>R</variable> = <value>Sm, Eu, Gd, Y</value>)</material>
+	<material><formula>TlBa 2 CaCu 2 O 7</formula></material>
+	<material><formula>RuCa 2 RCu 2 O 8</formula> (<variable>R</variable> = <value>Pr-Gd</value>)</material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>RuSr 2 EuCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 SmCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 RCu 2 O 8</formula> (<variable>R</variable> = <value>Pr, Nd</value>)</material>
+	<material><formula>RuSr 2 YCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuO 2</formula></material>
+	<material><formula>SrCO 3 (99.99 %</formula>)</material>
+	<material><formula>Gd 2 O 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>RuSr 2 GdO 6</formula></material>
+	<material><formula>Cu 2 O</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2 O8</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>TlBa 2 CaCu 2 O 7</formula></material>
+	<material><formula>Ru 1−x Cu x Sr 2 GdCu 2 O 8</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+</materials>

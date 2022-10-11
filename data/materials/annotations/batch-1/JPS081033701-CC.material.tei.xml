@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><doping>isovalent-P-substituted</doping> <formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+	<material><doping>isovalent-P-substituted</doping> <formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+    <material><doping>isovalent- P-substituted</doping> <formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><doping>isovalent P substitution</doping></material>
+    <material><formula>BaFe 2 (As 0.80 P 0.20 ) 2</formula></material>
+    <material><formula>BaFe 2 (As 0.75 P 0.25 ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+	<material><formula>BaFe 2 (As 0:80 P 0:20 ) 2</formula></material>
+	<material><formula>BaFe 2 (As 0:75 P 0:25 ) 2</formula></material>
+    <material><variable>x</variable> = <value>0.20 and 0.25</value></material>
+    <material><variable>x</variable> = <value>0.20</value></material>
+    <material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+    <material><variable>x</variable> = <value>0.25</value></material>
+    <material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.07</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+    <material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><value>0.1 &lt;</value> <variable>x</variable> <value>&lt; 0.13</value> on <formula>SmFeAsO 1−x F x</formula></material>
+	<material><formula>BaFe 2 (As 0.75 P 0.25 ) 2</formula></material>
+	<material><formula>SmFeAsO 1−x F x</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><formula>Ba(Fe 1−x Co x ) 2 As 2</formula></material>
+    <material><formula>Ba 1−x K x Fe 2 As 2</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+	<material><variable>x</variable> ¼ <value>0:20 and 0.25</value></material>
+	<material><variable>x</variable> ¼ <value>0:20</value> sample</material>
+	<material><variable>x</variable> ¼ <value>0:25</value> sample</material>
+	<material><variable>x</variable> ¼ <value>0:25</value></material>
+	<material><variable>x</variable> ¼ <value>0:25</value></material>
+	<material><variable>x</variable> ¼ <value>0:07</value> sample</material>
+	<material><formula>BaFe 2 (As 0:75 P 0:25 ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+	<material><variable>x</variable> ¼ <value>0:20</value> sample</material>
+	<material><variable>x</variable> ¼ <value>0:25</value> sample</material>
+	<material><variable>x</variable> ¼ <value>0:25</value> sample</material>
+	<material><variable>x</variable> ¼ <value>0:25</value></material>
+	<material><variable>x</variable> ¼ <value>0:20</value></material>
+    <material><value>0:1 &lt;</value> <variable>x</variable> <value>&lt; 0:13</value> on <formula>SmFeAsO 1Àx F x</formula></material>
+	<material><formula>SmFeAsO 1Àx F x</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+	<material><formula>Ba(Fe 1Àx Co x ) 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+    <material><formula>CeCo(In 1−x Cd x</formula> )</material>
+	<material><formula>CeCo(In 1Àx Cd x )</formula></material>
+	<material><formula>CeRhIn 5</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><formula>UNi 2 Al 3</formula></material>
+	<material><formula>UGe 2</formula></material>
+	<material><formula>URhGe</formula></material>
+	<material><formula>UCoGe</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><formula>BaFe 2 (As 1−x P x ) 2</formula></material>
+    <material><formula>BaFe 2 (As 0.80 P 0.20 ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+	<material><formula>BaFe 2 (As 0:80 -P 0:20 ) 2</formula></material>
+	<material><formula>BaFe 2 -(As 1Àx P x ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1Àx P x ) 2</formula></material>
+</materials>

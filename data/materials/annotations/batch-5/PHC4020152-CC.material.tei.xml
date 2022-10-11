@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><doping>Sr substitutes Ba</doping> from <variable>y</variable> = 0 to <variable>y</variable> = <value>1.0</value></material>
+	<material><variable>y</variable> = <value>0</value></material>
+	<material><formula>Hg 2 Ba 2 YCu 2 O 8−δ</formula></material>
+	<material><variable>y</variable> = <value>0</value> compound</material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 Ba 2 YCu 2 O 8−δ</formula> (<name>Hg-2212</name>)</material>
+	<material><formula>Hg 2 Ba 2 (Y 1−x Ca x )Cu 2 O 8−δ</formula></material>
+	<material><variable>x</variable> ∼ <value>0.15</value></material>
+	<material><variable>x</variable> ∼ <value>0.40</value></material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 Ba 2 YCu 2 O 8−δ</formula></material>
+	<material><name>Hg-2212</name></material>
+	<material><doping>optimally doped</doping> (<name>Hg,Pb)-2212</name></material>
+	<material><formula>(La,Sr) 2 CuO 4</formula></material>
+	<material>epitaxial <formula>(La,Sr)CuO 4</formula> <shape>films</shape></material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><value>0 ≤</value> <variable>y</variable> <value>≤ 1.0</value></material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Ba 2 YCu 2 O z</formula> &quot;</material>
+	<material>&quot;<formula>Sr 2 YCu 2 O z</formula> &quot;</material>
+	<material><formula>Y 2 O 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>Y 2 BaCuO 5</formula></material>
+	<material><formula>BaCuO 2</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>YBa 3 Cu 2 O 6.5+x</formula></material>
+	<material><formula>Hg 2 (Ba 0.5 Sr 0.5 ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 7.50</formula> composition, with <variable>y</variable> = <value>0 -0.25</value></material>
+	<material><formula>Hg 2 (Ba 0.75 Sr 0.25 ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><formula>BaCuO 2</formula></material>
+	<material><formula>BaCuO 2</formula></material>
+	<material><formula>BaO 2</formula></material>
+	<material><formula>BaO 2</formula></material>
+	<material><formula>SrCuO 2</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Ca 2 CuO 3</formula></material>
+	<material><formula>CaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><name>Hg-2212</name></material>
+	<material><name>Hg-1212</name></material>
+	<material><doping>Sr-substituted</doping> <name>Hg-2212</name></material>
+	<material><doping>Ca</doping> doped <name>Hg-2212</name></material>
+	<material><name>Hg-2212</name></material>
+	<material><name>Ca-rich (Hg,Pb)-2212</name> compounds</material>
+	<material><name>Hg-1223</name></material>
+	<material><formula>(Ca 0.76 Hg 1.24 )O 2</formula></material>
+	<material><formula>Ca: (Sr 0.71 Hg 1.29 )O 2</formula></material>
+	<material><formula>Hg-2212</formula> series (<variable>x</variable> = <value>0 and 0.20</value>)</material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 Ba 2 (Y 0.85 Ca 0.15 )Cu 2 O 8−δ</formula></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Hg-2212</name></material>
+	<material><name>Hg-2212</name> <doping>Ca</doping>-doped series</material>
+	<material><formula>Hg 2 Ba 2 (Y 0.85 Ca 0.15 )Cu 2 O 8−δ</formula></material>
+	<material><name>Hg-2212</name></material>
+	<material><name>Hg-2212</name></material>
+	<material><variable>y</variable> = <value>0.50 and 1.0</value></material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 (Ba 0.5 Sr 0.5 ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 Sr 2 YCu 2 O 8−δ</formula></material>
+	<material><variable>y</variable> = <value>0</value></material>
+	<material><variable>y</variable> = <value>1</value></material>
+	<material><formula>Hg 2 Ba 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><variable>y</variable> = <value>0</value></material>
+	<material><variable>y</variable> = <value>0.7-1.0</value></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 1−x Ca x )Cu 2 O 8−δ</formula> (<value>0 ≤</value> <variable>y</variable> <value>≤ 1.0</value>; <variable>x</variable> = <value>0</value>, <variable>x</variable> = <value>0.2</value>)</material>
+	<material><name>Y-123</name></material>
+	<material><variable>y</variable> = <value>0</value></material>
+	<material><name>Hg-2212</name></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 YCu 2 O 8−δ</formula></material>
+	<material><formula>Hg 2 (Ba 1−y Sr y ) 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><doping>Sr-substituted</doping> <name>Hg-2212</name></material>
+	<material><formula>Hg- 2212</formula> system: <formula>Hg 2 (Ba 0.5 Sr 0.5 ) 2 YCu 2 O 8−δ</formula></material>
+	<material><doping>Sr-substituted</doping> <formula>Hg 2 Sr 2 YCu 2 O 8−δ</formula></material>
+	<material><doping>Sr-free</doping> <formula>Hg 2 Ba 2 (Y 0.80 Ca 0.20 )Cu 2 O 8−δ</formula></material>
+	<material><name>Hg-2212</name></material>
+	<material>(<variable>x</variable> = <value>0 and 0.20</value>)</material>
+	<material><variable>y</variable> = <value>0</value></material>
+	<material><variable>y</variable> = <value>1.0</value></material>
+	<material><name>Hg-2212</name></material>
+</materials>

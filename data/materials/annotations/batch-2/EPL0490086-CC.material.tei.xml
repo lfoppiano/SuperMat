@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+x</formula> <shape>single crystals</shape></material>
+	<material><doping>slightly overdoped</doping> <formula>Bi 2 Sr 2 CaCu 2 O 8-x</formula> (<name>Bi2212</name>) <shape>single crystals</shape></material>
+	<material><doping>underdoped</doping> <name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><doping>underdoped</doping> <name>Bi2212</name></material>
+	<material><doping>slightly overdoped</doping> <name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name></material>
+	<material><shape>single crystals</shape> of <name>Bi2212</name></material>
+	<material><formula>Al 2 O 3</formula></material>
+	<material><formula>ZrO 2</formula></material>
+	<material><name>Bi2212</name></material>
+	<material><formula>Bi 2 Sr 1.9 CaCu 1.8 O 8+x</formula></material>
+	<material><name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name></material>
+	<material><doping>overdoped</doping> <name>Bi2212</name> <shape>single crystal</shape></material>
+	<material><doping>overdoped</doping> <name>Bi2212</name> <shape>single crystal</shape></material>
+	<material><doping>overdoped</doping> <name>Bi2212</name></material>
+	<material><name>Bi2212</name></material>
+	<material><name>Bi2223</name></material>
+	<material><name>Bi2212</name></material>
+	<material><doping>slightly overdoped</doping> <name>Bi2212</name></material>
+	<material><doping>slightly overdoped</doping> <name>Bi2212</name></material>
+	<material><doping>slightly overdoped</doping> <formula>Bi 2 Sr 2 CaCu 2 O 8-x</formula> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name></material>
+	<material><doping>overdoped</doping> <name>Bi2212</name> <shape>single crystal</shape></material>
+	<material><doping>overdoped</doping> <name>Bi2212</name> <shape>single crystal</shape></material>
+</materials>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula> (<name>Y-123</name>)</material>
+	<material><name>Y-123</name></material>
+	<material><variable>y</variable> = <value>6.98</value></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>YBa 2 Cu 3 O y</formula> (<name>Y-123</name>)</material>
+	<material><name>Y-123</name></material>
+	<material><shape>single crystal</shape> <name>Y-123</name></material>
+	<material><doping>fully oxygenated Y-123</doping> with <variable>y</variable> <value>&gt; 6.99</value></material>
+	<material><doping>well-oxygenated</doping> <shape>polycrystal</shape></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>YBa 2 Cu 2.85 (CO 3 ) 0.15 O 6.73</formula></material>
+	<material><formula>Ba(CuO x ) 1- y (CO 3 ) y</formula> (<variable>y</variable> <value>&lt; 0.5</value>)</material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name> <shape>polycrystal</shape></material>
+	<material><formula>Y 2 O 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><name>Y-123</name></material>
+	<!-- <material><name>Sample A1</name></material> -->
+	<material><formula>Y 2 O 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<!-- <material><name>Sample A2</name></material> -->
+	<!-- <material><name>A3</name></material> -->
+	<!-- <material><fabrication>vacuum-treated</fabrication> sample (<value>B1</value>)</material> -->
+	<material><formula>BaCu 2 O 2</formula></material>
+	<!-- <material><name>Sample A1</name></material> -->
+	<!-- <material><name>Sample B1</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>Sample A1</name></material> -->
+	<!-- <material><name>Sample B1</name></material> -->
+	<!-- <material><fabrication>vacuum-treated</fabrication> sample (<value>B1</value>)</material> -->
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<!-- <material><name>Sample B1</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>Sample B1</name></material> -->
+	<!-- <material><name>Sample B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<material><variable>y</variable> = <value>6.99</value></material>
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><fabrication>quenched from 600 ˚C</fabrication> (<value>B5</value>)</material> -->
+	<material><name>Y-123</name></material>
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B3</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>Sample C1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>C1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>C1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>Sample C2</name></material> -->
+	<!-- <material><name>Sample C2</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>C2</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>C1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><fabrication>Sample C3 that was prepared without vacuum-treatment and sintered in CO 2 mixed gas</fabrication></material> -->
+	<!-- <material><formula>C1and</formula></material> -->
+	<!-- <material><name>C2</name></material> -->
+	<material><name>Y-123</name></material>
+	<material><formula>CO 2</formula></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<!-- <material>Sample <name>C1</name>, <name>D1</name>, <name>D2</name>, and <name>D3</name></material> -->
+	<!-- <material><doping>heavily carbon- substituted</doping> sample (<value>D2</value>)</material> -->
+	<!-- <material><doping>optimally</doping> (<name>A1</name>)</material> -->
+	<!-- <material><doping>overdoped</doping> (<name>B1</name>) samples</material> -->
+	<!-- <material><name>Sample D2</name></material> -->
+	<!-- <material><fabrication>600˚C-quenched</fabrication> sample (<value>B5</value>)</material> -->
+	<material><formula>Y 0.8 Ca 0.2 Ba 2 Cu 1-x C x O y</formula></material>
+	<material><name>Y-123</name> <shape>polycrystals</shape></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<!-- <material>conventional (<name>A1</name>)</material> -->
+	<!-- <material><fabrication>vacuum-treated</fabrication> samples(<value>B1</value>)</material> -->
+	<!-- <material><fabrication>vacuum-treated</fabrication> samples; furnace cooled (<name>B1</name>)</material> -->
+	<!-- <material>400 ˚C (<name>B2</name>)</material> -->
+	<!-- <material>460˚C (<name>B3</name>)</material> -->
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<!-- <material><name>B1</name></material> -->
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+	<material><formula>YBa 2 Cu 3 O y</formula></material>
+</materials>

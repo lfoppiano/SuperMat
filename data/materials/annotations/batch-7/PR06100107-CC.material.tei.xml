@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name> with <variable>x</variable> <value>&lt; 0.2</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.1 and 0.15</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><name>LSCO</name> with <variable>x</variable>=<value>0.1</value></material>
+	<material><name>LSCO</name> sample with <variable>x</variable> = <value>0.1 and 0.15</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.1</value>)</material>
+	<material><variable>x</variable>=<value>0.1 and 0.15</value></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><variable>x</variable>=<value>0.1 and 0.15</value></material>
+	<material><variable>x</variable> = <value>0.15</value></material>
+	<material><shape>polycrystalline</shape> <name>LSCO</name> with <variable>x</variable>=<value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name> sample with <variable>x</variable>=<value>0.1</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><name>LSCO</name></material>
+</materials>

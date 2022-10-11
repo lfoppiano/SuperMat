@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr2RuCu2O8</formula></material>
+	<material><formula>GdSr2Ru1−xCu2+xO8</formula> (<variable>x</variable> = <value>0, 0.05, 0.1, 0.2</value>)</material>
+	<material><doping>Cu</doping> doped samples</material>
+	<material><variable>x</variable> ∼<value>0.1</value></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>LnSr 2 RuCu 2 O 8</formula></material>
+    <material><formula>Ln 1+x Ce 1−x Sr 2 RuCu 2 O 10</formula> (<variable>Ln</variable> = <value>Sm, Eu, Gd</value>)</material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>YSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>GdSr 2 Ru 1−x Sn x Cu 2 O 8</formula></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><formula>GdSr2Ru1−xCu2+xO8</formula> for (a) <variable>x</variable> = <value>0</value>, (b) <variable>x</variable>=<value>0.05</value>, (c) <variable>x</variable>=<value>0.1</value> and (d) <variable>x</variable>=<value>0.2</value></material>
+	<material><doping>3% substituted</doping> sample</material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable> = <value>0, 0.05, 0.1, 0.2</value>)</material>
+	<material><formula>GdSr2Ru1−xCu2+xO8</formula> for <variable>x</variable>=<value>0, 0.05, 0.1 and 0.2</value></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><formula>GdSr 2 RuO 6</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr2Ru1−xCu2+xO8</formula> for <variable>x</variable>=<value>0, 0.05, 0.1 and 0.2</value></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable> = <value>0.05, 0.1, 0.2</value>)</material>
+	<material><variable>x</variable> = <value>0.05</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><variable>x</variable>=<value>0.2</value></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable> = <value>0.05, 0.1, 0.2,</value>)</material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable> = <value>0.05, 0.1, 0.2</value>)</material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable> = <value>0, 0.05, 0.1 and 0.2</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><formula>GdSr2RuCu2O8</formula></material>
+	<material><formula>GdSr2Ru0.9Cu2.1O8</formula></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable>=<value>0, 0.05, 0.1 and 0.2</value>)</material>
+	<material><variable>x</variable> = <value>0.05, 0.1</value></material>
+	<material><variable>x</variable>=<value>0.2</value></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><doping>Cu</doping> doped sample with composition <formula>GdSr 2 Ru 0.9 Cu 2.1 O 8</formula></material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 0.9 Cu 2.1 O 8</formula></material>
+	<material><formula>GdSr2Ru0.9Cu2.1O8</formula></material>
+	<material><formula>GdSr 2 Ru 0.9 Cu 2.1 O 8</formula></material>
+	<material><formula>GdSr 2 Ru 0.9 Cu 2.1 O 8</formula></material>
+	<material><formula>GdSr2Ru0.9Cu2.1O8</formula></material>
+	<material><formula>GdSr 2 Ru 1−x Cu 2+x O 8</formula> (<variable>x</variable> = <value>0.05, 0.1, 0.2</value>)</material>
+</materials>

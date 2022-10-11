@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> (<name>Ru-2122</name>)</material>
+	<!-- Needs to be discussed. Variable or formula? (Probably variable, however..?) -->
+	<!-- <material><doping>Ce contents of 0.4-0.8</doping></material> -->
+	<!-- <material><variable>Ce</variable>=<value>0.6</value></material> -->
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><formula>RBa 2 Cu 3 O 7</formula> (<variable>R</variable>=<value>rare-earth</value>)</material>
+    <material><formula>R 2-x Ce x MSr 2 Cu 2 O 10</formula> (<name>M-2122</name>, <variable>M</variable>= <value>Nb, Ru or Ta</value>)</material>
+    <!-- <material><doping>Ce contents</doping> of <value>0.4-0.8</value></material> -->
+    <!-- <material><variable>Ce</variable>=<value>0.6</value></material> -->
+	<material><formula>RBa 2 Cu 3 O 7</formula></material>
+	<material><formula>R 1.5 Ce 0.5 O 2</formula></material>
+	<material><formula>RBa 2 Cu 3 O 7</formula></material>
+	<material><formula>RBa 2 Cu 3 O 7</formula></material>
+	<material><name>Nb-2122</name></material>
+	<material><name>Ta-2122</name></material>
+    <material><formula>R 1.5 Ce 0.5 RuSr 2 Cu 2 O 10</formula> (<variable>R</variable>=<value>Eu and Gd</value>, <name>Ru-2122</name>)</material>
+	<material><formula>GdSr 2 RuCu 2 O 8</formula> , (<name>Ru-1212</name>)</material>
+    <material><name>Ru-2122</name> materials (for <variable>R</variable>=<value>Eu</value>)</material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>R 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><name>Ru-2122</name> system</material>
+    <!-- this might be tricky -->
+    <material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> for <value>0.4&lt;</value><variable>x</variable><value>&lt;1</value></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> (<variable>x</variable> = <value>0.4-1</value>)</material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><name>Ru-2122</name></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.6</value></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> δ δ δ</material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><variable>x</variable>=<value>1 and 0.9</value></material>
+	<material><variable>x</variable>=<value>0.8-0.4</value></material>
+	<!-- <material><variable>Ce</variable>=<value>0.6</value></material> -->
+	<material><formula>Eu 2-x Ce x NbSr 2 Cu 2 O 10-δ</formula> (<variable>x</variable>=<value>0.4-1</value>)</material>
+	<material><name>M-2122</name> (<variable>M</variable>= <value>Ru, Ta and Nb</value>)</material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><variable>x</variable>=<value>0.15</value> for <formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>Eu 1.5 Ce 0.5 RuSr 2 Cu 2 O 10-δ</formula></material>
+    <!-- check -->
+    <material><name>Nb-2122</name></material>
+	<material><name>Ta-2122</name></material>
+    <material><formula>RCeMSr 2 Cu 2 O 10</formula> (<variable>R</variable>=<value>Eu or Gd</value> and R/Ce=1)</material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<!-- <material><doping>Ce contents of 0.4-0.8</doping></material> -->
+	<!-- <material><variable>Ce</variable>=<value>0.6</value></material> -->
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><variable>x</variable> <value>from 0.8 to 0.6</value></material>
+	<material><variable>x</variable>=<value>0.8</value></material>
+	<material><variable>x</variable>=<value>0.6</value></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+    <material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> samples with <variable>x</variable><value>&lt;1</value></material>
+	<material><formula>Eu 1.5 Ce 0.5 RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>YBa 2 Cu 3 O z</formula> (<variable>z</variable><value>&lt;6.5</value>)</material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>EuSr 2 RuCu 2 O 8 12</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeNbSr 2 Cu 2 O 10</formula></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><name>Ru-2122</name> system</material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> (<variable>x</variable>=<value>0.4-1</value>)</material>
+	<material><variable>x</variable>=<value>0.1</value> and <variable>x</variable>=<value>0.5</value></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><variable>x</variable>=<value>0.4, 0.6, 0.7 0.8 and 0.9</value></material>
+	<material><variable>x</variable>=<value>0.8</value></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><variable>x</variable>=<value>0.4</value></material>
+	<material><name>Nb-2122</name></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula></material>
+	<material><name>Ru-2122</name></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula> (<variable>x</variable>=<value>1</value>)</material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10-δ</formula> (<variable>x</variable>=<value>0.4-1</value>)</material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>Ce</variable>=<value>0.6</value></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10</formula>- samples</material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.9</value></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+	<material><formula>Ce in Eu 2-x Ce x RuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>Eu 2-x Ce x RuSr 2 Cu 2 O 10</formula>- samples</material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.9</value></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><formula>EuCeRuSr 2 Cu 2 O 10</formula></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+</materials>

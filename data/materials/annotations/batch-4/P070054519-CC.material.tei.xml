@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>Li 1+x Ti 2-x O 4</formula></material>
+	<material><variable>x</variable> <value>&gt; 0.15</value></material>
+	<material><shape>polycrystalline</shape> <formula>BaPb 1-x Bi x O 3</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiMn 2 O 4</formula></material>
+	<material><formula>LiV 2 O 4</formula></material>
+	<material><formula>Li(Ti 1-x V x ) 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+    <material><doping>pure</doping> <formula>LiTi 2 O 4</formula></material>
+	<material><doping>pure</doping> <formula>Li 2 CO 3</formula></material>
+    <material><formula>Li 1+x Ti 2 O 4</formula></material>
+	<material><formula>Li 2 Ti 2 O 5</formula></material>
+	<material><formula>Ti 2 O 3</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><doping>pure</doping> <formula>LiTi 2 O 4</formula></material>
+	<material><value>0.1 ≤</value> <variable>x</variable> <value>≤ 0.15</value></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>Ba 1-x K x BiO 3</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>CeRu 2</formula></material>
+	<material><formula>NbSe 2</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><shape>single crystalline</shape> <formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>BaPb 0.75 Bi 0.25 O 3</formula></material>
+	<material><formula>Ba 0.6 K 0.4 BiO 3</formula></material>
+	<material><formula>La 1.84 Sr 0.16 CuO 4</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Na 0.35 CoO 2 ．1.3H 2 O</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+	<material><formula>LiTi 2 O 4</formula></material>
+</materials>

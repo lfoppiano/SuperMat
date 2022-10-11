@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+    <material><formula>R 2 Mo 2 O 7</formula> with <variable>R</variable>=<value>Y, Tb and Dy</value></material>
+	<material><variable>R</variable>=<value>Nd, Sm and Gd</value></material>
+    <material><formula>R 2 Ti 2 O 7</formula> with <variable>R</variable>=<value>Dy and Ho</value></material>
+	<material><formula>Tl 2 Mn 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>LiV 2 O 4</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><shape>single-crystal</shape> and <shape>polycrystalline</shape> <formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>CeRu 2</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material><formula>Re 2 O 7</formula></material>
+</materials>

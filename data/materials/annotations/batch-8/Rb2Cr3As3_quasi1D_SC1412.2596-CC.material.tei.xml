@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material>quasi-one-dimensional <formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><doping>quasi-one-dimensional</doping> (Q1D) <formula>K2Cr3As3</formula></material>
+	<material><formula>Rb2Cr3As3</formula></material>
+	<material><formula>Rb2Cr3As3</formula></material>
+	<material><formula>Li 0.9 Mo 6 O 17</formula></material>
+	<material><formula>Tl 2 Mo 6 Se 6</formula></material>
+	<material><formula>Li 0.9 Mo 6 O 17</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Tl 2 Mo 6 Se 6</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Tl 2 Mo 6 Se 6</formula></material>
+	<material><formula>Rb 2 Mo 6 Se 6</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula> <shape>polycrystalline</shape></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb2Cr3As3</formula></material>
+	<material><formula>A2Cr3As3</formula> (<variable>A</variable> = <value>K and Rb</value>)</material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb2Cr3As3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula> <shape>polycrystalline</shape></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb2Cr3As3</formula> <shape>polycrystals</shape></material>
+	<material><formula>Li 0.9 Mo 6 O 17</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb2Cr3As3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>K 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+	<material><formula>Rb 2 Cr 3 As 3</formula></material>
+</materials>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><doping>optimally doped</doping>, <fabrication>as-grown</fabrication> <formula>Pr 1:85 -Ce 0:15 CuO 4</formula></material>
+	<material><formula>Pr 1:96 Ce 0:04 CuO 4</formula></material>
+	<material><formula>RE 2 CuO 4</formula></material>
+	<material><formula>Nd 2Àx Ce x CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><doping>dopant-free</doping> <formula>Nd 2 CuO 4</formula></material>
+    <material><formula>Nd 1:85 Ce 0:15 CuO 4 and Nd 2 CuO 4</formula> have been <fabrication>grown by molecular beam epitaxy (MBE)</fabrication> on <substrate>(001) SrTiO 3</substrate> substrates</material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4 , O 3</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><doping>dopant-free</doping> <formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula> (black) and <formula>Nd 2 CuO 4</formula> (red) <shape>thin films</shape></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4 21</formula>)</material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+    <material><formula>Nd 1:85 Ce 0:15 CuO 4</formula> (a) and <formula>Nd 2 CuO 4</formula> (b) grown on <substrate>(001) SrTiO 3</substrate> substrates</material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Pr 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><doping>cerium free</doping> <formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula> <shape>thin films</shape></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+    <material>single phase <shape>thin films</shape> of <formula>Nd 1:85 Ce 0:15 CuO 4</formula> and <formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula> <shape>films</shape></material>
+<!--    check -->
+	<material><fabrication>As-grown</fabrication> <formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+	<material><formula>Nd 1:85 Ce 0:15 CuO 4</formula></material>
+	<material><formula>Nd 2 CuO 4</formula></material>
+    <material><formula>Nd 1:85 Ce 0:15 CuO 4</formula> (a) and <formula>Nd 2 CuO 4</formula> (b) <shape>thin films</shape> grown on <substrate>(001) SrTiO 3</substrate> substrates</material>
+</materials>

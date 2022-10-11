@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula> system (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 0.35</value>)</material>
+	<material><formula>Hg 0.82 Re 0.18 Ba 2 Ca 2 Cu 3 O 8+δ</formula></material>
+	<material><formula>5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><name>Bi2212</name></material>
+	<material><formula>T l 0.5 P b 0.5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0.5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><name>Bi2212</name></material>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0. 5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+	<material><formula>T l 0.5 P b 0.5 Sr 2 Ca 1−x Y x Cu 2 O 7</formula></material>
+</materials>

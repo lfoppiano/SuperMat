@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC6</formula></material>
+	<material><formula>CaC6</formula></material>
+    <material><name>graphite</name> <doping>intercalated with Ca , Yb</doping></material>
+	<material><formula>Sr</formula></material>
+	<material><doping>Ca-intercalated</doping> <name>graphite</name></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><name>pyrolytic graphite</name></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+</materials>

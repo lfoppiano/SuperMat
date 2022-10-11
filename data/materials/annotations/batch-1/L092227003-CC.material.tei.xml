@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Pr 1.3−x La 0.7 Ce x CuO 4</formula></material>
+	<material><formula>Pr1.3−xLa0.7CexCuO4</formula> (<variable>x</variable> = <value>0.01</value>) <shape>crystals</shape></material>
+	<material><formula>Nd 2−x Ce x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><fabrication>electron-doped</fabrication> <formula>Pr 1.3−x La 0.7 Ce x CuO 4</formula> (<name>PLCCO</name>) <shape>single crystals</shape></material>
+	<material><fabrication>hole-doped</fabrication> <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><name>PLCCO</name> <shape>single crystals</shape> with <variable>x</variable> = <value>0.01</value></material>
+	<material><name>PLCCO</name></material>
+	<material><formula>Pr2CuO4</formula></material>
+	<material><formula>Pr 2 CuO 4</formula> (<name>PCO</name>)</material>
+	<material><name>PLCCO</name> (<variable>x</variable> = <value>0.01</value>)</material>
+	<material><name>PLCCO</name></material>
+	<material><name>PCO</name></material>
+	<material><name>PLCCO</name> (<variable>x</variable> = <value>0.01</value>)</material>
+	<material><doping>pure</doping> <name>PCO</name></material>
+	<material><name>PCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name> (<variable>x</variable> = <value>0.01</value>) <shape>single crystals</shape></material>
+	<material><fabrication>electron-doped</fabrication> <name>PLCCO</name></material>
+	<material><fabrication>hole-doped analog</fabrication> <name>LSCO</name></material>
+	<material><formula>YBa 2 Cu 3 O 6+x</formula> (<name>YBCO</name>)</material>
+	<!-- <material><formula>CuO 2</formula></material> -->
+	<material><name>PLCCO</name></material>
+	<material><doping>doped</doping> <name>PLCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><fabrication>electron-doped</fabrication> <name>PLCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><formula>Pr 1.85 Ce 0.15 CuO 4</formula></material>
+</materials>

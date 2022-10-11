@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Pr 0.88 LaCe 0.12 CuO 4-δ</formula></material>
+	<material><formula>Pr 0.88 LaCe 0.12 CuO 4-δ</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>La 2 CuO 4+δ</formula></material>
+	<material><doping>electron-doped</doping> <formula>Pr 0.88 LaCe 0.12 CuO 4-δ</formula> (<name>PLCCO</name>)</material>
+	<material><name>PLCCO</name></material>
+	<material><doping>electron-doped</doping> <name>PLCCO</name></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4</formula> (<name>NCCO</name>)</material>
+	<material><name>NCCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name> <shape>crystals</shape></material>
+	<material><doping>undoped</doping> <formula>Pr 2 CuO 4</formula></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name> <shape>crystals</shape></material>
+	<material><name>PLCCO</name></material>
+    <!-- check -->
+	<material>cubic <formula>(Nd,Ce) 2 O 3</formula></material>
+	<material><formula>Nd 2-x Ce x CuO 4</formula></material>
+	<material><formula>(Pr,La,Ce) 2 O 3</formula></material>
+	<material><name>PLCCO</name></material>
+	<material><formula>Pr 1-x LaCe x CuO 4-δ</formula></material>
+	<material><name>PLCCO</name></material>
+	<material><substrate>as-grown</substrate> <name>PLCCO</name></material>
+	<material>NSC <name>PLCCO</name></material>
+	<material><doping>underdoped</doping> <name>PLCCO</name></material>
+	<material><name>PLCCO</name> <shape>crystals</shape></material>
+	<material><name>PLCCO</name></material>
+	<material><doping>oxygen</doping>-doped <formula>La 2 CuO 4</formula></material>
+	<material><doping>hole-doped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><name>PLCCO</name></material>
+	<material><doping>hole-doped</doping> <formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>La 2 CuO 4+δ</formula></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name></material>
+	<material><name>PLCCO</name></material>
+</materials>

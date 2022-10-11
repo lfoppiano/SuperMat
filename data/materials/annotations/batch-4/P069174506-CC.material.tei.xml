@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>excess-oxygen-doped</doping> <formula>La 2 CuO 4.11</formula></material>
+	<material><formula>La2CuO4.11</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2−x−y Nd y Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><variable>x</variable> near <value>1 8</value></material>
+	<material><formula>La 2 CuO 4+y</formula></material>
+	<material><doping>Oxygen</doping>-doped <formula>La 2 CuO 4+y</formula></material>
+	<material><doping>doped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4.11</formula></material>
+	<material><doping>Sr</doping>-doped <formula>La 2−x Sr x CuO 4+y</formula></material>
+	<material><shape>Single crystals</shape> of <formula>La 2 CuO 4</formula></material>
+	<material><shape>single crystal</shape> of <formula>La 2 CuO 4.11</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La2CuO4</formula></material>
+	<material><doping>oxygen</doping>-doped <formula>La 2 CuO 4+y</formula></material>
+<!--	<material><name>stage-4 phase</name></material>-->
+	<material><doping>optimally-doped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+<!--	<material><name>stage-6 phase</name></material>-->
+	<material><formula>La2CuO4.11</formula></material>
+	<material><formula>La2CuO4</formula></material>
+	<material><doping>undoped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4.11</formula> <shape>single crystal</shape></material>
+	<material><doping>deoxygenated</doping> <shape>crystal</shape> of <formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 CuO 4.093</formula></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula></material>
+	<material><doping>oxygenated</doping> sample</material>
+	<material><doping>deoxygenated</doping> one</material>
+	<material><doping>deoxygenated</doping> <shape>crystal</shape>,</material>
+	<material><formula>La2CuO4.11</formula></material>
+	<material><formula>La 2 CuO 4.11</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><doping>undoped</doping> <formula>La 2 CuO 4</formula></material>
+	<material><name>deoxygenated sample</name></material>
+	<material><formula>La 2 CuO 4</formula> with <doping>oxygen</doping></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><doping>oxygen</doping>-doped <formula>La 2 CuO 4+y</formula></material>
+	<material><doping>underdoped</doping> <name>LSCO</name></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2 CuO 4.11</formula></material>
+	<material><formula>La 2 CuO 4.11</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<variable>x</variable>=<value>0.14</value>)</material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+    <material><formula>La 2−x Sr x CuO 4</formula> with a <doping>Sr</doping> content <variable>x</variable>=<value>0.14</value></material>
+	<material><formula>La 2 CuO 4+y</formula> (<variable>y</variable><value>≤0.13</value>)</material>
+	<material><formula>Sr</formula> (<variable>x</variable>=<value>0.15</value>)</material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><shape>single crystal</shape> of <formula>La 2 CuO 4.11</formula></material>
+	<material><name>deoxygenated sample</name></material>
+</materials>

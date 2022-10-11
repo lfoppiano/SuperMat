@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+    <material><formula>La 2 CuO 4</formula> <doping>doped with alkaline-earth or alkaline-earth and rare-earth metals</doping></material>
+	<material><formula>La 1.875 Ba 0.125 CuO 4</formula></material>
+	<material><formula>La 2-x Ba x CuO 4</formula></material>
+	<material><formula>La 2-x-y Nd y Sr x CuO 4</formula></material>
+	<material><shape>single crystals</shape> of <formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 2-x Ba x CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+	<material><formula>La 1.65 Eu 0.2 Sr 0.15 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><shape>Single crystals</shape> of <formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><shape>single crystal</shape> <formula>La 1.6-x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula> <shape>crystals</shape></material>
+	<material><formula>Pb</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.875 Ba 0.125 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.875 Ba 0.125 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4 T c</formula></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula> <shape>polycrystalline</shape></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>Nd</formula></material>
+	<material><formula>La 1.875 Ba 0.125 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula> <shape>crystal</shape></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.88 Ba 0.12 CuO 4</formula></material>
+	<material><formula>Na x Ca 2-x CuO 2 Cl 2</formula></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+δ</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 1.6-x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 2- x Ba x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 2-x Ba x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> and <formula>La 1.6-x Nd 0.4 Sr x CuO 4</formula> <shape>single crystals</shape></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula> <shape>polycrystalline</shape></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula> <shape>single crystal</shape></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.48 Nd 0.4 Sr 0.12 CuO 4</formula></material>
+</materials>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><formula>HgBa2CuO 4+δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>HgBa 2 CuO 4+δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>) with <variable>x</variable> = <value>0.10, 0.15, 0.20, 0.22, 0.24</value></material>
+	<material><formula>HgBa 2 CuO 4+δ</formula> (<name>Hg-1201</name>) with <variable>δ</variable> = <value>0.10, 0.37</value></material>
+	<material>Single-phase <shape>polycrystalline</shape> samples of <name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><value>0.15</value></material>
+	<material><value>0.20</value></material>
+	<material><value>0.22</value></material>
+	<material><value>0.24</value></material>
+	<material><variable>x</variable> = <value>0.10 and 0.15</value></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <variable>p</variable> = <value>0.10, 0.15, 0.20, 0.22 and 0.24</value></material>
+	<material><formula>Tl 2 Ba 2 CuO 6+δ</formula></material>
+	<material><name>Hg-1201</name></material>
+	<material><variable>δ</variable> = <value>0.10 and 0.37</value></material>
+	<material><variable>δ</variable> = <value>0.10 and 0.37</value> in <name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.10 and 0.15</value></material>
+	<material><variable>x</variable> = <value>0.24</value></material>
+	<material><shape>polycrystalline</shape> <name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><variable>δ</variable> = <value>0.154</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>p &lt; 0.19</value></material>
+	<material><variable>x</variable> = <value>0.19</value></material>
+	<material><name>LSCO</name></material>
+	<material><value>0.20 &lt;</value> <variable>x</variable> <value>&lt; 0.35</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.20, 0.22 and 0.24</value></material>
+	<material><variable>x</variable> = <value>0.20 and 0.22</value></material>
+	<material><variable>x</variable> = <value>0.24</value></material>
+	<material><variable>x</variable> = <value>0.27</value></material>
+	<material><variable>x</variable> = <value>0.24</value></material>
+	<material><formula>HgBa 2 Ca 2 Cu 3 O 8+δ</formula></material>
+	<material><shape>single crystal</shape> <name>LSCO</name> with <variable>x</variable> = <value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><variable>x</variable> = <value>0.10</value> <name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><formula>La2−xSrxCuO4</formula> (<name>LSCO</name>) with <variable>x</variable> = <variable>p</variable> = <value>0.10, 0.15, 0.20, 0.22 and 0.24</value></material>
+	<material><name>LSCO</name></material>
+	<material><formula>HgBa2CuO 4+δ</formula> unoriented <shape>powders</shape> with <variable>δ</variable> = <value>0.10, 0.154 and 0.37</value> (<variable>p</variable> = <value>0.075, 0.17 and 0.22</value></material>
+	<material><variable>δ</variable> = <value>0.154</value></material>
+	<material><formula>La2−xSrxCuO4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><formula>La2−xSrxCuO4</formula> with <variable>x</variable> = <variable>p</variable> = <value>0.10, 0.15, 0.20, 0.22 and 0.24</value></material>
+	<material><variable>x</variable> = <value>0.20, 0.22 and 0.24</value></material>
+	<material><variable>x</variable> = <value>0.22 and 0.24</value></material>
+</materials>

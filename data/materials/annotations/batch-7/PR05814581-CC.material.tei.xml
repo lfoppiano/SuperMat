@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>YBa2Cu3O 7−δ</formula> (<name>YBCO</name>)</material>
+	<material><name>YBCO</name> <shape>films</shape></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name> <shape>films</shape></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name> <shape>thin films</shape></material>
+	<material><name>YBCO</name></material>
+	<material>sample I</material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+</materials>

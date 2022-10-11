@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>A x Fe 2 Se 2</formula> (<variable>A</variable> = <value>K and Cs</value>)</material>
+	<material>ThCr 2 Si 2 -type<formula> AeFe 2 As 2</formula></material>
+	<material><formula>AFeAs</formula></material>
+	<material><name>Fe(Se, Te</name>)</material>
+	<material><formula>FeSe</formula></material>
+	<material><name>Fe-Se</name></material>
+	<material><formula>AFe 2 As 2</formula> (<variable>A</variable> = <value>Ca, Sr, Ba, Eu</value>)</material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>A x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula> <shape>single crystals</shape></material>
+	<material><formula>K x Fe 2 Se 2</formula> <shape>crystal</shape></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula></material>
+	<material><shape>Single crystal</shape> <formula>A x Fe 2 Se 2</formula> (<variable>A</variable> = <value>K, Cs</value>)</material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>Cs 0.86 Fe 1.66 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula></material>
+	<material><formula>K 0.85 Fe 2 Se 1.80</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula>)</material>
+	<material><formula>K 0.86 Fe 2 Se 1.82</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula>)</material>
+	<material><shape>crystal</shape> <formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><shape>single crystal</shape> <formula>Cs x Fe 2 Se 2</formula></material>
+	<material><shape>single crystal</shape> <formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><doping>electron-doped</doping> <formula>LaOFeAs</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>LaO 1 x F x FeAs</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><shape>single crystal</shape> <formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><shape>single crystal</shape> <formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><shape>single crystal</shape> <formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><shape>single crystal</shape> <formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><shape>single crystal</shape> <formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula></material>
+	<material><shape>crystals</shape> <formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><shape>single crystals</shape> <formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>LaO 1 x F x FeAs</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+	<material><shape>single crystals</shape> <formula>K x Fe 2 Se 2</formula></material>
+	<material><shape>single crystal</shape> <formula>K x Fe 2 Se 2</formula></material>
+	<material><formula>A x Fe 2 Se 2</formula></material>
+	<material><formula>A x Fe 2 Se 2</formula> (<variable>A</variable> = <value>K, Cs</value>)</material>
+	<material><formula>Cs x Fe 2 Se 2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -2</formula></material>
+	<material><formula>K x Fe 2 Se 2 -1</formula></material>
+</materials>

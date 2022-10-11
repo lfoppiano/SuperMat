@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Gd 1−x Pr x Ba 2 Cu 3 O 7−y</formula> <shape>single crystals</shape></material>
+	<material><doping>Al-free</doping> orthorhombic <formula>Gd1−xPrxBa2Cu3O7−y</formula> <shape>single crystals</shape> (<value>0 ≤</value> <variable>x</variable> <value>≤ 1.0</value>)</material>
+	<material><name>Pr123</name></material>
+	<material><name>Pr123</name> <shape>single crystals</shape></material>
+	<material><formula>GdBa 2 Cu 3 O 7−y</formula> (<name>Gd123</name>)</material>
+	<material><doping>fully</doping> doped orthorhombic <formula>RBa 2 Cu 3 O 7−y</formula> (<variable>R</variable>=<value>Y, rare earth</value>)</material>
+	<material><name>Pr123</name></material>
+	<material><formula>Gd 1−x Pr x Ba 2 Cu 3 O 7−y</formula> [(<name>Gd-Pr)123</name>]</material>
+	<material>(<name>Y-Pr)123</name></material>
+	<material><doping>Al-free</doping> <shape>single crystals</shape> with (<value>0 ≤</value> <variable>x</variable> <value>≤ 1.0</value>)</material>
+	<material><name>(Y 0.4 Pr 0.6 )123</name> <shape>crystal</shape></material>
+	<material><doping>pure</doping> <name>Pr123</name></material>
+	<material><name>(Gd 0.4 Pr 0.6 )123</name></material>
+	<material><name>(Y 0.4 Pr 0.6 )123</name></material>
+	<material><name>(Gd 0.4 Pr 0.6 )123</name></material>
+	<material><name>(Gd 0.4 Z 0.6 )123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>(Y 0.4 Pr 0.6 )123</name> (B) <shape>single crystals</shape></material>
+	<material><name>(Y 0.4 Pr 0.6 )123</name></material>
+	<material><name>(Gd 0.4 Pr 0.6 )123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>(Gd 0.4 Pr 0.6 )123</name></material>
+	<material><name>(Z 0.4 Pr 0.6 )123</name></material>
+	<material><name>Pr123</name> <shape>crystals</shape></material>
+</materials>

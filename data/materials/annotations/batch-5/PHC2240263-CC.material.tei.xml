@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>YBa 2 Cu 3 0 7 _ d</formula> (<name>Y-123</name>)</material>
+	<material><formula>YBa 2 Cu 4 O s</formula> (<name>Y-124</name>)</material>
+	<material><formula>Y 2 Ba 4 Cu 7 O 15+x</formula> (<name>Y-247</name>)</material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+x</formula> (<name>Bi-2212</name>)</material>
+	<material><formula>Tl 2 Ba 2 Cu 1 0 6+d</formula> (<name>Tl-2201</name>)</material>
+	<material><formula>Tl 2 Ba 2 Ca l Cu 2 O 8+d</formula> (<name>T1-2212</name>)</material>
+	<material><name>Y-124</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>TlBaCaCuO</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>TlBaCaCuO</name></material>
+	<material><name>Y-123</name></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8 + d</formula> (<name>Bi-2212</name>)</material>
+	<material><formula>T1 2 Ba 2 CuO 6+X</formula> (<name>T1-2201</name> )</material>
+	<material><formula>TI 2 Ba 2 CaCu 2 O 8+z</formula> (<name>T1-2212</name>)</material>
+	<material><formula>YBa 2 Cu 3 O 7-X</formula> (<name>Y-123</name> )</material>
+	<material><formula>Y 2 Ba 4 Cu 7 O 15+d</formula> (<name>Y-247</name>)</material>
+	<material><formula>YBa 2 Cu 4 0 8</formula> (<name>Y-124</name> )</material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>Bi-2223</name> and <name>Bi-2212</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>T1BaCaCuO</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>T1-2212</name></material>
+	<material><name>TI-2212</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>Y-247</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>TIBaCaCuO</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>T1-2201</name></material>
+	<material><name>T1-2212</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><name>Y-247</name></material>
+	<material><name>Y-123</name></material>
+	<material><name>Y-124</name></material>
+	<material><name>BiSrCaCuO</name></material>
+	<material><name>TIBaCaCuO</name></material>
+</materials>

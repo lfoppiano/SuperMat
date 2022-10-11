@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable>=<value>K, Rb, Cs</value>)</material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable> = <value>K, Rb, Cs</value>)</material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><doping>alkali metal</doping> doped <formula>C 60</formula></material>
+	<material><formula>A 3 C 60</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>Pb</formula></material>
+	<material><formula>Sn</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable>=<value>K, Rb, Cs</value>)</material>
+</materials>

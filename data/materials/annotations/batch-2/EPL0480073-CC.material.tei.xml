@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><name>YBaCuO</name></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula> <shape>films</shape></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula> <shape>films</shape></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><doping>Ni</doping>-and <doping>Zn</doping>-doped samples</material>
+	<material><doping>Pr</doping> doped</material>
+    <material><doping>Pr doped</doping> samples</material>
+    <material><doping>6% Ni</doping>, <doping>40% Pr</doping>, or <doping>4% Zn</doping> doping</material>
+    <material><doping>optimally doped</doping> <name>YBCO</name> <shape>films</shape></material>
+    <material><name>YBaCuO</name> samples</material>
+	<material><name>YBaCuO</name></material>
+	<material><name>YBaCuO</name></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula> <shape>films</shape></material>
+	<material><name>YBCO</name></material>
+</materials>

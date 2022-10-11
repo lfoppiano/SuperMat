@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><name>Mercury</name></material>
+	<material><name>tin</name></material>
+	<material><name>lead</name></material>
+	<material><name>thallium</name></material>
+	<material><name>indium</name></material>
+	<material><name>tantalum</name></material>
+	<material><name>thorium</name></material>
+	<material><name>titanium</name></material>
+	<material><name>vanadium</name></material>
+	<material><name>niobium</name></material>
+	<material><formula>SbSn</formula></material>
+	<material><formula>Sb 2 Sn</formula></material>
+	<material><formula>Cu 3 Sn</formula></material>
+	<material><formula>Bi 5 Tl 3</formula></material>
+	<material><formula>Bi 5 Tl 3</formula></material>
+	<material><name>Pb-Bi eutectic alloy</name></material>
+	<material><formula>NbTi</formula></material>
+	<material><name>mercury</name></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>C 60</formula></material>
+	<material><formula>C 70</formula></material>
+	<material><formula>C 60</formula> <fabrication>introduced by doping and intercalation of alkali-metal atoms</fabrication></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>LaFePO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>FeSe</formula> <shape>monolayer</shape> on a <substrate>SrTiO 3</substrate> substrate</material>
+	<material><formula>FeSe</formula> <shape>bulk</shape></material>
+	<material><fabrication>ultrathin</fabrication> <formula>LaAlO 3</formula> <shape>films</shape> on <substrate>SrTiO 3</substrate></material>
+	<material><name>hydrogen sulfide</name></material>
+	<material><name>sulfur-hydride</name></material>
+	<material><name>phosphorous-hydride</name></material>
+	<material><formula>YBa 2 Cu 3 O 7-δ</formula> (&quot;<name>YBCO</name>&quot;)</material>
+	<material><formula>La 1.675 Eu 0.2 Sr 0.125 CuO 4</formula></material>
+	<material><formula>La 1.875 Ba 0.125 CuO 4</formula></material>
+	<material><formula>K 3 C 60</formula></material>
+	<material><formula>TiSe 2</formula></material>
+	<material><name>YBCO</name></material>
+	<material><name>REBCO</name> (<formula>RE-Ba 2 Cu 3 O 7-δ</formula> )</material>
+	<material><name>REBCO</name></material>
+	<material><name>REBCO</name></material>
+	<material><formula>MgB 2</formula> <shape>wire</shape></material>
+	<material><formula>Nb</formula> <shape>thin film</shape></material>
+	<material><name>YBCO</name> <shape>thin films</shape></material>
+	<material><formula>Bi 2 Sr 2 Ca 2 Cu 3 O 10</formula> : <name>Bi-2223</name>)</material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><name>YBCO</name></material>
+	<material><name>Y-123</name>&quot; (<formula>Y 1 Ba 2 Cu 3 O 7-δ</formula> )</material>
+	<material><name>Cu-1212</name> where <doping>Ca is completely substituted by Y</doping></material>
+	<material><formula>REBa 2 Cu 3 O 7-δ</formula> (&quot;<name>RBCO</name>&quot;, &quot;<name>RE-123</name>&quot;) where <fabrication>RE can be La or any rare earth element except for Ce or Tb</fabrication></material>
+	<material><doping>doped</doping> <name>Cu-1212</name></material>
+	<material><formula>Ba Cu 4 O 8</formula> (&quot;<doping>Y-124</doping>&quot;)</material>
+	<material><formula>Cu-2212</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula> (&quot;<name>YBCO</name>&quot;)</material>
+	<material><formula>A-m2(n-1)n (A m E 2 Ca n-1 Cu n O 2n+m+2+y</formula> )</material>
+	<material><formula>La 2-x Sr x CuO 4</formula> (&quot;<name>LSCO</name>&quot;)</material>
+	<material><formula>Nd 2-x Ce x CuO 4</formula> (&quot;<name>NCCO</name>&quot;)</material>
+	<material><name>Hg-1223</name></material>
+	<!-- Possible talking about structure of cuprates -->
+	<!-- <material>single <formula>CuO 2</formula> layer (<variable>n</variable> = <value>1</value>)</material> -->
+	<material>(<variable>n</variable> = <value>2</value>)-compound</material>
+	<!-- <material>two adjacent <formula>CuO 2</formula> <shape>layers</shape></material> -->
+	<material><variable>n</variable> = <value>1</value></material>
+	<material><variable>n</variable> = <value>3, 4</value></material>
+	<material><name>RE-123</name> HTS with larger <variable>RE</variable> ions (<value>La, Pr, Nd</value>,)</material>
+	<material><name>Pr-123</name></material>
+	<material><name>Tb-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><formula>Nd 2-x Ce x CuO 4</formula> (&quot;<name>NCCO</name>&quot;)</material>
+	<material><formula>Nd 2-x Ce x O 2</formula></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.05</value></material>
+	<material><variable>x</variable> ≈ <value>0.16</value> for <formula>La 2-x Sr x CuO 4</formula></material>
+	<material><variable>x</variable> <value>≥ 0.27</value> for <formula>La 2-x Sr x CuO 4</formula></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>doped</doping> <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name> (&quot;<name>Cu-1 212</name>&quot;)</material>
+	<material><name>Bi-2 212</name></material>
+	<material><name>Bi-2 223</name></material>
+	<material><name>Bi-2212</name> or <name>Bi-2223</name> <shape>powder</shape></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2223</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>Tl-1223</name></material>
+	<material><name>YBCO</name>-<fabrication>coated metal bands with epitaxial single-crystalline</fabrication> <name>YBCO</name> grain alignment</material>
+	<material><formula>BaPb 1-x Bi x O 3</formula></material>
+	<material><variable>x</variable> ~ <value>0.25</value></material>
+	<material><formula>Ba 1-x K x BiO 3</formula> (&quot;<name>BKBO</name>&quot;; <variable>x</variable> ~ <value>0.35</value>)</material>
+	<material><formula>BaBiO 3</formula></material>
+	<material><variable>x</variable> = <variable>x c</variable> ~ <value>0.35</value></material>
+	<material><variable>x</variable> ~ <value>0.65</value></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> (&quot;<name>LSCO</name>&quot;)</material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Na 0.3 CoO 2 •1.4 H 2 O</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula> (<name>Ru-1212</name>)</material>
+	<material><name>YBCO</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>hydrated sodium cobaltate</name> <formula>Na 0.3 CoO 2 •1.4 H 2 O</formula></material>
+	<material><formula>Na 0.3 CoO 2 •0.6 H 2 O</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula> with <variable>A</variable> = <value>K, Rb, Cs</value></material>
+	<material><formula>BaTi 2 Sb 2 O</formula></material>
+	<material><formula>Ba 1−x Na x Ti 2 Sb 2 O</formula></material>
+	<material><formula>Ba 1-x Na x Ti 2 Sb 2 O</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>Gd 0.8 Th 0.2 FeAsO</formula></material>
+	<material><formula>AnFeAsO</formula></material>
+	<material><variable>An</variable> = <value>Np, Pu</value></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2-x Co x As 2</formula></material>
+	<material><variable>x</variable> = <value>0.06</value></material>
+	<material><name>YBCO</name></material>
+	<material><name>Nd-1111</name></material>
+	<material><name>Ba-122</name></material>
+	<material><name>Ba-122</name></material>
+	<material><name>Ba-122</name></material>
+	<material><formula>A x Mo 6 X 8</formula> with <variable>X</variable> = <value>S or Se and A</value> <variable>x</variable><value> an interstitial atom</value></material>
+	<material><formula>SnMo 6 S 8</formula></material>
+	<material><formula>PbMo 6 S 8</formula></material>
+	<material><formula>Gd 0.2 PbMo 6 S 8</formula></material>
+	<material><formula>2H-NbSe 2</formula></material>
+	<material><formula>2H-TaS 2</formula></material>
+	<material><formula>1T-TiSe 2</formula></material>
+	<material><doping>Cu</doping>-doping</material>
+	<material><formula>2H-MoS 2</formula></material>
+	<material><formula>2H-MoSe 2</formula></material>
+	<material><formula>2H-WS 2</formula></material>
+	<material><formula>Bi 4 O 4 S 3</formula></material>
+	<material><formula>1T-TiSe 2</formula></material>
+	<material><formula>2H-NbSe 2</formula></material>
+	<material><formula>1T-TiSe 2</formula></material>
+	<material><formula>PuCoGa 5</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>CeM 2 X 2</formula> (<variable>M</variable> = <value>Cu, Ni, Ru, Rh, Pd, Au</value>, .; <variable>X</variable> = <value>Si, Ge</value>)</material>
+	<material><formula>URu 2 Si 2</formula></material>
+	<material><formula>CeIn 3</formula></material>
+	<material><formula>CeMIn 5</formula> (<variable>M</variable> = <value>Co, Ir</value>)</material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>YbCoIn 5</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>YbRh 2 Si 2</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>CeM m In 3+2m</formula> (<variable>M</variable> = <value>Ir or Co</value>; <variable>m</variable> = <value>0, 1</value>)</material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CePt 3 Si</formula></material>
+	<material><formula>β-YbAl 4 B</formula></material>
+	<material><formula>CeCu 2 Ge 2</formula></material>
+	<material><formula>CePd 2 Si 2</formula></material>
+	<material><formula>CeNi 2 Ge 2</formula></material>
+	<material><formula>CeRh 2 Si 2</formula></material>
+	<material><formula>CeSn 3</formula></material>
+	<material><formula>CeIn 3</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>CePt 3 Si</formula></material>
+	<material><formula>β-YbAl 4 B</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><formula>UNi 2 Al 3</formula></material>
+	<material><formula>URu 2 Si 2</formula></material>
+	<material><formula>UBe 13</formula></material>
+	<material><formula>U 1-x Th x Be 13</formula></material>
+	<material><formula>UBe 13</formula></material>
+	<material><formula>UGe 2</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><fabrication>epitaxial</fabrication> <formula>UPd 2 Al 3 -AlO x -Pb</formula></material>
+	<material><formula>ErRh 4 B 4</formula></material>
+	<material><formula>HoMo 6 S 8</formula></material>
+	<material><formula>ErNi 2 B 2 C</formula></material>
+	<material><formula>ZrZn 2</formula></material>
+	<material><formula>UGe 2</formula></material>
+	<material><formula>URhGe</formula></material>
+	<material><formula>ZrZn 2</formula></material>
+	<material><formula>URu 2 Si 2</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>NpPd 5 Al 2</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>UBe</formula></material>
+	<material><formula>U 1-x Th x Be 13</formula></material>
+	<material><formula>UBe 13</formula> <shape>single crystals</shape></material>
+	<material><formula>UPt 3</formula> <shape>single crystals</shape></material>
+	<material><doping>Th</doping>-doped <shape>crystals</shape> <formula>U 1-x Th x Be 13</formula></material>
+	<material><formula>UBe 13</formula></material>
+	<material><formula>PuCoGa 5</formula></material>
+	<material><formula>PuRhGa 5</formula></material>
+	<material><formula>NpPd 5 Al 2</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>RT 4 X 12</formula> (<variable>R</variable> = <value>alkaline earth, rare earth or actinide</value>; <variable>T</variable> = <value>Fe, Ru or Os</value> and <variable>X</variable>=<value>P, As or Sb</value>)</material>
+	<material><formula>Pr(Os 1-x Ru x )Sb 12</formula></material>
+	<material><variable>x</variable> ~ <value>0.6</value></material>
+	<material><variable>x</variable> <value>&lt; 0.6</value></material>
+	<material><variable>x</variable> <value>&gt; 0.6</value></material>
+	<material><variable>x</variable> = <value>1</value> compound <formula>PrRu 4 Os 12</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula> (<variable>x</variable> = <value>0</value>)</material>
+	<material><formula>UPt 3</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>RT 4 X 12</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>PrOs 4 Sb 12</formula></material>
+	<material><formula>NbN</formula></material>
+	<material><formula>La 3 Ni 2 B 2 N 3</formula></material>
+	<material><formula>MNX</formula> (<variable>M</variable> = <value>Zr, Hf</value>; <variable>X</variable> = <value>Cl, Br, I</value>)</material>
+	<!-- <material><formula>Li 0.48</formula> (<name>THF</name>) y <fabrication>HfNCl containing cointercalated tetrahydrofuran solvent (THF)</fabrication></material> -->
+	<material><formula>A x TiNCl</formula> (<variable>A</variable> = <value>Li, Na, K, Rb</value>)</material>
+	<material><fabrication>Li + THF cointercalated β-HfNCl</fabrication></material>
+	<material><formula>NbC</formula></material>
+	<material><formula>MoC</formula></material>
+	<material><formula>(TMTSF)PF 6</formula></material>
+	<material><name>TMTSF</name> (<name>tetra-methyl-tetra-selenium-fulvalene</name></material>
+	<material><formula>C 60</formula></material>
+	<material><formula>(TMTSF) 2 ClO 4</formula></material>
+	<material><formula>(TMTSF) 2 X</formula> where <variable>X</variable> denotes an electron acceptor such as <value>PF 6 , ClO 4, AsF 6 or TaF 6</value></material>
+	<material><formula>(TMTSF) 2 ClO 4</formula></material>
+	<material><formula>(BEDT-TTF) 2 Cu[N(CN) 2 ]Br</formula></material>
+	<material><formula>(BEDT-TTF) 2 Cu(NCS) 2</formula></material>
+	<material><formula>(TMTSF) 2 PF 6</formula></material>
+	<material><formula>κ-(BEDT-TTF) 2 Cu(NCS) 2</formula></material>
+	<material><name>diamond</name></material>
+	<material><name>silicon carbide</name></material>
+	<material><doping>~ 1 at % boron</doping></material>
+	<material><name>silicon</name> <shape>thin films</shape></material>
+	<material><doping>boron doping concentration homogenously up to 11 at %</doping></material>
+	<material><formula>KC 8</formula></material>
+	<material><formula>KHgC 8</formula></material>
+	<material><formula>KTl 1.5 C 4</formula></material>
+	<material><formula>YbC 6</formula></material>
+	<material><formula>CaC 6</formula></material>
+	<material><formula>Li 3 Ca 2 C 6</formula></material>
+	<material><name>graphene</name>, the atomic monolayer modification of graphite, Li-or Ca-decoration</material>
+	<material><formula>A 3 C 60</formula></material>
+	<material><formula>Rb 3 C 60</formula></material>
+	<material><formula>Cs 3 C 60</formula></material>
+	<material><name>C 60</name></material>
+	<material><formula>Cs 3 C 60</formula></material>
+	<material><fabrication>alkali-doped picene and dibenzopentacen</fabrication></material>
+	<!-- <material>double- wall carbon natotubes (DWNT)</material> -->
+	<material><formula>C 60</formula></material>
+	<material><formula>RNi 2 B 2 C</formula> (nonmagnetic <variable>R</variable> = <value>Y, Lu, Sc</value>; magnetic <variable>R</variable> = <value>lanthanide elements</value></material>
+	<material><formula>RNi 2 B 2 C</formula></material>
+	<material><formula>LuNi 2 B 2 C</formula></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material>magnetic <formula>RNi 2 B 2 C</formula></material>
+	<material><formula>RNi 2 B 2 C</formula> with <variable>R</variable> = <value>Dy, Ho and Er</value></material>
+	<material>nonmagnetic <formula>YNi 2 B 2 C and LuNi 2 B 2 C</formula></material>
+	<material><formula>RNi 2 B 2 C</formula></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material><formula>LuNi 2 B 2 C</formula></material>
+	<material><formula>RNi 2 B 2 C</formula></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material><formula>LuNi 2 B 2 C</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula> <shape>powder</shape></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>copper</name> <shape>wire</shape></material>
+	<material><shape>polycrystalline</shape> <formula>Nb 3 Sn</formula></material>
+	<material><formula>MgB 2</formula></material>
+</materials>

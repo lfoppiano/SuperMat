@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><variable>y</variable> <value>≥ 0.055</value></material>
+	<material><doping>Zn-free underdoped</doping> samples</material>
+	<material><variable>y</variable> <value>≤ 0.05</value></material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7-δ</formula> (<name>Y123</name>) at <doping>high Zn concentration</doping></material>
+	<material><shape>Pure</shape> <formula>Y123</formula></material>
+	<material><name>Y123</name></material>
+	<material><doping>overdoped</doping> <formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><variable>y</variable> <value>≥ 0.055</value></material>
+    <material><shape>Polycrystalline</shape> single-phase samples of <formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) O 7-δ</formula></material>
+	<material>c-axis oriented <shape>thin films</shape> of <formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Zn in Y123</formula> for <variable>δ</variable> <value>&lt; 0.5</value></material>
+	<material><doping>Zn-free</doping> samples</material>
+	<material><formula>Y 0.80 Ca 0.20 Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><variable>y</variable> <value>≤ 0.05</value></material>
+	<material><formula>Y 0.80 Ca 0.20 Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><variable>y</variable> = <value>0.06</value> sample (S1)</material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula> compounds with <variable>y</variable> <value>&lt; 0.05</value></material>
+    <material>(S1)</material>
+    <material><doping>Zn-free</doping></material>
+	<material><variable>y</variable> = <value>0.06</value></material>
+	<material><variable>y</variable> = <value>0.06</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+    <material>S2</material>
+    <material><variable>y</variable> = <value>0.06</value> and <variable>x</variable> = <value>0.20</value></material>
+    <material>S1</material>
+    <material>S2</material>
+    <material><variable>y</variable> = <value>0.07</value></material>
+    <material><formula>YBa 2 (Cu 1- y Zn y ) 3 O 7-δ</formula></material>
+    <material><formula>Cu 0.93 Zn 0.07 ) 3 O 7-δ</formula></material>
+    <material><doping>4%Zn</doping> substituted samples</material>
+    <material><doping>Zn-free</doping> samples</material>
+    <material>S1</material>
+    <material>S2</material>
+    <material><fabrication>sintered</fabrication> <formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula> samples with <variable>y</variable> <value>≤ 0.05</value></material>
+	<material><variable>y</variable> <value>&gt; 0.05</value></material>
+    <material><doping>5%Zn</doping></material>
+    <material>S1</material>
+    <material>S1</material>
+    <material>S2</material>
+    <material><doping>5%Zn</doping> substitution</material>
+    <material><doping>heavily Zn-substituted</doping> samples</material>
+    <material><doping>3%Zn</doping> and <doping>6%Zn</doping> substituted samples</material>
+    <material><doping>6%Zn</doping> sample</material>
+    <material><doping>Zn-free</doping></material>
+    <material><doping>3%Zn</doping> sample</material>
+    <material><doping>Zn-free</doping></material>
+    <material><shape>thin film</shape> <formula>Y 1-x Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+    <material><doping>3%Zn</doping> substituted sintered</material>
+    <material><doping>2%Zn</doping> substituted <shape>thin film</shape></material>
+    <material>S1</material>
+    <material>S2</material>
+    <material><doping>6%Zn</doping> sample</material>
+    <material><formula>Y 1-x Ca x Ba 2 (Cu 1- y Zn y ) 3 O 7-δ</formula></material>
+	<material><variable>y</variable> <value>&gt; 0.05</value></material>
+	<material><formula>Y 1-x. Ca x Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+    <material><doping>7%Zn</doping>-<name>Y123</name></material>
+	<material><doping>doped</doping> <name>Bi-2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi-2212</name></material>
+	<material><doping>doped</doping> <name>Bi-2212</name></material>
+	<material><name>Y123</name></material>
+	<material><formula>Y 1-x Ca 1-x Ba 2 (Cu 1- y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Y 1-x Ca x Ba 2 (Cu 1-x Zn x ) 3 O 7-δ</formula></material>
+	<material><doping>doped</doping> <name>Bi-2212</name></material>
+	<material><fabrication>sintered</fabrication> <formula>Y 0.80 Ca 0.20 Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><fabrication>sintered</fabrication> <formula>Y 0.80 Ca 0.20 Ba 2 (Cu 0.94 Zn 0.06 ) 3 O 7-δ</formula></material>
+	<material><fabrication>sintered</fabrication> <formula>Y 0.80 Ca 0.20 Ba 2 (Cu 0.945 Zn 0.055 ) 3 O 7-δ</formula></material>
+	<material><formula>YBa 2 (Cu 0.93 Zn 0.07 ) 3 O 7-δ</formula></material>
+	<material><formula>Y 0.80 Ca 0.20 Ba 2 (Cu 0.985 Zn 0.015 ) 3 O 7-δ</formula></material>
+	<material><formula>Y 0.80 Ca 0.20 Ba 2 (Cu 0.96 Zn 0.04 ) 3 O 7-δ</formula></material>
+	<material>c-axis oriented <shape>thin film</shape> of <formula>Y 0.95 Ca 0.05 Ba 2 Cu 3 O 7-δ</formula></material>
+	<material><fabrication>sintered</fabrication> S1</material>
+	<material><fabrication>sintered</fabrication> S2</material>
+	<material><fabrication>sintered</fabrication> S1</material>
+	<material><fabrication>powdered</fabrication> S1</material>
+	<material><formula>Y 0.80 Ca 0.20 Ba 2 (Cu 0.96 Zn 0.04 ) 3 O 7-δ</formula></material>
+	<material><formula>Y 0.95 Ca 0.05 Ba 2 (Cu 1-y Zn y ) 3 O 7-δ</formula></material>
+	<material><formula>Y 0.90 Ca 0.10 Ba 2 (Cu 0.97 Zn 0.03 ) 3 O 7-δ</formula></material>
+	<material><formula>Y 0.90 Ca 0.10 Ba 2 (Cu 0.97 Zn 0.03 ) 3 O 7-δ</formula></material>
+	<material><fabrication>sintered</fabrication> <formula>Y 0.80 Ca 0.30 Ba 2 (Cu 0.97 Zn 0.03 ) 3 O 7-δ</formula></material>
+	<material><shape>thin films</shape> of <formula>Y 0.95 Ca 0.05 Ba 2 (Cu 0.98 Zn 0.02 ) 3 O 7-δ</formula></material>
+	<material><fabrication>sintered</fabrication> S1</material>
+	<material><doping>pure</doping> <name>Y123</name></material>
+</materials>

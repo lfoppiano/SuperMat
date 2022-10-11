@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> and<formula> La 1.6−x Nd 0.4 Sr x CuO 4</formula> around <variable>x</variable> = <value>1/8</value></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.08, 0.10, 0.11</value></material>
+	<material><formula>La1.6−xNd0.4SrxCuO4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><name>La-214</name></material>
+	<material><variable>x</variable> = <value>0.10, 0.11 and 0.12</value></material>
+	<material><doping>underdoped</doping> <formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><doping>underdoped</doping> <formula>Bi 2 Sr 2−x La x CuO 6+δ</formula> (<name>BSLCO</name>)</material>
+	<material><name>LSCO</name> with <variable>x</variable> = <value>0.10</value></material>
+	<material><name>LSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> ∼ <value>1/8</value></material>
+	<material><doping>doped</doping> <formula>La 2 CuO 4+δ</formula> (<name>LCO</name>)</material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> (<name>LNSCO</name>) with <variable>x</variable> = <value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LCO</name></material>
+	<material><formula>La2−xBaxCuO4</formula></material>
+	<material><formula>La1.6−xNd0.4SrxCuO4</formula></material>
+	<material><name>LNSCO</name></material>
+	<material><doping>single-crystal</doping> <formula>La 2−x Ba x CuO 4</formula> (<name>LBCO</name>) with <variable>x</variable> = <value>0.08, 0.10, 0.11</value> and <name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.11</value></material>
+	<material><variable>p</variable> = <variable>x</variable> = <value>1/8</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.08</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.10</value></material>
+	<material><name>LBCO</name></material>
+	<material><name>LNSCO</name></material>
+	<material><variable>x</variable> = <value>0.10 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> ∼ <value>1/8</value> of <name>LBCO</name></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><shape>Single crystals</shape> of <name>LBCO</name> with <variable>x</variable> = <value>0.08, 0.10, 0.11</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.08, 0.10, 0.11</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.08, 0.10 and 0.11</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><name>LNSCO</name></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.08, 0.10, 0.11</value></material>
+	<material><formula>La1.6−xNd0.4SrxCuO4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.08</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.11</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.10</value></material>
+	<material><formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.08, 0.10 and 0.11</value></material>
+	<material><variable>x</variable> = <value>0.08</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.15</value></material>
+	<material><name>LSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 1.875 Ba 0.125−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x Cu 1−y Zn y O 4</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.11 nor 0.12</value></material>
+	<material><formula>La2−xBaxCuO4</formula> (<name>LBCO</name>) with <variable>x</variable> = <value>0.10, 0.11</value></material>
+	<material><formula>La1.6−xNd0.4SrxCuO4</formula> (<name>LNSCO</name>) with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>BSLCO</name></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.10, 0.11</value> and <name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.10 and 0.11</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.11 and 0.12</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>LBCO</name></material>
+	<material><name>LNSCO</name></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.11</value> and <name>LNSCO</name> with <variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.12</value></material>
+	<material><name>LBCO</name> with <variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.11 and 0.12</value></material>
+	<material><name>LBCO</name></material>
+	<material><name>LNSCO</name></material>
+</materials>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><shape>ultrathin</shape> <formula>Bi 2 Sr 2 CaCu 2 O 8+x</formula> <shape>single crystals</shape></material>
+	<material><shape>thin</shape> <formula>Bi 2 Sr 2 CaCu 2 O 8+x</formula> (<name>Bi2212</name>) <shape>single crystals</shape></material>
+	<material><shape>ultrathin</shape> <name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+x</formula> (<name>Bi2212</name>)</material>
+	<material><name>Bi2201</name></material>
+	<material><name>Bi2212</name></material>
+	<material><shape>ultrathin</shape> <name>Bi2212</name> <shape>films</shape></material>
+    <material><name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name> <shape>single crystals</shape></material>
+    <material><shape>single crystal</shape> of <name>Bi2212</name></material>
+    <material><formula>Au</formula> <shape>thin-film</shape></material>
+	<material><name>Bi2212</name></material>
+	<material><name>Bi2212</name> <shape>single crystal</shape></material>
+    <material><name>Bi2212</name> <shape>thin films</shape></material>
+    <material><shape>ultrathin</shape> <name>Bi2212</name> <shape>single crystal</shape> has <fabrication>more than 8 (CuO 2 ) 2 -layers (12 nm or 4 unit cells thick)</fabrication></material>
+	<!-- <material><name>thinner than 4 unit cells</name></material> -->
+	<material><shape>ultrathin</shape> <name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name> <shape>single crystals</shape></material>
+	<material><name>Bi2212</name> <shape>thin films</shape></material>
+    <material><shape>ultrathin</shape> <formula>YBa 2 Cu 3 O 7+δ</formula> (<name>YBCO</name>) <shape>films</shape> <fabrication>sandwiched between PrBCO buffer layers</fabrication></material>
+	<material><name>YBCO</name></material>
+    <material><name>YBCO</name> <shape>epitaxial films</shape></material>
+	<material><name>PrBCO</name></material>
+	<material><shape>ultrathin</shape> <name>Bi2212</name> <shape>single crys- tals</shape></material>
+	<material><name>Bi2212</name></material>
+	<material><name>Bi2212</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>Bi2212</name></material>
+	<material><name>BSCCO</name></material>
+</materials>

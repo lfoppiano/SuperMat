@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+    <!-- check -->
+	<material><doping>Sn-substituted</doping> <formula>CeCoIn 5</formula></material>
+	<material><variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeIn 3</formula></material>
+	<material><formula>CePd 2 Si 2</formula></material>
+	<material><formula>URu 2 Si 2</formula></material>
+	<material><formula>PrFe 4 P 12</formula></material>
+	<material><formula>Sr 3 Ru 2 O 7</formula></material>
+	<material><formula>MnSi</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5</formula></material>
+    <material><shape>Single crystals</shape> of <formula>CeCoIn 5−y Sn y</formula> (<value>0 ≤</value> <variable>y</variable> <value>≤ 0.4</value>)</material>
+    <material><formula>CeCoIn 5−x Sn x</formula> for <variable>x</variable> <value>≤ 0.12</value></material>
+    <material><doping>Sn concentration</doping> <variable>x</variable> ∼ <value>0.6y</value></material>
+	<material><formula>LaCoIn 5</formula></material>
+	<material><variable>x</variable> = <value>0.03, 0.06, and 0.12</value></material>
+	<material><variable>x</variable> = <value>0, 0.03, 0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>U 0.2 Y 0.8 Pd 3</formula></material>
+	<material><formula>YbRh 2 Si 2</formula></material>
+	<material><variable>x</variable> = <value>0, 0.03, 0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula> for <variable>x</variable> = <value>0.03</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.03</value> (<variable>x</variable> = <value>0.12</value></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeRhIn 5</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> = <value>0 (not shown) , 0.03, and 0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+    <material><formula>CeCoIn 5−x Sn x</formula> for <variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><variable>x</variable> <value>≤ 0.12</value>)</material>
+	<material><variable>x</variable> = <value>0 [21], 0.03, and 0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula> (<variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CePd 2 Si 2</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> = <value>0.03</value></material>
+	<material><variable>x</variable> = <value>0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> = <value>0 [15], 0.03, 0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> <value>≤ 0.12</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula> for <variable>x</variable> = <value>0.03</value></material>
+	<material><variable>x</variable> = <value>0.03</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><variable>x</variable> = <value>0.03</value></material>
+	<material><formula>CeCoIn 5−x Sn x</formula></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> = <value>0.03</value></material>
+	<material><variable>x</variable> = <value>0.06</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+</materials>

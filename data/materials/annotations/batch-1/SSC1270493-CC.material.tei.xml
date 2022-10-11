@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula> (<name>Co-1212</name>)</material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+    <material><value>-0.03 ≤</value> <variable>δ</variable> <value>≤ 0.00</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><formula>CuBa 2 YCu 2 O 7-δ</formula> (<name>Cu-1212</name>)</material>
+	<material><name>Tl-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Hg-1212</name></material>
+	<material><name>Tl-1212</name></material>
+	<material><name>Ga-1212</name></material>
+	<material><name>Al-1212</name></material>
+	<material><name>Co-1212</name></material>
+	<material><formula>CoSr 2 YCu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 YCu 2 O 7+δ</formula></material>
+	<material><name>Co-1212</name></material>
+	<material><name>Co-1212</name></material>
+	<material><formula>CoSr 2 YCu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula> (<variable>x</variable> = <value>0 ∼ 0.7</value>)</material>
+	<material><formula>Co 3 O 4</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>Y 2 O 3</formula></material>
+	<material><formula>CaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><variable>x</variable> <value>≥ 0.5</value></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><variable>x</variable> <value>≤ 0.5</value></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><formula>AlSr 2 HoCu 2 O 7</formula></material>
+	<material><formula>AlSr 2 HoCu 2 O 7</formula></material>
+	<material><formula>Na 2 S 2 O 3</formula></material>
+    <material><value>-0.03 ≤</value> <variable>δ</variable> <value>≤ 0.00</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>CoSr 2 YCu 2 O 6.97</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.2 -0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.35</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>CoSr 2 (Y 0.6 Ca 0.4 )Cu 2 O 7+δ</formula></material>
+	<material><formula>Ag 2 O</formula></material>
+	<material><name>Co-1212</name></material>
+	<material><formula>Ag 2 O 2</formula></material>
+    <!-- check  all these with 50 mol-% -->
+	<material>50 mol-% <formula>Ag 2 O 2</formula></material>
+<!--    <material><variable>x</variable> = <value>0.4v sample using <doping>25 and 100 mol-%</doping> <formula>Ag 2 O 2</formula></material>-->
+<!--	<material><variable>x</variable> = <value>0.4</value> sample using <doping>25 and 100 mol-% Ag 2 O 2</doping></material>-->
+	<material>25 mol-% <formula>Ag 2 O 2</formula></material>
+<!--	<material><formula>100 mol-% Ag 2 O 2</formula></material>-->
+<!--	<material><doping>50 mol-% of</doping> <formula>Ag 2 O 2</formula></material>-->
+	<material><formula>Ag 2 O 2</formula></material>
+	<material>50 % <formula>Ag 2 O 2</formula></material>
+	<material>25 % <formula>Ag 2 O 2</formula> (<variable>y</variable> <value>≈ 0</value>)</material>
+    <material>100 % <formula>Ag 2 O 2</formula> (<variable>y</variable> <value>≈ 1.0</value>)</material>
+    <material>50 % <formula>Ag 2 O 2</formula> (<variable>y</variable> <value>≈ 0.4</value>)</material>
+	<material><name>Co-1212</name></material>
+	<material><formula>Ag 2 O 2</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula> (<name>Co-1212</name>)</material>
+	<material><variable>x</variable> <value>≈ 0.4</value></material>
+	<material><name>Co-1212</name></material>
+	<material><name>Co-1212</name></material>
+	<material><name>Co-1212</name></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><name>Co-1212</name></material>
+	<material><formula>Ag 2 O 2</formula></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>CoSr 2 (Y 1-x Ca x )Cu 2 O 7+δ</formula></material>
+	<material><formula>Ag 2 O 2</formula></material>
+	<material><name>Co-1212</name></material>
+	<material><formula>Ag 2 O</formula></material>
+</materials>
