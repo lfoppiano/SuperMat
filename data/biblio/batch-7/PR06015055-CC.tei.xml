@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hall effect in Zn-dopedYBa2Cu3O7−δrevisited: Hall angle and the pseudogap</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1999-12-03">3 Dec 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yasushi</forename><surname>Abe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kouji</forename><surname>Segawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hall effect in Zn-dopedYBa2Cu3O7−δrevisited: Hall angle and the pseudogap</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">60</biblScope>
+							<biblScope unit="issue">22</biblScope>
+							<biblScope unit="page" from="R15055" to="R15058"/>
+							<date type="published" when="1999-12-03">3 Dec 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.60.r15055</idno>
+					<idno type="arXiv">arXiv:cond-mat/9905274v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.62.Dh</term>
+					<term>74.20.Mn</term>
+					<term>74.72.Bk</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The temperature dependence of the Hall coefficient is measured with a high accuracy in a series of YBa2(Cu1−zZnz)3O6.78 crystals with 0≤z≤0.013. We found that the cotangent of the Hall angle, cot θH , starts to deviate upwardly from the T 2 dependence below T0 (∼130 K), regardless of the Zn concentration. We discuss that this deviation is caused by the pseudogap; the direction of the deviation and its insensitivity to the Zn doping suggest that the pseudogap affects cot θH through a change in the effective mass, rather than through a change in the Hall scattering rate.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

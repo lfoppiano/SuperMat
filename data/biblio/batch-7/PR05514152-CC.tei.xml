@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">In-plane optical response ofBi2Sr2CuO6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-08-14">August 14, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Tsvetkov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Material Science Center</orgName>
+								<orgName type="laboratory">Laboratory of Solid State Physics</orgName>
+								<orgName type="institution">University of Groningen</orgName>
+								<address>
+									<addrLine>Nijenborgh 4, The Netherlands</addrLine>
+									<postCode>9747 AG</postCode>
+									<settlement>Groningen</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">P. N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>Leninsky prospect 53</addrLine>
+									<postCode>117924</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Schützmann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Material Science Center</orgName>
+								<orgName type="laboratory">Laboratory of Solid State Physics</orgName>
+								<orgName type="institution">University of Groningen</orgName>
+								<address>
+									<addrLine>Nijenborgh 4, The Netherlands</addrLine>
+									<postCode>9747 AG</postCode>
+									<settlement>Groningen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">I</forename><surname>Gorina</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">P. N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>Leninsky prospect 53</addrLine>
+									<postCode>117924</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Kaljushnaia</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">P. N. Lebedev Physical Institute</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>Leninsky prospect 53</addrLine>
+									<postCode>117924</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Van Der Marel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Material Science Center</orgName>
+								<orgName type="laboratory">Laboratory of Solid State Physics</orgName>
+								<orgName type="institution">University of Groningen</orgName>
+								<address>
+									<addrLine>Nijenborgh 4, The Netherlands</addrLine>
+									<postCode>9747 AG</postCode>
+									<settlement>Groningen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">In-plane optical response ofBi2Sr2CuO6</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">55</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<biblScope unit="page" from="14152" to="14155"/>
+							<date type="published" when="2018-08-14">August 14, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.55.14152</idno>
+					<idno type="arXiv">arXiv:cond-mat/9703028v1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We report on infrared reflectivity measurements of the ab-plane response of superconducting Bi 2 Sr 2 CuO 6 single crystals. The frequency dependent conductivity has a maximum near 500 cm −1 at room temperature, which shifts to lower frequency and merges with a Drude peak below 100 K. We attribute</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

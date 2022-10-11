@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of carrier concentration on the superfluid density of high-Tccuprates</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1999-03-06">6 Mar 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Panagopoulos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">IRC in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Rainford</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Southampton</orgName>
+								<address>
+									<postCode>SO17 1BJ</postCode>
+									<settlement>Southampton</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">IRC in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Lo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">IRC in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Tallon</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">New Zealand Institute for Industrial Research</orgName>
+								<address>
+									<postBox>P.O. Box 31310</postBox>
+									<settlement>Lower Hutt</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Loram</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">IRC in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Betouras</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Theoretical Physics</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<postCode>OX1 3NP</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Wang</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Texas Centre for Superconductivity</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Texas Centre for Superconductivity</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of carrier concentration on the superfluid density of high-Tccuprates</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">60</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<biblScope unit="page" from="14617" to="14620"/>
+							<date type="published" when="1999-03-06">6 Mar 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.60.14617</idno>
+					<idno type="arXiv">arXiv:cond-mat/9903117v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Nf</term>
+					<term>74.62. Dh</term>
+					<term>74.72.Dn</term>
+					<term>74.72.Gr</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The absolute values and temperature, T, dependence of the in-plane magnetic penetration depth, λ ab , of La2−xSrxCuO4 and HgBa2CuO 4+δ have been measured as a function of carrier concentration. We find that the superfluid density, ρs, changes substantially and systematically with doping. The values of ρs(0) are closely linked to the available low energy spectral weight as determined by the electronic entropy just above Tc and the initial slope of ρs(T)/ρs(0) increases rapidly with carrier concentration. The results are discussed in the context of a possible relationship between ρs and the normal-state (or pseudo) energy gap.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

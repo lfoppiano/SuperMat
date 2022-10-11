@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Specific heat of Zn-dopedYBa2Cu3O6.95:Possible evidence for Kondo screening in the superconducting state</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-08-12">August 12, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Sisson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Applied Physics and of Physics</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Doettinger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Applied Physics and of Physics</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kapitulnik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Applied Physics and of Physics</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Liang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, UBC</orgName>
+								<address>
+									<postCode>V6T1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Bonn</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, UBC</orgName>
+								<address>
+									<postCode>V6T1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">N</forename><surname>Hardy</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, UBC</orgName>
+								<address>
+									<postCode>V6T1Z1</postCode>
+									<settlement>Vancouver</settlement>
+									<region>British Columbia</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Specific heat of Zn-dopedYBa2Cu3O6.95:Possible evidence for Kondo screening in the superconducting state</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">61</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="3604" to="3609"/>
+							<date type="published" when="2018-08-12">August 12, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.61.3604</idno>
+					<idno type="arXiv">arXiv:cond-mat/9904131v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25</term>
+					<term>74.62.D</term>
+					<term>75.20.H</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The magnetic field dependence of the specific heat of Zn-doped single crystals of YBa2Cu3O6.95 was measured between 2 and 10 K and up to 8 Tesla. Doping levels of 0, 0.15%, 0.31%, and 1% were studied and compared. In particular we searched for the Schottky anomaly associated with the Zn-induced magnetic moments.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

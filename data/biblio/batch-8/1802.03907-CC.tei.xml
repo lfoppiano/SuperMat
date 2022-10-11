@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconducting transition temperatures in electronic and magnetic phase diagram of a superconductor, Sr 2 VFeAsO 3−δ</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yujiro</forename><surname>Tojo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taizo</forename><surname>Shibuya</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical Engineering</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tetsuro</forename><surname>Nakamura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Koichiro</forename><surname>Shoji</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hirotaka</forename><surname>Fujioka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masanori</forename><surname>Matoba</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shintaro</forename><surname>Yasui</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Materials and Structures</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mitsuru</forename><surname>Itoh</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Materials and Structures</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Soshi</forename><surname>Iimura</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Materials and Structures</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Materials Research Center for Element Strategy</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hidenori</forename><surname>Hiramatsu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Materials and Structures</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Materials Research Center for Element Strategy</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideo</forename><surname>Hosono</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory for Materials and Structures</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Materials Research Center for Element Strategy</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>Midori-ku</addrLine>
+									<postCode>4259, 226-8503</postCode>
+									<settlement>Nagatsuta, Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shigeto</forename><surname>Hirai</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Geological Sciences</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Stanford Institute for Materials and Energy Sciences</orgName>
+								<orgName type="institution" key="instit2">SLAC National Accelerator Laboratory</orgName>
+								<address>
+									<addrLine>2575 Sand Hill Road</addrLine>
+									<postCode>94025</postCode>
+									<settlement>Menlo Park</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wendy</forename><surname>Mao</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Geological Sciences</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305</postCode>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Stanford Institute for Materials and Energy Sciences</orgName>
+								<orgName type="institution" key="instit2">SLAC National Accelerator Laboratory</orgName>
+								<address>
+									<addrLine>2575 Sand Hill Road</addrLine>
+									<postCode>94025</postCode>
+									<settlement>Menlo Park</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shinji</forename><surname>Kitao</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution" key="instit1">Research Reactor Institute</orgName>
+								<orgName type="institution" key="instit2">Kyoto University</orgName>
+								<address>
+									<addrLine>Kumatori-cho, Sennan-gun</addrLine>
+									<postCode>590-0494</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Makoto</forename><surname>Seto</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution" key="instit1">Research Reactor Institute</orgName>
+								<orgName type="institution" key="instit2">Kyoto University</orgName>
+								<address>
+									<addrLine>Kumatori-cho, Sennan-gun</addrLine>
+									<postCode>590-0494</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Kamihara</surname></persName>
+							<email>kamihara_yoichi@keio.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">IoT Devices Research Laboratories</orgName>
+								<orgName type="institution">NEC Corporation</orgName>
+								<address>
+									<postCode>305-8501</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Kitami Institute of Technology</orgName>
+								<address>
+									<postCode>090-8507</postCode>
+									<settlement>Kitami</settlement>
+									<region>Hokkaido</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Department of Applied Physics and Physico-Informatics</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Technology</orgName>
+								<orgName type="institution">Keio University</orgName>
+								<address>
+									<addrLine>3-14-1 Hiyoshi</addrLine>
+									<postCode>223-8522</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconducting transition temperatures in electronic and magnetic phase diagram of a superconductor, Sr 2 VFeAsO 3−δ</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T01:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Classification:Physical Sciences: Chemistry</term>
+					<term>Applied Physical Sciences</term>
+					<term>Computer Sciences iron-based superconductors, layered perovskite-type oxide, oxygen deficiency, antiferromagnetism, phase diagram, Sr 2 VFeAsO 3</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

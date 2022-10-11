@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Temperature evolution of the pseudogap state in the infrared response of underdopedLa2−xSrxCuO4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1998-12-09">9 Dec 1998</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Startseva</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">McMaster University</orgName>
+								<address>
+									<postCode>L8S 4M1</postCode>
+									<settlement>Hamilton</settlement>
+									<region>Ontario</region>
+									<country key="CA">CANADA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Timusk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">McMaster University</orgName>
+								<address>
+									<postCode>L8S 4M1</postCode>
+									<settlement>Hamilton</settlement>
+									<region>Ontario</region>
+									<country key="CA">CANADA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">V</forename><surname>Puchkov</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Stanford University</orgName>
+								<address>
+									<postCode>94305 (</postCode>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">N</forename><surname>Basov</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of California San-Diego</orgName>
+								<address>
+									<postCode>92093 (</postCode>
+									<settlement>La Jolla</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Mook</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Oak Ridge National Laboratory</orgName>
+								<address>
+									<postCode>37831 (</postCode>
+									<settlement>Oak Ridge</settlement>
+									<region>Tennessee</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Okuya</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>113</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kimura</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>113</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kishio</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Applied Chemistry</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>113</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Temperature evolution of the pseudogap state in the infrared response of underdopedLa2−xSrxCuO4</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">59</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page" from="7184" to="7190"/>
+							<date type="published" when="1998-12-09">9 Dec 1998</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.59.7184</idno>
+					<idno type="arXiv">arXiv:cond-mat/9812134v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Gz</term>
+					<term>74.7.2.Dn</term>
+					<term>74.72.Jt</term>
+					<term>74.72.-h</term>
+					<term>78.20.Ci</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The ab-plane optical spectra of two single crystals of underdoped La2−xSrxCuO4 were investigated. The reflectivity of La1.87Sr0.13CuO4 has been measured in the frequency range 30-9,000 cm −1 (0.004-1 eV) both parallel and perpendicular to the CuO2 planes, whereas La1.86Sr0.14CuO4 was studied only in the ab-plane. The extended Drude model shows that the frequency-dependent effective scattering rate 1/τ (ω, T) is strongly suppressed below the high-frequency straight-line extrapolation, a signature of the pseudogap state. This suppression can be seen from temperatures below the superconducting transition up to 400 K. In the case of underdoped LSCO the straight-line extrapolation is temperature independent below 200 K, whereas above 200 K there is a strong temperature dependence of the high-frequency 1/τ (ω, T). The out-of-plane direction is also examined for evidence of the pseudogap state.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

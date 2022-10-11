@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Predicting Diamond-like Co-based Chalcogenides as Unconventional High Temperature Superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jiangping</forename><surname>Hu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Beijing National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Kavli Institute of Theoretical Sciences</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Collaborative Innovation Center of Quantum Matter</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuhao</forename><surname>Gu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Beijing National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Institute of Theoretical and Computational Chemistry</orgName>
+								<orgName type="department" key="dep2">College of Chemistry and Molecular Engineering</orgName>
+								<orgName type="laboratory">State Key Laboratory of Rare Earth Materials Chemistry and Applications</orgName>
+								<orgName type="institution" key="instit1">Beijing National Laboratory for Molecular Sciences</orgName>
+								<orgName type="institution" key="instit2">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Congcong</forename><surname>Le</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Beijing National Laboratory for Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Institute of Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Kavli Institute of Theoretical Sciences</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Predicting Diamond-like Co-based Chalcogenides as Unconventional High Temperature Superconductors</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T01:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We predict Co-based chalcogenides with a diamond-like structure can host unconventional high temperature superconductivity (high-Tc). The essential electronic physics in these materials stems from the Co layers with each layer being formed by vertex-shared CoA4 (A=S,Se,Te) tetrahedra complexes, a material genome proposed recently by us to host potential unconventional high-Tc close to a d 7 filling configuration in 3d transition metal compounds. We calculate the magnetic ground states of different transition metal compounds with this structure. It is found that (Mn,Fe,Co)-based compounds all have a G-type antiferromagnetic(AFM) insulating ground state while Ni-based compounds are paramagnetic metal. The AFM interaction is the largest in the Co-based compounds as the three t2g orbitals all strongly participate in AFM superexchange interactions. The abrupt quenching of the magnetism from the Co to Ni-based compounds is very similar to those from Fe to Co-based pnictides in which a C-type AFM state appears in the Fe-based ones but vanishes in the Co-based ones. This behavior can be considered as an electronic signature of the high-Tc gene. Upon doping, as we predicted before, this family of Co-based compounds favor a strong d-wave pairing superconducting state.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

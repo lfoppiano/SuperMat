@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Erratum: Carrier concentrations inBi2Sr2−zLazCuO6+δsingle crystals and their relation to the Hall coefficient and thermopower [Phys. Rev. B61, R14 956 (2000)]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2000-04-10">10 Apr 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hanaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ono</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Murayama</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kouji</forename><surname>Segawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Miyamoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Science University of Tokyo</orgName>
+								<address>
+									<addrLine>Shinjuku-ku</addrLine>
+									<postCode>162-8601</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seiki</forename><surname>Komiya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Erratum: Carrier concentrations inBi2Sr2−zLazCuO6+δsingle crystals and their relation to the Hall coefficient and thermopower [Phys. Rev. B61, R14 956 (2000)]</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">63</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<date type="published" when="2000-04-10">10 Apr 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.63.069902</idno>
+					<idno type="arXiv">arXiv:cond-mat/0004133v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Dw</term>
+					<term>74.25.Fy</term>
+					<term>74.62.-c</term>
+					<term>74.72.Hs</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We measured the thermopower S and the Hall coefficients RH of Bi2Sr2−zLazCuO 6+δ (BSLCO) single crystals in a wide doping range, in an effort to identify the actual hole concentrations per Cu, p, in this system. It is found that the &quot;universal&quot; relation between the room-temperature thermopower and Tc does not hold in the BSLCO system. Instead, comparison of the temperaturedependent RH data with other cuprate systems is used as a tool to identify the actual p value. To justify this approach, we compare normalized RH(T) data of BSLCO, La2−xSrxCuO4 (LSCO), YBa2Cu3Oy, and Tl2Ba2CuO 6+δ , and demonstrate that the RH(T) data of the LSCO system can be used as a template for the estimation of p. The resulting phase diagram of p vs Tc suggests that Tc is anomalously suppressed in the underdoped samples, becoming zero at around p ≃ 0.10, while the optimum Tc is achieved at p ≃ 0.16 as expected.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

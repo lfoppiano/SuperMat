@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">c-axis superfluid response and pseudogap in high-Tcsuperconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1999-11-09">9 Nov 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Panagopoulos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Cavendish Laboratory and Interdisciplinary Research Centre in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Cavendish Laboratory and Interdisciplinary Research Centre in Superconductivity</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0HE</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Xiang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Theoretical Physics</orgName>
+								<orgName type="institution">Academia Sinica</orgName>
+								<address>
+									<postBox>P.O. Box 2735</postBox>
+									<postCode>100080</postCode>
+									<settlement>Beijing, PRC</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Wang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Texas Centre for Superconductivity</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Texas Centre for Superconductivity</orgName>
+								<orgName type="institution">University of Houston</orgName>
+								<address>
+									<postCode>77204-5932</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">c-axis superfluid response and pseudogap in high-Tcsuperconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">61</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="R3808" to="R3810"/>
+							<date type="published" when="1999-11-09">9 Nov 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.61.r3808</idno>
+					<idno type="arXiv">arXiv:cond-mat/9911116v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Nf</term>
+					<term>74.62.Dh</term>
+					<term>74.72.Dn</term>
+					<term>74.72.Gr</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>To gain insight into the out-of-plane electrodynamics of high-Tc superconductors we have measured the absolute values and temperature dependence of the c-axis magnetic penetration depth λc(T) for two typical single layer high-Tc cuprates, La2−xSrxCuO4 and HgBa2CuO4+x as a function of doping. A distinct change in the behaviour of λc is observed near 0.20 holes/Cu, which is related to the opening of the normal state pseudogap. The variation of λc with doping is qualitatively similar to that of the in-plane component, λ ab , which suggests that the c-axis superfluid response is mainly governed by the superconducting condensation energy. The strong doping dependence of λc(0) for p &lt; 0.20 provides an explanation for the discrepancies in the literature.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity in higher titanium oxides</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yoshimatsu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemical Science and Engineering</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>2-12-1 Ookayama, Meguro-ku</addrLine>
+									<postCode>152-8552</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Sakata</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Synchrotron X-ray Station at SPring-8</orgName>
+								<orgName type="institution">National Institute for Materials Science (NIMS)</orgName>
+								<address>
+									<postCode>679-5148</postCode>
+									<settlement>Sayo</settlement>
+									<region>Hyogo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Materials Research Centre for Element Strategy (MCES)</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>226-8503</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ohtomo</surname></persName>
+							<email>aohtomo@apc.titech.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemical Science and Engineering</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<addrLine>2-12-1 Ookayama, Meguro-ku</addrLine>
+									<postCode>152-8552</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Materials Research Centre for Element Strategy (MCES)</orgName>
+								<orgName type="institution">Tokyo Institute of Technology</orgName>
+								<address>
+									<postCode>226-8503</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity in higher titanium oxides</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T01:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

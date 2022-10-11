@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impurity scattering effects on the low-temperature specific heat ofd-wave superconductors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2000-06-01">2000-06-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">F</forename><surname>Chang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National Sun Yat-Sen University</orgName>
+								<address>
+									<postCode>804</postCode>
+									<settlement>Kaohsiung</settlement>
+									<country>Taiwan ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-Y</forename><surname>Lin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">D</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">National Sun Yat-Sen University</orgName>
+								<address>
+									<postCode>804</postCode>
+									<settlement>Kaohsiung</settlement>
+									<country>Taiwan ROC</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impurity scattering effects on the low-temperature specific heat ofd-wave superconductors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">61</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<biblScope unit="page" from="14350" to="14353"/>
+							<date type="published" when="2000-06-01" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.61.14350</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Bt</term>
+					<term>74.62.Dh</term>
+					<term>74.25.Jb</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Very recently impurity scattering effects on quasiparticles in d-wave superconductors have attracted much attention. Especially, the thermodynamic properties in magnetic fields H are of interest. We have measured the low-temperature specific heat C(T,H) of La 1.78 Sr 0.22 Cu 1-x Ni x O 4. For the first time, the impurity scattering effects on C(T,H) of cuprate superconductors were clearly observed, and are compared with theory of d-wave superconductivity. It is found that impurity scattering leads to g(H)=g(0)(1+D´(H/H c2)´ln(H c2 /H)) in small magnetic fields. Most amazingly, the scaling of C(T,H) breaks down due to impurity scattering.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

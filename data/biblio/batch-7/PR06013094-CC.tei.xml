@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressure effects on the superconducting properties ofYBa2Cu4O8</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2018-11-23">November 23, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Khasanov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory for Neutron Scattering</orgName>
+								<orgName type="institution">ETH Zürich and Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>CH-5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">DPMC</orgName>
+								<orgName type="institution">Université de Genève</orgName>
+								<address>
+									<addrLine>24 Quai Ernest-Ansermet, 1211 Genève 4</addrLine>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Schneider</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Keller</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Physik-Institut</orgName>
+								<orgName type="institution">Universität Zürich</orgName>
+								<address>
+									<addrLine>Winterthurerstrasse 190</addrLine>
+									<postCode>CH-8057</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pressure effects on the superconducting properties ofYBa2Cu4O8</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2018-11-23">November 23, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.72.014524</idno>
+					<idno type="arXiv">arXiv:cond-mat/0502576v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.72.Bk</term>
+					<term>74.62.Fj</term>
+					<term>74.25.Ha</term>
+					<term>83.80.Fg</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Measurements of the magnetization under high hydrostatic pressure (up to 10.2 kbar) in YBa2Cu4O8 were carried out. From the scaling analysis of the magnetization data the pressure induced shifts of the transition temperature Tc, the volume V and the anisotropy γ have been obtained. It was shown that the pressure induced relative shift of Tc mirrors essentially that of the anisotropy. This observation uncovers a novel generic property of anisotropic type II superconductors, that inexistent in the isotropic case.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

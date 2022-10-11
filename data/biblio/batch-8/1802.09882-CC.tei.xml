@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Electron and hole contributions to normal-state transport in the superconducting system Sn 1−x In x Te</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-02-28">February 28, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cheng</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Materials Science and Engineering Department</orgName>
+								<orgName type="institution">Stony Brook University</orgName>
+								<address>
+									<postCode>11794</postCode>
+									<settlement>Stony Brook</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xu-Gang</forename><surname>He</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">Stony Brook University</orgName>
+								<address>
+									<postCode>11794</postCode>
+									<settlement>Stony Brook</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hang</forename><surname>Chi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruidan</forename><surname>Zhong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Materials Science and Engineering Department</orgName>
+								<orgName type="institution">Stony Brook University</orgName>
+								<address>
+									<postCode>11794</postCode>
+									<settlement>Stony Brook</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wei</forename><surname>Ku</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Genda</forename><surname>Gu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Tranquada</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Qiang</forename><surname>Li</surname></persName>
+							<email>qiangli@bnl.gov</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Condensed Matter Physics</orgName>
+								<orgName type="department" key="dep2">Materials Science Division</orgName>
+								<orgName type="institution">Brookhaven National Laboratory</orgName>
+								<address>
+									<postCode>11973</postCode>
+									<settlement>Upton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Materials Science and Engineer-ing</orgName>
+								<orgName type="institution">University of Tennessee</orgName>
+								<address>
+									<settlement>Knoxville</settlement>
+									<region>Tennessee</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Chemistry</orgName>
+								<address>
+									<addrLine>Princeton Univer-sity</addrLine>
+									<postCode>08544</postCode>
+									<settlement>Princeton</settlement>
+									<region>New Jersey</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">School of Physics and Astronomy</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<postCode>200240</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Electron and hole contributions to normal-state transport in the superconducting system Sn 1−x In x Te</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-02-28">February 28, 2018</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T01:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Indium-doped SnTe has been of interest because the system can exhibit both topological surface states and bulk superconductivity. While the enhancement of the superconducting transition temperature is established, the character of the electronic states induced by indium doping remains poorly understood. We report a study of magneto-transport in a series of Sn1−xInxTe single crystals with 0.1 ≤ x ≤ 0.45. From measurements of the Hall effect, we find that the dominant carrier type changes from hole-like to electron-like at x ∼ 0.25; one would expect electron-like carriers if the In ions have a valence of +3. For single crystals with x = 0.45, corresponding to the highest superconducting transition temperature, pronounced Shubnikov-de Haas oscillations are observed in the normal state. In measurements of magnetoresistance, we find evidence for weak anti-localization (WAL). We attribute both the quantum oscillations and the WAL to bulk Dirac-like hole pockets, previously observed in photoemission studies, which coexist with the dominant electron-like carriers.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthesis and superconductivity of F-free NdFeAsO1-y</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2009-03-01">2009-03-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Iyo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute of Advanced Industrial Science and Technology (AIST)</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Electronics</orgName>
+								<orgName type="institution">Tokyo University of Science</orgName>
+								<address>
+									<postCode>2641, 278-3510</postCode>
+									<settlement>Yamazaki, Noda</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Eisaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute of Advanced Industrial Science and Technology (AIST)</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kito</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute of Advanced Industrial Science and Technology (AIST)</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Miyazawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute of Advanced Industrial Science and Technology (AIST)</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Electronics</orgName>
+								<orgName type="institution">Tokyo University of Science</orgName>
+								<address>
+									<postCode>2641, 278-3510</postCode>
+									<settlement>Yamazaki, Noda</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Shirage</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">National Institute of Advanced Industrial Science and Technology (AIST)</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthesis and superconductivity of F-free NdFeAsO1-y</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Physics: Conference Series</title>
+						<title level="j" type="abbrev">J. Phys.: Conf. Ser.</title>
+						<idno type="ISSN">1742-6588</idno>
+						<idno type="eISSN">1742-6596</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">150</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page">052083</biblScope>
+							<date type="published" when="2009-03-01" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/1742-6596/150/5/052083</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We have synthesized a series of oxygen-deficient, fluorine-free polycrystalline samples with nominal chemical formula NdFeAsO 1-y using high-pressure technique and its phase diagram is figured, which shows the distinguishable boundary between superconducting and non-superconducting state. The a-and c-parameters were contracted with increase in the oxygen deficiency. When the a-parameter is reduced to 3.964 Å from that of nonsuperconducting sample, the superconductivity is induced with an abrupt raise of T c and the T c saturates about 53 K at a=3.94 ~ 3.95 Å.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

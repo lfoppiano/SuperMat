@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Anisotropic in-plane thermal conductivity of single-crystalYBa2Cu4O8</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1998-10-13">13 Oct 1998</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Cohn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Physics Department</orgName>
+								<orgName type="institution">University of Miami</orgName>
+								<address>
+									<postCode>33124</postCode>
+									<settlement>Coral Gables</settlement>
+									<region>FL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Karpinski</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Laboratorium für Festkörperphysik, Eidgenössiche</orgName>
+								<orgName type="institution">Technische Hochschule Zürich</orgName>
+								<address>
+									<postCode>CH-8093</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Anisotropic in-plane thermal conductivity of single-crystalYBa2Cu4O8</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">58</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<biblScope unit="page" from="14617" to="14620"/>
+							<date type="published" when="1998-10-13">13 Oct 1998</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.58.14617</idno>
+					<idno type="arXiv">arXiv:cond-mat/9810152v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.72.-h</term>
+					<term>74.25.Fy</term>
+					<term>74.25.Kc</term>
+					<term>74.25.Dw</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report measurements of the in-plane thermal conductivity (κ) of YBa2Cu4O8 (Y-124) single crystals in the temperature range 4K ≤ T ≤ 300K and compare them with previous results on YBa2Cu3O6+x (Y-123). For transport perpendicular to the CuO chains, κa(300K) ≃ 10W/mK, and along the chains, κ b (300K) ≃ 40W/mK. The temperature dependence of κ for both transport directions is much stronger than in YBa2Cu3O6+x (Y-123), indicative of substantially superior lattice heat conduction in Y-124, and resulting in maximum values for κ at T ∼ 20K exceeding 200W/mK. The data imply a surprisingly large anisotropy in the lattice conduction. κa and κ b are enhanced in the superconducting state as in other cuprates. The magnitude and anisotropy of the enhancement are discussed and compared to those of Y-123.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Charge localization from local destruction of antiferromagnetic correlation in Zn-dopedYBa2Cu3O7−δ</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1998-11-19">19 Nov 1998</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kouji</forename><surname>Segawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Ando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Central Research Institute of Electric Power Industry</orgName>
+								<address>
+									<postCode>201-8511</postCode>
+									<settlement>Komae</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Charge localization from local destruction of antiferromagnetic correlation in Zn-dopedYBa2Cu3O7−δ</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">59</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="R3948" to="R3951"/>
+							<date type="published" when="1998-11-19">19 Nov 1998</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.59.r3948</idno>
+					<idno type="arXiv">arXiv:cond-mat/9811278v1[cond-mat.supr-con]</idno>
+					<note type="submission">Received 29 July 1998</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Fy</term>
+					<term>74.62.Dh</term>
+					<term>74.20.Mn</term>
+					<term>74.72.Bk</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The in-plane normal-state resistivity of Zn-doped YBa2Cu3O 7−δ single crystals is measured down to low temperatures by suppressing superconductivity with magnetic fields up to 18 T. Substitution of Cu with Zn in the CuO2 planes is found to induce carrier localization at low temperatures in &quot;clean&quot; samples with kF l &gt; 5, where the mean free path l is larger than the electron wave length and thus localization is not normally expected. The destruction of the local antiferromagnetic correlation among Cu spins by Zn is discussed to be the possible origin of this unusual charge localization.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

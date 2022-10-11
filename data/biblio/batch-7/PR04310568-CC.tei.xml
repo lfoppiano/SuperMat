@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Investigation of Gd1-Pr Ba2Cu3O7- single crystals. Transition from magnetic superconductor to magnetic insulator</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="1999-09-07">7 Sep 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">N</forename><surname>Narozhnyi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institut für Festkörper-und Werkstofforschung Dresden e.V</orgName>
+								<address>
+									<postCode>270016, D-01171</postCode>
+									<settlement>Dresden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for High Pressure Physics</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<postCode>142092</postCode>
+									<settlement>Troitsk</settlement>
+									<region>Moscow Reg</region>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Uvarova</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Institute of Crystallography</orgName>
+								<orgName type="institution">Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>Leninski pr. 59</addrLine>
+									<postCode>117333</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Investigation of Gd1-Pr Ba2Cu3O7- single crystals. Transition from magnetic superconductor to magnetic insulator</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Magnetism and Magnetic Materials</title>
+						<title level="j" type="abbrev">Journal of Magnetism and Magnetic Materials</title>
+						<idno type="ISSN">0304-8853</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">157-158</biblScope>
+							<biblScope unit="page" from="675" to="676"/>
+							<date type="published" when="1999-09-07">7 Sep 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/0304-8853(96)00008-x</idno>
+					<idno type="arXiv">arXiv:cond-mat/9909110v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Magnetic properties were studied for the high quality Al-free orthorhombic Gd1−xPrxBa2Cu3O7−y single crystals (0 ≤ x ≤ 1.0) grown by the flux method. An indication on the interaction between the Pr and Cu(2) magnetic sublattices was found for Pr123. Different sign of magnetic anisotropy was established for the Pr and Gd ions at low T. It was also shown that superconductivity reported by Zou et al. [Phys. Rev. Lett. 80, 1074 (1998)] for Pr123 single crystals grown by TSZF method seems to be connected with partial substitution of Ba for the Pr-sites.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

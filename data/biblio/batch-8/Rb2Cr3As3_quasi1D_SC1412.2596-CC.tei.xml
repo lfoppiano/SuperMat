@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">One-dimensional superconductivity of 0.4 nm single-wall carbon nanotubes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>AIP</publisher>
+				<availability status="unknown"><p>Copyright AIP</p>
+				</availability>
+				<date type="published" when="2014-12-09">December 9, 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhang-Tu</forename><surname>Tang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jin-Ke</forename><surname>Bao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yi</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yun-Lei</forename><surname>Sun</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Abduweli</forename><surname>Ablimit</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hui-Fei</forename><surname>Zhai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hao</forename><surname>Jiang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chun-Mu</forename><surname>Feng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhu-An</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Lab of Silicon Materials</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Collaborative Innovation Centre of Advanced Microstructures</orgName>
+								<orgName type="institution">Nanjing University</orgName>
+								<address>
+									<postCode>210093</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guang-Han</forename><surname>Cao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Lab of Silicon Materials</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<postCode>310027</postCode>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Collaborative Innovation Centre of Advanced Microstructures</orgName>
+								<orgName type="institution">Nanjing University</orgName>
+								<address>
+									<postCode>210093</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">One-dimensional superconductivity of 0.4 nm single-wall carbon nanotubes</title>
+					</analytic>
+					<monogr>
+						<title level="m">AIP Conference Proceedings</title>
+						<idno type="ISSN">0094-243X</idno>
+						<imprint>
+							<publisher>AIP</publisher>
+							<date type="published" when="2014-12-09">December 9, 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1063/1.1514112</idno>
+					<idno type="arXiv">arXiv:1412.2596v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:59+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.70.-b</term>
+					<term>74.62.Bf</term>
+					<term>74.25.Bt</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Following the discovery of superconductivity in quasi-one-dimensional (Q1D) K2Cr3As3 containing [(Cr3As3) 2− ]∞ chains [J. K. Bao et al., arXiv: 1412.0067 (2014)], we succeeded in synthesizing an analogous compound, Rb2Cr3As3, which also crystallizes in a hexagonal lattice. The replacement of K by Rb results in an expansion of a axis by 3%, suggesting weaker interchain coupling. Linear temperature dependence of electrical resistivity shows up between 5 to 35 K, and bulk superconductivity emerges at 4.8 K. The estimated upper critical field at zero temperature exceeds the Pauli limit by a factor of two. Furthermore, the electronic specific-heat coefficient in the mixed state increases with √ H, indicating existence of nodes in the superconducting gap. Hence Rb2Cr3As3 manifests itself as another example of unconventional superconductivity in the Cr3As3chain based systems.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductor-to-metal quantum phase transition in overdoped La2−xSrxCuO4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2011-04-20">2011-04-20</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">R</forename><surname>Lemberger</surname></persName>
+							<email>lemberger.1@osu.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The Ohio State University</orgName>
+								<address>
+									<postCode>43210</postCode>
+									<settlement>Columbus</settlement>
+									<region>Ohio</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hetel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The Ohio State University</orgName>
+								<address>
+									<postCode>43210</postCode>
+									<settlement>Columbus</settlement>
+									<region>Ohio</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tsukada</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Tokyo University of Agriculture and Technology</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Naito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Tokyo University of Agriculture and Technology</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Randeria</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The Ohio State University</orgName>
+								<address>
+									<postCode>43210</postCode>
+									<settlement>Columbus</settlement>
+									<region>Ohio</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductor-to-metal quantum phase transition in overdoped La2−xSrxCuO4</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">83</biblScope>
+							<biblScope unit="issue">14</biblScope>
+							<date type="published" when="2011-04-20" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.83.140507</idno>
+					<note type="submission">Received:</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Nos.: 74.40.Kb</term>
+					<term>74.25.Dw</term>
+					<term>74.25.fc</term>
+					<term>74.72.Gh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We investigate T c and magnetic penetration depth λ(T) near the superconductor-metal quantum phase transition in overdoped La 2-x Sr x CuO 4 films. Both T c and superfluid density n s ,  λ-2 , decrease with overdoping. They obey the scaling relation T c  [λ-2 (0)] α with α  ½. We discuss this result in the frameworks of disordered d-wave superconductors and of scaling near quantum critical points. Our result, and the linear scaling (α  1) found for the more anisotropic T 2 Ba 2 CuO 6+δ , can both be understood in terms of quantum critical scaling, with different dimensionalities for fluctuations.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

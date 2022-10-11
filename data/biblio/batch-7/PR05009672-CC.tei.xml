@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Anomalous behavior of the complex conductivity ofY1−xPrxBa2Cu3O7observed with THz spectroscopy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1994-03-16">16 Mar 1994</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Buhleier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Brorson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">E</forename><surname>Trofimov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>White</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H-U</forename><surname>Habermeier</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kuhl</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Anomalous behavior of the complex conductivity ofY1−xPrxBa2Cu3O7observed with THz spectroscopy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">50</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<biblScope unit="page" from="9672" to="9675"/>
+							<date type="published" when="1994-03-16">16 Mar 1994</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.50.9672</idno>
+					<idno type="arXiv">arXiv:cond-mat/9403060v1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>We have measured the electrodynamic properties of Y 1−x Pr x Ba 2 Cu 3 O 7 single crystal thin films as a function of temperature using coherent THz-time-domain spectroscopy. We obtain directly the complex conductivity σ = σ 1 + iσ 2 , the London penetration depth λ L , the plasma frequency ω p , and the quasiparticle scattering rate 1/τ. We</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

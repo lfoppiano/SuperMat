@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Coexistence of ferromagnetism and superconductivity in the hybrid ruthenate-cuprate compoundRuSr2GdCu2O8studied by muon spin rotation and dc magnetization</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1999-02-22">22 Feb 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bernhard</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Tallon</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Industrial Research Ltd</orgName>
+								<address>
+									<postBox>P.O. Box 31310</postBox>
+									<settlement>Lower Hutt</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ch</forename><forename type="middle">H</forename><surname>Niedermayer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Fakultät fūr Physik</orgName>
+								<orgName type="institution">Universität Konstanz</orgName>
+								<address>
+									<postCode>D-78434</postCode>
+									<settlement>Konstanz</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Th</forename><forename type="middle">H</forename><surname>Blasius</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Fakultät fūr Physik</orgName>
+								<orgName type="institution">Universität Konstanz</orgName>
+								<address>
+									<postCode>D-78434</postCode>
+									<settlement>Konstanz</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Golnik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Brücher</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Kremer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Max-Planck-Institut für Festkörperforschung</orgName>
+								<address>
+									<addrLine>Heisenbergstrasse 1</addrLine>
+									<postCode>D-70569</postCode>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Noakes</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Virginia State University</orgName>
+								<address>
+									<postCode>23806</postCode>
+									<settlement>Petersburg</settlement>
+									<region>Virginia</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">E</forename><surname>Stronach</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Virginia State University</orgName>
+								<address>
+									<postCode>23806</postCode>
+									<settlement>Petersburg</settlement>
+									<region>Virginia</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">J</forename><surname>Ansaldo</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Saskatchewan</orgName>
+								<address>
+									<postCode>S7N OWO</postCode>
+									<settlement>Saskatoon</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Coexistence of ferromagnetism and superconductivity in the hybrid ruthenate-cuprate compoundRuSr2GdCu2O8studied by muon spin rotation and dc magnetization</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">59</biblScope>
+							<biblScope unit="issue">21</biblScope>
+							<biblScope unit="page" from="14099" to="14107"/>
+							<date type="published" when="1999-02-22">22 Feb 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.59.14099</idno>
+					<idno type="arXiv">arXiv:cond-mat/9901084v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>76.75.+i</term>
+					<term>74.72.Jt</term>
+					<term>74.25.Ha</term>
+					<term>74.25.-q</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We have investigated the magnetic and the superconducting properties of the hybrid ruthenatecuprate compound RuSr2GdCu2O8 by means of zero-field muon spin rotation-(ZF-µSR) and DC magnetization measurements. The DC-magnetisation data establish that this material exhibits ferromagnetic order of the Ru-moments (µ(Ru) ≈ 1 µB) below TCurie = 133 K and becomes superconducting at a much lower temperature Tc = 16 K. The ZF-µSR experiments indicate that the ferromagnetic phase is homogeneous on a microscopic scale and accounts for most of the sample volume. They also suggest that the magnetic order is not significantly modified at the onset of superconductivity.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

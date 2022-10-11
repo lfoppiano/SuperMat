@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Insights on unconventional superconductivity in HfV 2 Ga 4 and ScV 2 Ga 4 from first principles electronic structure calculations</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2018-05-21">21 May 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">P</forename><surname>Ferreira</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Engineering Department</orgName>
+								<orgName type="institution" key="instit1">Escola de Engenharia de Lorena da Universidade de São Paulo</orgName>
+								<orgName type="institution" key="instit2">Lorena -SP</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">B</forename><surname>Santos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Engineering Department</orgName>
+								<orgName type="institution" key="instit1">Escola de Engenharia de Lorena da Universidade de São Paulo</orgName>
+								<orgName type="institution" key="instit2">Lorena -SP</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J S</forename><surname>Machado</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Engineering Department</orgName>
+								<orgName type="institution" key="instit1">Escola de Engenharia de Lorena da Universidade de São Paulo</orgName>
+								<orgName type="institution" key="instit2">Lorena -SP</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Petrilli</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Instituto de Física</orgName>
+								<orgName type="institution">Universidade de São Paulo</orgName>
+								<address>
+									<postCode>66318, 05315-970</postCode>
+									<settlement>São Paulo -SP</settlement>
+									<region>CP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">T F</forename><surname>Eleno</surname></persName>
+							<email>luizeleno@usp.br</email>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Engineering Department</orgName>
+								<orgName type="institution" key="instit1">Escola de Engenharia de Lorena da Universidade de São Paulo</orgName>
+								<orgName type="institution" key="instit2">Lorena -SP</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Insights on unconventional superconductivity in HfV 2 Ga 4 and ScV 2 Ga 4 from first principles electronic structure calculations</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-05-21">21 May 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:1805.08285v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T01:00+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The HfV 2 Ga 4 compound was recently reported to exhibit unusual bulk superconducting properties, with the possibility of multiband behavior. To gain insight into its properties, we performed ab-initio electronic structure calculations based on the Density Functional Theory (DFT). Our results show that the density of states at the Fermi energy is mainly composed by V-d states. The McMillan formula predicts a superconducting critical temperature (T c) of approximately 3.9 K, in excellent agreement with the experimental value at 4.1 K, indicating that superconductivity in this new compound may be explained by the electron-phonon mechanism. Calculated valence charge density maps clearly show directional bonding between Hf and V atoms with 1D highly populated V-chains, and some ionic character between Hf-Ga and V-Ga bonds. Finally, we have shown that there are electrons occupying two distinct bands at the Fermi level, with different characters, which supports experimental indications of possible multiband superconductivity. Based on the results, we propose the study of a related compound, ScV 2 Ga 4 , showing that it has similar electronic properties, but probably with a higher T c than HfV 2 Ga 4 .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

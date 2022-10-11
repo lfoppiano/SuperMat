@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Doping dependence of the pseudogap inLa2−xSrxCuO4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="1999-04-01">1 April 1999</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Naeini</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Irwin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Okuya</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kimura</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kishio</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">Simon Fraser University</orgName>
+								<address>
+									<postCode>V5A 1S6</postCode>
+									<settlement>Burnaby</settlement>
+									<region>British Columbia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Superconductivity</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<addrLine>Bunkyo-ku</addrLine>
+									<postCode>113</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Doping dependence of the pseudogap inLa2−xSrxCuO4</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">0163-1829</idno>
+						<idno type="eISSN">1095-3795</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">59</biblScope>
+							<biblScope unit="issue">14</biblScope>
+							<biblScope unit="page" from="9642" to="9648"/>
+							<date type="published" when="1999-04-01">1 April 1999</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.59.9642</idno>
+					<idno type="arXiv">arXiv:cond-mat/9804262v2[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.25.Gz</term>
+					<term>74.72.Dn</term>
+					<term>74.25-q</term>
+					<term>78.30.Er</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We report the results of Raman scattering experiments on single crystals of La2−xSrxCuO4 that span the range from underdoped (x = 0.10) to overdoped (x =0.22). The spectra are consistent with the existence of a strong anisotropic quasiparticle interaction that results in a normal state depletion of spectral weight from regions of the Fermi surface located near the zone axes. The strength of the interaction decreases rapidly with increasing hole concentration and the spectral evidence for the pseudogap vanishes when the optimum doping level is reached. The results suggest that the pseudogap and superconducting gap arise from different mechanisms.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

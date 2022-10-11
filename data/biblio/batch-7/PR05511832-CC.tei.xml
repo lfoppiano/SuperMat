@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/workspace/services/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2001-06-12">12 Jun 2001</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sr</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física</orgName>
+								<orgName type="institution">Universidade Federal Fluminense, av. Litorânia s/n</orgName>
+								<address>
+									<postCode>24210-340</postCode>
+									<settlement>Niterói</settlement>
+									<region>R.J</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Cu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física</orgName>
+								<orgName type="institution">Universidade Federal Fluminense, av. Litorânia s/n</orgName>
+								<address>
+									<postCode>24210-340</postCode>
+									<settlement>Niterói</settlement>
+									<region>R.J</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Caixeiro</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física</orgName>
+								<orgName type="institution">Universidade Federal Fluminense, av. Litorânia s/n</orgName>
+								<address>
+									<postCode>24210-340</postCode>
+									<settlement>Niterói</settlement>
+									<region>R.J</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">V L</forename><surname>De Mello</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Física</orgName>
+								<orgName type="institution">Universidade Federal Fluminense, av. Litorânia s/n</orgName>
+								<address>
+									<postCode>24210-340</postCode>
+									<settlement>Niterói</settlement>
+									<region>R.J</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2001-06-12">12 Jun 2001</date>
+						</imprint>
+					</monogr>
+					<idno type="arXiv">arXiv:cond-mat/0106233v1[cond-mat.supr-con]</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-03-01T00:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>BCS Model</term>
+					<term>Hubbard Hamiltonian</term>
+					<term>Phase Diagram</term>
+					<term>Pressure Effects</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Using a mean-field BCS-like approach on the bidimensional extended Hubbard Hamiltonian we calculate the superconducting transition temperature T c as a function of the hole content n h. This method can be used to determine the critical temperatures T c either for the extended − s wave or d wave symmetry. We can also describe the pressure effects on T c by introducing the assumption that it induces a change in the magnitude V of the attractive potential. This assumption yields an explanation for the intrinsic term, and together with the well known change in n h , we set the critical temperature as T c = T c (n h (P), V (P)). Then, we obtain a general expansion of T c in terms of the pressure P and the hole content n h. We apply this expansion to the T l 0.5 P b 0.5 Sr 2 Ca 1−x Y x Cu 2 O 7 system (0.0 ≤ x ≤ 0.35) and our results provide a good fitting for the experimental data for the variation of T c with the pressure P and n h .</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
