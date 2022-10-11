@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Carbon-substitution dependent multiple superconducting gap ofMgB2: A sub-meV resolution photoemission study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Physical Society (APS)</publisher>
+				<availability status="unknown"><p>Copyright American Physical Society (APS)</p>
+				</availability>
+				<date type="published" when="2005-08-31">2005-08-31</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tsuda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yokoya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kiss</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">The Institute of Physical and Chemical Research (RIKEN)</orgName>
+								<orgName type="department" key="dep2">The Institute of Physical and Chemical Research (RIKEN)</orgName>
+								<orgName type="institution">Chinese Academy of Science</orgName>
+								<address>
+									<addrLine>Sayo-gun</addrLine>
+									<postCode>351-0198, 679-5148</postCode>
+									<settlement>Wako, Hyogo</settlement>
+									<region>Saitama</region>
+									<country>Japan, Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Beijing Center for Crystal R&amp;D</orgName>
+								<address>
+									<postCode>100080</postCode>
+									<settlement>Zhongguancuun, Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shimojima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Shin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Togashi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Watanabe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Solid State Physics</orgName>
+								<orgName type="institution">University of Tokyo</orgName>
+								<address>
+									<postCode>277-8581</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lee</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<postCode>135-0062</postCode>
+									<settlement>Shinonome</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Uchiyama</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tajima</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Superconductivity Research Laboratory</orgName>
+								<orgName type="institution">ISTEC</orgName>
+								<address>
+									<postCode>135-0062</postCode>
+									<settlement>Shinonome</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nakai</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution" key="instit1">Yukawa Institute</orgName>
+								<orgName type="institution" key="instit2">Kyoto University</orgName>
+								<address>
+									<postCode>606-8502</postCode>
+									<settlement>Kyoto</settlement>
+									<region>Kyoto</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">Okayama University</orgName>
+								<address>
+									<postCode>700-8530</postCode>
+									<settlement>Okayama</settlement>
+									<region>Okayama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Machida</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Synchrotron Radiation Research Institute(JASRI)</orgName>
+								<address>
+									<addrLine>SPring-8, Sayo-gun</addrLine>
+									<postCode>679-5198</postCode>
+									<settlement>Hyogo</settlement>
+									<country>Japan, Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Carbon-substitution dependent multiple superconducting gap ofMgB2: A sub-meV resolution photoemission study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physical Review B</title>
+						<title level="j" type="abbrev">Phys. Rev. B</title>
+						<idno type="ISSN">1098-0121</idno>
+						<idno type="eISSN">1550-235X</idno>
+						<imprint>
+							<publisher>American Physical Society (APS)</publisher>
+							<biblScope unit="volume">72</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<date type="published" when="2005-08-31" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1103/physrevb.72.064527</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Sub-meV&quot; resolution photoemission spectroscopy was used to study carbon-substitution dependence on the multiple superconducting gap of Mg(B 1-x C x) 2. Two features corresponding to σ and π gaps are clearly observed in the raw spectra up to carbon concentration x = 7.5 %. The observed x dependence of the two gaps shows a qualitatively different behavior: a marked change of the σ gap proportional to the T c variation and a negligible one of the π gap. This as well as the temperature dependence can be explained with the two-band mean-field theory. Implications from the present</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

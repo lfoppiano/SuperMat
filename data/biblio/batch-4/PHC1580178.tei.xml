@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Universal Superconducting Ground State in Nd$_{1.85}$Ce$_{0.15}$CuO$_{4}$ and Nd$_{2}$CuO$_{4}$</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2011-12-07">December 7, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiharu</forename><surname>Krockenberger</surname></persName>
+							<email>yoshiharu.k@lab.ntt.co.jp</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideki</forename><surname>Yamamoto</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masaya</forename><surname>Mitsuhashi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michio</forename><surname>Naito</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">Tokyo University of Agriculture and Technology</orgName>
+								<address>
+									<postCode>184-8588</postCode>
+									<settlement>Koganei</settlement>
+									<region>Tokyo</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">NTT Basic Research Laboratories</orgName>
+								<orgName type="institution" key="instit2">NTT Corporation</orgName>
+								<address>
+									<postCode>243-0198</postCode>
+									<settlement>Atsugi</settlement>
+									<region>Kanagawa</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="laboratory">y On leave from Nagaoka University of Technology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Society of Applied Physics SELECTED TOPICS IN APPLIED PHYSICS Centennial Anniversary of Superconductivity</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Universal Superconducting Ground State in Nd$_{1.85}$Ce$_{0.15}$CuO$_{4}$ and Nd$_{2}$CuO$_{4}$</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Japanese Journal of Applied Physics</title>
+						<title level="j" type="abbrev">Jpn. J. Appl. Phys.</title>
+						<idno type="ISSN">0021-4922</idno>
+						<idno type="eISSN">1347-4065</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">51</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page">010106</biblScope>
+							<date type="published" when="2011-12-07">December 7, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1143/jjap.51.010106</idno>
+					<note type="submission">Received June 24, 2011; accepted September 8, 2011;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Superconducting Nd 1:85 Ce 0:15 CuO 4 (T zero c ¼ 24 K) and Nd 2 CuO 4 (T zero c ¼ 25 K) thin films have been grown by molecular beam epitaxy and their magneto-transport and structural properties have been investigated. The as-grown films are insulators irrespective of the substitution level, and superconductivity is induced after the samples are treated by an annealing process under reducing atmospheres. Though the metallic conductivity is higher in the Ce 4þ substituted sample, the superconducting properties are quite similar between Ce 4þ substituted and substitution-free samples. A similar upper critical magnetic field as well as a similar superconducting transition temperature of Nd 1:85 Ce 0:15 CuO 4 and Nd 2 CuO 4 shows that the addition of electrons merely influences the superconducting state. Consequently, the appearance of an antiferromagnetic Mott insulating state solely depends on the annealing process, not on the electron doping or cerium substitution level.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

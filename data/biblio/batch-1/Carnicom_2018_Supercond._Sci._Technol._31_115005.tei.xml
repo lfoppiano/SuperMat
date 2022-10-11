@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity in the superhard boride WB4.2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2018-09-27">27 September 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elizabeth</forename><forename type="middle">M</forename><surname>Carnicom</surname></persName>
+							<email>carnicom@princeton.edu</email>
+							<idno type="ORCID">0000-0001-7895-5147</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Judyta</forename><surname>Strychalska-Nowak</surname></persName>
+							<idno type="ORCID">0000-0001-7895-5147</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wiśniewski</surname></persName>
+							<idno type="ORCID">0000-0002-6741-2793</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Kaczorowski</surname></persName>
+							<idno type="ORCID">0000-0002-6741-2793</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+							<idno type="ORCID">0000-0001-7895-5147</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Klimczuk</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Cava</surname></persName>
+							<email>rcava@exchange.princeton.edu</email>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>1 Department of Chemistry, Princeton University, </orgName>
+								<address><addrLine>Princeton, NJ 08544, United States of America Gdansk 80-233, Poland PNr 1410, 50-950 Wrocław, Poland Mariana Smoluchowskiego 17, 60-179 Poznań, Poland Baton Rouge, LA 70803, United States of America</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 2 Department of Physics, Gdansk University of Technology, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> Institute of Low Temperature and Structure Research, Polish Academy of Sciences, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 4 Institute of Molecular Physics, Polish Academy of Sciences, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 5 Department of Chemistry, Louisiana State University,</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity in the superhard boride WB4.2</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Superconductor Science and Technology</title>
+						<title level="j" type="abbrev">Supercond. Sci. Technol.</title>
+						<idno type="ISSN">0953-2048</idno>
+						<idno type="eISSN">1361-6668</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">31</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page">115005</biblScope>
+							<date type="published" when="2018-09-27">27 September 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/1361-6668/aade5a</idno>
+					<note type="submission">Received 24 August 2018 Accepted for publication 3 September 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>superconductivity</term>
+					<term>superhard</term>
+					<term>tungsten deficient</term>
+					<term>boride</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We show that the superhard boride WB 4.2 is a superconductor with a T c of 2.05(5) K. Temperature-dependent magnetic susceptibility, electrical resistivity, and specific heat measurements were used to characterize the superconducting transition. The Sommerfeld constant γ for WB 4.2 is 2.07(3) mJ mol −1 K −2 and the ΔC/γT c =1.56, which is somewhat higher than what is expected for weakly coupled Bardeen-Cooper-Schrieffer type superconductors. The H c2 versus T plot is linear over a wide temperature range but does show signs of flattening by the lowest temperatures studied and therefore the zero temperature upper critical field (μ 0 H c2 (0)) for WB 4.2 lies somewhere between the linear extrapolation of μ 0 H c2 (T) to 0 K and expectations based on the Werthamer-Helfand-Hohenberg model.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity and phase diagram in a transition metal doped Zr5Ge3 compound</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2018-06-19">19 June 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sheng</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaoyuan</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Varun</forename><surname>Anand</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bing</forename><surname>Lv</surname></persName>
+							<idno type="ORCID">0000-0002-9491-5177</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Texas at Dallas</orgName>
+								<address>
+									<postCode>75080</postCode>
+									<settlement>Richardson</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity and phase diagram in a transition metal doped Zr5Ge3 compound</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Superconductor Science and Technology</title>
+						<title level="j" type="abbrev">Supercond. Sci. Technol.</title>
+						<idno type="ISSN">0953-2048</idno>
+						<idno type="eISSN">1361-6668</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">31</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page">085001</biblScope>
+							<date type="published" when="2018-06-19">19 June 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1088/1361-6668/aac6a1</idno>
+					<note type="submission">Received 19 March 2018, revised 11 May 2018 Accepted for publication 22 May 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>new superconductors</term>
+					<term>phase diagram</term>
+					<term>doping studies</term>
+					<term>Mn 5 Si 3 structure type</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Superconducting properties of, and the hydrostatic pressure effect on, BaBi3 and SrBi3 single crystals</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

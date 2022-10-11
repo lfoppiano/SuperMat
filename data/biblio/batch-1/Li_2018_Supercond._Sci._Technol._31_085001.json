@@ -1,0 +1,40 @@
+{
+  "volume": "31",
+  "issue": "8",
+  "page": "085001",
+  "date": "2018-06-19",
+  "ORCID": "0000-0002-9491-5177",
+  "ISSN": "0953-2048",
+  "eISSN": "1361-6668",
+  "DOI": "10.1088/1361-6668/aac6a1",
+  "note": "Received 19 March 2018, revised 11 May 2018 Accepted for publication 22 May 2018",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Superconductivity and phase diagram in a transition metal doped Zr5Ge3 compound",
+  "title_main_j": "Superconductor Science and Technology",
+  "title_abbrev_j": "Supercond. Sci. Technol.",
+  "authors": [
+    {
+      "first": "Sheng",
+      "surname": "Li"
+    },
+    {
+      "first": "Xiaoyuan",
+      "surname": "Liu"
+    },
+    {
+      "first": "Varun",
+      "surname": "Anand"
+    },
+    {
+      "first": "Bing",
+      "surname": "Lv"
+    }
+  ],
+  "keywords": [
+    "new superconductors",
+    "phase diagram",
+    "doping studies",
+    "Mn 5 Si 3 structure type"
+  ],
+  "npl_publn_id": "Li_2018_Supercond._Sci._Technol._31_085001.tei.xml"
+}

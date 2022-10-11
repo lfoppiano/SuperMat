@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity at 28 K in a cuprate with a niobium oxide intermediary layer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="1992-02">1992-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Cava</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Krajewski</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Takagi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">W</forename><surname>Zandbergen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">National Centre for High Resolution Electron Microscopy</orgName>
+								<orgName type="institution">Technical University Delft</orgName>
+								<address>
+									<settlement>Delft</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Van Dover</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">F</forename><surname>Peck</surname><genName>Jr</genName></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Hessen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">AT&amp;T Bell Laboratories</orgName>
+								<address>
+									<postCode>07974</postCode>
+									<settlement>Murray Hill</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<settlement>Hessen</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">1992 Link to publication in University of Groningen/UMCG research database</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity at 28 K in a cuprate with a niobium oxide intermediary layer</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Physica C: Superconductivity</title>
+						<title level="j" type="abbrev">Physica C: Superconductivity</title>
+						<idno type="ISSN">0921-4534</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">191</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="237" to="242"/>
+							<date type="published" when="1992-02" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/0921-4534(92)90653-t</idno>
+					<note type="submission">Received 13 November 1991</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Take-down policy If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately and investigate your claim.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

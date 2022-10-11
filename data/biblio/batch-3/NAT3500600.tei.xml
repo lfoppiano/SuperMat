@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Superconductivity at 18 K in potassium-doped C60</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability status="unknown"><p>Copyright Springer Science and Business Media LLC</p>
+				</availability>
+				<date type="published" when="1991-04">1991-04</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Rosseinsky, M. J</roleName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hebard</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Link to publication</orgName>
+								<orgName type="institution" key="instit1">University of Groningen</orgName>
+								<orgName type="institution" key="instit2">UMCG research database</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Rosseinsky</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Haddon</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">W</forename><surname>Murphy</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Glarum</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T M</forename><surname>Palstra</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Ramirez</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Palstra, T. T. M., ...</roleName><forename type="first">A</forename><forename type="middle">R</forename><surname>Kortan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Link to publication</orgName>
+								<orgName type="institution" key="instit1">University of Groningen</orgName>
+								<orgName type="institution" key="instit2">UMCG research database</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Superconductivity at 18 K in potassium-doped C60</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nature</title>
+						<title level="j" type="abbrev">Nature</title>
+						<idno type="ISSN">0028-0836</idno>
+						<idno type="eISSN">1476-4687</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">350</biblScope>
+							<biblScope unit="issue">6319</biblScope>
+							<biblScope unit="page" from="600" to="601"/>
+							<date type="published" when="1991-04" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/350600a0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Hebard, A.F.</term>
+					<term>Rosseinsky, M.J.</term>
+					<term>Haddon, R.C.</term>
+					<term>Murphy, D.W.</term>
+					<term>Glarum, S.H.</term>
+					<term>Palstra, T.T.M.</term>
+					<term>Ramirez, A.P.</term>
+					<term>Kortan, A.R</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Take-down policy If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately and investigate your claim.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

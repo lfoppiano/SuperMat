@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PHYSICAL PROPERTIES OF SINGLE-PHASE HIGH-T c SUPERCONDUCTOR YBa2Cu307</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kadowaki</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Sprang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">K</forename><surname>Huang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Q A</forename><surname>Koster</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">P</forename><surname>Van Der Meulen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Tarnawski ~</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C P</forename><surname>Klaasse</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Menovsky</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J M</forename><surname>Franse</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Van Miltenburg</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">General Chemistry Laboratory, Chemical Thermodynamics Group</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<addrLine>Padualaan 8</addrLine>
+									<postCode>3585 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands &apos;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Koninklijke Shell-Laboratorium</orgName>
+								<address>
+									<postCode>3003, 1003 AA</postCode>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<region>Postbus</region>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Schuijff</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">General Chemistry Laboratory, Chemical Thermodynamics Group</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<addrLine>Padualaan 8</addrLine>
+									<postCode>3585 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands &apos;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Koninklijke Shell-Laboratorium</orgName>
+								<address>
+									<postCode>3003, 1003 AA</postCode>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<region>Postbus</region>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T M</forename><surname>Palstra</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">General Chemistry Laboratory, Chemical Thermodynamics Group</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<addrLine>Padualaan 8</addrLine>
+									<postCode>3585 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands &apos;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Koninklijke Shell-Laboratorium</orgName>
+								<address>
+									<postCode>3003, 1003 AA</postCode>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<region>Postbus</region>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>De Ruiter</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">General Chemistry Laboratory, Chemical Thermodynamics Group</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<addrLine>Padualaan 8</addrLine>
+									<postCode>3585 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands &apos;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Koninklijke Shell-Laboratorium</orgName>
+								<address>
+									<postCode>3003, 1003 AA</postCode>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<region>Postbus</region>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">W</forename><surname>Lednor</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">General Chemistry Laboratory, Chemical Thermodynamics Group</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<addrLine>Padualaan 8</addrLine>
+									<postCode>3585 CH</postCode>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands &apos;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Koninklijke Shell-Laboratorium</orgName>
+								<address>
+									<postCode>3003, 1003 AA</postCode>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<region>Postbus</region>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Barten ~a:</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Natuurkundig Laboratorium</orgName>
+								<orgName type="institution">Universiteit van Amsterdam</orgName>
+								<address>
+									<addrLine>Valckenierstraat 65</addrLine>
+									<postCode>1018 XE</postCode>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">On leave from Solid State Physics Department</orgName>
+								<orgName type="institution">Academy of Mining and Metallurgy</orgName>
+								<address>
+									<settlement>Cracow</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Laboratories of the Dutch Electricity Supply Companies (N.V. KEMA)</orgName>
+								<address>
+									<postBox>P.O.Box 9035</postBox>
+									<postCode>6800 ET</postCode>
+									<settlement>Arnhem</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PHYSICAL PROPERTIES OF SINGLE-PHASE HIGH-T c SUPERCONDUCTOR YBa2Cu307</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<note type="submission">Received 7 August 1987</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Transport and thermodynamical properties as well as structural investigations in the well-characterized 90 K-class high-T~ superconductor YBa2Cu307 are presented, especially in relation to the fundamental mechanism of the high-T~ superconductivity. High-precision specific heat measurements around T~ =91.8K reveal that the value of AC/T c is 48 _+ 2 mJ/mol K 2. This value results in the fact that the value of AC/yT~ is 1.33, which is close to 1.43, the weak-coupling BCS value, provided that the coefficient, y, of the linear term in the specific heat is 36-+ 2 mJ/mol K 2.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

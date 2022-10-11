@@ -1,0 +1,69 @@
+{
+  "addrline": "South Parks Road",
+  "volume": "63",
+  "issue": "3",
+  "date": "2013-08",
+  "ISSN": "0374-4884",
+  "eISSN": "1976-8524",
+  "DOI": "10.3938/jkps.63.445",
+  "note": "Received 31 May 2012, in final form 10 December 2012",
+  "publisher": "Korean Physical Society",
+  "title_main_a": "AC magnetic measurement of LiFeAs at pressures up to 5.2 GPa: The relation between T c and the structural parameters",
+  "title_main_j": "Journal of the Korean Physical Society",
+  "title_abbrev_j": "Journal of the Korean Physical Society",
+  "authors": [
+    {
+      "first": "Shuhei",
+      "surname": "Yamaguchi"
+    },
+    {
+      "first": "Nobuhiro",
+      "surname": "Yamaguchi"
+    },
+    {
+      "first": "Masaki",
+      "surname": "Mito"
+    },
+    {
+      "first": "Hiroyuki",
+      "surname": "Deguchi"
+    },
+    {
+      "first": "Peter.",
+      "middle": "J",
+      "surname": "Baker"
+    },
+    {
+      "first": "Stephen.",
+      "middle": "J",
+      "surname": "Blundell"
+    },
+    {
+      "first": "Michael.",
+      "middle": "J",
+      "surname": "Pitcher"
+    },
+    {
+      "first": "Dinah.",
+      "middle": "R",
+      "surname": "Parker"
+    },
+    {
+      "first": "Simon.",
+      "middle": "J",
+      "surname": "Clarke"
+    },
+    {},
+    {},
+    {}
+  ],
+  "keywords": [
+    "numbers: 74.70.Xa",
+    "74.62.Fj",
+    "74.25.Ha Fe-based superconductor",
+    "LiFeAs",
+    "Superconducting transition temperature",
+    "Pressure effect"
+  ],
+  "npl_publn_id": "yamaguchi2014ac.tei.xml"
+}

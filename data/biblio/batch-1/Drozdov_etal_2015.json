@@ -1,0 +1,42 @@
+{
+  "addrline": "Hahn-Meitner-Weg 1",
+  "volume": "525",
+  "issue": "7567",
+  "date": "2015-08-17",
+  "ISSN": "0028-0836",
+  "eISSN": "1476-4687",
+  "DOI": "10.1038/nature14964",
+  "publisher": "Springer Science and Business Media LLC",
+  "title_main_a": "Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system",
+  "title_main_j": "Nature",
+  "title_abbrev_j": "Nature",
+  "authors": [
+    {
+      "first": "A",
+      "middle": "P",
+      "surname": "Drozdov"
+    },
+    {
+      "first": "M",
+      "middle": "I",
+      "surname": "Eremets"
+    },
+    {
+      "first": "I",
+      "middle": "A",
+      "surname": "Troyan"
+    },
+    {
+      "first": "V",
+      "surname": "Ksenofontov"
+    },
+    {
+      "first": "S",
+      "middle": "I",
+      "surname": "Shylin"
+    },
+    {}
+  ],
+  "keywords": [],
+  "npl_publn_id": "Drozdov_etal_2015.tei.xml"
+}

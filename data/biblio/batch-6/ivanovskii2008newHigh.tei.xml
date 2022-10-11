@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/lfoppiano/development/projects/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">New high-temperature superconductors based on rare earth and transition metal oxyarsenides and related phases: synthesis, properties and simulation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Uspekhi Fizicheskikh Nauk (UFN) Journal</publisher>
+				<availability status="unknown"><p>Copyright Uspekhi Fizicheskikh Nauk (UFN) Journal</p>
+				</availability>
+				<date type="published" when="2008">2008</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Semikhatov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Ural Branch of the Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>ul. Pervomaiskaya 91</addrLine>
+									<postCode>620041</postCode>
+									<settlement>Ekaterinburg</settlement>
+									<country key="RU">Russian Federation</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Ivanovskii</surname></persName>
+							<email>ivanovskii@ihim.uran.ru</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Ural Branch of the Russian Academy of Sciences</orgName>
+								<address>
+									<addrLine>ul. Pervomaiskaya 91</addrLine>
+									<postCode>620041</postCode>
+									<settlement>Ekaterinburg</settlement>
+									<country key="RU">Russian Federation</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">New high-temperature superconductors based on rare earth and transition metal oxyarsenides and related phases: synthesis, properties and simulation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Uspekhi Fizicheskih Nauk</title>
+						<title level="j" type="abbrev">Usp. Fiz. Nauk</title>
+						<idno type="ISSN">0042-1294</idno>
+						<idno type="eISSN">1996-6652</idno>
+						<imprint>
+							<publisher>Uspekhi Fizicheskikh Nauk (UFN) Journal</publisher>
+							<biblScope unit="volume">178</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page">1273</biblScope>
+							<date type="published" when="2008" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.3367/ufnr.0178.200812c.1273</idno>
+					<note type="submission">Received 15 July 2008</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2020-08-24T03:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>numbers: 74.10.+v</term>
+					<term>74.20. ± z</term>
+					<term>74.25. ± q</term>
+					<term>74.70.Dd</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The discovery in February 2008 of superconductivity with the transition temperature about 26 K in fluorine-doped oxyarsenide LaO 1-x F x FeAs stimulated numerous studies of superconducting and other physical properties of this and related materials, resulting in a new family of high-temperature (T c $ 26 ± 55 K) superconductors. The experimental and theoretical state of the art is reviewed concerning the synthesis, properties, and simulation of the new family and related systems.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

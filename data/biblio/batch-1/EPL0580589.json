@@ -1,0 +1,51 @@
+{
+  "volume": "58",
+  "issue": "4",
+  "date": "2002-05-15",
+  "ISSN": "0295-5075",
+  "eISSN": "1286-4854",
+  "DOI": "10.1209/epl/i2002-00436-6",
+  "note": "received 29 September 2001; accepted in final form 21 February 2002",
+  "publisher": "IOP Publishing",
+  "title_main_a": "Absence of pseudogap in heavily overdoped Bi 2 Sr 2 CaCu 2 O 8 + \u03b4 from tunneling spectroscopy of break junctions",
+  "title_main_j": "Europhysics Letters (EPL)",
+  "title_abbrev_j": "Europhys. Lett.",
+  "authors": [
+    {
+      "first": "L",
+      "surname": "Ozyuzer"
+    },
+    {
+      "first": "J",
+      "middle": "F",
+      "surname": "Zasadzinski"
+    },
+    {
+      "first": "K",
+      "middle": "E",
+      "surname": "Gray"
+    },
+    {
+      "first": "C",
+      "surname": "Kendziora"
+    },
+    {
+      "first": "N",
+      "surname": "Miyakawa"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "keywords": [
+    ". 74.72.-h -High-Tc compounds. . 74.50.+r -Proximity effects",
+    "weak links",
+    "tunneling phenomena",
+    "and Josephson effects. . 74.62.Dh -Effects of crystal defects",
+    "doping and substitution"
+  ],
+  "npl_publn_id": "EPL0580589-CC.tei.xml"
+}
