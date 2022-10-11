@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Doped</doping> <formula>Pr 1.855 Ce 0.145 CuO 4−y</formula> <shape>Films</shape></material>
+	<material><doping>doped</doping> <formula>Pr1.855Ce0.145CuO4−y</formula> <shape>films</shape></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4−y</formula> (<name>NCCO</name>)</material>
+	<material><formula>Pr 1.85 Ce 0.15 CuO 4−y</formula> (<name>PCCO</name>) <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><name>NCCO</name></material>
+	<material><doping>doped</doping> <name>PCCO</name> <shape>crystals</shape></material>
+	<material><doping>doped</doping> <formula>Pr 1.855 Ce 0.145 CuO 4−y</formula> <shape>films</shape></material>
+	<material><doping>doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><formula>Pr 2 CuO 4</formula></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>crystals</shape></material>
+    <material><doping>doped</doping> <shape>crystals</shape> of <formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>PCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><doping>optimally doped</doping> <name>PCCO</name> <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>film</shape></material>
+</materials>

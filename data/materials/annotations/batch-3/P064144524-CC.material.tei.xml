@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La2−xBaxCuO4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><shape>single crystals</shape> of <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La1.6−xNd0.4SrxCuO4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La2−xBaxCuO4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La1.6−xNd0.4SrxCuO4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><name>La-214</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Y-123</name></material>
+    <material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><name>La-214</name></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><shape>single crystals</shape> of <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><shape>single crystals</shape> of <formula>La 2−x Ba x CuO 4</formula></material>
+	<material><variable>x</variable> ∼ <value>1/8</value></material>
+	<material><shape>single crystals</shape> of <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> <shape>single crystals</shape></material>
+    <material><formula>La 2−x Ba x CuO 4 with <variable>x</variable> ∼ <value>1/8</value></formula></material>
+    <material><shape>crystal</shape> growth of <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+    <material><shape>powders</shape> of <formula>La 2−x Ba x CuO 4</formula></material>
+    <material><shape>powders</shape> of <formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.125</value></material>
+    <!-- check -->
+<!--	<material><formula>La 1.875 Ba 0.125 : Cu = 3 : 7</formula></material>-->
+	<material><formula>La 2 O 3</formula></material>
+    <!-- check -->
+    <material>As-grown <shape>crystal</shape> of <formula>La2−xBaxCuO4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> <shape>single crystals</shape></material>
+	<material><name>La-214</name></material>
+	<material><formula>La 1+x Ba 2−x Cu 3 O 7−δ</formula></material>
+	<material><formula>La 4 BaCu 5 O 13</formula></material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><doping>over- doped</doping> <formula>La 2−x Sr x Cu 1−y Zn y O 4</formula></material>
+	<material><formula>La2−xBaxCuO4</formula></material>
+	<material><formula>La 0.94 Ba 1.06 : Cu = 2.0 : 8.0</formula></material>
+	<material><formula>(La, Ba) 2 Cu 2 O 5</formula></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula>−δ with <variable>x</variable> = <value>0.11</value></material>
+    <material><variable>δ</variable> = <value>0.00 ± 0.01</value> for <formula>La 2−x Ba x CuO 4−δ</formula> with <variable>x</variable> = <value>0.11</value></material>
+    <material><shape>single crystals</shape> of <formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+    <material><shape>single crystals</shape> of <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><shape>polycrystalline</shape> sample with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>polycrystalline</shape> samples with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><shape>single-crystal</shape> <formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><shape>polycrystalline</shape> sample with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>polycrystalline</shape> sample with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La2−xBaxCuO4</formula></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><shape>polycrystalline</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>polycrystalline</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>1/8</value></material>
+	<material><shape>polycrystalline</shape> <formula>La 2−x Ba x CuO 4</formula></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>single-crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><name>La-214</name></material>
+	<material><shape>single-crystal</shape> <formula>La2−xBaxCuO4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>singlecrystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+    <material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 1.4−x Nd 0.6 Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.12</value></material>
+	<material><shape>single- crystal</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> = <value>0.10</value></material>
+	<material><shape>single crys- tals</shape> of <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+	<material><shape>polycrystalline</shape> <formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> = <value>0.11</value></material>
+    <material><formula>La 1.6−x Nd 0.4 Sr x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+    <material><formula>La 2−x Ba x CuO 4</formula> with <variable>x</variable> ∼ <value>1/8</value></material>
+</materials>

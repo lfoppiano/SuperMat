@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Pr 2−x Ce x CuO 4−δ</formula> <shape>Films</shape></material>
+    <material><formula>Pr2−xCexCuO 4−δ</formula> (<value>0.115 ≤</value> <variable>x</variable> <value>≤ 0.152</value>) superconducting <shape>films</shape> grown on <substrate>SrTiO3</substrate></material>
+	<material><value>0.124 ≤</value> <variable>x</variable> <value>≤ 0.144</value></material>
+	<material><formula>La 2−x Ce x CuO 4−δ</formula> (<name>LCCO</name>) and <formula>Pr 2−x Ce x CuO 4−δ</formula> (<name>PCCO</name>) <shape>films</shape> grown directly on <substrate>SrTiO 3</substrate> substrates</material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>films</shape> onto <substrate>Pr 2 CuO 4 (PCO)/SrTiO 3</substrate></material>
+    <material><formula>SrTiO 3</formula></material>
+	<material><name>PCCO</name> <shape>film</shape></material>
+    <material><formula>SrTiO 3</formula></material>
+	<material><fabrication>unbuffered</fabrication> <name>PCCO</name> <shape>films</shape></material>
+    <material><formula>SrTiO 3</formula></material>
+	<material><name>PCCO</name></material>
+	<material><name>PCO</name></material>
+    <!-- check -->
+<!--	<material><name>Zn plate</name></material>-->
+	<material><formula>Pr2−xCexCuO 4−δ</formula> <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><name>NCCO</name></material>
+	<material><name>PCCO</name></material>
+<!--	<material><fabrication>buffered</fabrication></material>-->
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><variable>x</variable> = <value>0.115, 0.124, and 0.137</value></material>
+	<material><variable>x</variable> = <value>0.144 and 0,152</value></material>
+	<material><formula>Pr2−xCexCuO 4−δ</formula> <shape>films</shape></material>
+	<material><variable>x</variable> = <value>0.115</value></material>
+	<material><formula>Pr2−xCexCuO 4−δ</formula> <shape>films</shape></material>
+	<material><value>0.124 ≤</value> <variable>x</variable> <value>≤ 0.144</value></material>
+	<material><variable>x</variable> = <value>0.115 and 0.152</value></material>
+	<material><variable>x</variable> <value>≤ 0.133</value></material>
+	<material><variable>x</variable> <value>&gt; 0.133</value></material>
+	<material><name>LCCO</name></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+    <!-- check -->
+	<material>unbuffered <name>PCCO</name> <shape>films</shape></material>
+	<material>buffered <name>PCCO</name> <shape>films</shape></material>
+	<material><variable>x</variable> = <value>0.115 and 0.152</value></material>
+	<material><variable>x</variable> = <value>0.115 and 0.152</value></material>
+	<material><variable>x</variable> <value>near 0.13</value></material>
+	<material><name>PCCO</name> <shape>films</shape></material>
+	<material><variable>x</variable> = <value>0.131</value></material>
+    <!-- check -->
+<!--	<material>buffered <formula>Pr2−xCexCuO 4−δ</formula> <shape>films</shape></material>-->
+<!--	<material><variable>x</variable> = <value>0.131</value></material>-->
+<!--	<material><formula>Pr 2−x Ce x CuO 4−δ</formula> <shape>films</shape> on <substrate>buffered Pr 2 CuO 4 /SrTiO 3</substrate></material>-->
+<!--    <material><name>PCCO</name> <shape>films</shape> <fabrication>on buffered substrates</fabrication></material>-->
+	<material><formula>Pr1.869Ce0.131CuO 4−δ</formula> <shape>film</shape></material>
+	<material><formula>Pr2−xCexCuO 4−δ</formula> <shape>films</shape></material>
+	<material><formula>Pr2CuO4</formula>/<substrate>SrTiO3</substrate></material>
+</materials>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>AeFe 2 As 2</formula> (<variable>Ae</variable> = <value>Ca, Sr, Ba</value></material>
+	<material><formula>AFeAs</formula> (<variable>A</variable> = <value>Li, Na</value>)</material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>AeFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>AFeAs</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>HgBa 2 Ca 2 Cu 3 O 9+δ</formula> (<name>Hg1223</name>)</material>
+	<material><doping>electron-doped</doping> <formula>LaOFeAs</formula> (<name>La1111</name>)</material>
+	<material><doping>undoped</doping> <name>La1111</name></material>
+	<material><formula>ZrCuSiAs</formula></material>
+	<material><doping>electron-doped</doping> <formula>LaOFeAs</formula></material>
+	<material>011 (<formula>FeSe</formula>)</material>
+	<material>011</material>
+	<material><doping>electron-doped</doping> <formula>LaOFeAs</formula></material>
+	<material><doping>electron-doped</doping> <name>La1111</name></material>
+	<material><doping>electron- doped</doping> <name>Sm1111</name> (<formula>SmOFeAs</formula>)</material>
+	<material><name>Hg1223</name></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>ThCr 2 Si 2</formula></material>
+	<material><name>Sr122</name></material>
+	<material><name>Ba122</name></material>
+	<material><formula>(Sr 1-x K x )122</formula></material>
+	<material><doping>hole-doped</doping> <name>Sr122</name></material>
+	<material><doping>electron-doped</doping> <name>Sm1111</name></material>
+	<material><doping>undoped</doping> <name>Sr122</name></material>
+	<material><name>Ba122</name></material>
+	<material><name>Ca122</name></material>
+	<material><name>Sr122</name></material>
+	<material><name>Ba122</name></material>
+	<material><name>Ca111</name></material>
+	<material><name>Li111</name></material>
+	<material><name>Na111</name></material>
+	<material><name>Li111</name></material>
+	<material><name>Li111</name></material>
+	<material><name>Li111</name></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>α-FeAs</formula></material>
+	<material>011</material>
+	<material>011</material>
+	<material><doping>electron doped</doping> <formula>La(O 1-x F x )FeAs</formula></material>
+	<material><doping>polycrystalline optimally doped</doping> <formula>La(O 1-x F x )FeAs</formula> with nominal <variable>x</variable> = <value>0.11</value></material>
+	<material><formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><variable>x</variable> = <value>0.0, 0.05, 0.13 and 0.30</value></material>
+	<material><variable>x</variable> = <value>0.05, 0.13 and 0.3</value></material>
+	<material><variable>x</variable> = <value>0.05</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><doping>electron-underdoped</doping> <formula>Sm(O 1-x F x )FeAs</formula> of a nominal <variable>x</variable> = <value>0.13</value></material>
+	<material><doping>electron doped</doping> <formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><doping>electron-doping</doping> in <formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><doping>underdoped</doping> <formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><formula>La(O 1-x F x )FeAs</formula></material>
+	<material><formula>La(O 1-x F x )FeAs</formula> with <variable>x</variable> = <value>0.11 and 0.05</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.05</value></material>
+	<material><variable>x</variable> = <value>0.11 and 0.05</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><variable>x</variable> = <value>0.05</value></material>
+	<material><formula>La(O 1- x F x )FeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>La(O 1-x F x )FeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>LaOFe(As 1-x P x</formula> )</material>
+	<material><formula>LaOFe(As 1-x P x</formula> )</material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><doping>optimally doped</doping> <formula>La(O 1-x F x )FeAs</formula></material>
+	<material><formula>HgBa 2 Ca n-1 Cu n O m+2n+2+δ</formula></material>
+	<material><doping>optimally-doped</doping> <formula>La(O 1-x F x )FeAs</formula></material>
+	<material><variable>x</variable> = <value>0 (undoped), 0.05 (underdoped), 0.11(optimally doped)</value></material>
+	<material><variable>x</variable>=<value>0.14</value></material>
+	<material><variable>x</variable> = <value>0.11</value></material>
+	<material><doping>undoped</doping> <formula>LaOFeAs</formula></material>
+	<material><variable>x</variable> = <value>0.11 and 0.14</value></material>
+	<material><variable>x</variable> = <value>0.05 and 0</value></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>La(O 1-x F x )FeAs</formula></material>
+	<material><doping>optimally doped</doping> <formula>Ce(O 1-x F x )FeAs</formula></material>
+	<material><doping>oxygen-deficient</doping> <formula>NdO 1-y FeAs</formula></material>
+	<material><doping>optimally doped</doping> <formula>La(O 1-x F x )FeAs</formula></material>
+	<material><doping>overdoped</doping> <formula>La(O 1-x F x )FeAs</formula></material>
+	<material><doping>undoped</doping> <formula>LOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula> through <name>F-doping</name></material>
+	<material><formula>RO 1-y FeAs</formula> (<variable>R</variable>=<value>Sm, Nd, Gd</value>)</material>
+	<material><formula>NdO 1-y FeAs</formula> with a nominal <variable>1-y</variable> = <value>0.6, 0.8 and 0.85</value></material>
+	<material><variable>1-y</variable> = <value>0.85</value></material>
+	<material><formula>Sm-and NdO 1-y FeAs</formula> with <variable>1-y</variable> = <value>0.85</value></material>
+	<material><formula>SmO 1-y FeAs</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><variable>x</variable> <value>~ 0.4 -0.5</value></material>
+	<material><variable>x</variable> ~ <value>0.2 and 0.3</value></material>
+	<material><variable>x</variable> = <value>0.2 (underdoped), 0.4 (~ optimally-doped) and 0.7 (overdoped)</value></material>
+	<material><doping>electron-doped</doping> <formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><doping>hole-doped</doping> <formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><doping>electron-doped</doping> <formula>Sm(O 1-x F x )FeAs</formula></material>
+	<material><formula>(Ba 1-x K x )Fe 2 As 2</formula> with <variable>x</variable> = <value>0.45</value></material>
+	<material><formula>(Sr 1-x K x )122</formula></material>
+	<material><doping>undoped</doping> <formula>AeFe 2 As 2</formula></material>
+	<material><formula>Ba(Fe 1- x Co x ) 2 As 2</formula> (<variable>x</variable>=<value>0.1</value>)</material>
+	<material><doping>hole- doped</doping> <formula>(K x Sr 1-x )Fe 2 As 2</formula></material>
+	<material><doping>underdoped</doping> (<variable>x</variable>=<value>0.04</value>) and <doping>an optimally doped</doping> (<variable>x</variable>=<value>0.1</value>) sample of <formula>Ba(Fe 1-x Co x</formula> )</material>
+	<material><formula>K x Sr 1-x )Fe 2 As 2</formula></material>
+	<material><variable>x</variable>=<value>0.04</value>)</material>
+	<material><variable>x</variable>=<value>0.1</value>)</material>
+	<material><doping>underdoped</doping> <formula>Ba(Fe 1-x Co x ) 2 As 2</formula> (<variable>x</variable>=<value>0.04</value>)</material>
+	<material><formula>Ba(Fe 1-x Co x ) 2 As 2</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><name>Ca122</name></material>
+	<material><name>Ca122</name></material>
+	<material><shape>single crystal</shape> <formula>CaFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><shape>single crystals</shape> of <formula>CaFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><doping>undoped</doping> <formula>SrFe 2 As 2</formula></material>
+	<material><shape>single crystal</shape> of <formula>SrFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><doping>doped</doping> <formula>AeFe 2 As 2</formula></material>
+	<material><doping>hole doped</doping> <formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><formula>K x Ba 1-x )Fe 2 As 2</formula></material>
+	<material><formula>Ba(Fe 1- x Co 1-x ) 2 As 2</formula></material>
+	<material><formula>AeFe 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>AeFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 (As 0.7 P 0.3 ) 2</formula></material>
+	<material><formula>BaFe 2 (As 1-x P x ) 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><shape>Thin films</shape> of <formula>LiFeAs</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>FeSe</formula> x</material>
+	<material><formula>α-FeSe</formula> x</material>
+	<material><variable>x</variable>=<value>0.8 and 0.88</value></material>
+	<material><doping>undoped</doping> <name>La1111</name></material>
+	<material><name>Ca122</name></material>
+	<material><name>A111</name> series (<formula>LiFeAs</formula>, <formula>NaFeAs</formula>)</material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>undoped</doping> <name>La1111</name></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><name>Sm1111</name></material>
+	<material><doping>electron-overdoped</doping> <name>Sm1111</name> with a nominal <variable>x</variable>=<value>0.3</value></material>
+	<material><doping>electron-underdoped</doping> <name>Sm1111</name> with a nominal <variable>x</variable>=<value>0.13</value></material>
+	<material><name>La1111</name> with <variable>x</variable>=<value>0.11</value></material>
+	<material><name>La1111</name> with <variable>x</variable>=<value>0.11</value></material>
+	<material><name>La1111</name> with <variable>x</variable>=<value>0.05</value></material>
+	<material><name>La1111</name> with <variable>x</variable>=<value>0.00, 0.05, 0.11, and 0.14</value></material>
+	<material><name>Ce1111</name> with <variable>x</variable>=<value>0.12</value></material>
+	<material><formula>NdO 1-y FeAs</formula></material>
+	<material><formula>Nd-and SmO 1-y FeAs</formula></material>
+	<material><formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><doping>hole-doped</doping> <formula>(Sr 1-x K x )Fe 2 As 2</formula></material>
+	<material><doping>undoped</doping> <name>Ca122</name> <shape>single crystals</shape></material>
+	<material><doping>undoped</doping> <name>Ca122</name> <shape>single crystals</shape></material>
+	<material><name>Ca122</name></material>
+</materials>

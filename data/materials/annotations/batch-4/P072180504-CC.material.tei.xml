@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula> <shape>single crystal</shape></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Na x CoO 2 ·yH 2 O</formula></material>
+	<material><formula>Ag 7 O 8 X</formula> (<variable>X</variable>=<value>NO 3 , HF 2</value> , etc.)</material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>ZrB 12</formula></material>
+	<material><formula>YbSb 2 9</formula></material>
+	<material><formula>LaPd 2 Ge 2 10 , M Pd 2 Si 2</formula> (<variable>M</variable> =<value>Lu, Y, La</value>)</material>
+	<material><formula>TaSi 2 12</formula></material>
+	<material><formula>AuIn 2</formula></material>
+	<material><formula>C x K 14</formula></material>
+	<material><formula>LaRh 2 Si 2</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><shape>single crystals</shape> of <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+<!--    <material><doping>Nb-Ti</doping></material>-->
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><doping>pure</doping> <formula>Al</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><name>tungsten</name></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><name>indium</name></material>
+	<material><name>tin</name></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><name>indium</name></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><name>indium</name></material>
+	<material><name>tin</name></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+</materials>

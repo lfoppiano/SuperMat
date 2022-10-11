@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LaO 1−x F x FeAs</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><doping>doped</doping> <formula>RFeAsO 0.85</formula> (<variable>R</variable> = <value>Sm and Nd</value>)</material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>Pb</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>SmFeAsO 0.85</formula></material>
+	<material><formula>NdFeAsO 0.85</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LaFeAsO 1−x F x</formula></material>
+	<material><formula>AFe 2 As 2</formula> (<variable>A</variable> = <value>Sr, Ba</value>)</material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>NdFeAsO 0.85</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>NaFeAs</formula></material>
+</materials>

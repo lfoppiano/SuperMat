@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>La1.85Sr0.15CuO4</formula></material>
+	<material><formula>Nd1.85Ce0.15CuO4</formula></material>
+	<material><formula>(Sr +2 1−x Ln +3 x )CuO 2</formula> (<variable>Ln</variable> = <value>La, Sm, Nd, Gd</value>, etc.)</material>
+	<material><formula>(Sr 1−x Nd x )CuO 2</formula> <shape>film</shape></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula> (<name>La-112</name>)</material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula> (<name>La-214</name>)</material>
+	<material><name>La-214</name></material>
+	<material><name>La-112</name></material>
+	<material><name>La-214</name></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4</formula> (<name>Nd-214</name>)</material>
+	<material><name>La-112</name></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 1−x La x CuO 2</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><name>La-112</name> compound</material>
+	<material><name>La-112</name></material>
+	<material><name>La-112</name></material>
+	<material><name>La-112</name></material>
+	<material><doping>Optimally doped (La</doping>,<formula>Sr) 2 CuO 4</formula></material>
+	<material><formula>(Nd,Ce) 2 CuO 4</formula></material>
+	<material><name>La-112</name></material>
+	<material><formula>(La,Sr) 2 CuO 4</formula></material>
+	<material><name>Nd-214</name></material>
+	<material><name>La-112</name></material>
+	<material><shape>polycrystalline</shape> <name>La-214</name></material>
+	<material><name>Nd-214</name></material>
+	<material><name>La-112</name></material>
+	<material><name>Nd-214</name></material>
+	<material><formula>Ca 0.85 Sr 0.15 CuO 2</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Ca 0.85 Sr 0.15 CuO 2</formula></material>
+	<material><formula>YBa 2 Cu 3 O 6</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>(La,Sr) 2 CuO 4</formula></material>
+	<material><formula>(Nd,Ce) 2 CuO 4</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+</materials>

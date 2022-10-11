@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0≤x≤1.0</value>)</material>
+	<material><variable>x</variable> <value>≤0.60</value></material>
+	<material><variable>x</variable>=<value>0.80 and 1.0</value></material>
+	<material><variable>x</variable> = <value>0.0</value></material>
+	<material><variable>x</variable>=<value>0.20</value> and <variable>x</variable>=<value>0.4</value></material>
+	<material><variable>x</variable>=<value>0.60</value></material>
+	<material><variable>x</variable> = <value>0.80</value></material>
+	<material><formula>1.00</formula></material>
+	<material><variable>x</variable> = <value>0.8</value></material>
+	<material><formula>1.00</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><name>Pr:123</name></material>
+	<material><name>Pr:123</name></material>
+	<material><name>Pr:123</name></material>
+	<material><name>Pr:123</name></material>
+	<!-- Same issue as discusssed before (overlap of formula and name?) -->
+	<material><name>Y 1-x Pr x :123</name></material>
+	<material><name>Pr:123</name>-type systems</material>
+	<material><name>Pr:123</name></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7</formula> <shape>thin film</shape></material>
+	<material><formula>Pr 1-x Ca x Sr 2 Cu 2.7 Mo 0.3 O 7</formula></material>
+	<material><formula>PrBa 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+	<material><doping>Ca</doping>- doped <name>Pr:123</name></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><formula>Y 2 O 3</formula></material>
+	<material><formula>Pr 6 O 11</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><variable>x</variable> <value>≤ 0.60</value></material>
+	<material><variable>x</variable> = <value>0.80 and 1.0</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><doping>Ba-site Sr substituted</doping> <name>RE:123</name> systems</material>
+	<material><variable>x</variable> = <value>0.80 and 1.00</value></material>
+	<material><variable>x</variable> = <value>0.80 and 1.0</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><variable>x</variable> = <value>0.0</value></material>
+	<material><variable>x</variable> = <value>0.20 and 0.40</value></material>
+	<material><variable>x</variable> = <value>0.60</value></material>
+	<material><variable>x</variable> = <value>0.80</value></material>
+	<material><formula>1.0</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><variable>x</variable> = <value>0.80</value></material>
+	<material><variable>x</variable> = <value>1.00</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><variable>x</variable> = <value>0.80</value></material>
+	<material><formula>1.00</formula></material>
+	<material><variable>x</variable> = <value>0.80 and 1.00</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><variable>x</variable> = <value>0.8 and 1.0</value></material>
+	<material><variable>x</variable> = <value>0.8 and 1.0</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2 SrCu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2 Cu 3 O 7</formula></material>
+	<material><name>Y/Pr:123</name></material>
+	<material><name>Y/Pr:124</name> (<formula>Y 1-x Pr x Ba 2 Cu 4 O 7</formula> )</material>
+	<material><name>Y/Pr:123</name></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>YBa 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>YSr 2 Cu 3 O 7</formula> with HPHT</material>
+	<material><fabrication>HPHT synthesized</fabrication> <formula>PrSr 2 Cu 3 O 7</formula> compound</material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><variable>x</variable> = <value>0.80 and 1.00</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1.0</value>)</material>
+	<material><variable>x</variable> = <value>0.80 and 1.00</value></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.0 ≤</value> <variable>x</variable> <value>≤ 1.0</value>)</material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 1.2 Sr 0.8 Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 BaSrCu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0.20 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+	<material><variable>x</variable> = <value>0.80 and 1.00</value></material>
+	<material><formula>REBa 2-x Sr x Cu 3 O 7</formula></material>
+	<material><formula>Y 0.4 Pr 0.6 Ba 2-x Sr x Cu 3 O 7</formula> (<value>0. 0 ≤</value> <variable>x</variable> <value>≤ 1</value>)</material>
+</materials>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula> (<name>21113V</name>)</material>
+	<material><name>21113V</name></material>
+	<material><name>21113V</name></material>
+	<material><name>21113V</name></material>
+	<material><name>21113V</name></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 ScFePO 3</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 ScFeAsO 3</formula></material>
+	<material><formula>Sr 2 CrFeAsO 3</formula></material>
+	<material><formula>Ba 2 ScFeAsO 3</formula></material>
+	<material><formula>Sr 2 (Mg, Ti)FeAsO 3</formula></material>
+	<material><formula>Ca 2 AlFePO 3-y</formula></material>
+	<material><formula>Ca 2 AlFeAsO 3-y</formula></material>
+	<material><formula>Sr 3 Sc 2 Fe 2 As 2 O 5 (16, 17</formula>)</material>
+	<material><formula>Ca n+1 (Sc, Ti) n Fe 2 As 2 O y</formula> (<variable>n</variable> = <value>3, 4, 5</value>; <variable>y</variable> ~ 3n-1)</material>
+	<material><formula>Ca n+2 (Al, Ti) n Fe 2 As 2 O y</formula> (<variable>n</variable> = <value>2, 3, 4</value>; <variable>y</variable> = <value>3n</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 ScFeAsO 3</formula></material>
+	<material><formula>Sr 2 CrFeAsO 3</formula></material>
+	<material><formula>Sr 2 ScFeAsO 3</formula></material>
+	<material><formula>Sr 2 CrFeAsO 3</formula></material>
+	<material><formula>Sr 2 MFeAsO 3</formula> (<variable>M</variable> = <value>Sc, Cr</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><shape>polycrystalline</shape> <formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.124, 0.232, 0.237, 0.267, 0.509, and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3δ</formula></material>
+	<material><variable>δ</variable> = <value>0.25 and 0.50</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.124, 0.237, and 0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> ~<value>0.07, ~0.14, ~0.23, and ~0.62</value></material>
+	<material><shape>polycrystalline</shape> <formula>Sr 2 VFeAsO 3</formula></material>
+	<material><variable>δ</variable> = <value>0.267, 0.664</value></material>
+	<material><formula>V 2 O 3</formula></material>
+	<material><formula>V 2 O 5</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>V 2 O 3</formula></material>
+	<material><formula>V 2 O 5</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>V 2 O 3</formula></material>
+	<material><formula>V 2 O 5</formula></material>
+	<material><formula>V 2 O 3</formula></material>
+	<material><formula>V 2 O 5</formula></material>
+	<material><variable>δ</variable> = <value>0.267, 0.664</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.664</value> samples</material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.237</value> samples</material>
+	<material><variable>δ</variable> = <value>0.204-0.237</value> samples</material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.237</value> samples</material>
+	<material><value>0.509 ≤</value> <variable>δ</variable> <value>≤ 0.664</value> samples</material>
+	<material><value>0.267 ≤</value> <variable>δ</variable> <value>≤ 0.664</value> samples</material>
+	<material><value>0.267 ≤</value> <variable>δ</variable> <value>≤ 0.664</value> samples</material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value> samples</material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.267</value> samples</material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.267</value> samples</material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value> samples</material>
+	<material><value>0.509 ≤</value> <variable>δ</variable> <value>≤ 0.664</value> samples</material>
+	<material><variable>δ</variable> = <value>0.124, 0.204, 0.232, 0.237, 0.267, 0.509, 0.631, and 0.664</value></material>
+	<material><value>0.124 ≤</value> <variable>δ</variable> <value>≤ 0.664</value></material>
+	<material><variable>δ</variable> = <value>0.267</value></material>
+	<material><variable>δ</variable> = <value>0.267</value></material>
+	<material><variable>δ</variable> = <value>0.088, 0.124, and 0.145</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.237</value></material>
+	<material><value>0.267 ≤</value> <variable>δ</variable> <value>≤ 0.664</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.664</value></material>
+	<material><variable>δ</variable> = <value>0.232, 0.267, and 0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.232</value></material>
+	<material><variable>δ</variable> = <value>0.124, 0.232, and 0.237</value></material>
+	<material><variable>δ</variable> = <value>0.267 and 0.509</value></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.124, 0.232, 0.237, 0.267, 0.509, and 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><variable>δ</variable> = <value>0.232, 0.237, 0.267, 0.509 and 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><variable>δ</variable> = <value>0.232</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509 and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.124, 0.204, 0.232, 0.237, 0.267, 0.509, 0.631, and 0.664</value></material>
+	<material><variable>δ</variable>= <value>0.267</value></material>
+	<material><variable>δ</variable>  <value>0.267</value></material>
+	<material><variable>δ</variable> = <value>0.1240.267</value></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><variable>δ</variable> = <value>0.073</value></material>
+	<material><variable>δ</variable> = <value>0.145</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.664</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.237</value></material>
+	<material><formula>Sr 2 VFeAsO 3</formula> with <variable>δ</variable> = <value>0.1240.267</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> with <value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.237</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>SrTiO 3−δ</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Bi 2.1 Sr 1.9 Ca 2 Cu 3 O 10+δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula> (<variable></variable> = <value>0, 0.25, 0.50</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−</formula></material>
+	<material><variable>δ</variable> = <value>0.25 and 0.50</value></material>
+	<material><formula>Sr 2 VFeAsO 3−</formula></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.664</value></material>
+	<material><value>0.204 ≤</value> <variable>δ</variable> <value>≤ 0.237</value></material>
+	<material><variable>δ</variable> = <value>0.145</value></material>
+	<material><value>0.124 ≤</value> <variable>δ</variable> <value>≤ 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.267</value></material>
+	<material><value>0.124 ≤</value> <variable>δ</variable> <value>≤0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><variable>δ</variable> = <value>0.232 and 0.237</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Ba 2 YCu 3 O 7</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VO 3−δ</formula></material>
+	<material><formula>Sr 2 VO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.0, 0.25, and 0.50</value></material>
+	<material><variable>δ</variable> = <value>0.25</value></material>
+	<material><variable>δ</variable> = <value>0.5</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> samples (<variable>δ</variable> = <value>0.124, 0.237, and 0.509</value>)</material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267 and 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267 and 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.664</value>)</material>
+	<material><variable>δ</variable> = <value>0.145 and 0.204</value></material>
+	<material><formula>Sr2VFeAsO3−δ</formula></material>
+	<material><variable>δ</variable> = <value>0.124, 0.204, 0.232, 0.237, 0.267, 0.509, 0.631 and 0.664</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><variable>δ</variable> = <value>0.232</value>; (b) <variable>δ</variable> = <value>0.267</value>; and (c) <variable>δ</variable> = <value>0.509</value></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><variable>δ</variable> = <value>0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><variable>δ</variable> = <value>0.267, 0.509, and 0.631</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula> (<variable>δ</variable> = <value>0.0</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula> (<variable>δ</variable> = <value>0.0, 0.25, and 0.50</value>)</material>
+	<material><shape>polycrystalline</shape> <formula>Sr 2 VFeAsO 3−d</formula> (<variable>d</variable> = <value>0.1-0.7</value>) samples</material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable></variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable></variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable></variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><name>vanadium metal</name> and <name>vanadium oxides</name></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><variable></variable> = <value>0.140, 0.267, and 0.664</value> samples</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><shape>polycrystalline</shape> <formula>Sr 2 VFeAsO 3-</formula> (<variable></variable> = <value>0.088</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula> (<variable></variable> = <value>0.124, 0.232, 0.237, 0.267, 0.509, and 0.631</value>)</material>
+	<material><variable>δ</variable> = <value>0.232</value></material>
+	<material><variable>δ</variable> = <value>0.509</value></material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><shape>polycrystalline</shape> <formula>Sr 2 VFeAsO 3-</formula> (<variable></variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-</formula> (<variable></variable> = <value>0.509</value>).</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−d</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<value>0.031 ≤</value> <variable>δ</variable> <value>≤ 0.145</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3</formula></material>
+	<material><formula>SrV 2 O 6</formula></material>
+	<material><formula>Sr 2 VO 4</formula></material>
+	<material><formula>FeAs</formula></material>
+	<material><formula>Fe 3 O 4</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 2.5</formula></material>
+	<material><formula>SrV 2 O 6</formula></material>
+	<material><formula>Fe 3 O 4</formula></material>
+	<material><formula>SrV 2 O 6</formula></material>
+	<material><formula>Fe 3 O 4</formula></material>
+	<material><formula>Sr 2 VFeAsO 3-</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.267, 0.664</value>)</material>
+	<material><variable>δ</variable> = <value>0.267</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> <shape>crystals</shape></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.088</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> [<variable>δ</variable> = <value>0.088</value>]</material>
+	<material><variable>δ</variable> = <value>0.1, 0.3 and 0.5</value></material>
+	<material><variable>δ</variable> = <value>0.088</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> [<variable>δ</variable> = <value>0.088 and 0.124</value>]</material>
+	<material><variable>δ</variable> = <value>0.088</value></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula> [<variable>δ</variable> = <value>0.088, 0.124</value>]</material>
+	<material><variable>δ</variable> = <value>0.088</value></material>
+	<material><variable>δ</variable> = <value>0.124</value></material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.124, 0.232, 0.237, 0.267, 0.509 and 0.631</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3−δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula> (<variable>δ</variable> = <value>0.509</value>)</material>
+	<material><formula>Sr 2 VFeAsO 3-δ</formula></material>
+</materials>

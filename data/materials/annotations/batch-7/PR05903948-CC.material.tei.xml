@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Zn</doping>-doped <formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><doping>Zn</doping>-doped <formula>YBa2Cu3O 7−δ</formula> <shape>single crystals</shape></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula> (<name>YBCO</name>)</material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name> <shape>single crystals</shape></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><formula>YBa 2 - (Cu 1−z Zn z ) 3 O y</formula></material>
+	<material><variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><name>YBCO</name></material>
+	<material><variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><doping>under- doped</doping> <name>LSCO</name></material>
+	<material><variable>y</variable>=<value>6.70</value> <shape>crystals</shape> with different <variable>z</variable> (<value>2.7%, 2.3%</value>, and <value>1.3%</value>)</material>
+	<material><variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>y</variable>=<value>6.70</value>, <variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>y</variable>=<value>6.70</value>, <variable>z</variable>=<value>2.3</value>% sample</material>
+	<material><variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>z</variable>=<value>2.3</value>% sample</material>
+	<material><variable>z</variable>=<value>2.3</value>% sam- ple</material>
+	<material><name>LSCO</name></material>
+	<material><variable>z</variable>=<value>2.7</value>% samples with <variable>y</variable>=<value>6.70, 6.75, 6.80, and 6.83</value></material>
+	<material><variable>y</variable>=<value>6.83</value></material>
+	<material><variable>y</variable>=<value>6.80</value>, <variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>y</variable>=<value>6.70</value>, <variable>z</variable>=<value>2.7%</value> sample</material>
+	<material><variable>y</variable>=<value>6.70</value>, <variable>z</variable>=<value>2.3</value>% sample</material>
+	<material><variable>z</variable>=<value>2.7</value>% samples with <variable>y</variable>=<value>6.70</value></material>
+	<material><name>YBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>z</variable>=<value>2.3</value>% samples with <variable>y</variable>=<value>6.50, 6.60, and 6.70</value></material>
+	<material><variable>y</variable>=<value>6.70</value>, <variable>z</variable>=<value>2.3%</value></material>
+	<material><variable>y</variable>=<value>6.80</value>, <variable>z</variable>=<value>2.7%</value></material>
+	<material><variable>z</variable>=<value>2.3%</value></material>
+	<material><variable>y</variable>=<value>6.60</value></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name></material>
+	<material><doping>underdoped</doping> <name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name> <shape>crystals</shape></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>YBCO</name></material>
+</materials>

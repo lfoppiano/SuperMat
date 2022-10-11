@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO 0.89 F 0.11</formula></material>
+	<material><formula>RFeAsO</formula> (<variable>R</variable> = <value>rare earth</value>) having smaller R atom than La atom</material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><doping>substitution effect of O 2-by F</doping> -in <formula>LaFeAsO</formula></material>
+	<material><doping>F -substitution</doping> of 5 at%</material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1-x F x</formula> series</material>
+	<material><formula>LaFeAsO 0.95 F 0.05</formula></material>
+	<material><formula>LaFeAsO 0.89 F 0.11</formula></material>
+	<material><formula>LaFeAsO 0.86 F 0.14</formula></material>
+	<material>&quot;<doping>over-doped</doping>&quot; <formula>LaFeAsO 0.86 F 0.14</formula></material>
+	<material>&quot;<doping>optimum-doped</doping>&quot; <formula>LaFeAsO 0.89 F 0.11</formula></material>
+	<material><formula>LaFeAsO 0.86 F 0.14</formula></material>
+	<material><formula>LaFeAsO 0.89 F 0.11</formula></material>
+	<material>&quot;<doping>over-doped</doping>&quot; <formula>LaFeAsO 0.86 F 0.14</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+</materials>

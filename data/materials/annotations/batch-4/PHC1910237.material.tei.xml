@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr2Nd1.5Ce0.5NbCu2O10-δ</formula></material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 NbCu 2 -O 10-δ</formula></material>
+	<material><formula>Ba2LaNbCu2O8</formula></material>
+	<material><formula>Sr2Nd1.5Ce0.5NbCu2O10.</formula></material>
+	<material><formula>Ba2YCu3O7</formula></material>
+	<!-- <material><doping>Nb based</doping></material> -->
+    <!-- check -->
+    <material><formula>Sr 2 Nd 2-x Ce x NbCu 2 O 10</formula> for <value>0.4</value> <variable>x</variable> <value>0.7</value>, ∆x=0.05</material>
+	<material><variable>x</variable> <value>0.6</value></material>
+	<material><formula>Sr 2 Nd 2-x Ce x NbCu 2 O 10</formula></material>
+	<material><variable>x</variable>=<value>0.5 and 0.6</value></material>
+	<material><formula>Pb</formula></material>
+	<material><formula>Sr 2 Nd 1-x Ce x NbCu 2 O 10</formula></material>
+    <material><value>0.5</value> <variable>x</variable> <value>0.7</value></material>
+	<!-- This one has to think about -->
+	<!-- <material><variable>Ce</variable>=<value>0.5-0.6</value></material> -->
+	<!-- End of what to think about. Ce is a formula and also act as "x" above. -->
+	<material><value>0.5</value> <variable>x</variable> <value>0.7</value></material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 NbCu 2 O 10-δ</formula></material>
+	<material><formula>Nb 2 O 5</formula></material>
+	<material><formula>Sr2Nd1.5Ce0.5NbCu2O10-δ</formula></material>
+    <!-- <material><formula>Ce 0.5</formula></material> -->
+    <material><variable>δ</variable>=<value>0.05</value></material>
+	<material><formula>Nb2O5</formula></material>
+	<material><formula>CeO2</formula></material>
+	<material><formula>Sr2Nd1.5Ce0.5NbCu2O10-δ</formula></material>
+	<material><formula>Nb 2 O 5</formula></material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 NbCu 2 O 10-δ</formula></material>
+    <material><formula>(Nd,Sr,Ce) 2 CuO 4</formula></material>
+    <material><formula>Sr2Nd1.5Ce0.5NbCu2O</formula></material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 NbCu 2 O 10</formula></material>
+	<material><formula>Sr 2 Nd 1.4 Ce 0.6 NbCu 2 O 10-δ</formula></material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 TaCu 2 O 10</formula></material>
+	<material><formula>Sr2Nd1.5Ce0.5NbCu2O10</formula></material>
+	<material><formula>Sr2Nd1.5Ce0.5TaCu2O10</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x (Nb or Ta)Cu 2 O 10-δ</formula></material>
+</materials>

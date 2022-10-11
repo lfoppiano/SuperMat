@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na0.31CoO2·1.3H2O</formula></material>
+	<material><name>Cobalt oxyhydrate</name></material>
+	<material><name>cobalt oxyhydrate</name></material>
+	<material><name>cobalt oxyhydrate</name></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>Na0.31CoO2•1.3H2O</formula></material>
+    <material><formula>H 2 O</formula></material>
+	<material><formula>MO 2</formula> (<variable>M</variable>=<value>Co or Cu</value>)</material>
+	<material><formula>Na 0.35 CoO 2</formula></material>
+	<material><name>cobalt oxyhydrate</name></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>H 2 O</formula></material>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na0.31CoO2·1.3H2O</formula> <shape>powdered</shape></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>(BEDT-TTF) 2 Cu(NCS) 2</formula></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>Na0.31CoO2•1.3H2O</formula> <shape>powdered</shape></material>
+	<material><name>cobalt oxyhydrate</name></material>
+	<material><formula>Na 0.31 CoO 2 ·1.3H 2 O</formula></material>
+    <material><formula>Na 0.31 CoO 2 •1.3H 2 O</formula></material>
+	<material><formula>Na 0.5 CoO 2</formula></material>
+	<material><formula>Na 0.5 CoO 2</formula></material>
+	<material><formula>Na0.31CoO2·1.3H2O</formula></material>
+    <material><formula>Na0.31CoO2•1.3H2O</formula></material>
+</materials>

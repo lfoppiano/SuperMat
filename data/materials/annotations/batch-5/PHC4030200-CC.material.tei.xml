@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>B 1−x K x BiO 3</formula></material>
+	<material><shape>single crystals</shape> <formula>B1−xKxBiO3</formula> (<variable>x</variable>=<value>0.37</value>)</material>
+	<material><formula>B 0.63 K 0.37 BiO 3</formula></material>
+	<material><formula>B 1−x K x BiO 3</formula> (<name>BKBO</name>)</material>
+	<material><name>BKBO</name></material>
+	<material><name>BKBO</name></material>
+	<material><name>BKBO</name></material>
+	<material><shape>Single crystal</shape> of <formula>B 1−x K x BiO 3</formula> (<variable>x</variable>=<value>0.37</value>)</material>
+	<material><formula>B1−xKxBiO3</formula> (<variable>x</variable>=<value>0.37</value>) <shape>single crystal</shape></material>
+	<material><name>BKBO</name></material>
+</materials>

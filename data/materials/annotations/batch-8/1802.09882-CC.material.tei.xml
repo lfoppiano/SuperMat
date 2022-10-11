@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sn 1−x In x Te</formula></material>
+	<material><doping>Indium</doping>-doped <formula>SnTe</formula></material>
+	<material><formula>Sn1−xInxTe</formula> <shape>single crystals</shape> with <value>0.1 ≤</value> <variable>x</variable> <value>≤ 0.45</value></material>
+	<material><variable>x</variable> ∼ <value>0.25</value></material>
+	<material><shape>single crystals</shape> with <variable>x</variable> = <value>0.45</value></material>
+	<material><name>Tin telluride</name></material>
+	<material><formula>SnTe</formula></material>
+	<material><doping>Tl</doping>-doped <formula>PbTe</formula></material>
+	<material><formula>Sn 1−x In x Te</formula> with <variable>x</variable> <value>0.1</value></material>
+	<material><formula>Sn 1−x In x Te</formula></material>
+	<material><formula>Sn 1−x In x Te</formula> <shape>single crystals</shape> for <value>0.1 ≤</value> <variable>x</variable> <value>≤ 0.45</value></material>
+	<material><variable>x</variable> ∼ <value>0.25</value></material>
+	<material><formula>SnTe</formula></material>
+	<material><formula>Sn0.5In0.5Te</formula></material>
+	<material><shape>Single crystals</shape> of <formula>Sn 1−x In x Te</formula> (<name>SIT</name>) with nominal In concentrations of <variable>x</variable> = <value>0.10-0.45</value></material>
+	<material><formula>SnTe</formula></material>
+	<material><doping>pure</doping> <formula>SnTe</formula></material>
+	<material><variable>x</variable> = <value>0.41</value></material>
+	<material><variable>x</variable> = <value>0.2 and 0.3</value></material>
+	<material><formula>Sn1−xInxTe</formula></material>
+	<material><variable>x</variable> = <value>0.2 and 0.3</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> ∼ <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><doping>pure</doping> <formula>SnTe</formula></material>
+	<material><variable>x</variable> <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><variable>x</variable> ∼ <value>0.1</value></material>
+	<material><variable>x</variable> ∼ <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.45</value></material>
+	<material><formula>Sn0.55In0.45Te</formula></material>
+	<material><variable>x</variable> <value>≈ 0.4</value></material>
+	<material><doping>pure</doping> <formula>SnTe</formula></material>
+	<material><formula>Sn 0.55 In 0.45 Te</formula></material>
+	<material><formula>Bi 2 Te 3</formula></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><formula>Sn0.55In0.45Te</formula> <shape>single crystal</shape></material>
+	<material><formula>Sn0.55In0.45Te</formula></material>
+	<material><formula>Sn 1−x In x Te</formula> <shape>crystals</shape></material>
+	<material><variable>x</variable> ∼ <value>0.25</value></material>
+	<material><variable>x</variable> = <value>0.45</value></material>
+	<material><formula>Sn0.55In0.45Te</formula></material>
+	<material><formula>SnTe</formula></material>
+	<material><formula>Sn 0.8 In 0.2 Te</formula></material>
+</materials>

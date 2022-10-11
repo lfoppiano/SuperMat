@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Y Ba 2 Cu 3 O 6.95</formula></material>
+	<material><formula>Y Ba2Cu3O6.95</formula> <shape>crystals</shape><fabrication> grown in BaZrO3 crucibles</fabrication></material>
+	<material><formula>Y Ba2Cu3O6.95</formula></material>
+	<material><formula>Y Ba2Cu3O6.95</formula></material>
+	<material><name>Y BCO</name> <shape>single crystals</shape></material>
+	<material><formula>Y Ba 2 Cu 3 O 6.95</formula> <shape>single crystals</shape></material>
+	<material><shape>single crystals</shape> (typically 1.3 × 1.3 × 0.1mm 3 in size)</material>
+	<material><name>Y BCO</name></material>
+	<material><doping>optimally doped</doping> <formula>Y Ba 2 Cu 3 O 6.95</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 6.95</formula></material>
+	<material><name>Y BCO/BZO</name> and <name>Y BCO/Y SZ</name> <shape>crystals</shape></material>
+	<material><name>Y BCO/BZO</name> <shape>crystals</shape></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><name>Y BCO/Y SZ</name></material>
+	<material><name>Y BCO/Y SZ</name></material>
+	<material><name>Y BCO/BZO</name> <shape>crystals</shape></material>
+	<material><name>Y BCO/Y SZ</name> <shape>crystal</shape></material>
+	<material><name>Y BCO/Y SZ</name> <shape>crystal</shape></material>
+	<material><name>Y BCO/BZO</name> <shape>crystals</shape></material>
+	<material><name>Y BCO/Y SZ</name> <shape>crystals</shape></material>
+	<material><name>Y BCO/BZO</name> and <name>Y BCO/Y SZ</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><formula>Y Ba 2 Cu 3 O 6.95</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7.0</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula> <shape>crystals</shape></material>
+	<material><name>Y BCO</name></material>
+	<material><name>Y BCO</name></material>
+	<material><name>Y BCO</name></material>
+	<material><name>Y BCO/Y SZ</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/BZO</name></material>
+	<material><name>Y BCO/Y SZ</name> <shape>crystals</shape></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula> <shape>crystals</shape></material>
+</materials>

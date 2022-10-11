@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>EUBA2(CU1-YZNY)3OX</formula></material>
+	<material><formula>EuBa2(Cu 1 yZnv)30 x</formula></material>
+	<material><formula>EuBa2Cu30</formula></material>
+	<material><variable>y</variable> =<value>0.05</value></material>
+	<material><formula>RBa2Cu30 x</formula></material>
+	<material><formula>EuBa2(CUl_yZny)3Ox</formula>, where <variable>y</variable> = <value>1, 3.5 and 5 at. %</value></material>
+	<material><formula>EuBa2 (Cu0.99Zn0.01)30 x</formula></material>
+	<material>~<formula>Eu Ba2(Cul _yZny )30x</formula></material>
+	<material><formula>EuBa2(Cu 1 yZny)30</formula></material>
+	<material><formula>EuBa2(Cuo99Zn001)30 ~</formula></material>
+	<material><formula>EuBa2Cu30 ~</formula></material>
+	<!-- <material><formula>EuBa2(Cu0 ~gZn o (t])30~</formula></material> -->
+	<material><formula>EuBa2Cu3Ox</formula></material>
+	<material><variable>x</variable> = <value>0.01</value></material>
+	<material><variable>x</variable> = <value>0.01</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><formula>EuBa2(Cu 1 yZny)30</formula></material>
+	<material><formula>EuBa2(Cuo99Zn001)30 ~</formula></material>
+	<!-- <material><formula>EuBa2Cu30 ~</formula></material> -->
+	<!-- <material><formula>EuBa2(Cu0 ~gZn o (t])30~ •</formula></material> -->
+	<material><variable>x</variable> = <value>0.035</value></material>
+	<material><variable>x</variable> = <value>0.01 and 0.05</value></material>
+	<material><formula>EuBa2Cu30 x</formula></material>
+	<material><formula>YBa2(Cu0.09A0.i)306+a</formula></material>
+	<material><formula>YBa2Cu30 x</formula></material>
+	<material><formula>EuBa2(Cu 1 yZny)30 x</formula></material>
+	<material><formula>EuBa2Cu30 x</formula></material>
+</materials>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula>-strain</material>
+	<material><formula>La1.64Eu0.2Sr0.16CuO4</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+    <material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><variable>x</variable> = <value>1/8</value> in <formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>La 1.8−x Eu 0.2 Sr x CuO 4</formula></material>
+	<material><formula>La 1.8−x Eu 0.2 Sr x CuO 4</formula></material>
+	<material><doping>10% of Eu for La</doping></material>
+	<material><variable>x</variable> = <value>0 to 0.3</value></material>
+	<material><variable>x</variable> = <value>0.16</value></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula> <shape>single crystals</shape></material>
+	<material><formula>La1.64Eu0.2Sr0.16CuO4</formula> <shape>single crystal</shape></material>
+	<material><formula>La1.8−xEu0.2SrxCuO4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula> <shape>single crystals</shape></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+	<material><doping>underdoped</doping> <formula>La 2−x Sr(Ba) x CuO 4</formula> <shape>thin films</shape></material>
+	<material>bulk <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> <shape>film</shape></material>
+	<material><formula>La1.64Eu0.2Sr0.16CuO4</formula> <shape>single crystals</shape></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> around <variable>x</variable> <value>∼ 1/8</value></material>
+    <material><doping>rare earth</doping> (<variable>RE</variable> = <value>Nd, Eu, Sm</value>) substituted <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La1.64Eu0.2Sr0.16CuO4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.16</value></material>
+    <material><doping>nonsupercon- ducting</doping> <formula>La 1.65 Eu 0.2 Sr 0.15</formula></material>
+	<material><formula>La 1.65 Eu 0.2 Sr 0.15 CuO 4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+	<material><formula>La 1.64 Eu 0.2 Sr 0.16 CuO 4</formula></material>
+</materials>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+    <!-- To be checked -->
+	<material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+	<material><formula>PdTe2</formula></material>
+	<material><doping>Cu</doping>-intercalated <formula>PdTe2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+    <material><formula>Cu</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula> with <doping>4% Cu</doping></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material>non-intercalated <formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe2</formula></material>
+	<material>non intercalated <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+    <material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><formula>Cu-PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+	<material><doping>Cu</doping>-intercalated <formula>PdTe 2</formula></material>
+	<material><doping>pure</doping> <formula>PdTe 2</formula></material>
+	<material><formula>PdTe 2</formula></material>
+</materials>

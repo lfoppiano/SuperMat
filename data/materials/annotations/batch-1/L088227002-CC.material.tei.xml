@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><doping>doped</doping> <formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<!-- <material><formula>͑Y 12x Ca x ͒Ba 2 Cu 3 O 72d</formula></material> -->
+	<material><formula>Nd 1.85 Ce 0.15 CuO 42d</formula></material>
+	<material><formula>Pr 1.85 Ce 0.CuO 42d</formula></material>
+    <!-- <material><formula>Sr 12x L x CuO 2</formula> (<variable>L</variable> <value>La, Gd, Sm</value>)</material> -->
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula> (<name>SLCO</name>)</material>
+    <material><formula>Sr 0.9 La 0.1 ͑Cu 0.99 Zn 0.01 ͒O 2</formula> (<doping>1% Zn</doping>-<name>SLCO</name>)</material>
+	<material><formula>Sr 0.9 La 0.1 ͑Cu 0.99 Ni 0.01 ͒O 2</formula> (<doping>1% Ni</doping>-<name>SLCO</name>)</material>
+	<material><name>SLCO</name></material>
+	<material><doping>1% Zn</doping>-<name>SLCO</name></material>
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><formula>Sr 12x L x CuO 2</formula> (<variable>L</variable> <value>La, Gd, Sm</value>)</material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><doping>pure</doping> <name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><doping>doped</doping> <formula>YBa 2 Cu 3 O 72d</formula></material>
+	<material><doping>1% Zn</doping>-<name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><doping>1% Zn</doping>-<name>SLCO</name></material>
+	<material><doping>1% Zn</doping>-<name>SLCO</name></material>
+	<material><formula>YBa 2 ͑Cu 0.9934 Zn 0.0026 Mg 0.004 ͒ 3 O 6.9</formula> <shape>single crystal</shape></material>
+    <material><doping>1% Zn</doping>-<name>SLCO</name></material>
+	<material><doping>pure</doping> <name>SLCO</name></material>
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><doping>pure</doping> <name>SLCO</name></material>
+    <material><doping>1% Ni</doping>-<name>SLCO</name></material>
+    <material><doping>1% Ni</doping>-<name>SLCO</name></material>
+    <material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><doping>pure</doping> <name>SLCO</name></material>
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<!-- <material><formula>Bi 2 Sr 2 Ca͑Cu 12x Ni x ͒ 2 O 81x</formula></material> -->
+	<material><doping>1% Ni</doping>-<name>SLCO</name></material>
+	<material><name>SLCO</name></material>
+	<material><formula>YBa 2 ͑Cu 0.9934 Zn 0.0026 Mg 0.004 ͒ 3 O 6.9</formula></material>
+	<material><doping>pure</doping> <formula>YBa 2 Cu 3 O 6.9</formula></material>
+</materials>

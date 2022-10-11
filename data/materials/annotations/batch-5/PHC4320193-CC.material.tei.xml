@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>B</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><variable>x</variable>∼<value>0.07</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>Carbon</doping> doping of <formula>MgB 2</formula></material>
+	<material><doping>Carbon</doping> doped <formula>MgB 2</formula></material>
+	<material><shape>single phase carbon</shape> doped <formula>MgB 2</formula> <shape>powder</shape></material>
+	<material><doping>Carbon</doping> doped bulk <shape>polycrystalline</shape> <formula>MgB 2</formula> with <doping>approximately 10% carbon</doping></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula> with <variable>x</variable><value>&lt;0.10</value></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula> with <variable>x</variable><value>&lt;0.10</value></material>
+	<material><formula>B 4 C</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material>distilled <formula>Mg</formula></material>
+	<material>elemental <formula>B</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><doping>carbon</doping> doped <formula>MgB 2</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><doping>carbon content</doping> of <variable>x i2</variable> =<value>0.069</value></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material>sample with nominal concentration <variable>x n</variable> =<value>0.05</value></material>
+	<material><doping>carbon concentration</doping> of <variable>x i2</variable> =<value>0.050</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><doping>carbon</doping> levels of <variable>x n</variable> =<value>0</value>,</material>
+	<!-- <material><value>0.0125</value></material> -->
+	<!-- <material><value>0.025</value></material> -->
+	<!-- <material><value>0.035</value></material> -->
+	<!-- <material><formula>0.05</formula></material> -->
+	<!-- <material><value>0.075</value></material> -->
+	<material><variable>x n</variable> <value>=0.05</value></material>
+	<material><doping>pure</doping> sample</material>
+	<material><variable>x i2</variable> =<value>0</value></material>
+	<!-- <material><value>0.01</value></material> -->
+	<!-- <material><value>0.034</value></material> -->
+	<!-- <material><value>0.044</value></material> -->
+	<!-- <material><value>0.069</value></material> -->
+	<!-- <material><value>0.067</value></material> -->
+	<material><variable>x i2</variable> <value>∼0.07</value></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><variable>x i2</variable> =<value>0.069</value></material>
+	<!-- <material><value>0.067</value></material> -->
+	<material><variable>x i2</variable><value> ∼0.07</value></material>
+	<material><formula>B 4 C</formula></material>
+	<material><formula>Mg(B 0.8 C 0.2 ) 2</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><variable>x i1</variable> =<value>0.092</value></material>
+	<material><variable>x i</variable> =<value>0.10</value></material>
+	<material><formula>11 B 4 C</formula></material>
+	<material><variable>x n</variable> =<value>0.075</value></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><variable>x i3</variable> =<value>0.064</value></material>
+	<material><variable>x i</variable> =<value>0.065</value></material>
+	<material><variable>x i2</variable> =<value>0.065</value></material>
+	<material><variable>x i2</variable> =<value>0.069</value> (<variable>x</variable> <variable>n</variable> <value>=0.05</value>)</material>
+	<material><variable>x i2</variable> =<value>0.034</value></material>
+	<material><variable>x i2</variable> =<value>0.069</value></material>
+	<material><variable>x i</variable> =<value>0.052</value></material>
+	<material><variable>x i2</variable> =<value>0.034</value></material>
+	<material><variable>x i</variable> =<value>0.052</value></material>
+	<material><variable>x i2</variable> =<value>0.069</value></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula> <shape>fibers</shape></material>
+	<material><doping>pure</doping></material>
+	<!-- <material><value>0.6%</value></material> -->
+	<material><doping>2.1% carbon doping</doping></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+	<material><variable>x i2</variable> =<value>0.034</value></material>
+	<material><variable>x i</variable> =<value>0.038</value></material>
+	<material><variable>x i2</variable> =<value>0.065</value></material>
+	<material><doping>carbon</doping> doped <formula>MgB 2</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material><formula>B 4 C</formula></material>
+	<material><variable>x</variable>∼<value>0.07</value></material>
+	<material><doping>pure</doping></material>
+	<material><formula>Mg(B .95 C .05 ) 2</formula></material>
+	<material><variable>x n</variable> <value>=0.05</value></material>
+	<material><formula>MgB 4</formula></material>
+	<material><variable>x n</variable> <value>=0.05</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula></material>
+	<material><variable>x n</variable> =<value>0, 0.0125</value></material>
+	<!-- <material><value>0.025</value></material> -->
+	<!-- <material><value>0.035</value></material> -->
+	<!-- <material><formula>0.05</formula></material> -->
+	<!-- <material><value>0.075</value></material> -->
+	<!-- <material><value>0.20</value></material> -->
+	<material><variable>x i2</variable> =<value>0.01</value></material>
+	<!-- <material><value>0.034</value></material> -->
+	<!-- <material><value>0.044</value></material> -->
+	<!-- <material><value>0.069</value>,</material> -->
+	<!-- <material><value>0.067</value></material> -->
+	<!-- <material><value>0.065</value></material> -->
+	<material><variable>x i2</variable> =<value>0.07</value></material>
+	<material><formula>MgB 2 C 2</formula></material>
+	<material><formula>Mg(B 1−x C x ) 2</formula> with <variable>x i2</variable> =<value>0.01, 0.034, 0.044, 0.069, 0.067, 0.065</value></material>
+	<material><formula>B 4 C</formula></material>
+	<material><variable>x i2</variable> =<value>0.069</value></material>
+	<material><variable>x i2</variable> =<value>0.034</value></material>
+	<!-- <material><value>0.069</value></material> -->
+	<material><variable>x i</variable> =<value>0</value></material>
+	<!-- <material><value>0.052</value></material> -->
+	<material><variable>x i</variable> =<value>0</value></material>
+	<!-- <material><value>0.052</value></material> -->
+	<material><formula>11 B 4 C</formula></material>
+	<material><doping>pure</doping> <formula>MgB 2</formula></material>
+</materials>

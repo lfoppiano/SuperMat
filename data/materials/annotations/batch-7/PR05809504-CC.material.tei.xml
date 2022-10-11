@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>oxygen-deficient, fluorine-free</doping> <shape>polycrystalline</shape> samples with nominal chemical formula <formula>NdFeAsO 1-y</formula></material>
+	<material><formula>LaFeAs(O 1-x F x</formula> )</material>
+	<material><formula>LnFeAsO</formula></material>
+	<material><doping>oxygen-deficient</doping> <formula>NdFeAsO 1-y</formula></material>
+	<material><doping>oxygen-deficient</doping> <formula>NdFeAsO 1-y</formula></material>
+	<material><formula>NdFeAsO 1-y</formula></material>
+	<material><formula>LaFeAsO 1-y</formula></material>
+	<material><formula>NdFeAsO1−y</formula></material>
+	<material><formula>NdFeAsO 1-y</formula></material>
+	<material><formula>(Ca,Na)Fe 2 As 2</formula></material>
+	<material><formula>NdFeAsO 1-y</formula></material>
+	<material><formula>NdFeAsO 1-y</formula></material>
+	<material><formula>NdFeAsO 1-y</formula></material>
+	<material><variable>1-y</variable>=<value>0.90, 0.85, 0.80, 0.75 and 0.70</value></material>
+	<material><formula>NdFeAsO</formula></material>
+	<material><variable>1-y</variable>=<value>0.90, 0.85, 0.80, 0.75 and 0.70</value></material>
+	<material><variable>1-y</variable>=<value>0.90</value></material>
+	<material><formula>Nd 2 O 3</formula></material>
+	<material><formula>FeAs</formula></material>
+	<material><variable>1-y</variable>=<value>0.85</value></material>
+	<material><variable>1-y</variable>=<value>0.90</value></material>
+	<material><variable>1-y</variable>=<value>0.90 and 0.85</value></material>
+	<material><variable>1-y</variable>=<value>0.85 and 0.80</value></material>
+	<material><variable>1-y</variable>=<value>0.85, 0.80, 0.75 and 0.70</value></material>
+	<material><formula>NdAs</formula></material>
+	<material><variable>1-y</variable>=<value>0.85, 0.80, 0.75 and 0.70</value></material>
+	<material><variable>1-y</variable>=<value>0.85</value></material>
+	<material><variable>1-y</variable>=<value>0.75 and 0.70</value></material>
+	<material><variable>1-y</variable>=<value>0.70</value></material>
+	<material><variable>1-y</variable>=<value>0.70</value></material>
+	<material><formula>Fe 2 O 3</formula></material>
+	<material><formula>Fe</formula></material>
+	<material><variable>1-y</variable>=<value>0.80</value></material>
+	<material><variable>1-y</variable>=<value>0.85, 0.80, 0.75 and 0.70</value></material>
+	<material><doping>1-y*</doping>=<value>0.94</value></material>
+	<material><formula>NdFeAsO 1-δ</formula></material>
+	<material><doping>oxygen-deficient, fluorine-free</doping> <formula>NdFeAsO 1-y</formula></material>
+</materials>

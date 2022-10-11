@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 2 Ca 12 Cu 24 O 41</formula></material>
+	<material><formula>Sr2Ca12Cu24O41</formula></material>
+    <material><formula>Sr 14−x Ca x Cu 24 O 41</formula> (<variable>x</variable>=<value>11.5-13.5</value>)</material>
+    <material><formula>Ca</formula></material>
+    <material><formula>Sr</formula></material>
+    <material><value>0.07</value> (<variable>x</variable>=<value>0</value>)</material>
+    <material><value>0.24</value> (<variable>x</variable>=<value>14</value>)</material>
+    <material><formula>Ca</formula></material>
+	<material><variable>x</variable><value>≥10</value></material>
+    <material><formula>Ni</formula></material>
+	<material><shape>Single crystal</shape> of <formula>Sr 2 Ca 12 Cu 24 O 41</formula></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>HgBa 2 CuO 4+δ</formula></material>
+	<material><name>HBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>HBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><formula>Sr 2 Ca 12 Cu 24 O 41</formula></material>
+</materials>

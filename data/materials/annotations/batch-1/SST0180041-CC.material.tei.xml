@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Pr 1−x Ca x Ba 2 Cu 3 O 7−δ</formula> (<variable>x</variable> ≈<value>0.5</value>) <shape>epitaxial thin films</shape></material>
+	<material><formula>Pr 1−x Ca x Ba 2 Cu 3 O 7−δ</formula> (<variable>x</variable> ≈<value>0.5</value>) <shape>thin films</shape></material>
+	<material><name>YSZ</name></material>
+	<material><name>YSZ</name></material>
+<!--	<material><formula>SrTiO 3</formula></material>-->
+	<material><formula>RBa 2 Cu 3 O 7−δ</formula> (<variable>R</variable>=<value>rare-earth elements</value>)</material>
+	<material><formula>PrBa 2 Cu 3 O 7−δ</formula> (<name>Pr-123</name> )</material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><formula>PrBa 2 Cu 3 O 7−δ</formula></material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name></material>
+	<material><name>Pr-123</name> <shape>epitaxial thin films</shape></material>
+    <material><doping>Ca</doping>-doped <name>Pr-123</name> <shape>bulk</shape> samples</material>
+    <material><doping>Ca</doping>-doped <name>Pr-123</name> <shape>bulk</shape> samples</material>
+    <!-- check -->
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> <shape>thin films</shape> grown on the substrates of <substrate>SrTiO 3 and Yttrium-stabilized ZrO 2</substrate></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> <shape>epitaxial thin films</shape></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula></material>
+    <material><name>R-123</name></material>
+	<material><formula>Pr 6 O 11</formula></material>
+	<material><formula>CaCO 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>BaCuO 2</formula></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> <shape>epitaxial thin films</shape></material>
+	<material><name>YBCO</name></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> <shape>thin films</shape> grown on <substrate>STO</substrate></material>
+    <material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> <shape>films</shape> grown on (a) <substrate>STO and (b) YSZ</substrate></material>
+	<material><doping>50% Pr</doping> doped <name>YBCO</name></material>
+	<material><doping>underdoped</doping> <name>YBCO</name></material>
+	<material><formula>La 1−x Sr x CuO 4</formula></material>
+	<material><doping>50% Ca</doping>-doped samples</material>
+	<material><doping>optimum-doped</doping> <name>YBCO</name></material>
+	<material><formula>Nd 1+x Ba 2−x Cu 3 O 7</formula> <shape>films</shape></material>
+	<material><formula>Pr 0.5 Ca 0.5 Ba 2 Cu 3 O 7−δ</formula> epitaxial <shape>thin films</shape></material>
+    <material><doping>Ca</doping> doped <name>Pr-123</name></material>
+</materials>

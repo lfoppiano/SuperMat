@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Na x CoO 2 · yH 2 O</formula> <shape>Single Crystals</shape></material>
+	<material><formula>NaxCoO2 · yH2O</formula></material>
+	<material><formula>Na0.3CoO2 · 1.3H2O</formula></material>
+	<material><formula>Na x CoO 2</formula> (<variable>x</variable> <value>≈ 0.65 to 0.75</value>)</material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+	<material><variable>x</variable> ≈ <value>0.3</value></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+    <material><formula>Na 0.3 CoO 2 • 1.3H 2 O</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><shape>single crystals</shape> of <formula>Na x CoO 2</formula></material>
+	<material><formula>Na 0.75 CoO 2</formula> <shape>polycrystalline</shape></material>
+	<material><formula>Na 0.75 CoO 2</formula><fabrication> feed rod</fabrication></material>
+	<material><shape>single crystals</shape> of <formula>Na 0.75 CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na</formula></material>
+	<material><formula>NaOH</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na 0.3 CoO 2 · yH 2 O</formula></material>
+    <material><formula>Na 0.3 CoO 2 • yH 2 O</formula></material>
+	<material><variable>x</variable> = <value>0.75</value></material>
+	<material><variable>x</variable> <value>≃ 0.28 − 0.32</value></material>
+	<material><formula>Na</formula></material>
+	<material><variable>x</variable> <value>≃ 1 3 , 1 2 , and 2 3</value></material>
+	<material><formula>Na 0.68 CoO 2</formula></material>
+	<material><formula>Co 3 O 4</formula></material>
+	<material><formula>Co 3 O 4</formula></material>
+	<material><formula>Co 3 O 4</formula></material>
+	<material><name>lanthanum strontium cuprate</name> (<formula>La 2−x Sr x CuO 4</formula> )</material>
+	<material><formula>Na</formula></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><formula>Na 0.3 CoO 2 ·yH 2 O</formula></material>
+    <!-- check, not sure is doping -->
+	<material><shape>single crystals</shape> of the hydrated <formula>Na x CoO 2 · yH 2 O</formula></material>
+    <material><shape>single crystals</shape> of the hydrated <formula>Na x CoO 2 • yH 2 O</formula></material>
+</materials>

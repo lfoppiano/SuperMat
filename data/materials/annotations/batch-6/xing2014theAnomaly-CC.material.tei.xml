@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>undoped and Cu substituted</doping> <formula>LiFeAs</formula></material>
+	<material><formula>La[O 1−x F x ]FeAs</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Fe 1−x Cu x Se</formula></material>
+	<material><formula>Ba(Fe 1−x Cu x ) 2 As 2</formula></material>
+	<material><formula>NaFe 1−x Cu x As</formula></material>
+	<material><name>Ba-122</name></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><shape>single crystals</shape> in <formula>LiFeAs</formula></material>
+	<material><shape>Single crystals</shape> of <formula>LiFe 1−x TM x As</formula>(<variable>TM</variable> = <value>Cu, Co/Ni</value>)</material>
+	<material><formula>LiFe 1−x TM x As</formula> <shape>single crystals</shape></material>
+	<material><formula>LiFe 1−x TM x As</formula> <shape>single crystals</shape></material>
+	<material><formula>LiFe 1−x TM x As</formula> <shape>single crystal</shape></material>
+	<material><variable>x</variable> = <value>0.06</value></material>
+	<material><formula>LiFe 1−x TM x As</formula> <shape>single crystals</shape></material>
+	<material><formula>LiFeAs</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Tm x As</formula> <shape>single crystal</shape> (<variable>Tm</variable> = <value>Co, Ni and Cu</value>)</material>
+	<material><formula>LiFeAs</formula> <shape>single crystals</shape></material>
+	<material><doping>undoped LiFeAs</doping> <shape>crystal</shape></material>
+	<material><formula>LiFeAs</formula> <shape>crystal</shape></material>
+	<material><formula>Li(Fe 1−x Cu x )As</formula></material>
+	<material><formula>Cu</formula> doping level of <doping>7%</doping></material>
+	<material><formula>LiFe 1−x Cu x As</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Cu x As</formula> <shape>single crystal</shape></material>
+	<material><formula>Li(Fe 1−x Cu x )As</formula></material>
+	<material><doping>Co substituted LiFeAs</doping> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Co x As</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Co x As</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Ni x As</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Ni x As</formula> <shape>single crystal</shape></material>
+	<material><formula>LiFe 1−x Ni x As</formula> <shape>crystals</shape></material>
+	<material><doping>Ni doped</doping> <name>Ba 122</name></material>
+	<material><doping>Cu doped</doping> <formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula> <shape>crystals</shape></material>
+	<material><doping>undoped and Cu 6% doped</doping> <formula>LiFeAs</formula></material>
+	<material><formula>Cu 6% doped Li(Fe 1−x Cu x )As</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>Cu 6% doped Li(Fe 1−x Cu x )As</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>Co and Ni substituted</doping> <formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>Co and Zn</doping> substitution in <name>Ba122</name></material>
+	<material><doping>Zn substituted</doping> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>Cu 6% doped</doping> <formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><doping>Cu 6% doped</doping> <formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFe 0.94 Cu 0.06 As</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>Ba(Fe 1−x Cu x ) 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFe 1−x Cu x As</formula> <shape>single crystals</shape></material>
+	<material><doping>Cu doped</doping> <formula>LiFeAs</formula></material>
+</materials>

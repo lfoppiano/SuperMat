@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>Ir</formula></material>
+	<material><formula>Rh</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>CeMIn 5</formula> (<variable>M</variable> = <value>Co, Rh, and Ir</value>)</material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeRhIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>Ir</formula></material>
+	<material><formula>Rh</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeRhIrIn 5</formula></material>
+	<material><formula>CeRh 0.5 Ir 0.5 In 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><shape>Single crystals</shape> of <formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>BeCu</formula></material>
+	<!-- Lol what is this -->
+	<!-- <material>Daphne oil</material> -->
+	<material><formula>Sn</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>LaIrIn5</formula></material>
+	<material><formula>LaIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>LaIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>LaIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>LaIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeRhIn 5</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>LaIrIn5</formula></material>
+	<material><formula>LaIrIn5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeCoIn 5</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>CeCoIn5</formula></material>
+	<material><formula>CeIrIn5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCu 2 X 2</formula> (<variable>X</variable>=<value>Si and Ge</value>)</material>
+	<material><formula>CeCu 2 (Si 1−x Ge x ) 2</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeIrIn 5</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+</materials>

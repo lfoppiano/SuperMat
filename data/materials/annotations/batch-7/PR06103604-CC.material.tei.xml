@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Zn-Doped</doping> <formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<material><doping>Zn</doping>-doped <shape>single crystals</shape> of <formula>YBa2Cu3O6.95</formula></material>
+	<material><doping>Zn</doping>-doped <formula>YBa 2 Cu 3 O 7−δ</formula> (<name>YBCO</name>)</material>
+	<material><name>YBCO</name></material>
+	<material><doping>Zn substituted</doping> samples</material>
+	<material><name>YBCO</name></material>
+	<material><doping>pure, 0.15%, 0.31% and 1% Zn</doping>-doped <shape>single crystals</shape> <name>YBCO</name></material>
+	<material><doping>Zn</doping>-doped <shape>polycrystalline</shape> <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><doping>pure</doping> sample</material>
+	<material><doping>1%</doping> sample</material>
+	<material><doping>Pure</doping> and <doping>Zn</doping>-doped <formula>YBa 2 Cu 3 O 6.95</formula> (<doping>optimally doped</doping>) <shape>single crystals</shape></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name> <shape>crystal</shape></material>
+	<material><doping>pure</doping> (<value>0% Zn</value>)</material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><name>YBCO</name></material>
+	<material><doping>1% Zn</doping> sample</material>
+	<material><name>YBCO</name></material>
+	<material><doping>Zn</doping> doped samples</material>
+	<material><doping>pure</doping> samples</material>
+	<material><value>0.15%, 0.31</value>% and <doping>1% Zn</doping> doped samples</material>
+	<material><name>nominally pure sample</name></material>
+	<material><name>nominally pure sample</name></material>
+	<material><doping>1% Zn</doping>-doped sample</material>
+	<material><name>nominally pure sample</name></material>
+	<material><value>0.15%, 0.31</value>% and <doping>1% Zn</doping> doped samples</material>
+	<material><value>0.31% Zn</value> doping</material>
+	<material><value>0.15% Zn</value> dop- ing</material>
+	<material><doping>Zn-free</doping> sample</material>
+	<material><doping>1%</doping> sample</material>
+	<material><doping>pure</doping> samples</material>
+	<material><doping>pure</doping> samples</material>
+	<material><doping>1% Zn</doping> sample</material>
+	<material><doping>optimally doped</doping> <name>YBCO</name></material>
+	<material><doping>1%-Zn</doping> doped sample</material>
+	<material><doping>1%Zn</doping></material>
+	<material><value>0.31%Zn</value></material>
+	<material><doping>Zn</doping>- doped <name>YBCO</name> <shape>single crystals</shape></material>
+	<material><doping>1%Zn</doping></material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name> <shape>crystals</shape></material>
+	<material><formula>YBa 2 Cu 3 O 6.95</formula></material>
+	<material><doping>1% Zn</doping> doped <name>YBCO</name></material>
+	<material><doping>1%Zn</doping>- doped sample</material>
+	<material><doping>1% Zn</doping> doped sample</material>
+</materials>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LA2CUO4.032</formula></material>
+	<!-- <material><formula>La,CuO,o,</formula></material> -->
+	<material><formula>La2Cu04</formula></material>
+	<material><formula>La2Cu04</formula></material>
+	<material><doping>undoped</doping> <formula>La2Cu04</formula></material>
+	<!-- <material><formula>La2Cu04+6</formula></material> -->
+	<!-- <material><formula>La2Cu04+</formula></material> -->
+	<!-- <material><formula>La2Cu04,032</formula></material> -->
+	<!-- <material><formula>La2Ni04+</formula></material> -->
+	<material><formula>La2Cu04</formula></material>
+	<!-- <material><formula>La2Cu04,032</formula></material> -->
+</materials>

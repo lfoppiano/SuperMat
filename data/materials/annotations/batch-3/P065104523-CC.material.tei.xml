@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Ti</doping>-doped <formula>Sr 2 RuO 4</formula></material>
+	<material><shape>single crystals</shape> of <formula>Sr2Ru1−xTixO4</formula></material>
+	<material><variable>x</variable> = <value>0.1 and 0.2</value></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><formula>Sr 3 Ru 2 O 7</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Ca 2 RuO 4</formula></material>
+	<material><formula>Sr 2 IrO 4</formula></material>
+    <material><formula>Sr 2 Ru 1−x Ti x O 4</formula> with <value>0 &lt;</value> <variable>x</variable> <value>&lt; 1</value></material>
+    <material><formula>Sr 2 Ru 1−x Ti x O 4</formula> for Ti concentra- tions <value>0 &lt;</value> <variable>x</variable> <value>&lt; 0.25</value></material>
+	<material><shape>single crystalline</shape> material doped with <doping>10 % and 20 % Ti</doping></material>
+    <material><shape>Single crystals</shape> of <formula>Sr 2 Ru 1−x Ti x O 4</formula></material>
+    <material><doping>Ti</doping>-doped samples</material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>RuO 2</formula></material>
+	<material><formula>Sr2Ru1−xTixO4</formula></material>
+	<material><variable>x</variable> = <value>0.1 and 0.2</value></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><doping>pure</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><doping>undoped</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><formula>Sr 2 Ru 1−x Ti x O 4</formula></material>
+	<material><formula>Sr2Ru1−xTixO4</formula></material>
+	<material><doping>low-doped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>Sr 2 Ru 1−x Ti x O 4</formula></material>
+	<material><formula>Sr2Ru1−xTixO4</formula> for <variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><doping>pure</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><variable>x</variable> <value>&gt; 0.12</value></material>
+	<material><variable>x</variable> = <value>0.1 and 0.2</value></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><formula>Sr2Ru1−xTixO4</formula> for <variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><formula>Sr 2 Ru 1−x Ti x O 4</formula> for <variable>x</variable> = <value>0.1 and 0.2</value></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><formula>La 0.8 Sr 0.2 MnO 3</formula></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><doping>pure</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><formula>Sr 2 Ru 0.8 Ti 0.2 O 4</formula></material>
+	<material><formula>La 2−y Sr y CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><formula>La 1.9 Sr 0.1 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><formula>Sr2Ru0.8Ti0.2O4</formula></material>
+	<material><doping>pure</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><doping>pure</doping> <formula>Sr 2 RuO 4</formula></material>
+    <material><shape>single crystals</shape> of <formula>Sr 2 Ru 1−x Ti x O 4</formula> with concentrations of <variable>x</variable> = <value>0.1 and 0.2</value></material>
+	<material><doping>undoped</doping> <formula>Sr 2 RuO 4</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>La 2 NiO 4</formula></material>
+	<material><formula>Ca 2 RuO 4</formula></material>
+	<material><doping>Sr</doping>-doped <formula>La 2 CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.2</value></material>
+	<material><formula>La 2−y Sr y CuO 4</formula> (<variable>y</variable> ≈ <value>0.06</value>)</material>
+</materials>

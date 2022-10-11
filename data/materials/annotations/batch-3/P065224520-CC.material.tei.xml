@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO 4</formula></material>
+	<material><formula>R 2-x Ce x CuO 4</formula></material>
+	<material><formula>Sr 1-x La x CuO 2</formula></material>
+	<material><formula>R 2-x Ce x CuO 4</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>SrCuO 2</formula></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>CaCuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 Nd 0.1 CuO 2</formula></material>
+	<material><formula>Nd 2-x Ce x CuO 4</formula> (&lt; 2 MHz )</material>
+    <material><formula>Sr 1-x La x CuO 2</formula> with <variable>x</variable><value>&gt;=0.07</value></material>
+	<material><variable>x</variable><value>&gt;=0.07</value></material>
+	<material><formula>YBa 2 Cu 4 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>Tl 2 Ba 2 CuO 6+δ</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>La 1.85 Sr 0.15 CuO 4</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+    <material><formula>Sr 0.9 La 0.1 CuO 2</formula> <shape>thin films</shape></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+</materials>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><name>cobalt oxide</name></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>Na x CoO</formula></material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+	<material><formula>Na 0.5 CoO 2</formula></material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 · yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula> (<variable>x</variable> <value>∼ 0.4</value>)</material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na</formula></material>
+	<material><variable>x</variable> <value>≤ 0.35</value></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>Na</formula></material>
+	<material><formula>NaOH</formula></material>
+	<material><formula>NaOH</formula></material>
+	<material><formula>Na</formula></material>
+	<material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+    <material><formula>Na x CoO 2 · yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 · yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 · yH 2 O</formula></material>
+</materials>

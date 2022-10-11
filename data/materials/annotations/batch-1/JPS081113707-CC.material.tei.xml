@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>FeTe 1-x Se x</formula><shape> Thin Film</shape></material>
+	<material><shape>thin films</shape> of <formula>FeTe 1-x Se x</formula></material>
+	<material><formula>FeTe 1-x Se x</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>K 0.8 Fe 2 Se 2</formula></material>
+	<material><formula>(LiNH 2 ) x Fe 2 Se 2</formula></material>
+    <material><formula>FeSe</formula> <shape>monolayer</shape> <fabrication>synthesized by MBE method</fabrication></material>
+	<material><formula>FeTe 1-x S x</formula></material>
+	<material><name>graphene</name></material>
+	<material><formula>FeTe 0.65 Se 0.35</formula></material>
+	<material><formula>FeTe 0.65 Se 0.35</formula></material>
+	<material><formula>FeTe 0.65 Se 0.35</formula> <shape>thin films</shape></material>
+	<material><formula>FeTe 1-x Se x</formula></material>
+	<material><formula>Fe 1+d Te 1-x Se x</formula></material>
+	<material><formula>FeTe 1-x Se x</formula></material>
+	<material><formula>FeTe 1-x Se x</formula></material>
+	<material><shape>thin films</shape> of <formula>FeTe 0.65 Se 0.35</formula></material>
+	<material><formula>FeTe 1-x Se x</formula> <shape>crystal</shape></material>
+	<material><formula>FeTe 0.65 Se 0.35</formula> <shape>thin film</shape></material>
+</materials>

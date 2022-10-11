@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg x B 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgAlB 2</formula></material>
+	<material><formula>Mg 1-x M x B 2</formula></material>
+	<material><formula>pure MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>NbB 2</formula></material>
+	<material><formula>NbB 2.5</formula></material>
+	<material><formula>Zr 0.13 Mo 0.87 B 2+x</formula></material>
+	<material><formula>(Zr,Mo)B 2+x</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><doping>Mg-deficient</doping> samples</material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><doping>4% Mg</doping></material>
+    <material><doping>Mg deficient</doping>, <formula>Mg 1-δ B 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg x B 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg x B 2</formula></material>
+	<material><variable>x</variable> = <value>0.6 to 1.3</value></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material>0,1,2 and 4 hr samples</material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg 1.00 B 2</formula></material>
+	<material><formula>Mg 1.01 B 2</formula></material>
+	<material><name>Mg deficient</name></material>
+	<material><name>Mg excess</name></material>
+	<material><doping>1% excess</doping> of <formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>1% deficiency</doping> in <formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg 1.1 B 2</formula></material>
+	<material><formula>Mg</formula> metal</material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula> metal</material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg 0.9 B 2</formula></material>
+	<material><formula>Mg 1.1 B 2</formula></material>
+	<material><formula>Mg</formula> metal</material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg 0.9 B 2</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2 / MgB 4</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><variable>x</variable> =<value>1</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><variable>x</variable>=<value>1</value></material>
+	<material><doping>Mg deficient</doping></material>
+	<material><name>Mg rich</name></material>
+	<material><doping>Mg-deficient</doping> samples</material>
+	<material><formula>MgB 4</formula></material>
+	<material><name>Mg-rich</name></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>Mg-rich</name></material>
+	<material><formula>MgB 2</formula></material>
+	<!-- <material><doping>Mg-B</doping></material> -->
+	<!-- <material><formula>Mg 1-δ Im δ -B</formula></material> -->
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 4</formula> (SL) + <formula>MgB 2</formula> (SS)</material>
+	<material><formula>MgB 4</formula></material>
+	<material><variable>x</variable> = <value>1</value></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><variable>x</variable> <value>&lt; 1</value></material>
+	<material><formula>MgB 2</formula> + <formula>MgB 4</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula> + <formula>MgB 4</formula></material>
+	<material><formula>MgB 2</formula> (SS) + <formula>MgB 4</formula> (SL)</material>
+	<material><formula>Mg</formula> + <formula>MgB 2</formula> (SS)</material>
+	<!-- <material><doping>Mg-B-Im</doping></material> -->
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg 1.3 B 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg 1.3 B 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>1%) Mg deficient</doping></material>
+	<material><doping>4% Mg vacancy</doping></material>
+	<material><formula>MgB 2</formula> <shape>crystals</shape></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>Mg</doping>-rich</material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>C-doped</doping> <formula>MgB 2-x C x</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg 1.01 B 2</formula></material>
+	<material><formula>MgB 4</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 4</formula> (<doping>Mg deficient</doping>)</material>
+	<material><formula>Mg</formula> (<value>Mg- rich</value>)</material>
+	<material><formula>MgB 2</formula></material>
+	<!-- <material><doping>Mg-B</doping></material> -->
+	<!-- <material><formula>Mg 1-δ Im δ -B</formula></material> -->
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg x B 2</formula></material>
+	<material><formula>Mg</formula></material>
+	<material><formula>Mg 1.3 B 2</formula></material>
+</materials>

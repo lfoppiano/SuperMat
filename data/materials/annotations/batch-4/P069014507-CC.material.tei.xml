@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula> (<variable>x</variable> = <value>0 ∼ 1.0</value>)</material>
+	<material><formula>F e 0.5 Cu 0.5 (Ba 1−x Sr x ) 2 Y Cu 2 O 7+δ</formula> (<variable>x</variable> = <value>0, 0.5 and 1</value>)</material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y BaSrCu 3 O 7−δ</formula></material>
+	<material><formula>Y Sr 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y Ba 2 (Cu 1−x M x ) 3 O 6+δ</formula> (<variable>M</variable> = <value>F e and Co</value>)</material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+    <material><doping>undoped</doping> <formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><doping>F e concentration</doping> <variable>x</variable> <value>∼ 0.12−0.15</value></material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><variable>x</variable> exceeds <value>0.3</value></material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+    <material><formula>Y Sr 2 Cu 3−x M x O 6+δ</formula> compounds with <doping>F e</doping> (or <doping>Co</doping>) light-substitution</material>
+    <material><doping>heavily- substituted compounds</doping> (<variable>x</variable> <value>&gt; 0.3</value>)</material>
+	<material><doping>F e(Co or T i)</doping>-doped <name>R-123</name> phase <formula>Y Sr 2 F e x Cu 1−x O 6+δ</formula> with <variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> <value>&gt; 0.3</value></material>
+	<material><formula>Y Sr 2 Cu 2.7 F e 0.3 O 7+δ</formula></material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>BaR(Cu 0.5+x F e 0.5−x ) 2 O 5+δ</formula> (<variable>R</variable> = <value>Y , Sm</value>)</material>
+	<material><formula>Bi 2 Sr 3 F e 2 O x</formula></material>
+	<material><formula>BaY CuF eO 5</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+    <material><formula>F e 0.5 Cu 0.5 (Ba 1−x Sr x ) 2 Y Cu 2 O 7+δ</formula> (<variable>x</variable> = <value>0, 0.5, and 1.0</value>)</material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula> <fabrication>syn- thesized by solid-state reaction under ambient pressure</fabrication></material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula> systems of AM-samples (<variable>x</variable> = <value>0∼1.0</value>)</material>
+	<material>AM-samples</material>
+	<material><variable>x</variable> <value>&gt; 0.3</value></material>
+	<material><formula>(F e x Cu 1−x )Ba 2 Y Cu 2 O 7+δ</formula></material>
+    <material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula> <fabrication>prepared by high pressure</fabrication></material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula> <fabrication>HP-samples</fabrication></material>
+	<material><variable>x</variable> = <value>0.35−0.6</value></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material>AM-sample</material>
+	<material>HP-sample</material>
+	<material>HP-sample</material>
+	<material>HP-sample</material>
+	<material>AM-sample</material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>(F e x Cu 1−x )Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><name>(Cu,Fe)- 1212</name></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material>HP-sample</material>
+	<material>AM-sample</material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+    <material>AM-sample</material>
+    <material>HP-sample</material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><fabrication>annealed</fabrication> <formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula> HP-sample</material>
+	<material><fabrication>annealed</fabrication> <formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula> AM-sample</material>
+	<material><fabrication>annealed</fabrication> HP-sample</material>
+	<material><formula>Y Sr 2 Cu 2.7 F e 0.3 O 7+δ</formula></material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material>HP-samples</material>
+	<material>AM-samples</material>
+	<material>HP-samples</material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 (Ba 1−x Sr x ) 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material>AM-sample</material>
+	<material>HP-sample</material>
+	<material>AM-samples</material>
+	<material>HP-samples</material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material>HP-samples</material>
+	<material><formula>F eSr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y BaSrCu 3 O 7−δ</formula></material>
+	<material><formula>Y Sr 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y Sr 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula> HP-sample</material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+    <material><formula>Y Ba 2 Cu 3 O 7−δ</formula> <fabrication>obtained by high pressure synthesis</fabrication></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y BaSrCu 3 O 7−δ</formula></material>
+	<material><formula>Y Sr 2 Cu 3 O 7−δ</formula></material>
+    <material>AM-samples of <formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula></material>
+	<material>AM-samples</material>
+	<material><formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula></material>
+	<material><name>AM- samples</name></material>
+    <material><name>HP- samples</name> of <formula>(F e x Cu 1−x )BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula> HP-sample</material>
+	<material>AM-sample</material>
+	<material>HP-sample</material>
+	<material>HP-sample</material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material>AM-sample</material>
+	<material>HP-sample</material>
+    <material>HP-sample of <formula>F e 0.5 Cu 0.5 Sr 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 Ba 2 Y Cu 2 O 7+δ</formula></material>
+	<material><formula>F e 0.5 Cu 0.5 BaSrY Cu 2 O 7+δ</formula> AM</material>
+</materials>

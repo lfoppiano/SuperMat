@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2-x Pr x Ca y Ba 2 Cu 4+y O z</formula> (<variable>x</variable> = <value>0.1 -0.5</value>, <variable>y</variable> = <value>2x</value>)</material>
+	<material><formula>La 2-x Pr x Ca y Ba 2 Cu 4+y O z</formula> (<name>LaPrCaBCO</name>)</material>
+	<material><name>LaPrCaBCO</name> samples for <variable>x</variable> = <value>0.1 -0.5</value></material>
+	<material><variable>x</variable> = <value>0.5</value> (<name>La-2125</name> stoichiometry)</material>
+	<material><name>LaPrCaBCO</name></material>
+	<material><name>La-2125</name></material>
+	<material><formula>La 2-x R x Ca y Ba 2 Cu 4+y O z</formula> (<name>La-2125</name>)</material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><formula>La 2 Ba 2 Cu 4 O z</formula> (<variable>x</variable> = <value>0.0</value>)</material>
+	<material><variable>x</variable> = <value>0.5</value> (<name>La-2125</name>)</material>
+	<material><name>LaPrCaBCO</name> series (<variable>x</variable> = <value>0.1 -0.5</value>)</material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><formula>BaCO 3</formula></material>
+	<material><formula>CaCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Pr 6 O 11</formula></material>
+	<material><name>LaPrCaBCO</name> (<variable>x</variable> = <value>0.1 -0.5</value>)</material>
+	<material><name>La-123</name></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><variable>x</variable> = <value>0.5</value></material>
+	<material><formula>La 2-x Pr x Ca y Ba 2 Cu 4+y O z</formula></material>
+    <material><variable>R</variable> = <value>Nd, Dy and Pr</value> in <formula>La 2-x R x Ca y Ba 2 Cu 4+y O z</formula></material>
+	<material><name>La-2125</name></material>
+	<material><name>LaPrCaBCO</name></material>
+	<material><name>La-2125</name></material>
+	<material><name>LaPrCaBCO</name></material>
+	<material><name>LaPrCaBCO</name></material>
+	<material><name>LaPrCaBCO</name></material>
+	<material><formula>La 2-x Pr x Ca y Ba 2 Cu 4+y O z</formula> compounds for <variable>x</variable> = <value>0.1 -0.5</value> (<variable>y</variable> = <value>2x</value>)</material>
+</materials>

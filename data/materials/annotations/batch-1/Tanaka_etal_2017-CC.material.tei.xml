@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material>&quot;<doping>F-free</doping>&quot; <shape>Single Crystals</shape> of <formula>CeOBiS 2</formula></material>
+	<material><doping>F-free</doping>&quot; <formula>CeOBiS2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><doping>non-doped</doping> <formula>CeOBiS 2</formula></material>
+    <material><formula>R (O,F) BiS 2</formula> (<variable>R</variable>: <value>La, Ce, Pr, Nd, Yb</value>)</material>
+	<material><formula>ROBiS 2</formula></material>
+    <material><formula>Rn(O,F)FeAs</formula> (<variable>Rn</variable>: <value>rare earth elements</value>)</material>
+	<material><formula>Bi(O,F) BiS 2</formula></material>
+	<material><formula>La(O,F)BiCh2</formula> (<variable>Ch</variable> = <value>S, Se</value>)</material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeO-BiS 2</formula></material>
+    <material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><shape>Single crystals</shape> of <formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS 2</formula></material>
+	<material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material>&quot;<doping>F-doped</doping>&quot; <formula>CeOBiS 2</formula> <shape>crystals</shape></material>
+	<material><formula>Ce(O 0.73 F 0.27 )BiS 2</formula></material>
+    <material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS2 and</formula> &quot;<doping>F-doped</doping>&quot; <formula>Ce(O0.73F0.27)BiS2</formula> <shape>crystals</shape></material>
+	<material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS 2</formula></material>
+	<material>&quot;<doping>F-doped</doping>&quot; <formula>Ce(O 0.73 F 0.27 )BiS 2</formula> <shape>crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F) BiS 2</formula></material>
+	<material><formula>CeOBiS2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+    <material><formula>CeOBiS2</formula></material>
+    <material><formula>Ce(O,F)BiS2</formula></material>
+    <material><formula>CeOBiS2</formula></material>
+    <material><formula>Ce(O,F)BiS2</formula></material>
+	<material><formula>CeOBiS2</formula></material>
+	<material><formula>CeOBiS 2</formula> <shape>crystals</shape></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>La(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBi 0.96 S 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula> <shape>single crystals</shape></material>
+	<material><shape>single crystals</shape> of <formula>CeOBiS2 and Ce(O,F)BiS2</formula></material>
+	<material><formula>CeOBiS2</formula></material>
+	<material><formula>Ce(O,F)BiS2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material>&quot;<doping>F-free</doping>&quot; <formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)SbS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+    <material><shape>single crystals</shape> of <formula>CeOBiS2</formula> and <formula>Ce(O,F)BiS2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>CeOBiS2</formula> <shape>single crystals</shape></material>
+	<material><doping>F</doping>-doped <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><doping>F-doped</doping> <shape>crystal</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>Ce(O,F)BiS 2</formula></material>
+	<material><formula>La(O,F)BiS 2</formula></material>
+	<material><formula>CeOBiS2</formula> <shape>single crystals</shape></material>
+	<material><shape>single crystals</shape> of <formula>CeOBiS2</formula></material>
+	<material><doping>F-free</doping> <formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula> <shape>crystals</shape></material>
+	<material><formula>CeOBiS 2</formula> <shape>single crystals</shape></material>
+	<material><formula>CeOBiS 2</formula></material>
+</materials>

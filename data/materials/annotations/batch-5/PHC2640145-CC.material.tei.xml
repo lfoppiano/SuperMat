@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>HgBa2Ca2Cu3O8+δ</formula> superconductor (<name>Hg-1223</name>)</material>
+	<material><formula>Hg</formula></material>
+	<material><formula>Pb</formula></material>
+	<material><name>Hg-1223</name></material>
+	<material><formula>Hg</formula></material>
+	<material><formula>Hg</formula></material>
+	<material><formula>Hg</formula></material>
+	<material><name>Hg-1223</name></material>
+	<material><formula>Hg0.45Pb0.30Ba1.63Sr0.50Ca1.94Cu3O8</formula></material>
+	<material><formula>Hg0.42Pb0.41Ba1.19Sr1.06Ca1.97Cu3O8</formula></material>
+	<material><formula>Hg0.50Pb0.50Ba0.59Sr1.24Ca1.83Cu3.34O8</formula></material>
+	<material><formula>Hg0.34Pb0.54Ba0.61Sr1.17Ca1.88Cu3O8</formula></material>
+	<material><formula>Hg</formula></material>
+	<material><formula>Pb</formula></material>
+	<material><formula>Cu</formula></material>
+	<material><formula>Hg</formula></material>
+	<material><formula>Cu</formula></material>
+	<material><formula>Cu</formula></material>
+</materials>

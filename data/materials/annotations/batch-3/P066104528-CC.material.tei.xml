@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 1.88−y Y y Sr 0.12 CuO 4</formula> (<variable>y</variable> = <value>0, 0.04</value>)</material>
+	<material><formula>La1.88−yYySr0.12CuO4</formula> (<variable>y</variable> = <value>0, 0.04</value>) <shape>single crystals</shape></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> (<name>LBCO</name>)</material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><variable>x</variable> ∼ <value>0.12</value></material>
+	<material><name>LBCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LBCO</name></material>
+	<material><name>LSCO</name> around <variable>x</variable> = <value>0.12</value></material>
+	<material><doping>Rare-earth</doping> doped <name>LSCO</name></material>
+<!--	<material>One</material>-->
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula> <shape>single crystal</shape></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 2−x−y Nd y Sr x CuO 4</formula></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula> (<name>LYSCO</name>)</material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>LYSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La1.84Y0.04Sr0.12CuO4</formula></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><name>LYSCO</name></material>
+	<material><formula>La 2−x−y Nd y Sr x CuO 4</formula></material>
+	<material><formula>La 1.875−x−y Ba x Sr y CuO 4</formula></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><name>LYSCO</name></material>
+	<material><shape>orthorhombic</shape> <name>LSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><shape>orthorhombic</shape> <name>LSCO</name></material>
+    <material><formula>La 2−x−y Nd y Sr x CuO 4</formula> for <variable>x</variable> <value>&lt;1/8</value></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><formula>La1.88−yYySr0.12CuO4</formula> (<variable>y</variable> = <value>0</value> : open circles, <variable>y</variable> = <value>0.04</value></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula> (<variable>x</variable> = <value>0.11</value>) <shape>single crystal</shape></material>
+	<material><variable>x</variable> <value>&lt;1/8</value></material>
+	<material><variable>x</variable> =<value>1/8</value></material>
+	<material><formula>La 2−x−y Nd y Sr x CuO 4</formula></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><name>LYSCO</name></material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula></material>
+	<material><name>LYSCO</name></material>
+	<material><formula>La1.84Y0.04Sr0.12CuO4</formula></material>
+	<material><formula>La1.88Sr0.12CuO4</formula></material>
+	<material><variable>x</variable> ∼ <value>0.12</value></material>
+<!--	<material>One</material>-->
+	<material><name>LYSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><name>LYSCO</name></material>
+	<material><variable>x</variable> = <value>0.115</value></material>
+	<material><variable>x</variable> = <value>0.12</value></material>
+	<material><formula>La 1.84 Y 0.04 Sr 0.12 CuO 4</formula></material>
+	<material><formula>La 1.88 Sr 0.12 CuO 4</formula></material>
+	<material><shape>orthorhombic</shape> <formula>La 1.88 Sr 0.12 CuO 4</formula></material>
+</materials>

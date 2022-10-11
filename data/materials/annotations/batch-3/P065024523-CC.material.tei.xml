@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>underdoped</doping> <formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><formula>La2−xSrxCuO 4+δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><variable>x</variable> = <value>0</value></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><shape>single crystal</shape> of <formula>La 1.90 Sr 0.10 CuO 4+δ</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ 9</formula></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><formula>La 1.90 Sr 0.10 CuO 4+δ</formula></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><formula>La 2 O 3</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><variable>x</variable> = <value>0.13</value> <shape>single crystal</shape></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><formula>La 2−x Ba x CuO 4+δ</formula></material>
+	<material><variable>x</variable> = <value>0.10</value> <shape>single crystal</shape></material>
+	<material><variable>x</variable> = <value>0.10, 0.14, 0.16, 0.20, 0.26</value></material>
+	<material><formula>Y Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> equal to <value>0.07 − 0.08</value></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><variable>x</variable> = <value>0.010</value></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4+δ</formula></material>
+	<material><variable>x</variable> = <value>1/8</value></material>
+	<material><variable>x</variable> = <value>0.10</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.14, 0.16, 0.20, 0.26</value></material>
+	<material><variable>x</variable> = <value>0.156</value></material>
+	<material><variable>x</variable> = <value>0.156</value></material>
+</materials>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>underdoped</doping> <formula>Y1−xPrxBa2Cu3O 7−δ</formula></material>
+	<material><doping>under</doping>- doped <formula>Y1−xPrxBa2Cu3O 7−δ</formula></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><doping>optimally doped</doping> samples</material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>Bi 1.6 Pb 0.4 Sr 2 Ca 2 Cu 3 O 10+δ</formula></material>
+	<material><doping>underdoped</doping> <formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> (<variable>x</variable> = <value>0.3 and 0.4</value>)</material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> (<variable>x</variable> = <value>0.3</value> and <variable>x</variable> = <value>0.4</value>)</material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>Y1−xPrxBa2Cu3O 7−δ</formula> (<variable>x</variable> = <value>0.3 and 0.4</value>)</material>
+	<material><shape>polycrys- talline</shape> <formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y1−xPrxBa2Cu3O 7−δ</formula> for <variable>x</variable> = <value>0.3</value></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> samples with <variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> samples with <variable>x</variable> = <value>0.3 and 0.4</value></material>
+	<material><formula>Y1−xPrxBa2Cu3O 7−δ</formula> for <variable>x</variable> = <value>0.3 and 0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><doping>underdoped</doping> <name>YBCO</name></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.3 and 0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>Y1−xPrxBa2Cu3O 7−δ</formula></material>
+	<material><doping>underdoped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><fabrication>fully oxygenated</fabrication> <formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> samples (<variable>δ</variable> ≃ <value>0</value>)</material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><value>0.05 &lt;</value> <variable>x</variable> <value>&lt; 0.5</value></material>
+	<material><value>0.1 &lt;</value> <variable>x</variable> <value>&lt; 0.5</value></material>
+	<material><variable>x</variable> = <value>0.3</value> and <variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable> = <value>0.4</value></material>
+	<material><variable>x</variable> = <value>0.3</value> and <variable>x</variable> = <value>0.4</value></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula></material>
+	<material><doping>un- derdoped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>Y1−xPrxBa2Cu3O 7−δ</formula> (<variable>x</variable> = <value>0.3 and 0.4</value>)</material>
+	<material><formula>La2−xSrxCuO4</formula> (<variable>x</variable> = <value>0.080 and 0.086</value>)</material>
+	<material><doping>underdoped</doping> <formula>Y 1−x Pr x Ba 2 Cu 3 O 7−δ</formula> (<variable>x</variable> = <value>0.3, 0.4</value>)</material>
+	<material><variable>x</variable> = <value>0.3 and 0.4</value></material>
+</materials>

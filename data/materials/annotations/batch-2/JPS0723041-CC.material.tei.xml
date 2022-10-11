@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Na x CoO 2 • yH 2 O</formula></material>
+	<material><formula>NaxCoO2•yH2O</formula></material>
+	<material><formula>NaxCoO2</formula></material>
+    <!-- check -->
+	<material>bilayer-hydrate sample</material>
+	<material>monolayer-hydrate sample</material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula> (<variable>x</variable> ∼ <value>0.35</value>, <variable>y</variable> <value>∼ 1.3</value>)</material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material>bilayer-hydrate <formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material>monolayer hydrate <formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material>monolayer hydrate <formula>Na x CoO 2 yH 2 O</formula></material>
+	<material>bilayer-hydrate</material>
+	<material>monolayer-hydrate</material>
+	<material>monolayer-hydrate sample</material>
+	<material>bilayer-hydrate sample</material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<!-- <material><name>bilayer-hydrate</name></material> -->
+	<!-- <material><doping>monolayer-hydrate</doping> samples</material> -->
+	<material><formula>Pd</formula></material>
+	<material><formula>YCo 2</formula></material>
+	<material><formula>UPt</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula></material>
+</materials>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><fabrication>single-layer</fabrication> <formula>Bi 2 Sr 2 CuO 6+δ</formula></material>
+	<material><fabrication>single-layer</fabrication> <formula>Bi 2 Sr 2 CuO 6+δ</formula></material>
+	<material><formula>La 2-x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><formula>Bi 2 Sr 2-y La y CuO 6+δ</formula> (<name>Bi(La)-2201</name>) <shape>single crystals</shape></material>
+	<material><name>Bi(La)-2201</name></material>
+	<material><formula>Bi 2 Sr 2 CuO 6+δ</formula> (<name>Bi-2201</name>)</material>
+	<material><shape>Polycrystalline</shape> <formula>Bi 2 Sr 2 CuO 6+δ</formula></material>
+	<material><formula>Bi 2 Sr 2 CuO 6+δ</formula></material>
+	<material><doping>most overdoped</doping> sample</material>
+<!--	<material><name>Bi(La)-2201</name> ceramics</material>-->
+	<material><variable>δ</variable>=<value>0.14</value></material>
+	<material><variable>δ</variable>=<value>0.13</value></material>
+	<material><variable>δ</variable>=<value>0.175 and 0.18</value></material>
+    <material><name>Bi-2201</name> <shape>polycrystalline</shape> samples</material>
+	<material><name>Bi(La)-2201</name> <shape>single crystals</shape></material>
+	<material><variable>δ</variable> =<value>0.175 and 0.18</value></material>
+	<material><variable>δ</variable>=<value>0.175 and 0.18</value></material>
+	<material><name>Bi(La)-2201</name> <shape>single crystals</shape></material>
+	<material><name>Bi(La)-2201</name></material>
+	<material><formula>Bi 1.8 Pb 0.38 Sr 2 CuO 6-δ</formula> (<name>Bi(Pb)-2201</name>)</material>
+    <material><doping>overdoped</doping> case of <name>Bi(Pb)-2201</name></material>
+	<material><name>Bi-2201</name></material>
+</materials>

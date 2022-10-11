@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Tl 2 Ba 2 CuO 6</formula></material>
+	<material><doping>near optimally-doped</doping> <shape>single crystals</shape> of <formula>Tl2Ba2CuO6</formula> (<name>Tl-2201</name>)</material>
+	<material><name>Tl-2201</name></material>
+	<material><formula>Bi2Sr2CaCu2O 8+δ</formula></material>
+	<material><name>Tl-2201</name></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+δ</formula> (<name>Bi-2212</name>)</material>
+	<material><formula>Bi 2 Sr 2 CuO x</formula></material>
+	<material><formula>HgBa 2 CuO 4</formula> (<name>Hg-1201</name>)</material>
+	<material><formula>YBa 2 Cu 3 O 7</formula> (<name>YBCO</name>) and <name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><fabrication>electron-doped</fabrication> <formula>Nd 2−x Ce x CuO 4</formula></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><doping>optimally- doped</doping> <formula>Tl 2 Ba 2 CuO 6</formula> <shape>crystals</shape> (<name>Tl-2201</name>)</material>
+	<material><name>Tl-2201</name> <shape>crystals</shape></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><formula>Tl 2 Ba 2 Ca 2−n Cu 2 O 2n+3</formula> (<variable>n</variable>=<value>1, 2, and 3</value>)</material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Tl-2201</name> <shape>single crystals</shape></material>
+	<material><formula>Tl 2 O 3</formula></material>
+	<material><formula>BaO 2</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Tl 2 O 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><shape>single crystal</shape> samples of <name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Tl-2201</name> <shape>crystals</shape></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><doping>optimally-doped</doping> <name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name> <shape>crystals</shape> which <fabrication>has been exposed to air</fabrication></material>
+	<material>surface of <name>Tl-2201</name></material>
+	<material><name>Bi-2212</name> is <fabrication>annealed in air</fabrication></material>
+	<material><name>Tl-2201</name></material>
+	<material><fabrication>Air annealed</fabrication> <name>Tl-2201</name></material>
+	<material><fabrication>air-exposed</fabrication> <name>Tl-2201</name></material>
+	<material><name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>Bi- 2212</name></material>
+	<material><doping>overdoped</doping> <name>Bi-2212</name></material>
+	<material><name>Tl-2201</name></material>
+	<material>surface of <name>Tl-2201</name> <shape>crystals</shape></material>
+	<material><shape>single crystals</shape> of <name>Tl-2201</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><doping>optimally-doped</doping> <name>Bi-2212</name></material>
+	<material><name>Tl-2201</name> <shape>crystals</shape></material>
+</materials>

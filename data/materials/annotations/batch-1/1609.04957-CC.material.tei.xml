@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LaFeAsO 1−x H x</formula></material>
+	<material><formula>LaFeAsO1−xHx</formula></material>
+	<material><formula>LaFeAsO 1−x H x</formula></material>
+	<material>from <variable>x</variable> = <value>0.05</value> to <variable>x</variable> = <value>0.44</value></material>
+	<material><formula>LaFeAsO1−xHx</formula></material>
+	<material><formula>Ba(Fe1−xCox)2As2</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>LaFeAsO 1−x F x</formula></material>
+	<material><variable>x</variable> = <value>0.14</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.40</value></material>
+	<material><variable>x</variable> = <value>0.44</value></material>
+	<material><variable>x</variable> =<value>0.40 and 0.44</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.40</value></material>
+	<material><variable>x</variable> = <value>0.44</value></material>
+	<material><variable>x</variable> = <value>0.14</value></material>
+	<material><variable>x</variable> = <value>0.14</value></material>
+	<material><variable>x</variable> = <value>0.14</value></material>
+	<material><formula>F</formula></material>
+	<material><formula>LaFeAsO 1−x F x</formula></material>
+	<material><variable>x</variable> = <value>0.14 − 0.15</value></material>
+	<material><value>0.20 ≤</value> <variable>x</variable> <value>≤ 0.44</value></material>
+	<material><variable>x</variable> =<value>0.20, 0.40, and 0.44</value></material>
+	<material><formula>LaFeAsO1−xHx</formula> (<value>0.05 ≤</value> <variable>x</variable> <value>≤ 0.5</value>)</material>
+	<material><formula>LaFeAsO1−xFx</formula> (<value>0.05 ≤</value> <variable>x</variable> <value>≤ 0.14</value>)</material>
+	<material><variable>x</variable> =<value>0.20</value></material>
+	<material><variable>x</variable> =<value>0.40 and 0.44</value></material>
+	<material><variable>x</variable>=<value>0.44</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><formula>K y Fe 2−x Se 2</formula></material>
+	<material><formula>LaFeAsO 1−x H x</formula></material>
+	<material><formula>LaFeAsO 1−x F x</formula></material>
+	<material><variable>x</variable> =<value>0.20</value></material>
+	<material><formula>LaFeAsO 1−x F x</formula></material>
+	<material><variable>x</variable> =<value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><formula>LaFeAsO1−xFx</formula> (<variable>x</variable> =<value>0.14</value>)</material>
+	<material><formula>LaFeAsO1−xFx</formula></material>
+	<material><formula>LaFeAsO1−xHx</formula></material>
+	<material><variable>x</variable> =<value>0.14</value></material>
+	<material><formula>F</formula></material>
+	<material><variable>x</variable> =<value>0.20, 0.40, and 0.44</value></material>
+	<material><formula>H</formula></material>
+    <material><doping>14% F</doping>-and <doping>20% H</doping>-doped</material>
+	<material><doping>40% and 44% H</doping>-doped</material>
+    <material><doping>14% F</doping>-and <doping>20% H</doping>-doped</material>
+	<material><formula>NaFe 1−x Co x As</formula></material>
+	<material><variable>x</variable> = <value>0.14 − 0.20</value></material>
+	<material><formula>LaFeAsO 1−x H x</formula></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><variable>x</variable> = <value>0.44</value></material>
+</materials>

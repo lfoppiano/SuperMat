@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>(Sr,Ca) 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Ca 3 Cu 2 O 2 Cl 2</formula></material>
+	<material><formula>(Sr,Ca) 3 Cu 2 O 4+δ Cl 2-y</formula></material>
+	<material><formula>(Ca,Na) 2 CuO 2 Cl 2</formula></material>
+	<material><formula>(Sr,Ca) 3 Cu 2 O 4+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula> with 0201-type structure</material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material>0201 type <formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 3</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>SrCl 2</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>SrO 2</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>SrO 2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y for 0.6 y 1.2</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material><variable>y</variable>=<value>0.8</value></material>
+	<!-- <material>1.0</material> -->
+	<!-- <material>1.2</material> -->
+	<!-- <material>1.4</material> -->
+	<!-- <material>1.6</material> -->
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 1.2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula> (<variable>y</variable> = <value>0.8, 1.0, 1.2, 1.4, 2.0</value>)</material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 1.2</formula></material>
+	<material><variable>y</variable> = <value>0.8</value></material>
+	<!-- <material><formula>1.0</formula></material> -->
+	<!-- <material><formula>1.4</formula></material> -->
+	<material><variable>y</variable> = <value>0.8</value></material>
+	<!-- <material><formula>1.0</formula></material> -->
+	<!-- <material><formula>1.4</formula></material> -->
+	<material><variable>y</variable>=<value>1.4</value></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material>0201-type <formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material><doping>oxygen</doping> doped <name>Cl-0201</name> phase <formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material>Cl-0201 type <formula>Sr 2 CuO 2+ Cl 2-y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 1.2</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><formula>Sr 2 CuO 2 Cl 2</formula></material>
+	<material><doping>oxygen</doping> doped <formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl 1.2</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+	<material><formula>Sr 2 CuO 2+ Cl y</formula></material>
+</materials>

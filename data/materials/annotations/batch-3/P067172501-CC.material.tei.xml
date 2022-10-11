@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>lightly-doped to overdoped</doping> <formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8+y</formula> (<variable>R</variable> = <value>Pr, Er</value>)</material>
+	<material><formula>Bi2Sr2Ca1−xRxCu2O8+y</formula> (<variable>R</variable> = <value>Pr, Er</value>)</material>
+	<material><formula>La2−xSrxCuO4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><name>LSCO</name></material>
+    <material><doping>electron-doped</doping> superconductor <formula>Nd 2−x Ce x CuO 4</formula> (<name>NCCO</name>)</material>
+	<material><name>NCCO</name></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O 8+y</formula> (<name>BSCCO</name>)</material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Y x Cu 2 O 8+y</formula></material>
+	<material><doping>underdoped</doping> <name>BSCCO</name></material>
+	<material><doping>heavily underdoped</doping> <name>BSCCO</name></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8+y</formula> <shape>crystals</shape></material>
+	<material><shape>Single crystals</shape> of <formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8+y</formula> (<variable>R</variable> = <value>Pr, Er</value>)</material>
+    <material><variable>x Pr</variable> =<value>0.1, 0.25 and 0.43</value></material>
+	<material><variable>x Er</variable> =<value>0.1</value></material>
+	<material><variable>x Er</variable> =<value>0.5 and 1.0</value></material>
+	<material><variable>x Er</variable> = <value>0.5 and 1.0</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Y x Cu 2 O 8+y</formula></material>
+	<material><variable>x Pr</variable> = <value>0.25</value></material>
+	<material><variable>x Er</variable> = <value>0.1</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8+y</formula> (<variable>R</variable> = <value>Pr, Er</value>)</material>
+	<material><doping>Pr</doping> samples</material>
+	<material><doping>Er</doping> samples</material>
+	<material><doping>Pr</doping> samples</material>
+	<material><doping>Er</doping> samples</material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8+y</formula></material>
+	<material><doping>Er</doping> samples</material>
+	<material><doping>Pr</doping> samples</material>
+	<material><doping>Pr and Er</doping> samples</material>
+	<material><name>LSCO</name></material>
+    <material><name>BSCCO</name></material>
+<!--    <material><name>CuO 2</name> <shape>layers</shape> (<formula>CuO 2 -Ca 1−x R x -CuO 2</formula> blocks)</material>-->
+	<material><formula>BSCCO</formula></material>
+    <!--check -->
+	<material><doping>Er-and Pr-substituted</doping> <name>BSCCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><doping>underdoped</doping> <name>BSCCO</name></material>
+	<material><doping>underdoped</doping> <name>BSCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>BSCCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>BSCCO</name></material>
+<!--    check-->
+	<material><doping>Er-and Pr-substituted</doping> <name>BSCCO</name></material>
+	<material><doping>Pr-(a) and Er-substituted</doping> (b) <name>BSCCO</name></material>
+	<material><doping>Er-and Pr-substituted</doping> <name>BSCCO</name></material>
+	<material><doping>Er- and Pr-substituted</doping> <name>BSCCO</name></material>
+	<material><name>LSCO</name></material>
+</materials>

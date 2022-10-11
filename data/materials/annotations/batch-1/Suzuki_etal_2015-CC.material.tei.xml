@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><shape>Polycrystalline</shape> <formula>EuFBiS 2</formula></material>
+	<!-- <material><formula>Bi 4 O 4 (SO 4 ) 1−x Bi 2 S 4</formula></material> -->
+	<material><formula>LaOBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><shape>Polycrystalline</shape> samples of <formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+    <material><formula>RE(O,F)BiS 2</formula> (<variable>RE</variable> = <value>La, Ce, Pr, Nd, Yb</value>)</material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><shape>polycrystalline</shape> sample of <formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><shape>polycrystalline</shape> sample of <formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+	<material><formula>EuFBiS 2</formula></material>
+</materials>

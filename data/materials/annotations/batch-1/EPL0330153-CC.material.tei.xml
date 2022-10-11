@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><formula>YBa 2 Cu 3 O 7−δ</formula> <shape>Thin Films</shape></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula> <shape>thin films</shape></material>
+	<material><name>YBCO</name> <shape>thin films</shape></material>
+	<material><name>YBCO</name> <shape>single crystals</shape></material>
+	<material><name>YBCO</name> <shape>thin films</shape></material>
+	<material><name>YBCO</name> <shape>thin films</shape></material>
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B1</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>B2</name></material> -->
+	<!-- <material><name>A1</name></material> -->
+	<!-- <material><name>B2,</name></material> -->
+	<!-- <material><shape>film</shape> <name>B1</name></material> -->
+	<!-- <material><shape>film</shape> <name>A1</name></material> -->
+	<material><name>YBCO</name> <shape>single crystals</shape></material>
+	<material><name>YBCO</name> A1 <shape>film</shape></material>
+	<material><name>YBCO</name> B2 <shape>film</shape></material>
+	<material><name>YBCO</name> A1 <shape>film</shape></material>
+	<material><name>YBCO</name> B2 <shape>film</shape></material>
+</materials>

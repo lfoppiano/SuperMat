@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material>three-layer <formula>Na 0.3 CoO 2 •1.3H 2 O</formula></material>
+    <material>new <shape>crystalline</shape> form of <formula>Na 0.3 CoO 2 •1.3H 2 O</formula></material>
+    <material><formula>Na 0.35 CoO 2 •1.35H 2 O</formula></material>
+    <material><formula>Na 0.35 CoO 2 •1.35H 2 O</formula></material>
+    <material>three-layer <formula>Na 0.30 CoO 2 ⋅1.3H 2 O</formula></material>
+    <material><formula>Na 0.35 CoO 2 •1.35H 2 O</formula></material>
+	<material><formula>Na 0.3 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.3 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 ·1.35H 2 O 1</formula></material>
+	<material><formula>Na 0.35 CoO 2 ·1.35H 2 O</formula></material>
+	<material><name>cobalt oxide</name></material>
+	<material><formula>Na 0.30 CoO 2 ⋅1.3H 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 ·1.35H 2 O</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+	<material><name>cobalt oxide</name></material>
+	<material><formula>NaCoO 2</formula></material>
+	<material><formula>NaCoO 2</formula></material>
+	<material><formula>NaCoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<!-- <material><formula>O3 NaCoO 2</formula></material> -->
+	<material><formula>Na 0.30 CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na x CoO 2</formula></material>
+	<material><formula>Na 0.30 CoO 2</formula></material>
+	<!-- <material><formula>O3 Na 0.30 CoO 2</formula></material> -->
+	<!-- <material><formula>O3 NaCoO 2</formula></material> -->
+<!--    <material><fabrication>three-layer system on deintercalation of Na and intercalation of water</fabrication></material>-->
+    <material>two-layer <name>sodium cobaltate</name></material>
+    <material>deintercalation of Na to <formula>Na 0.3 CoO 2</formula></material>
+    <material>two-layer P2<formula> Na 0.7 CoO 2</formula></material>
+	<material>P2 <formula>Na 0.7 CoO 2</formula></material>
+	<material><formula>Na 0.30 CoO 2</formula></material>
+	<material><formula>Na 0.30 CoO 2</formula></material>
+	<material>O3<formula> Na 0.30 CoO 2</formula></material>
+	<material><formula>Na 0 . 3 CoO 2</formula></material>
+    <material>anhydrous three-layer <formula>Na 0.3 CoO 2</formula></material>
+	<material><formula>Na 0.3 CoO 2 ·0.60H 2 O</formula></material>
+	<material><formula>Na 0.3 CoO 2 ·xH 2 O</formula> <name>superhydrate</name></material>
+	<material><formula>Na 0.3 CoO 2 ·0.60H 2 O</formula></material>
+    <material><formula>Na 0.3 CoO 2 •0.60H 2 O</formula></material>
+    <material><formula>Na 0.3 CoO 2 •xH 2 O</formula> <name>superhydrate</name></material>
+    <material><formula>Na 0.3 CoO 2 •0.60H 2 O</formula></material>
+    <material><formula>Na 0.30 CoO 2 •1.3H 2 O</formula></material>
+	<material><formula>Na 0.5 CoO 2</formula></material>
+	<material><formula>Co 3 O 4</formula></material>
+	<material><formula>Na 0.30 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.30 CoO 2 ·1.3H 2 O</formula></material>
+	<material><formula>Na 0.30 CoO 2 ·1.3H 2 O</formula></material>
+	<material>O3 <formula>NaCoO 2</formula></material>
+	<material>O3 <formula>NaCoO 2</formula></material>
+	<material><name>cobalt oxide</name></material>
+    <material>three-layer <formula>Na 0.30 CoO 2 •1.3H 2 O</formula></material>
+    <material>three-layer <formula>Na 0.30 CoO 2 •1.3H 2 O</formula></material>
+    <material>three-layer O3 <formula>NaCoO 2</formula> <shape>host</shape> <name>sodium cobalt oxide</name></material>
+	<material>O3 <formula>NaCoO 2</formula></material>
+	<material><name>cobalt oxyhydrate</name></material>
+	<material><formula>Na 0.3 CoO 2</formula></material>
+	<material><formula>Na 0.30 CoO 2 ·1.3H 2 O</formula></material>
+	<material><name>cobalt oxyhydrate</name> <formula>Na 0.30 CoO 2 ·1.3H 2 O</formula></material>
+    <material>three-layer <name>cobalt oxyhydrate</name></material>
+    <material>double-layer <name>cobaltate</name></material>
+    <!-- <material><name>three-layer system</name></material> -->
+    <material>three-layer <formula>Na 0.30 CoO 2 •1.3H 2 O</formula></material>
+    <material>three- layer <name>cobalt oxyhydrate</name> <formula>Na 0.30 CoO 2 •1.3H 2 O</formula></material>
+    <material>two-layer <name>sodium cobalt oxyhydrate</name></material>
+    <material>monolayer hydrate <formula>Na 0.30 CoO 2 •0.6H 2 O</formula></material>
+	<material><formula>Na 0.30 CoO 2</formula></material>
+    <material>crystal structure of O3 <formula>NaCoO 2</formula> and P2<formula> Na 0.7 CoO 2</formula></material>
+	<material>O3<formula> NaCoO 2</formula></material>
+	<material><formula>Na 0.7 CoO 2</formula></material>
+    <material>three-layer <name>sodium cobalt superhydrate</name></material>
+</materials>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>La 2−x Ba x CuO 4</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material>1212-type <formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuO 2</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><doping>Zn-substituted</doping> <formula>RuSr 2 GdCu 1.94 Zn 0.06 O 8</formula></material>
+	<material><doping>Y ↔ Gd cosubsti- tuted</doping> sample <formula>RuSr 2 Gd 0.9 Y 0.1 Cu 2 O 8</formula></material>
+	<material><formula>SrRuO 3</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O 8−δ</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><doping>strongly underdoped</doping> <formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>GdBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr2GdCu1.94Zn0.06O8</formula></material>
+	<material><doping>Y ←→ Gd co- substituted</doping> <formula>RuSr2Gd0.9Y0.1Cu2O8</formula></material>
+	<material><doping>10% Y ↔ Gd cosubstituted</doping> <formula>RuSr 2 Gd 0.9 Y 0.1 Cu 2 O 8</formula></material>
+	<material><doping>pure</doping> <formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 Cu 1.94 Zn 0.06 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr2GdCu2O8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>GdBa 2 Cu 3 O 7−δ</formula> (<name>Gd-123</name>)</material>
+	<material><formula>ErRh 4 B 4</formula></material>
+	<material><formula>HoMo 6 S 8</formula> 20</material>
+	<material><formula>Y 9 Co 7</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 Gd 1−x RE x Cu 2 O 8</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+</materials>

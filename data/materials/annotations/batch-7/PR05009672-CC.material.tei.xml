@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7</formula></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7</formula> <shape>single crystal thin films</shape></material>
+	<material><formula>Y 1 Ba 2 Cu 3 O 7−δ</formula> (<name>YBCO</name>)</material>
+	<material><name>YBCO</name></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7</formula> (<name>YPrBCO</name>)</material>
+	<material><name>YPrBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>oxygen-deficient</doping> <name>YBCO</name></material>
+	<material><doping>underdoped</doping> <name>YBCO</name></material>
+	<material><name>YPrBCO</name></material>
+	<material><formula>GaAs</formula></material>
+	<material><name>YPrBCO</name> samples having Pr composition <variable>x</variable> = <value>0.0, 0.2, 0.3, 0.4, and 1.0.</value></material>
+	<material><name>YPrBCO</name></material>
+	<material><doping>pure</doping> <name>YBCO</name></material>
+	<material>Samples with <doping>20% and 30% Pr</doping></material>
+	<material>The sample with <doping>40% Pr</doping></material>
+	<material><doping>pure</doping> <name>YBCO</name></material>
+	<material><doping>20% Pr</doping></material>
+	<material><name>PrBCO</name></material>
+	<material><doping>fully oxygenated</doping> <name>YBCO</name></material>
+	<material><doping>pure</doping> <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>oxygen deprived</doping> (123)<name>YBCO</name></material>
+	<material><name>YPrBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>YPrBCO</name></material>
+	<material><doping>underdoped</doping> <name>YBCO</name></material>
+	<material><doping>pure</doping> <name>YBCO</name></material>
+	<material><doping>pure</doping> <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><shape>thin films</shape> of <formula>Y 1−x Pr x Ba 2 Cu 3 O 7</formula></material>
+	<material><name>YPrBCO</name></material>
+	<material><formula>Y 1−x Pr x Ba 2 Cu 3 O 7</formula></material>
+	<material><variable>x</variable> = <value>0 (squares), 0.2 (circles), 0.dotted curve), 0.4</value> (dash-dotted curve)<value>, and 1.0</value> (short-dashed curve)</material>
+	<material><doping>four Pr concentrations</doping> <variable>x</variable> = <value>0 (squares), 0.2</value> (circles), <value>0.3</value> (solid triangles<value>), 0.4</value> (open triangles)</material>
+	<material><variable>x</variable> = <value>0.3</value></material>
+	<material><variable>x</variable>= <value>0, 0.2, 0.3, and 0.4</value> (solid, dashed, dotted, and dash-dotted curves)</material>
+	<material><variable>x</variable> = <value>0.0 (squares), 0.2</value> (circles), <value>0.3</value> (solid triangles),</material>
+	<material><value>0.4</value></material>
+	<material>(open triangles).</material>
+	<material><variable>x</variable> = <value>0 (squares), 0.2 (circles), and 0.4</value> (triangles)</material>
+</materials>

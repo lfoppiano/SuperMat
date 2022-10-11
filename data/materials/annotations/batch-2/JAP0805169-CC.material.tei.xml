@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+    <material><formula>Nd1.82−xSrxCe0.18CuOy</formula>:<variable>x</variable><value>≤0.18</value></material>
+	<material><formula>Nd 1.82؊x Sr x Ce 0.18 CuO y</formula>:<variable>x</variable>р<value>0.18</value></material>
+	<material><formula>SrPd2Ge2</formula></material>
+	<material><doping>Be</doping>-doped <formula>(Bi0.25Cu0.25Li0.25Tl0.25)Ba2Ca2Cu3O10-δ</formula></material>
+	<material><formula>Fe(SeTe)</formula> <shape>single crystal</shape></material>
+	<material><formula>EuAsFeO0.85F0.15</formula></material>
+    <material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula> :<variable>x</variable>р<value>0.18</value></material>
+    <material><variable>x</variable>ϭ<value>0.09</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+	<material><doping>hole-doped</doping> <formula>La 2Ϫx Sr x CuO 4</formula></material>
+	<material><formula>R 2Ϫx Ce x CuO 4Ϫ␦</formula> ; <variable>R</variable>ϭ<value>Nd, Sm, or Pr</value></material>
+	<material><formula>Nd 2Ϫx Ce x CuO y ͑</formula><name>NCCO͒</name></material>
+	<material><name>NCCO</name></material>
+    <material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula> <name>͑NSCCO͒</name></material>
+	<material><name>NSCCO</name></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula> :р<value>0.18</value></material>
+<!--	<material><name>Rϭ0</name></material>-->
+	<material><formula>YBa 2 Cu 3 O 7Ϫ␦</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 2 Cu 3 O y</formula></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula> : <variable>x</variable>ϭ<value>0, 0.09, 0.18</value></material>
+	<material><variable>x</variable>ϭ<value>0.18</value></material>
+	<material><name>NCCO</name></material>
+	<!-- <material><formula>Sr0.09</formula>,</material> -->
+	<!-- <material><formula>Sr0.18</formula></material> -->
+	<!-- <material><formula>Sr0.18͑O͒</formula></material> -->
+	<material><name>NCCO</name></material>
+<!--	<material><variable>R</variable>ϭ<value>0</value></material>-->
+	<!-- <material><formula>Sr0.09</formula></material> -->
+<!--	<material><variable>R</variable>ϭ<value>0</value></material>-->
+	<material><formula>͑NSCCO͒</formula></material>
+	<!-- <material><formula>Sr0.18</formula></material> -->
+<!--    <material><variable>R</variable>ϭ<value>0</value></material>-->
+	<!-- <material><name>NCCO</name>, <formula>Sr0.09</formula>, <formula>Sr0.18</formula>, and <formula>Sr0.18͑O͒</formula> samples</material> -->
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<!-- <material><formula>NCCO and Sr0.09</formula></material> -->
+<!--	<material><formula>Sϭ0</formula></material>-->
+<!--	<material><formula>Rϭ0</formula></material>-->
+	<material><name>NCCO</name></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+    <material><variable>x</variable>ϭ<value>0</value></material>
+    <material><variable>x</variable>ϭ<value>0.09</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+    <material><variable>x</variable>ϭ<value>0</value></material>
+    <material><variable>x</variable>ϭ<value>0.09</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+	<!-- <material><formula>Sr0.18</formula></material> -->
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+	<!-- <material><formula>Sr0.09</formula></material> -->
+	<material><name>NCCO</name></material>
+	<!-- <material><formula>Sr0.18</formula></material> -->
+	<!-- <material><formula>Sr0.18͑O͒</formula></material> -->
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+    <!-- <material><name>NCCO</name>, <formula>Sr0.09</formula>, <formula>Sr0.18</formula>, and <formula>Sr0.18͑O͒</formula> samples</material> -->
+	<!-- <material><formula>Sr0.09</formula></material> -->
+	<!-- <material><formula>Sr0.18</formula></material> -->
+<!--    <material><name>NCCO</name> and <formula>Sr0.18͑O͒</formula></material>-->
+	<material><name>NCCO</name></material>
+	<!-- <material><formula>Sr0.18͑O͒</formula></material> -->
+	<material><name>NCCO</name></material>
+	<!-- <material><formula>Sr0.18͑O͒</formula></material> -->
+	<material><formula>Nd 2Ϫx Ce x CuO y</formula></material>
+	<material><name>NSCCO</name></material>
+	<material><formula>Nd 2Ϫx Ce x CuO y</formula></material>
+	<material><formula>͑NSCCO͒</formula></material>
+	<material><formula>La 2Ϫx Sr x CuO 4</formula></material>
+	<material><formula>Nd 2Ϫx Ce x CuO y</formula></material>
+	<material><name>NSCCO</name></material>
+	<material><formula>Bi 2 Sr 2 CaCu 2 O y</formula></material>
+	<material><formula>Tl 2 Ba 2 Ca 2 Cu 3 O y</formula></material>
+	<material><name>NSCCO</name></material>
+	<material><formula>Nd 2Ϫx Ce x CuO y</formula></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula> with ͑a͒ <variable>x</variable>ϭ<value>0</value>, ͑b͒ <variable>x</variable>ϭ<value>0.09</value>, ͑c͒ <variable>x</variable>ϭ<value>0.18</value></material>
+    <material><variable>x</variable>ϭ<value>0.18</value></material>
+	<material><formula>Nd 1.85 Ce 0.15 CuO y</formula></material>
+	<material><formula>Nd 2Ϫx Ce x CuO y</formula></material>
+    <material><variable>x</variable>ϭ<value>0</value></material>
+    <material><variable>x</variable>ϭ<value>0.09</value></material>
+	<material><name>NSCCO</name></material>
+	<material><formula>Nd 1.82Ϫx Sr x Ce 0.18 CuO y</formula></material>
+	<!-- <material><formula>Sr0.09</formula></material> -->
+	<!-- <material><formula>Sr0.18</formula></material> -->
+	<!-- <material><formula>Sr0.18</formula></material> -->
+	<material><name>NCCO</name></material>
+</materials>

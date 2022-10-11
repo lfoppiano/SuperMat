@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 2 (Nd, Ce) 2 MCu 2 O 9</formula> , <variable>M</variable>=<value>Al, Co, Ga</value></material>
+	<material><formula>Sr2(Y, Ca)GaCu2O7</formula></material>
+	<material><formula>Sr2(Nd, Ce)2NbCu2O10</formula></material>
+	<material><formula>Sr 2 LnGaCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Ln 2 NbCu 2 O 10</formula> , <variable>Ln</variable>=<value>Lanthanide</value>)</material>
+	<material><formula>Sr 2 (Nd, Ce) 2 GaCu 2 O 9</formula></material>
+	<material><formula>Sr 2 LnGaCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Ln 2 NbCu 2 O 10</formula></material>
+	<material><formula>Sr 2 LnGaCu 2 O 7</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>Nd 2 O 3</formula></material>
+	<material><formula>Ce 2 (CO 3 ) 3 •5H 2 O</formula></material>
+	<material><formula>Ga 2 O 3</formula></material>
+	<material><formula>Al(NO 3 ) 3 •9H 2 O</formula></material>
+	<material><formula>CoC 2 O 4</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x MCu 2 O 9±δ</formula> for <variable>M</variable>=<value>Al, Co, Ga</value> and <variable>x</variable>=<value>0.35, 0.5 and 0.65</value></material>
+	<material><formula>Sr2(Nd, Ce)2GaCu2O9</formula></material>
+	<material><formula>Sr2NdGaCu2O7</formula></material>
+	<material><formula>Sr2(Nd, Ce)2NbCu2O10</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x GaCu 2 O 9</formula></material>
+	<material><variable>x</variable>=<value>0.65</value>;</material>
+	<material><formula>Sr 2 Nd 1.5 Ce 0.5 NbCu 2 O 10</formula></material>
+	<material><formula>Sr 2 LnGaCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Ln 2 NbCu 2 O 10</formula></material>
+	<material><formula>Sr 2 Nd 1.35 Ce 0.65 GaCu 2 O 9-δ</formula></material>
+	<material><formula>CeO 2</formula></material>
+	<material><formula>CeO 2</formula></material>
+	<material><formula>Sr 2 (Nd, Ce) 2 GaCu 2 O 9</formula></material>
+	<material><formula>Sr 2 NdGaCu 2 O 7</formula></material>
+	<material><formula>Sr2Nd1.35Ce0.65GaCu2O9-δ</formula></material>
+	<material><formula>Sr2(Nd, Ce)2GaCu2O9-δ</formula></material>
+	<material><formula>Sr 2 Nd 1.35 Ce 0.65 GaCu 2 O 9</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x CoCu 2 O 9</formula></material>
+	<material><formula>Sr 2 NdCoCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Nd 1.2 Ce 0.8 CoCu 2 O 9</formula></material>
+	<material><formula>Sr2Nd1.35Ce0.65GaCu2O9-δ</formula></material>
+	<material><formula>Sr 2 YCoCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Nd 1-x Ce x AlCu 2 O 9</formula></material>
+	<material><formula>Sr 2 Nd 1.2 Ce 0.8 AlCu 2 O 9</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x AlCu 2 O 9-δ</formula></material>
+	<material><variable>x</variable><value>&lt;0.80</value></material>
+	<material><formula>Sr 2 Nd 1.35 Ce 0.65 GaCu 2 O 9-δ</formula></material>
+	<material><formula>Sr 2 Nd 1.35 Ce 0.65 AlCu 2 O 9-δ</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x MCu 2 O 9</formula> (<variable>M</variable> = <value>Ga, Al, Co</value>)</material>
+	<material><formula>Sr 2 (Ln,Ca)GaCu 2 O 7</formula></material>
+	<material><formula>Sr 2 Nd 2-x Ce x NbCu 2 O 10</formula></material>
+</materials>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><shape>polycrystalline</shape> <formula>MgB 2</formula></material>
+	<material><shape>polycrystalline</shape> <formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><doping>poly- crystalline</doping> <formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>Tantalum</name></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+</materials>

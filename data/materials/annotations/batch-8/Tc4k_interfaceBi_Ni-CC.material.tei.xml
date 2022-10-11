@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Ni/Bi</formula><shape> bilayers</shape></material>
+	<material><formula>Bi</formula></material>
+	<material>epitaxial 20 nm <formula>Bi</formula>(110) <shape>film</shape> on <substrate>Cu(001)/MgO(001</substrate>)</material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Ni</formula><fabrication>(3 nm)</fabrication>/<formula>Bi</formula><fabrication>(20 nm)</fabrication></material>
+	<material><formula>Ni</formula><fabrication>(3 nm)</fabrication>/<formula>Bi</formula><fabrication>(20 nm)</fabrication></material>
+	<material><formula>Ni</formula></material>
+	<material><fabrication>3 nm</fabrication><formula> Ni</formula>(001) <shape>film</shape></material>
+	<material><fabrication>20 nm rhombohedra</fabrication> <formula>Bi</formula>(110)</material>
+	<material><formula>Bi</formula>(<fabrication>20 nm</fabrication>)/<formula>Ni</formula><fabrication>(3 nm)</fabrication></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi/Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<!-- <material><formula>Bi(6 nm)/Ni</formula>(<value>0.18 nm)/Cu</value>(2 nm)</material> -->
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula><fabrication>(20 nm)</fabrication>/<formula>Cu</formula><fabrication>(2 nm)</fabrication></material>
+	<material><formula>Bi/Ni</formula><shape> bilayers</shape></material>
+	<material><doping>Bi</doping> <shape>film</shape></material>
+	<material><formula>Ni</formula><shape> layer</shape></material>
+	<material><formula>Ni</formula></material>
+	<material><fabrication>Ni layers between 2 -4 nm thick</fabrication></material>
+	<material>ferromagnetic <formula>Ni</formula></material>
+	<material><formula>Bi</formula> <shape>film</shape></material>
+	<material><formula>Ni</formula> <shape>film</shape></material>
+	<material><formula>Ni</formula> <shape>films</shape></material>
+	<material><fabrication>thick</fabrication><formula> Ni</formula> <shape>films</shape></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Bi</formula></material>
+	<!-- <material><formula>Bi/Ni(4</formula> nm) samples with <doping>a fixed Ni</doping>(4 nm)</material> -->
+	<material><formula>Bi</formula></material>
+	<material><formula>Bi</formula><fabrication>(15 nm)</fabrication>/<formula>Ni</formula><fabrication>(4 nm)</fabrication></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula> <shape>film</shape></material>
+	<material><formula>Ni</formula> <shape>film</shape></material>
+	<material><formula>Ni</formula><fabrication>(6 nm)</fabrication></material>
+	<material><fabrication>35 nm</fabrication> of <formula>Bi</formula></material>
+	<material><formula>Bi</formula> <shape>thin films</shape> up to 90 nm</material>
+	<material><doping>Bi</doping> <shape>films</shape></material>
+	<material><doping>Bi</doping> <shape>film</shape></material>
+	<material><formula>Bi</formula></material>
+	<material><doping>Bi</doping> <shape>films</shape></material>
+	<material><name>epitaxial Bi/Ni</name></material>
+	<material><name>Indium</name></material>
+	<material><formula>Bi</formula><fabrication> (20 nm)</fabrication>/<formula>Ni</formula><fabrication> (2 nm)</fabrication></material>
+	<!-- <material><name>Bi surface</name></material> -->
+	<material><formula>Nb</formula></material>
+	<material><fabrication>100 nm Nb film measured with a gold tip</fabrication></material>
+	<material><formula>Nb</formula></material>
+	<material><formula>La0.67Sr0.33MnO3</formula> (<name>LSMO</name>)</material>
+	<!-- <material><name>Bi(20</name> nm)/<substrate>Ni(2 nm)/MgO(100</substrate>)</material> -->
+	<!-- <material><doping>Bi and Ni/Bi on Cu</doping>(2nm)/<name>MgO(001</name>)</material> -->
+	<material><formula>Ni</formula>/<formula>Bi</formula></material>
+	<!-- <material><name>Bi(110</name>)/<substrate>Ni(001)/MgO(001</substrate>)</material> -->
+	<material><formula>Bi</formula>/<formula>Ni</formula>/<formula>MgO</formula></material>
+	<material><formula>Bi</formula>/<formula>Ni</formula></material>
+	<material><formula>Bi</formula>/<formula>Cu</formula>/<formula>MgO</formula> sample</material>
+	<material><formula>Bi</formula>/<formula>Ni</formula>/<formula>Cu</formula>/<formula>MgO</formula> sample</material>
+	<material><formula>Bi</formula><fabrication>(20 nm)</fabrication>/<formula>Ni</formula><fabrication>(2 nm)</fabrication></material>
+	<material><formula>Nb</formula> <shape>film</shape> of <fabrication>100 nm</fabrication></material>
+	<material><formula>Bi</formula><fabrication>(20 nm)</fabrication>/<formula>Ni</formula><fabrication>(2 nm)</fabrication></material>
+	<material><formula>Ni</formula>/<formula>Bi</formula>/<formula>Cu</formula>/<formula>Mg</formula> samples</material>
+	<material><formula>Cu</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula>/<formula>Ni</formula>/<formula>MgO</formula> samples</material>
+	<material><formula>Ni</formula></material>
+	<material><formula>Bi</formula></material>
+	<material><formula>Bi</formula><fabrication>(15nm)</fabrication>/<formula>Ni</formula><fabrication>(2nm)</fabrication>/<substrate>MgO(001</substrate>)</material>
+	<material><formula>Bi</formula><fabrication>(15nm)</fabrication>/<formula>Ni</formula><fabrication>(2nm)</fabrication>/<formula>MgO</formula></material>
+</materials>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><name>metallic hydrogen</name></material>
+	<material><name>hydrogen</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><formula>H 3 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>hydrogen</name></material>
+	<material><name>hydrogen</name></material>
+	<material><name>metallic hydrogen</name></material>
+	<material><name>molecular hydrogen</name></material>
+	<material><doping>pure</doping> <name>hydrogen</name></material>
+	<material><formula>SiH 4</formula></material>
+	<material><formula>SnH 4</formula></material>
+	<material><doping>pure</doping> <name>hydrogen</name></material>
+	<material><doping>pure</doping> <name>hydrogen</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><name>hydrogen sulphide</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><name>sulfur</name></material>
+	<material><name>hydrogen sulphide</name></material>
+	<material><name>sulfur</name></material>
+	<material><name>hydrogen sulphide</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>D 2 S</formula></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><doping>pure</doping> <name>sulfur</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material>decomposition of <formula>H 2 S</formula></material>
+	<material><name>elemental sulfur</name></material>
+	<material><name>elemental sulfur</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<!-- <material><formula>3H 2 S R H 6 S 1 2S</formula></material> -->
+	<!-- <material><formula>2H 2 S R H 4 S 1 S</formula></material> -->
+	<!-- <material><formula>H 2 S R H 2 1 S</formula></material> -->
+	<material><formula>(H 2 S) 2 H 2</formula></material>
+	<material><formula>H 3 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 3 S</formula></material>
+	<material><formula>H 3 S</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>D 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>Nb 3 Sn</formula></material>
+	<material><name>sulfur deuteride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>H 2 S</formula></material>
+	<material><formula>D 2 S</formula></material>
+	<material><name>Bi-2223</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur hydride</name></material>
+	<material><name>sulfur deuteride</name></material>
+</materials>

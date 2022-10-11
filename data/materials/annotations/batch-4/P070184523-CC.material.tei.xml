@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Sr 2 RuO 4</formula></material>
+	<material>layered compound <formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+    <material>layered oxide <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><shape>polycrystalline</shape> <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><shape>single crystalline</shape> <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+    <!-- check -->
+	<material>single- phased <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><shape>single crystals</shape> of <formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+<!--    <material><formula>Cerasolzer #123</formula></material>-->
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag5Pb2O6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>W</formula></material>
+	<material><formula>Be</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><shape>single crystals</shape> of <formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+	<material><formula>Ag 5 Pb 2 O 6</formula></material>
+</materials>

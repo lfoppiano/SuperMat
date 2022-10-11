@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>fluorine</doping>-doped <name>oxyarsenide</name> <formula>LaO 1-x F x FeAs</formula></material>
+	<material><doping>fluorine</doping>- doped <name>iron and lanthanum oxyarsenide</name> <formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><name>iron</name></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LnOFeAs</formula> <name>oxyarsenides</name> of the majority of light rare-earth metals <variable>Ln</variable> <value>Ce, Pr, Nd, Sm, Gd, Tb, and Dy</value></material>
+	<material><doping>fluorine</doping>-doped <name>samarium oxyarsenide</name> <formula>SmO 1Àx F x FeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LnO 1Àx FeAs</formula></material>
+	<material><formula>NdO 1Àx FeAs</formula></material>
+	<material><formula>SmO 1Àx FeAs</formula></material>
+	<material><formula>AFe 2 As 2</formula>, where <variable>A</variable> stands for the alkali- earth metals (<value>Ca, Cr, and Ba</value>)</material>
+	<material><name>122-phase</name> <formula>AFe 2 As 2</formula></material>
+	<material><formula>LnOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<!-- <material><doping>alkali-earth</doping> metals (<value>K, Na, Cs</value>) into <name>A nets</name></material> -->
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>Sr 1Àx Cs x Fe 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>Li 0:6 FeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaFeAsO 1Àx F x</formula></material>
+	<material><formula>LaFeAsO</formula></material>
+	<material><formula>LaFeAsO 1Àx F x</formula></material>
+	<material><formula>LaOFeAs or LaO 1Àx F x FeAs</formula></material>
+	<material><formula>NdO 1Àx F x FeAs</formula></material>
+	<material>PC<formula> NdO 1Àx F x FeAs</formula></material>
+	<material><formula>NdO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>NdO 0:9 F 0:1 FeAs</formula></material>
+	<material><formula>La 1Àx K x O 1Àx F x FeAs</formula> (<variable>x</variable> <value>0:15, 0.20</value>)</material>
+	<material><doping>conven- tional fluorine</doping>-doped <formula>LaO 1Àx F x FeAs</formula> <name>oxyarsenide</name></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>NdO 0:85 FeAs</formula></material>
+	<material><formula>NdO 0:85 FeAs</formula></material>
+	<material><formula>SmO 0:7 F 0:3 FeAs</formula></material>
+	<material><formula>NdO 0:82 F 0:18 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>NdO 0:82 F 0:18 FeAs</formula> <shape>single crystals</shape></material>
+	<material><formula>NdO 0:82 F 0:18 FeAs</formula></material>
+	<material><formula>PrO 1Àx FeAs</formula> <shape>crystal</shape></material>
+	<material><formula>SmO 0:7 F 0:3 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><shape>single-crystal</shape> <formula>NdO 0:82 F 0:18 FeAs</formula></material>
+	<material><name>111-phase</name> <formula>LnOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> <shape>powders</shape></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnO 1Àx FeAs, Ln La, Ce, Pr, Nd</formula>, and <formula>Sm</formula></material>
+	<material><variable>x</variable> <value>4 0:07</value></material>
+	<material>(<variable>x</variable> <value>&gt; 0:07</value>) <formula>SmO 1Àx F x FeAsO</formula></material>
+	<material><variable>x</variable> $ <value>0:15</value></material>
+	<material><formula>SmO 1Àx F x FeAs</formula> )</material>
+	<material><variable>x</variable> <value>0:20</value></material>
+	<material><doping>fluorine</doping>-doped <name>oxyarsenide</name> <formula>LaO 1Àx F x FeAs</formula></material>
+	<material><variable>x</variable> <value>&lt; 0:04</value></material>
+	<material><variable>x</variable> <value>&gt; 0:045</value>, <formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> (<variable>x</variable> $ <value>0:04À0:06</value>)</material>
+	<material><formula>LnOFeAs</formula></material>
+	<!-- <material><doping>15% of oxygen vacancies</doping></material> -->
+	<material><formula>LnO 0:85 FeAs</formula> phases (<name>Ln LaÀSm</name>)</material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material>(<formula>Sr 3 La</formula>)</material>
+	<material><formula>La 0:85 Sr 0:15 O 1Àx FeAs</formula></material>
+	<material>As-vacancies</material>
+	<material>fluorine impurities</material>
+	<material><formula>LaO 0:9 F 0:1 FeAs 1Àx</formula></material>
+	<material><formula>LnOFePn</formula> (<variable>Ln</variable> <value>La, Nd, Pn As, P</value>)</material>
+	<material><formula>SmO 1Àx F x FeAs for x 0</formula></material>
+	<material><variable>x</variable> <value>0:05</value></material>
+	<material><variable>x</variable> <value>0:10</value></material>
+	<material><variable>x</variable> <value>0:12</value></material>
+	<material><variable>x</variable> <value>0:15</value></material>
+	<material><variable>x</variable> <value>0:20</value></material>
+	<material><variable>x</variable> $ <value>0:15</value></material>
+	<material><formula>LnOFeP</formula> (Ln LaÀNd)</material>
+	<material><formula>LnORuP</formula> (<variable>Ln</variable> <value>LaÀNd, Sm, Gd</value>)</material>
+	<material><formula>LnOCoP</formula> (<variable>Ln</variable> <value>La ± Nd ± Sm</value>)</material>
+	<material><formula>LnOZnAs</formula> <name>oxyphosphides</name> (<variable>Ln</variable> <value>Y, La ± Nd, Sm, Gd ± Tm</value>)</material>
+	<material><formula>LnOZnAs</formula> <name>oxyarsenides</name> (<variable>Ln</variable> <value>Y, La ± Nd, Sm, Gd ± Dy</value>)</material>
+	<material><formula>NdO 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><doping>fluorine</doping>-doped <formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LnOZn</formula> (<value>P, As</value>)</material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><doping>fluorine</doping>-doped <formula>LnO 1Àx F x FeAs</formula></material>
+	<material><shape>polycrystalline</shape> <formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><doping>undoped</doping> tetragonal ZrCuSiAs-type <formula>LnOMPn</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaO 0:94 F 0:06 FeP</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaFe 4 P 12</formula></material>
+	<material><name>lanthanum</name></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> (<variable>x</variable> <value>0:12À0:15</value>)</material>
+	<material><formula>LnOFeAs</formula> phases (<value>Ln Ce, Pr, Nd, Sm, Gd</value>)</material>
+	<material><formula>GdO 1Àx F x FeAs</formula>)</material>
+	<material><formula>TbO 1Àx F x FeAs</formula></material>
+	<material><formula>DyO 1Àx F x FeAs</formula></material>
+	<material>unstable stoichio- metric <formula>(TbDy)OFeAs</formula></material>
+	<material><formula>Gd 1Àx Th x OFeAs</formula></material>
+	<material><formula>Tb 1Àx Th x OFeAs</formula></material>
+	<material><formula>GdO- FeAs and TbOFeAs</formula></material>
+	<material><formula>LnO 0:85 FeAs</formula> phases (<variable>Ln</variable> <value>La, Ce, Pr, Nd, Sm</value>)</material>
+	<material><formula>LnOFeAs</formula> <name>oxyarsenides</name></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>La 0:85 Sr 0:15 O 0:87 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> samples with <variable>x</variable> <value>0:05 ± 0.12</value></material>
+	<!-- <material><formula>LaO 0:9 F 0:1 FeAs 1Àx , x 0:05À0:1</formula></material> -->
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 0:9 F 0:1 FeAs 1Àx</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>La 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LnO 0:85 FeAs</formula> <name>oxyarsenides</name> (<variable>Ln</variable> <value>La, Ce, Pr, Nd, Sm</value>)</material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>La 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>CeO 0:88 F 0:12 FeAs</formula></material>
+	<material><formula>La 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>CeO 0:88 F 0:12 FeAs</formula></material>
+	<material><formula>La 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>CeO 0:88 F 0:12 FeAs</formula></material>
+	<material><formula>La 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>CeO 0:88 F 0:12 FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><variable>x</variable> <value>0 and 0.05</value></material>
+	<material><variable>x</variable> <value>0:15 and 0.30</value></material>
+	<material><formula>SmO 0:85 F 0:15 FeAs</formula></material>
+	<material><formula>SmO 0:70 F 0:30 FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><formula>LnOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LnOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>NdO 0:82 F 0:18 FeAs</formula></material>
+	<material><formula>La 0:9 K 0:2 O 0:8 F 0:8 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 0:82 F 0:18 FeAs</formula></material>
+	<material><formula>NdO 0:82 F 0:18 FeAs</formula></material>
+	<material><formula>LaO 0:9 F 0:1 FeAs</formula></material>
+	<material><shape>single-crystal</shape> <formula>SmO 0:8 F 0:2 FeAs</formula></material>
+	<material><formula>SmO 0:8 F 0:2 FeAs</formula> <shape>single crystal</shape></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> samples for <variable>x</variable> <value>0, 0.13</value></material>
+	<material><formula>SmO 1Àx F x FeAs for x 0:05, 0.15</formula></material>
+	<material><doping>undoped</doping> <formula>LnOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> with <variable>x</variable> <value>0 and 0.15</value></material>
+	<material><doping>undoped</doping> <formula>LaOFeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><variable>x</variable> <value>0:05</value></material>
+	<material><variable>x</variable> <value>0:15</value></material>
+	<material><formula>(La, Sm) O 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs (x 0:15 33], x 0:12, 0.15</formula></material>
+	<material><variable>x</variable> <value>0, 0.12, 0.15, 0.2</value></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeP</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> (<variable>x</variable> <value>0, 0.1, 0.2</value> , and <variable>x</variable> <value>0:07</value> )</material>
+	<material><formula>NdO 1Àx F x FeAs</formula> (<variable>x</variable> <value>0, 0.10</value>)</material>
+	<material><formula>LaOCoAs</formula></material>
+	<material><formula>LaOCoP</formula></material>
+	<material><shape>polycrystalline</shape> <formula>SmO 0:85 F 0:15 FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula> samples</material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 0:94 F 0:07 FeAs</formula></material>
+	<material><formula>NdO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 0:94 F 0:06 FeP</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 0:94 F 0:06 FeP</formula></material>
+	<material><formula>LnO 1Àx F x FeAs</formula> (<variable>Ln</variable> <value>La, Ce and Pr</value>)</material>
+	<material><shape>single-crystal</shape> <formula>NdO 0:90 F 0:10 FeAs</formula></material>
+	<material><formula>NdO 0:90 F 0:10 FeAs</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 0:9 FeAs</formula></material>
+	<material><formula>SmO 0:85 FeAs</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaO 0:9 FeAs</formula></material>
+	<material><formula>SmO 0:85 FeAs</formula></material>
+	<material><formula>LaOFeAs</formula> case</material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>La 0:9 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> (<variable>x</variable> <value>0, 0.04 and 0.11</value>)</material>
+	<material><formula>LaO 0:9 F 0:1 FeAs</formula></material>
+	<material><formula>PrO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 1Àx FeAsO</formula> (<variable>x</variable> <value>0, 0.25, 0.4</value>)</material>
+	<material><formula>NdFeAsO 0:6</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 0:89 F 0:11 FeAs</formula></material>
+	<material><formula>La 1:85 Sr 0:15 CuO 4</formula></material>
+	<material><formula>LaO 0:9 F 0:1 FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> (<variable>x</variable> <value>0, 0.04 and 0.11</value>)</material>
+	<material><formula>LaO 1Àx FeAs</formula> compositions (<variable>x</variable> <value>0, 0.25, 0.4</value>)</material>
+	<material><doping>undoped</doping> <formula>LaOFeAs and SmOFeAs</formula> <shape>single crystals</shape></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>SmOFeAs</formula></material>
+	<material><formula>SmOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> and <formula>CeO 1Àx F x FeAs</formula></material>
+	<material><formula>CeO 1Àx F x FeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOMAs</formula> (<variable>M</variable> <value>V, Cr, ., Ni, Cu</value>)</material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Y, Ce, Pr, Nd, Sm</value>)</material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Ce, Pr, Nd</value>)</material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaOMBi</formula> (<variable>M</variable> <value>V, Cr, . . ., Ni, Cu</value>)</material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>SmOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeP</formula> <shape>crystal</shape></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Y, Ce, Pr, Nd, Sm</value>)</material>
+	<material><formula>LaOMAs</formula> (<variable>M</variable> <value>V, Cr, . . ., Ni, Cu</value>)</material>
+	<material><formula>LaO(Fe, Ni)P</formula></material>
+	<material><formula>LaOMBi</formula> (<variable>M</variable> <value>V, Cr, . . ., Ni, Cu</value>)</material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Y, Ce, Pr, Nd, Sm</value>)</material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Ce, Pr, Nd</value>)</material>
+	<material><formula>LaOMAs</formula> <shape>crystals</shape></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaONiAs</formula></material>
+	<material><formula>LaOCuAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaONiAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOMBi</formula></material>
+	<material><formula>LaOMAs</formula> (curve 2) [177], where <variable>M</variable> <value>V, Cr, . . ., Ni, Cu</value></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaONiP</formula></material>
+	<material><formula>LaOMBi</formula> oxybismuthides (<variable>M</variable> <value>V, Cr, . . ., Ni, Cu</value>)</material>
+	<material><formula>LaONiBi</formula></material>
+	<material><formula>LaOFeBi</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaONiBi</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnO 0:85 FeAs</formula> (<variable>Ln</variable> <value>Sm and Nd</value>)</material>
+	<material><formula>NdO 0:85 FeAs</formula></material>
+	<material><formula>SmO 0:85 FeAs</formula></material>
+	<material><formula>LaOFeAs</formula> <shape>crystal</shape></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>SmO 1Àx F x FeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><doping>undoped</doping> <formula>LaOFeAs</formula></material>
+	<material><name>oxyarsenide crystal</name></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LaOFeP</formula></material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Pr, Nd, Sm, Ce</value>)</material>
+	<material><doping>Undoped</doping> <formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Pr and Nd</value>)</material>
+	<material><formula>LnOFeAs</formula> <name>oxyarsenides</name>, where <variable>Ln</variable> <value>La, Sm, and Ce</value></material>
+	<material><doping>doped</doping> <formula>LnOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>PrOFeAs</formula></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>CeOFeAs</formula></material>
+	<material><formula>SmOFeAs</formula></material>
+	<material><doping>doped</doping> <formula>CeOFeAs</formula></material>
+	<material><formula>CeRhIn 5</formula></material>
+	<material><formula>CeCu 2 Si 2</formula></material>
+	<material><formula>UPd 2 Al 3</formula></material>
+	<material><formula>NdO 1Àx F x FeAs</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgCNi 3</formula></material>
+	<material><formula>LnM 2 B 2 C</formula></material>
+	<material><formula>Ln 2 C 2 X 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>NdOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><doping>boron</doping>-doped <name>diamond</name></material>
+	<material><shape>single-and polycrystalline</shape> <formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula> (<variable>Ln</variable> <value>Pr, Nd, Sm, Ce</value>)</material>
+	<material><doping>fluorine</doping>-doped <formula>CeOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula> <shape>single crystal</shape></material>
+	<material><formula>LaOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>MgCNi 3</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>YNi 2 B 2 C</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula> <shape>crystals</shape></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><doping>potassium</doping>-doped <name>arsenide</name> <formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>Ba 0:6 K 0:4 Fe 2 As 2</formula></material>
+	<material><formula>LaIr 2 Ge 2</formula></material>
+	<material><formula>LaRu 2 P 2</formula></material>
+	<material><formula>YIr 2Àx Si 2x</formula></material>
+	<material><formula>BaNi 2 P 2</formula></material>
+	<material><formula>AFe 2 As 2</formula> phases (where <variable>A</variable> is an <value>alkali- earth metal</value>)</material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><shape>polycrystalline</shape> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>KFe 2 As 2</formula></material>
+	<material><formula>CsFe 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>crystals</shape></material>
+	<material><formula>Sr 1Àx K x Fe 2 As 2</formula> and <formula>A 0:6 K 0:4 Fe 2 As 2</formula> (<variable>A</variable> <value>Sr, Ba</value>) <shape>single crystals</shape></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><shape>polycrystalline ceramics</shape> <formula>BaFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>single crystal</shape></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>crystal</shape></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>Ca</formula>; <formula>Sr</formula>; <formula>Ba 1Àx K</formula>; <formula>Na</formula>; <formula>Cs x Fe 2 As 2</formula></material>
+	<material><formula>Ba 0:6 K 0:4 Fe 2 As 2</formula> <shape>crystal</shape></material>
+	<material><formula>BaFe 2 As 2</formula> <shape>crystal</shape></material>
+	<material><formula>Sr x K 1Àx Fe 2 As 2</formula> <shape>crystal</shape> structure for a series of samples with <variable>x</variable> <value>0, 0.1, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9, and 1.0</value></material>
+	<material><formula>Sr 0:9 K 0:1 Fe 2 As 2</formula></material>
+	<material><formula>Sr 0:1 K 0:9 Fe 2 As 2</formula></material>
+	<material><formula>Sr 0:9 K 0:1 Fe 2 As 2</formula></material>
+	<material><formula>Sr 0:1 K 0:9 Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Ba 0:6 K 0:4 Fe 2 As 2</formula></material>
+	<material><formula>Sr 1Àx K; Cs x Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula> <shape>single crystals</shape></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>K 1Àx Sr x Fe 2 As 2</formula></material>
+	<material><variable>x</variable> $ <value>0:5À0:6</value></material>
+	<material><formula>K 1Àx Sr x Fe 2 As 2</formula></material>
+	<material><doping>undoped</doping> <formula>CaFe2As2</formula>, <formula>SrFe2As2</formula>, and <formula>BaFe2As2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>(Sr, Ba, La) Fe 2 As 2</formula></material>
+	<material><formula>(Sr, Ba)Fe 2 As 2</formula></material>
+	<material><formula>Ba 0:5 K 0:5 Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Ba 0:5 K 0:5 Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2 3 Ba 0:5 K 0:5 Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><doping>electron-doped</doping> <formula>LaOFeAs</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><variable>x</variable> <value>0:2</value></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula> diagram</material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>BaFe2As2</formula></material>
+	<material><formula>Ba0.5K0.5Fe2As2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>LaOFeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>FeAs</formula></material>
+	<material><formula>FeAs</formula></material>
+	<material><formula>FeAs</formula></material>
+	<material><formula>LnOFeAs</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><doping>cobalt</doping>-doped <formula>LaOFeAs</formula></material>
+	<material><formula>LaOFe 0:89 Co 0:11 As</formula> )</material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>Li 0:6 FeAs</formula> )</material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>LaO 1Àx F x FeAs</formula></material>
+	<material><formula>HoO 1Àd FeAs</formula></material>
+	<material><formula>YO 1Àd FeAs</formula></material>
+	<material><formula>DyO 1Àd FeAs</formula></material>
+	<material><formula>TbO 1Àd FeAs</formula></material>
+	<material><formula>GdONiBi</formula></material>
+	<material><formula>Gd 0:9 Sr 0:1 ONiBi</formula></material>
+	<material><formula>PrO 1Àd FeAs</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>Eu 0:5 K 0:5 Fe 2 As 2</formula></material>
+	<material><formula>BaFe 1:8 Co 0:2 As 2</formula></material>
+	<material><formula>SrNi 2 As 2</formula></material>
+	<material><formula>BaFe 1:9 Ni 0:1 As 2</formula></material>
+	<material><formula>BaNi 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>Li 0:5 FeAs</formula></material>
+	<material><formula>LiCoAs</formula></material>
+	<material><name>iron monoselenide</name></material>
+	<material><formula>FeSe 1Àx</formula> (<variable>x</variable> $ <value>0:12</value>)</material>
+	<material><formula>FeSe 1Àx</formula></material>
+	<material><formula>FeSe 1Àx</formula> <shape>single crystals</shape></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>FeSe 1Àx Te x 0:82</formula></material>
+	<material><formula>FeSe</formula></material>
+	<material><formula>K 1Àx Sr x Fe 2 As 2</formula></material>
+	<material><formula>Sr 0:6 K 0:4 Fe 2 As 2</formula></material>
+	<material><formula>Sr 0:6 Cs 0:4 Fe 2 As 2</formula></material>
+	<material><shape>single-crystal</shape> <formula>BaFe 2 As 2</formula> and <formula>Ba 0:55 K 0:45 Fe 2 As 2</formula></material>
+	<material><formula>Ba 0:55 K 0:45 Fe 2 As 2</formula></material>
+	<material><shape>single-crystal</shape> <formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><doping>undoped</doping> <formula>CaFe 2 As 2</formula> , <formula>SrFe 2 As 2</formula> , and <formula>BaFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2 3 SrFe 2 As 2 3 BaFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Ba 0:6 K 0:4 Fe 2 As 2</formula></material>
+	<material><formula>Ba 0:55 K 0:45 Fe 2 As 2</formula></material>
+	<material><formula>Sr 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>SrFe 2 As 2</formula></material>
+	<material><formula>EuFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>CaFe 2 As 2</formula></material>
+	<material><formula>AFe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>Ba 1Àx K x Fe 2 As 2</formula></material>
+	<material><formula>BaFe 2 As 2</formula></material>
+	<material><formula>BaFe2As2</formula></material>
+	<material><formula>Ba0.6K0.4Fe2As2</formula></material>
+</materials>

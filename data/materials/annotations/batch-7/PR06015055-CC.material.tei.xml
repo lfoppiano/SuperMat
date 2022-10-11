@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><doping>Zn</doping>-doped <formula>YBa 2 Cu 3 O 7−δ</formula></material>
+	<material><formula>YBa2(Cu1−zZnz)3O6.78</formula> <shape>crystals</shape> with <value>0≤</value><variable>z</variable><value>≤0.013</value></material>
+	<material><doping>under- doped</doping> <name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><formula>YBa 2 (Cu 1−z Zn z ) 3 O y</formula> <shape>crys- tals</shape> with <variable>y</variable>=<value>6.78</value></material>
+	<material><variable>y</variable>=<value>6.78</value></material>
+	<material><doping>pure</doping> <shape>crystals</shape></material>
+	<material><name>YBCO</name></material>
+	<material><doping>Zn</doping>-doped <shape>crystalline thin films</shape></material>
+	<material><doping>Zn</doping>-doped <name>YBCO</name> <shape>single crystals</shape></material>
+	<material><variable>y</variable>=<value>6.78</value></material>
+	<material><doping>pure</doping> and <doping>Zn</doping>-doped sam- ples</material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><doping>Zn</doping>-doped samples</material>
+	<material><doping>pure</doping> samples</material>
+	<material><doping>Zn</doping>-doped sample</material>
+	<material><doping>Zn</doping>-doped sample</material>
+	<material><name>YBCO</name></material>
+	<material><doping>overdoped</doping> <formula>Tl 2 Ba 2 CuO 6+δ</formula> (<name>Tl-2201</name>)</material>
+	<material><name>Tl-2201</name></material>
+	<material><name>YBCO</name></material>
+	<material><doping>pure</doping> and <doping>Zn</doping>- doped <name>YBCO</name> (<variable>y</variable>=<value>6.78</value>) <shape>crystals</shape></material>
+	<material><name>YBCO</name></material>
+</materials>

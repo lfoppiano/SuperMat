@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>(La,Sr)2CuO4</formula></material>
+    <!-- wrong from the previous model - let's ignore it -->
+<!--	<material><formula>(Sr +2 1−x Ln +3</formula></material>-->
+<!--    <material><formula>x )CuO 2</formula> (<variable>Ln</variable> = <value>La, Sm, Nd, Gd, etc.</value>)</material>-->
+	<material><formula>(Sr 1−x Nd x )CuO 2</formula></material>
+	<material><formula>(Sr 1−x Nd x )CuO 2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula> (<name>Sr(La)-112</name>)</material>
+	<material><name>Sr(La)-112</name></material>
+    <material>infinite-layer superconducting <shape>film</shape> of <formula>(Sr 1−x Nd x )CuO 2</formula></material>
+    <material>infinite-layer superconductor <formula>Sr 0.9 La 0.1 CuO 2</formula> (<name>Sr(La)-112</name>)</material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>Sr 1−x La x CuO 2</formula></material>
+	<material><variable>x</variable> = <value>0.1</value></material>
+	<material><name>Sr(La)-112</name></material>
+	<material><name>Sr(La)-112</name></material>
+	<material><name>Sr(La)-112</name></material>
+    <!-- <material><name>sample A</name></material> -->
+    <!-- <material><name>samples A, B, and C</name></material> -->
+    <material><formula>Sr(La)-112</formula></material>
+	<material><formula>(La,Sr) 2 CuO 4</formula></material>
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<material><formula>Sr 0.9 La 0.1 CuO 2</formula></material>
+	<material><formula>(La,Sr) 2 CuO 4</formula></material>
+	<!-- <material>sample <name>A</name></material> -->
+	<material><formula>Sr0.9La0.1CuO2</formula></material>
+	<!-- <material>sample <name>A</name></material> -->
+	<!-- <material>sample <name>B</name></material> -->
+	<!-- <material>sample <formula>C</formula></material> -->
+	<!-- <material>sample <name>A</name></material> -->
+</materials>

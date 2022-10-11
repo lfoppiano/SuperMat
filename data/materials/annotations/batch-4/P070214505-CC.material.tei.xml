@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La 2−x Sr x CuO 4</formula> <shape>single crystals</shape></material>
+	<material><formula>La2−xSrxCuO4</formula> <shape>single crystals</shape></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>x</variable>= <value>0.15 to 0.069</value></material>
+	<material><variable>x</variable>=<value>0.22</value></material>
+	<material><name>Y BCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>p</variable>=<value>0.063, 0.069, 0.075, 0.09, 0.11, 0.15, 0.22</value></material>
+	<material><variable>x</variable>=<value>0.22</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>p</variable>=<value>0.069</value></material>
+	<material><variable>x</variable>=<value>0.063</value></material>
+	<material><variable>x</variable>=<value>0.063</value></material>
+	<material><variable>p</variable> = <value>0.16</value></material>
+	<material><variable>p</variable> = <value>0.069</value></material>
+	<material><variable>x</variable> = <variable>p</variable> = <value>0.063</value></material>
+	<material><variable>p</variable>=<value>0.069,0.075,0.09,0.11,0.15 and 0.22</value></material>
+	<material><variable>x</variable>=<value>0.22</value></material>
+	<material><variable>x</variable> = <value>0.22</value></material>
+	<material><variable>x</variable> = <value>0.22</value></material>
+	<material><variable>x</variable>=<value>0.22</value>)</material>
+	<material><doping>opti- mally doped</doping> <name>Bi-2212</name></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>x</variable> = <value>0.15</value>)</material>
+	<material><variable>x</variable> = <value>0.19</value></material>
+	<material><variable>x</variable> = <value>0.19</value></material>
+	<material><variable>x</variable> = <value>0.19</value></material>
+	<material><variable>x</variable> = <value>0.22</value>)</material>
+	<material><variable>x</variable> = <value>0.15</value></material>
+	<material><doping>underdoped</doping> <formula>La 2−x Sr x CuO 4</formula> (<variable>p</variable> = <value>0.069, 0.075, 0.09 and 0.11</value>) <shape>single crystals</shape></material>
+    <material><name>La−214</name> sample with <variable>x</variable> = <value>0.15</value></material>
+    <material><formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<variable>p</variable> = <value>0.069</value>)</material>
+	<material><variable>p</variable>=<value>0.069</value></material>
+	<material><variable>p</variable>=<value>0.069</value></material>
+	<material><variable>x ′</variable> = <value>0</value></material>
+	<material><doping>overdoped</doping> <name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><variable>p</variable>=<value>0.069</value></material>
+	<material><variable>p</variable> = <value>0.069</value></material>
+	<material><variable>p</variable>= <value>0.069, 0.075, 0.09, 0.11, 0.15, 0.22</value></material>
+	<material><variable>p</variable>=<value>0.069, 0.075, 0.09, 0.11</value></material>
+	<material><formula>Y Ba 2 Cu 3 O 7</formula> <shape>single crystals</shape></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><variable>p</variable> =<value>0.11 to 0.125</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.16 and 0.22</value>)</material>
+	<material><variable>x</variable> = <value>0.10, 0.16 and 0.19</value>)</material>
+	<material><variable>x</variable> = <value>0.16</value></material>
+	<material><variable>x</variable>=<value>0.10, 0.16 and 0.19</value></material>
+	<material><variable>x</variable> = <value>0.10, 0.16 and 0.22</value></material>
+	<material><variable>x</variable> = <value>0.063</value></material>
+	<material><doping>un- derdoped</doping> <name>Bi − 2212</name> <shape>single crystals</shape></material>
+	<material><variable>x</variable> = <value>0.15</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable>=<value>0.22</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>x</variable>=<value>0.063</value></material>
+	<material><variable>x</variable>=<value>0.22</value></material>
+	<material><variable>x</variable>=<value>0.15</value></material>
+	<material><variable>x</variable>=<value>0.069</value></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> <shape>sin-gle crystals</shape></material>
+	<material><doping>hole doped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+</materials>

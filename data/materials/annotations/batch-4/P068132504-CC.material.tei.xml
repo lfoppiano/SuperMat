@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Na x CoO 2 &quot;yH 2 O</formula></material>
+    <material><formula>Na x CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<!-- <material><doping>two-dimensional</doping> <name>CoO 2</name> <shape>layers</shape> in <doping>the com- pound</doping> <formula>Na 0.35 CoO 2 •yH 2 O</formula></material> -->
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na x CoO 2 •yH 2 O</formula> <shape>powder</shape></material>
+<!--	<material><name>lead manometer</name></material>-->
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula> <shape>powder</shape></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+    <material><formula>MgB 2</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+    <material><formula>Sm 1.88 Ce 0.12 CuO 4−y</formula></material>
+	<material><formula>MgB 2</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+    <material><doping>optimally doped</doping> <name>YBCO</name></material>
+	<material><formula>Sm 1.88 Ce 0.12 CuO 4Ϫy</formula></material>
+	<material><doping>optimally doped</doping> <formula>YBa 2 Cu 3 O 7</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><shape>single crystals</shape> of <formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+	<material><formula>Na 0.35 CoO 2 •yH 2 O</formula></material>
+</materials>

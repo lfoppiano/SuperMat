@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable> = <value>Cs, Rb, K</value>)</material>
+	<material><variable>A</variable> = <value>Cs, Rb and K</value></material>
+	<material><variable>A</variable> = <value>Rb and K</value></material>
+	<material><variable>A</variable> = <value>Cs</value></material>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable> = <value>Cs, Rb, K</value>)</material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>Rb</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>Cd 2 Os 2 O 7</formula></material>
+	<material><formula>Cd 2 Os 2 O 7</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+    <!-- check, this seems a class -->
+<!--	<material><name>β-pyrochlore</name> 4 <name>oxides</name></material>-->
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CeCu 2 Ge 2</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Os 2 O 7</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>Rb</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>Rb</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>KOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CsOs 2 O 6</formula></material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><formula>CeCu 2 Ge 2</formula></material>
+	<material><formula>Cd 2 Re 2 O 7</formula></material>
+	<material><formula>Cd 2 Os 2 O 7</formula></material>
+	<material><formula>K</formula></material>
+	<material><formula>Cs</formula></material>
+	<material><formula>AOs 2 O 6</formula></material>
+	<material><formula>AOs 2 O 6</formula> (<variable>A</variable> = <value>Cs, Rb, K</value>)</material>
+	<material><formula>RbOs 2 O 6</formula></material>
+	<material><variable>A</variable> = <value>Cs, Rb and K</value></material>
+</materials>

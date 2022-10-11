@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula> (<name>Ru-1212</name>)</material>
+	<material><formula>RuSr 2 (Ln 1+x Ce 1-x )Cu 2 O 10-δ</formula> (<name>Ru-1222</name>), where <variable>Ln</variable> = <value>Gd, Eu</value></material>
+	<material><doping>Ce</doping>-doped <name>Ru-1222</name></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7-δ</formula> (<name>YBCO</name>)</material>
+	<material><name>YBCO</name></material>
+	<material><name>YBCO</name></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 LnCu 2 O 8</formula></material>
+	<material><doping>under-doped</doping> <name>YBCO</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>YBCO</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1222</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><name>Ru-1212</name></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuO 2</formula></material>
+	<material><formula>Gd 2 O 3</formula></material>
+	<material><formula>SrCO 3</formula></material>
+	<material><formula>CuO</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>La 2- x (Sr,Ba) x CuO 4</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7-δ</formula></material>
+	<material><formula>YBa 2 Cu 3-x M x O 7-δ</formula></material>
+	<material><formula>YBa 2 Cu 3 O 7-δ</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><name>YBCO</name></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><doping>Cu</doping> doped <formula>Ru 1-x Sr 2 GdCu 2+x O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><doping>under</doping>-doped <formula>YBa 2 Cu 3 O 7-δ</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+	<material><formula>RuSr 2 GdCu 2 O 8</formula></material>
+</materials>

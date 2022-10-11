@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><formula>HgBa2CuO4+x</formula></material>
+	<material><doping>optimally doped</doping> <formula>La 2−x Sr x CuO 4</formula></material>
+	<material><formula>Tl 2 Ba 2 CuO 6+x</formula></material>
+	<material><doping>nearly opti- mally doped</doping> <formula>HgBa 2 CuO 4+x</formula></material>
+	<material><doping>slightly over- doped</doping> <formula>HgBa 2 CuO 4+x</formula></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<name>LSCO</name>)</material>
+	<material><formula>HgBa 2 CuO 4+x</formula> (<name>Hg-1201</name>)</material>
+	<material><name>Hg-1201</name></material>
+	<material><formula>La 2−x Sr x CuO 4</formula> (<variable>p</variable> = <variable>x</variable> = <value>0.10, 0.15, 0.20, 0.22 and 0.24</value>)</material>
+	<material><formula>HgBa 2 CuO 4+x</formula> (<variable>x</variable>=<value>0.10</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>LSCO</name> <shape>sin- gle crystals</shape> with <variable>x</variable> <value>&lt; 0.20</value></material>
+	<material><value>0.14 &lt;</value> <variable>x</variable> <value>&lt; 0.20</value></material>
+	<material><variable>x</variable> = <value>p &lt; 0.20</value></material>
+	<material><variable>x</variable> = <variable>p</variable> <value>≥ 0.20</value></material>
+	<material><name>LSCO</name></material>
+	<material><variable>x</variable> = <value>0.20</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><doping>overdoped</doping> <name>Hg-1201</name></material>
+	<material><variable>p</variable> <value>∼ 0.09</value></material>
+	<material><value>0.18</value></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>Tl-2201</name></material>
+	<material><name>LSCO</name></material>
+	<material><name>Hg-1201</name></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><formula>HgBa2CuO4+x</formula></material>
+	<material><name>Hg-1201</name></material>
+	<material><name>LSCO</name></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+	<material><formula>La2−xSrxCuO4</formula></material>
+</materials>

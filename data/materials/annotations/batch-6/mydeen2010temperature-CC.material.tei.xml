@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material>isostructural and isoelectronic <formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LaFePO</formula></material>
+	<material><formula>LaNiPO</formula></material>
+	<material><formula>LaFeAsO 0.89 F 0.11</formula></material>
+	<material>In <formula>La(O 1−x F x )FeAs</formula></material>
+	<material><formula>Sm(O 1−x F x )FeAs</formula></material>
+	<material><doping>optimally doped</doping> <formula>La(O 1−x F x )FeAs</formula></material>
+	<material><formula>ReFeAsO 1−x</formula> (<variable>Re</variable> = <value>rare-earth metal</value>)</material>
+	<material><formula>In Ba(Fe 0.92 Co 0.08 ) 2 As 2</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>NaFeAs</formula></material>
+	<material>isostructural <formula>NaFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><name>As free &quot;111</name>&quot; compound <formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material>stoichiometric <formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><name>iron-arsenides</name></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula> <shape>polycrystalls</shape></material>
+	<material><name>lead</name></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material>homolog <formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP,</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material>isostructural homolog <formula>LiFeAs</formula></material>
+	<material><formula>LiFeP</formula></material>
+	<material><formula>LiFeAs</formula></material>
+</materials>

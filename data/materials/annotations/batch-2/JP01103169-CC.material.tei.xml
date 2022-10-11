@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<materials>
+	<material><formula>Bi 2 Sr 2 ErCu 2 O 8</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula> <shape>single crystals</shape></material>
+	<material><doping>overdoped</doping> <formula>YBa 2 Cu 3 O y</formula> <shape>crystals</shape></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula> <shape>single crystals</shape></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8</formula> (<variable>R</variable>: <value>rare- earth</value>)</material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula> <shape>single crystals</shape> with <variable>x</variable>=<value>0, 0.1, 0.5, and 1.0</value></material>
+	<material><variable>x</variable>=<value>1.0</value></material>
+	<material><shape>Single crystals</shape> of <formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula></material>
+	<material><formula>Bi 2 O 3</formula></material>
+    <material><formula>SrCO 3</formula> , <formula>CuO</formula>, <formula>CaCO 3</formula></material>
+	<material><formula>Er 2 O 3</formula></material>
+	<material><formula>Al 2 O 3</formula></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><shape>single crystals</shape> of <formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula></material>
+	<material><variable>x</variable>=<value>1.0</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula> <shape>single crystals</shape></material>
+	<material><variable>x</variable>=<value>0 and 0.1</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0</value></material>
+	<material><variable>x</variable>=<value>0.1</value></material>
+	<material><variable>x</variable>=<value>1.0</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8</formula> <shape>single crystals</shape></material>
+	<material><formula>La 2 NiO 4</formula></material>
+	<material><formula>Bi 2 M 3 Co 2 O 9</formula> (<variable>M</variable>=<value>Ca, Sr and Ba</value>)</material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8</formula> (<variable>R</variable>=<value>Er and Y</value>)</material>
+	<material><variable>x</variable>=<value>1.0 and 0.5</value></material>
+	<material><formula>La 2 CuO 4</formula></material>
+	<material><variable>x</variable>=<value>0.5</value></material>
+	<material><variable>x</variable>=<value>1.0 and 0.5</value></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Y x Cu 2 O 8</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x R x Cu 2 O 8</formula></material>
+	<material><formula>La 2−x Sr 1+x Mn 2 O 7</formula></material>
+	<material><formula>La 2−x Sr 1+x Mn 2 O 7</formula></material>
+	<material><formula>Bi 2 Sr 2 Ca 1−x Er x Cu 2 O 8 ,</formula> <shape>single crystals</shape> for <variable>x</variable>=<value>0, 0.1, 0.5 and 1.0</value></material>
+	<material><variable>x</variable> = <value>1.0</value>)</material>
+	<!-- <material><formula>CuO 2</formula></material> -->
+</materials>
