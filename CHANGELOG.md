@@ -21,6 +21,7 @@ Minor updates
 
 ### Changed
 + added references to papers 
++ update data 
 
 
 ## [1.0] – 2020-12-17

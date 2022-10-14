@@ -6,7 +6,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
 
-from grobid_tokenizer import tokenizeAndFilterSimple
+from super_mat.grobid_tokenizer import tokenizeAndFilterSimple
 
 
 def write_on_file(fw, filename, sentenceText, dic_token):
@@ -18,6 +18,22 @@ def write_on_file(fw, filename, sentenceText, dic_token):
 def tokenise(string):
     return tokenizeAndFilterSimple(string)
 
+def get_children_list(soup, verbose=False):
+    children = []
+
+    for child in soup.tei.children:
+        if child.name == 'teiHeader':
+            pass
+            children.append(child.find_all("title"))
+            children.extend([subchild.find_all("s") for subchild in child.find_all("abstract")])
+            children.extend([subchild.find_all("s") for subchild in child.find_all("ab", {"type": "keywords"})])
+        elif child.name == 'text':
+            children.extend([subchild.find_all("s") for subchild in child.find_all("body")])
+
+    if verbose:
+        print(str(children))
+
+    return children
 
 def processFile(finput):
     with open(finput, encoding='utf-8') as fp:
@@ -29,15 +45,7 @@ def processFile(finput):
     #     print(doc)
     soup = BeautifulSoup(doc, 'xml')
 
-    children = []
-    for child in soup.tei.children:
-        if child.name == 'teiHeader':
-            children.append(child.find_all("title"))
-            children.extend([subchild.find_all("p") for subchild in child.find_all("abstract")])
-            children.append(child.find_all("ab", {"type": "keywords"}))
-        elif child.name == 'text':
-            children.append([subsubchild for subchild in child.find_all("body") for subsubchild in subchild.children if
-                             type(subsubchild) is Tag])
+    children = get_children_list(soup)
 
     dic_dest_relationships = {}
     dic_source_relationships = {}
