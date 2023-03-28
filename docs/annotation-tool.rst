@@ -7,7 +7,7 @@
 .. _Inception user guide: https://inception-project.github.io//releases/0.15.0/docs/user-guide.html
 .. _doccano: http://github.com/chakki-works/doccano
 .. _prodigy: https://prodi.gy/
-.. _GitLab issues project page: https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues
+.. _GitLab issues project page: https://github.com/lfoppiano/SuperMat/issues
 .. _report on market research: https://github.com/doccano/doccano/wiki/Report-on-Market-Research
 
 .. _Annotation tools:
