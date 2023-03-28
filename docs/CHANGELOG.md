@@ -32,7 +32,7 @@ First beta release
 + Documentation on annotations using webanno and inception 
 
 
-[Unreleased]: https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/compare/v1.0.0...HEAD
-[1.0.0]: https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/compare/v0.0.1...v1.0.0
+[Unreleased]: https://github.com/lfoppiano/SuperMat/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/lfoppiano/SuperMat/compare/v0.0.1...v1.0.0
 
 <!-- markdownlint-disable-file MD024 MD033 -->

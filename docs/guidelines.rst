@@ -195,28 +195,28 @@ Class and Materials can overlap (see examples :ref:`below <example-class-materia
 Expressions that identify a class:
  - code or definition: ``ba1111 serie``, ``11 series FeSe``, ``HDoped Ba111 serie``
  - name: ``cuprates``, ``iron-based``, ``iron-pnictide``, ``pnictide`` alone (usually referring to ``iron-pnictide``) etc...
- - chunks of text with the suffix ``-based``  are generally classes (e.g. ``iron-based``, ``BiS2-based``, ...). See `#9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34815>`_.
- - (same as before) generic notation that represent more than one material, such as ``R-123`` with R representing the rare earth materials without any reference to any material. See `#18 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/18>`_.
+ - chunks of text with the suffix ``-based``  are generally classes (e.g. ``iron-based``, ``BiS2-based``, ...). See `#9 <https://github.com/lfoppiano/SuperMat/issues/9#note_34815>`_.
+ - (same as before) generic notation that represent more than one material, such as ``R-123`` with R representing the rare earth materials without any reference to any material. See `#18 <https://github.com/lfoppiano/SuperMat/issues/18>`_.
 
 .. note:: Classes referred to the physical mechanism of a superconducting material, such as ``nematic``, ``BCS``, ``conventional``, ``unconventional``, ``nematic``, ``topological``, etc. should not be annotated.
   Classes of superconductors, such as ``type-I`` or ``type-II`` should not be annotated as well.
-  See `#22 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/22>`_.
+  See `#22 <https://github.com/lfoppiano/SuperMat/issues/22>`_.
 
 .. note:: Classes should not be linked, even though the critical temperature is referred to the class, because the information is too vague to be used.
 
- See `discussion in #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34834>`_ and `#8 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/8>`_
+ See `discussion in #9 <https://github.com/lfoppiano/SuperMat/issues/9#note_34834>`_ and `#8 <https://github.com/lfoppiano/SuperMat/issues/8>`_
 
 Largest match
 ^^^^^^^^^^^^^
 
-In the occurrence that several terms, which are also class by themselves, are close together, then the **largest match should be annotated**. For example, in the sentence ``We report transverse field and zero field muon spin rotation studies of the superconducting rhenium oxide pyrochlore, Cd2Re2O7.``, the largest match ``rhenium oxide pyrochlore`` should be annotated. See `#33 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/33>`_.
+In the occurrence that several terms, which are also class by themselves, are close together, then the **largest match should be annotated**. For example, in the sentence ``We report transverse field and zero field muon spin rotation studies of the superconducting rhenium oxide pyrochlore, Cd2Re2O7.``, the largest match ``rhenium oxide pyrochlore`` should be annotated. See `#33 <https://github.com/lfoppiano/SuperMat/issues/33>`_.
 
 See extension of the rule, in the next section.
 
 Modifiers/adjectives preceding or following the class name
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Modifiers of the class name **should not be annotated**. See `decision in #2 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/2>`_.
+Modifiers of the class name **should not be annotated**. See `decision in #2 <https://github.com/lfoppiano/SuperMat/issues/2>`_.
 
  - If the modifier is a compound (e.g. cuprate, etc..), a structure (e.g.  pyrochlore) then should be included. Basically any word giving an idea of the composition.
  - If the modifier is not a compound (e.g. metallic, magnetic, doped, ...) then should be ignored
@@ -230,7 +230,7 @@ Modifiers of the class name **should not be annotated**. See `decision in #2 <ht
 Examples:
  - ``high-tc`` in ``high-tc iron-pnictide`` should not be included in the annotation because it does not add more information (see `discussion in #2 <https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues/2>`_).
 
- - in the expression ``metallic pyrochlore oxide``, the modifier ``metallic`` should be ignored, resulting in the following annotation ``metallic <rs type="class">pyrochlore oxide</rs>``. See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34804>`_)
+ - in the expression ``metallic pyrochlore oxide``, the modifier ``metallic`` should be ignored, resulting in the following annotation ``metallic <rs type="class">pyrochlore oxide</rs>``. See `comment in #9 discussion 1 <https://github.com/lfoppiano/SuperMat/issues/9#note_34804>`_)
 
 .. _example-class-material-overlapping:
 
@@ -251,14 +251,14 @@ Overlap between Class and Material
 
  When in doubt, as a rule-of-thumb, the **singular name usually refers to the material**, while the **plural name to the class**.
 
- See additional discussions in `#46 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/46>`_, `#23 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/23>`_
+ See additional discussions in `#46 <https://github.com/lfoppiano/SuperMat/issues/46>`_, `#23 <https://github.com/lfoppiano/SuperMat/issues/23>`_
 
 Additional information
 ^^^^^^^^^^^^^^^^^^^^^^
 
 In this section there is a collection of discussions and information that are not belonging under any of the previous categories:
 
- - Classes can also be identified by formulas. See discussion in `#9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/20>`_.
+ - Classes can also be identified by formulas. See discussion in `#9 <https://github.com/lfoppiano/SuperMat/issues/20>`_.
 
  - The expression ``HTS`` and it's expansions ``High-Temperature superconductors`` should not be annotated (see above), there are certain cases where HTS is used in combination of the class name.
     - When the class name is a name or a unique identifier such as ``214``, ``111``, in expressions like ``214-HTS``, ``111-HTS`` then only ``214``, ``111`` should be annotated.
@@ -316,7 +316,7 @@ Examples:
 
     ``<rs type="material">Pure MgB 2</rs> material has several advantages``
 
-    See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34820>`_.
+    See `discussion <https://github.com/lfoppiano/SuperMat/issues/9#note_34820>`_.
 
 - In the sentence
     ``-An extremely high critical temperature of about 109 K was achieved in single-unit-cell thick FeSe films deposited on SrTiO 3 [20].``
@@ -325,7 +325,7 @@ Examples:
 
     ``-An extremely high critical temperature of about 109 K was achieved in <rs type="material">single-unit-cell thick FeSe films deposited on SrTiO 3</rs> deposited on SrTiO 3 [20].``
 
-    See `discussion <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34833>`_.
+    See `discussion <https://github.com/lfoppiano/SuperMat/issues/9#note_34833>`_.
 
 - In the sentence
     ``Growth and superconducting transition of Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5) epitaxial thin films``.
@@ -334,14 +334,14 @@ Examples:
 
     ``Growth and superconducting transition of <rs type="material">Pr 1-x Ca x Ba 2 Cu 3 O 7-δ (x ≈0.5) epitaxial thin films</rs>``.
 
-    See `#13 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/13>`_
+    See `#13 <https://github.com/lfoppiano/SuperMat/issues/13>`_
 
 ..
   - Following what said before, structure information are included as of in the following example:
 
     ``unique crystal systems, namely; <rs type="material">hexagonal Mn 5 Si 3 -type</rs> , <rs type="material">tetragonal Cr 5 B 3 and W 5 Si 3 -type</rs> , and <rs type="material">orthorhombic Nb 5 As 3 and Y 5 Bi 3 -type</rs> structures.``.
 
-    See `#35 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/35>`_
+    See `#35 <https://github.com/lfoppiano/SuperMat/issues/35>`_
 
 
 - In the following example
@@ -354,7 +354,7 @@ Examples:
 
     where the ``near optimally doped single crystal`` is included, as an important informtion on doping and ``junctions`` is ignored because it's just an implementation for the measurment, and it does not have impacts on the superconducting critical temperature.
 
-    See `#56 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/-/issues/56>`_.
+    See `#56 <https://github.com/lfoppiano/SuperMat/-/issues/56>`_.
 
 - Example of modifiers that are classes but should not threated as such:
 
@@ -362,7 +362,7 @@ Examples:
 
 
 .. warning::
-    Material modifiers without formula or name, even though they might be linkable, should not be annotated. See `#59 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/-/issues/59>`_.
+    Material modifiers without formula or name, even though they might be linkable, should not be annotated. See `#59 <https://github.com/lfoppiano/SuperMat/-/issues/59>`_.
 
 Doping ratio, abbreviation or variable following or preceding a material formula
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -386,7 +386,7 @@ Example 1:
 
    ``We make the first report that a metallic <rs type="class">pyrochlore oxide</rs> <rs type="material">Cd 2 Re 2 O 7</rs>``
 
- See `comment in #9 discussion 1 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34804>`_, `#27 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/27>`_ or `#28 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/28>`_
+ See `comment in #9 discussion 1 <https://github.com/lfoppiano/SuperMat/issues/9#note_34804>`_, `#27 <https://github.com/lfoppiano/SuperMat/issues/27>`_ or `#28 <https://github.com/lfoppiano/SuperMat/issues/28>`_
 
 Example 2:
     ``Recently discovered BiS 2 -based layered superconductors, R (O,F) BiS 2 (R: La, Ce, Pr, Nd, Yb)``
@@ -400,7 +400,7 @@ Example 3:
  should be annotated as
     ``[...]<rs type="class">Sodium cobalt oxide</rs>, <rs type="material">Na x CoO 2 (x = 0.65 to 0.75)</rs>, have shown [...]``
 
- See `comment in #9 discussion 4 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34816>`_
+ See `comment in #9 discussion 4 <https://github.com/lfoppiano/SuperMat/issues/9#note_34816>`_
 
 Example 4:
     ``After the discovery of superconductivity at 26 K in the iron oxypnictide, LaFeAs(O, F) [1], extensive research on ironbased superconductors has been carried out.``
@@ -408,31 +408,31 @@ Example 4:
  should be annotated as
     ``After the discovery of superconductivity at 26 K in the <rs type="class">iron oxypnictide</rs>, <rs type="material">LaFeAs(O, F)</rs> [1], extensive research on ironbased superconductors has been carried out.``
 
- See `comment in #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34820>`_
+ See `comment in #9 <https://github.com/lfoppiano/SuperMat/issues/9#note_34820>`_
 
 Substrate information
 ^^^^^^^^^^^^^^^^^^^^^
 
 Materials can be bulk, doped or grown on other substrate. If the substrate or plated material is adjacent to the material (e.g. ``blablabla/StRO3``, ``material grown on substrate StRO3``), the whole sequence should be annotated as `<material>` but **if the substrate or plated material is apart from the material name**, it should be ignored.
-When the substrate's Tc is explicitly mentioned, then the substrate shall be annotated as material regardless, and the tc linked to it (Example 4). See `#37 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/37>`_.
+When the substrate's Tc is explicitly mentioned, then the substrate shall be annotated as material regardless, and the tc linked to it (Example 4). See `#37 <https://github.com/lfoppiano/SuperMat/issues/37>`_.
 
 Example 1:
     ``The <rs type="material">basic FeSe</rs> has been extensively investigated in various structural forms: polycrystalline samples , single crystals , thin films and novel monolayer structures (grown on SrTiO 3 ) with a critical temperature reaching <rs type="tcValue">65 K</rs>.``
 
  we annotate ``basic FeSe`` and we link it with ``65K`` even though the temperature is referring to the material + substrate.
- See `discussion on #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34824>`_.
+ See `discussion on #9 <https://github.com/lfoppiano/SuperMat/issues/9#note_34824>`_.
 
 Example 2:
  the whole expression is annotated as ``<material>``:
     ``<rs type="material">P-or Co-doped Ba-122</rs> have lower T c s of about 30 K and 24 K, respectively, which makes helium free operation questionable.``.
 
- See `#12 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/12>`_
+ See `#12 <https://github.com/lfoppiano/SuperMat/issues/12>`_
 
 Example 3:
  in the following case, the preceding modifier (150 nm thick) is included as well as the substrate information:
     ``Another example, in this sentence a) and (b), the critical transition temperature of <rs type="material">150 nm thick Ba122 :Co films grown on MgO substrates</rs> were T onset c = 20 K.``.
 
- See `discussion in #2 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/12#note_34835>`_.
+ See `discussion in #2 <https://github.com/lfoppiano/SuperMat/issues/12#note_34835>`_.
 
 Example 4 (created artificially to explain the concept):
  this example, since the substrate's Tc was explicitly mentioned. Base material and substrate are annotated and linked as separate entities. Should be annotated as follow
@@ -445,14 +445,14 @@ Example 4 (created artificially to explain the concept):
 
 .. note:: Multiple tc values should be linked to the same materials even if substrate is ignored
 
- See `comment in #9 discussion 2 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34805>`_.
+ See `comment in #9 discussion 2 <https://github.com/lfoppiano/SuperMat/issues/9#note_34805>`_.
 
 
 Starting materials, crystal structure, and dopants
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In this section are discussed three elements that might occur in or near a material definition.
- - **Starting material**: the materials used to create the sample described in the text. Usually they are part of the fabrication process. **Do not annotate**. See `#26 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/-/issues/26>`_
+ - **Starting material**: the materials used to create the sample described in the text. Usually they are part of the fabrication process. **Do not annotate**. See `#26 <https://github.com/lfoppiano/SuperMat/-/issues/26>`_
     .. note:: Starting materials with a clear reference to their Critical temperature from the text, should be annotated.
 
  - **Crystal structures**: they are describing the layers of a crystal structure in reference to some materials.
@@ -492,7 +492,7 @@ Out of scope / Ignored / Not to be annotated
 
    ``NiCrAl-CuBe`` represent a piston-cylinder-type cell part of the experiment equipment and should not be annotated.
 
- - Substrate that is appearing alone in the text. See `comment in #9 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/9#note_34805>`_.
+ - Substrate that is appearing alone in the text. See `comment in #9 <https://github.com/lfoppiano/SuperMat/issues/9#note_34805>`_.
 
 - partial information about the material structure such as: ``The crystal has an alternate stacking of BiS 2 and CeO layers`` should be ignored
 
@@ -542,7 +542,7 @@ What to be annotated:
 
  * expressions indicating superconductor critical temperature more precisely, such as ``Tc onset``, ``Tc zero`` and other expressions indicating low or zero resistance (in certain papers, these expression can be arbitrary - see next point)
 
- * expression of Tc with arbitrary definition, for example when the author defines ``Tc by the temperature where resistivity becomes less than 50% of the value``. See `#38 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/38>`_.
+ * expression of Tc with arbitrary definition, for example when the author defines ``Tc by the temperature where resistivity becomes less than 50% of the value``. See `#38 <https://github.com/lfoppiano/SuperMat/issues/38>`_.
 
 
 .. note::
@@ -554,7 +554,7 @@ What to be annotated:
 Modifiers
 ^^^^^^^^^
 
-Modifiers (and their synonyms), such as adjectives, verbs providing additional information, like ``highest Tc`` and ``record Tc``, ``enhancing Tc`` and ``increasing Tc``) should be included in the annotation, for example (`ref #10 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/10>`_):
+Modifiers (and their synonyms), such as adjectives, verbs providing additional information, like ``highest Tc`` and ``record Tc``, ``enhancing Tc`` and ``increasing Tc``) should be included in the annotation, for example (`ref #10 <https://github.com/lfoppiano/SuperMat/issues/10>`_):
 
     - ``max/min``, and other derivation like ``maximum``, ``maximal``, ``minimum``, ``minimal``, ``highest\lowest``
 
@@ -593,12 +593,12 @@ In the following cases the expressions should be completely ignored:
 
         ``While certain experiments indicated an unexpected type-I superconducting phase, other experiments revealed formation of vortices under the application of magnetic fields``.
 
-  * the expression does not express a clear state, for example ``When the high-temperature cuprates are doped with P r the superconductivity is usually suppressed``. See `#14 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/14>`_.
+  * the expression does not express a clear state, for example ``When the high-temperature cuprates are doped with P r the superconductivity is usually suppressed``. See `#14 <https://github.com/lfoppiano/SuperMat/issues/14>`_.
 
-  * the expression is a vague modifier, such as ``other``, ``variation of`` which doesn't add any useful information. See `#19 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/19>`_.
+  * the expression is a vague modifier, such as ``other``, ``variation of`` which doesn't add any useful information. See `#19 <https://github.com/lfoppiano/SuperMat/issues/19>`_.
 
 
-.. warning:: Tc expressions modifiers, such as `nematic` or `s-wave` superconductivity can be ignored. See `#21 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/21>`_.
+.. warning:: Tc expressions modifiers, such as `nematic` or `s-wave` superconductivity can be ignored. See `#21 <https://github.com/lfoppiano/SuperMat/issues/21>`_.
 
 .. _tcValue:
 
@@ -675,21 +675,21 @@ The most common, although not exclusively, keywords used to describe a measureme
 Modifiers
 ^^^^^^^^^
 
-AC/DC modifiers (type of current) should not be included because there is substantially very low difference between the two approaches. See discussion in `#16 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/16>`_.
+AC/DC modifiers (type of current) should not be included because there is substantially very low difference between the two approaches. See discussion in `#16 <https://github.com/lfoppiano/SuperMat/issues/16>`_.
 
 Other methods often used for assessing superconductivity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Method for measurements of other types or minor methods, should not be annotated:
 
- - NMR/NRQ and ARPES shall not be annotated. See `#11 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/11>`_, `#29 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/29>`_
- - ``iodometric double titration`` as well. See `#25 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/25>`_.
- - ``Andreev critical temperature``. See `#31 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/31>`_.
- - ``PCAR``, ``STM``, etc. See examples and (general justification for not annotating them) in `#30 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/30>`_.
- - ``Magnetic torque``. See `#42 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/42>`_.
- - ``Magnetoresistivity``. See `#39 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/issues/39>`_.
+ - NMR/NRQ and ARPES shall not be annotated. See `#11 <https://github.com/lfoppiano/SuperMat/issues/11>`_, `#29 <https://github.com/lfoppiano/SuperMat/issues/29>`_
+ - ``iodometric double titration`` as well. See `#25 <https://github.com/lfoppiano/SuperMat/issues/25>`_.
+ - ``Andreev critical temperature``. See `#31 <https://github.com/lfoppiano/SuperMat/issues/31>`_.
+ - ``PCAR``, ``STM``, etc. See examples and (general justification for not annotating them) in `#30 <https://github.com/lfoppiano/SuperMat/issues/30>`_.
+ - ``Magnetic torque``. See `#42 <https://github.com/lfoppiano/SuperMat/issues/42>`_.
+ - ``Magnetoresistivity``. See `#39 <https://github.com/lfoppiano/SuperMat/issues/39>`_.
 
-.. note:: ``SQUID Magnetometer`` although defining the technique (and not the method) can be annotated in case there are no other expressions that can be used in this particular case. See `#55 <https://gitlab.nims.go.jp/lfoppiano/superconductors-documentation/-/issues/55>`_
+.. note:: ``SQUID Magnetometer`` although defining the technique (and not the method) can be annotated in case there are no other expressions that can be used in this particular case. See `#55 <https://github.com/lfoppiano/SuperMat/-/issues/55>`_
 
 
 **Examples**:
