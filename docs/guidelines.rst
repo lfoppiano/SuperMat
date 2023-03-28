@@ -36,7 +36,7 @@ The general principles apply to every annotation, as a general strategy:
     .. figure:: images/gitlab-issue-screenshot.png
         :alt: GitLab issues recording page screenshot
 
-- Annotations related to complex description should be kept simple, and systematic. If in the same sentence the same entity refers to different labels, it should be carefully revised. See an example at `#1 <https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues/1>`_
+- Annotations related to complex description should be kept simple, and systematic. If in the same sentence the same entity refers to different labels, it should be carefully revised. See an example at `#1 <https://github.com/lfoppiano/SuperMat/issues/1>`_
 
 - Indirect references should not be annotated, e.g. the token ``it`` is only a reference to a superconductor material and should be ignored:
     ::
@@ -228,7 +228,7 @@ Modifiers of the class name **should not be annotated**. See `decision in #2 <ht
     Example of irrelevant modifier to be ignored
 
 Examples:
- - ``high-tc`` in ``high-tc iron-pnictide`` should not be included in the annotation because it does not add more information (see `discussion in #2 <https://gitlab.nims.go.jp/a017873/superconductors-documentation/issues/2>`_).
+ - ``high-tc`` in ``high-tc iron-pnictide`` should not be included in the annotation because it does not add more information (see `discussion in #2 <https://github.com/lfoppiano/SuperMat/issues/2>`_).
 
  - in the expression ``metallic pyrochlore oxide``, the modifier ``metallic`` should be ignored, resulting in the following annotation ``metallic <rs type="class">pyrochlore oxide</rs>``. See `comment in #9 discussion 1 <https://github.com/lfoppiano/SuperMat/issues/9#note_34804>`_)
 
