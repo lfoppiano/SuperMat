@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Foppiano"
+  given-names: "Luca"
+  orcid: "https://orcid.org/0000-0002-6114-6164"
+- family-names: "Dieb"
+  given-names: "Sae"
+  orcid: "https://orcid.org/0000-0002-8111-2009"
+- family-names: "Suzuki"
+  given-names: "Akira"
+  orcid: "https://orcid.org/0000-0002-8167-0414"
+- family-names: "de Castro"
+  given-names: "Pedro Baptista"
+  orcid: "https://orcid.org/0000-0001-8673-2840"
+- family-names: "Iwasaki"
+  given-names: "Suguru"
+  orcid: "https://orcid.org/0000-0002-8181-6137"
+- family-names: "Izuki"
+  given-names: "Azusa"
+- family-names: "Esparza Echevarria"
+  given-names: "Miren Garbine"
+- family-names: "Meng"
+  given-names: "Yang"
+- family-names: "Terashima"
+  given-names: "Kensei"
+  orcid: "https://orcid.org/0000-0003-0375-3043"
+- family-names: "Romary"
+  given-names: "Laurent"
+  orcid: "https://orcid.org/0000-0002-0756-0508"
+- family-names: "Takano"
+  given-names: "Yoshihiko"
+  orcid: "https://orcid.org/0000-0002-1541-6928"
+- family-names: "Ishii"
+  given-names: "Masashi"
+  orcid: "https://orcid.org/0000-0003-0357-2832"
+title: "grobid-superconductors"
+version: 2.0.4
+url: "https://github.com/lfoppiano/grobid-superconductors"
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Foppiano"
+    given-names: "Luca"
+    orcid: "https://orcid.org/0000-0002-6114-6164"
+  - family-names: "de Castro"
+    given-names: "Pedro Baptista"
+    orcid: "https://orcid.org/0000-0001-8673-2840"
+  - family-names: "Ortiz Suarez"
+    given-names: "Pedro"
+    orcid: "https://orcid.org/0000-0003-0343-8852"
+  - family-names: "Terashima"
+    given-names: "Kensei"
+    orcid: "https://orcid.org/0000-0003-0375-3043"
+  - family-names: "Takano"
+    given-names: "Yoshihiko"
+    orcid: "https://orcid.org/0000-0002-1541-6928"
+  - family-names: "Ishii"
+    given-names: "Masashi"
+    orcid: "https://orcid.org/0000-0003-0357-2832"
+  doi: "10.1080/27660400.2021.1918396"
+  journal: "Science and Technology of Advanced Materials: Methods"
+  month: 7
+  start: 34
+  end: 44
+  title: "SuperMat: construction of a linked annotated dataset from superconductors- related publications"
+  issue: 1
+  volume: 3
+  year: 2021
+
