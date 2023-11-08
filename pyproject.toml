@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.bumpversion]
+current_version = "2.1.0"
+commit = "true"
+tag = "true"
+tag_name = "v{new_version}"
+
+[project]
+name = "SuperMat"
+#license = { file = "LICENSE" }
+authors = [
+    { name = "Luca Foppiano", email = "lucanoro@duck.com" },
+]
+maintainers = [
+    { name = "Luca Foppiano", email = "lucanoro@duck.com" }
+]
+description = "SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties."
+readme = "README.md"
+
+dynamic = ['version']
+
+[tool.setuptools_scm]
+
+[project.urls]
+Homepage = "https://supermat.readthedocs.io"
+Repository = "https://github.com/lfoppiano/supermat"
+Changelog = "https://github.com/lfoppiano/supermat/blob/main/CHANGELOG.md"
