@@ -286,7 +286,7 @@ def writeOutput(datas, output):
                         if span['tagIndex'] in rel_dest_source:
                             identifier = ' xml:id="x' + span['tagIndex'] + '"'
 
-                        if pointers is not '' or identifier is not '':
+                        if pointers != '' or identifier != '':
                             tagLabel = '<rs type="' + span_label + '"' + identifier + pointers + '>'
 
                         paragraph += tagLabel
