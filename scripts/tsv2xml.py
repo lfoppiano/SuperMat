@@ -1,4 +1,3 @@
-# transform tei annotation into prodigy annotations
 import argparse
 import os
 from html import escape

@@ -6,3 +6,4 @@ gensim
 pandas
 regex
 bump-my-version
+supermat
