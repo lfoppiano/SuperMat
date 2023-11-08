@@ -1,4 +1,3 @@
-# transform XML Tei to TSV for WebAnno
 import argparse
 import os
 import re
@@ -6,7 +5,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-from grobid_tokenizer import tokenizeSimple
+from supermat.grobid_tokenizer import tokenizeSimple
 
 
 def tokenise(string):

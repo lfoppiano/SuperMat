@@ -6,34 +6,13 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
 
-from super_mat.grobid_tokenizer import tokenizeAndFilterSimple
-
+from supermat.supermat_tei_parser import get_children_list
 
 def write_on_file(fw, filename, sentenceText, dic_token):
     links = len([token for token in dic_token if token[5] != '_'])
     has_links = 0 if links == 0 else 1
     fw.writerow([filename, sentenceText, has_links])
 
-
-def tokenise(string):
-    return tokenizeAndFilterSimple(string)
-
-def get_children_list(soup, verbose=False):
-    children = []
-
-    for child in soup.tei.children:
-        if child.name == 'teiHeader':
-            pass
-            children.append(child.find_all("title"))
-            children.extend([subchild.find_all("s") for subchild in child.find_all("abstract")])
-            children.extend([subchild.find_all("s") for subchild in child.find_all("ab", {"type": "keywords"})])
-        elif child.name == 'text':
-            children.extend([subchild.find_all("s") for subchild in child.find_all("body")])
-
-    if verbose:
-        print(str(children))
-
-    return children
 
 def processFile(finput):
     with open(finput, encoding='utf-8') as fp:

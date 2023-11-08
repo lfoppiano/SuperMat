@@ -2,7 +2,6 @@
 [![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
 [![Build unstable](https://github.com/lfoppiano/SuperMat/actions/workflows/ci-build.yml/badge.svg)](https://github.com/lfoppiano/SuperMat/actions/workflows/ci-build.yml)
 
-
 # SuperMat 
 SuperMat (Superconductors Material) dataset is a manually **linked** **annotated** dataset of superconductors related materials and properties. 
 
@@ -13,66 +12,73 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
         - Sources are referenced in the [Bibliographic](data/biblio) data
         - :warning: The annotations are not public due to copyright, however 
           - :fire: SuperMat can be considerd one of the few un-biased dataset for LLMs evaluation :fire: 
-    - Tabular version of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
+    - CSV of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
     - Material data for segmenting inorganic material names
  - Annotation guidelines:
     - [Online version](https://supermat.readthedocs.io)
     - [Changelog](docs/CHANGELOG.md)
     - [Source](docs), 
  - [Transformation scripts](super_mat/converters)
-    - [tsv2xml](super_mat/converters/tsv2xml.py) / [xml2tsv](super_mat/converters/xml2tsv.py): Transformation from an to the INCEpTION TSV 3.2 format
-    - [xmlSupermat2csv](super_mat/converters/xmlSupermat2csv.py): Converts the corpus into the CSV (*) tabular format
+    - [tsv2xml](scripts/tsv2xml.py) / [xml2tsv](scripts/xml2tsv.py): Transformation from an to the INCEpTION TSV 3.2 format
+    - [xmlSupermat2csv](scripts/xmlSupermat2csv.py): Converts the corpus into the CSV (*) tabular format
  - Analysis Jupyter Notebooks:
-    - [dataset-analysis-labelling.ipynb](super_mat/dataset-analysis-labelling.ipynb)
-    - [dataset-analysis-linking.ipynb](super_mat/dataset-analysis-linking.ipynb)
-    - [dataset-analysis-papers.ipynb](super_mat/dataset-analysis-papers.ipynb)
- 
-## Dataset information
+    - [dataset-analysis-labelling.ipynb](scripts/jupyter/dataset-analysis-labelling.ipynb)
+    - [dataset-analysis-linking.ipynb](scripts/jupyter/dataset-analysis-linking.ipynb)
+    - [dataset-analysis-papers.ipynb](scripts/jupyter/dataset-analysis-papers.ipynb)
+
+Feel free to contact us for any information. 
 
 ## Reference
 
 If you use the data, please consider citing the related paper: 
 
-```
+```bibtex
 @article{doi:10.1080/27660400.2021.1918396,
-author = {Luca Foppiano and Sae Dieb and Akira Suzuki and Pedro Baptista de Castro and Suguru Iwasaki and Azusa Uzuki and Miren Garbine Esparza Echevarria and Yan Meng and Kensei Terashima and Laurent Romary and Yoshihiko Takano and Masashi Ishii},
-title = {SuperMat: construction of a linked annotated dataset from superconductors-related publications},
-journal = {Science and Technology of Advanced Materials: Methods},
-volume = {1},
-number = {1},
-pages = {34-44},
-year  = {2021},
-publisher = {Taylor & Francis},
-doi = {10.1080/27660400.2021.1918396},
+   author = {Luca Foppiano and Sae Dieb and Akira Suzuki and Pedro Baptista de Castro and Suguru Iwasaki and Azusa Uzuki and Miren Garbine Esparza Echevarria and Yan Meng and Kensei Terashima and Laurent Romary and Yoshihiko Takano and Masashi Ishii},
+   title = {SuperMat: construction of a linked annotated dataset from superconductors-related publications},
+   journal = {Science and Technology of Advanced Materials: Methods},
+   volume = {1},
+   number = {1},
+   pages = {34-44},
+   year  = {2021},
+   publisher = {Taylor & Francis},
+   doi = {10.1080/27660400.2021.1918396},
 
-URL = { 
-        https://doi.org/10.1080/27660400.2021.1918396
-    
-},
-eprint = { 
-        https://doi.org/10.1080/27660400.2021.1918396
-    
-}
-
+   URL = { 
+           https://doi.org/10.1080/27660400.2021.1918396
+   },
+   eprint = { 
+           https://doi.org/10.1080/27660400.2021.1918396   
+   }
 }
 ```
  
 ## Usage
 
-### Conversion tools
+### Getting started
 
 To use the scripts and analysis data 
 
-> conda create --name SuperMat pip 
+```bash
+conda create --name SuperMat pip
+pip install -r requirements.txt 
+```
 
-> pip install -r requirements.txt 
+### Conversion tools
+
+```bash
+python scripts/tsv2xml.py --help
+```
+
 
 ### Analysis tools 
 
 The analysis tools provide statistics and information from the dataset, they also run consistency checks of the format and content. 
 Results can be seen directly on the repository. 
- 
-> jupyter-lab 
+
+```bash
+jupyter-lab
+```
 
 
 ### Annotation guidelines
@@ -81,10 +87,11 @@ We use reStructured TExt using the utility [Sphinx](https://www.sphinx-doc.org/e
 
 To build this documentation locally, we recommend to create a virtual environment such as `virtualenv` or `conda`:  
 
-> conda create -name guidelines 
-> conda activate guidelines
->
-> conda install sphinx 
+```bash 
+conda create -name guidelines 
+conda activate guidelines
+conda install sphinx
+``` 
 
 #### Build HTML site
 

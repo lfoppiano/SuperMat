@@ -23,7 +23,6 @@ readme = "README.md"
 dynamic = ['version']
 
 [tool.setuptools]
-py-modules = ['supermat']
 include-package-data = false
 
 [tool.setuptools_scm]
