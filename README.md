@@ -1,5 +1,6 @@
 
 [![Documentation Status](https://readthedocs.org/projects/supermat/badge/?version=latest)](https://supermat.readthedocs.io/en/latest/?badge=latest)
+[![Build unstable](https://github.com/lfoppiano/SuperMat/actions/workflows/ci-build.yml/badge.svg)](https://github.com/lfoppiano/SuperMat/actions/workflows/ci-build.yml)
 
 
 # SuperMat 
@@ -10,7 +11,8 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
     - Superconductors data:
         - [Bibliographic](data/biblio) data references as XML-TEI or JSON (CORD-19) format
         - Sources are referenced in the [Bibliographic](data/biblio) data
-        - :warning: The annotations are not public due to copyright (SuperMat can be used as un-biased dataset for evaluation for LLMs) 
+        - :warning: The annotations are not public due to copyright, however 
+          - :fire: SuperMat can be considerd one of the few un-biased dataset for LLMs evaluation :fire: 
     - Tabular version of the linked annotated entities in the dataset [CSV](data/csv/SuperMat-1.0.csv) (*)
     - Material data for segmenting inorganic material names
  - Annotation guidelines:
