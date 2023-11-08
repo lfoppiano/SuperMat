@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools", "setuptools-scm"]
-build-backend = "setuptools.build_meta"
+#build-backend = "setuptools.build_meta"
 
 [tool.bumpversion]
 current_version = "2.1.0"
@@ -24,9 +24,7 @@ dynamic = ['version']
 
 [tool.setuptools]
 py-modules = ['supermat']
-
-[tool.setuptools.packages.find]
-exclude = ['data', 'docs']
+include-package-data = false
 
 [tool.setuptools_scm]
 
