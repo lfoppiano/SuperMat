@@ -10,7 +10,7 @@ tag_name = "v{new_version}"
 
 [project]
 name = "SuperMat"
-#license = { file = "LICENSE" }
+license = { file = "LICENSE" }
 authors = [
     { name = "Luca Foppiano", email = "lucanoro@duck.com" },
 ]
@@ -21,6 +21,12 @@ description = "SuperMat (Superconductors Material) dataset is a manually **linke
 readme = "README.md"
 
 dynamic = ['version']
+
+[tool.setuptools]
+py-modules = ['supermat']
+
+[tool.setuptools.packages.find]
+exclude = ['data', 'docs']
 
 [tool.setuptools_scm]
 
