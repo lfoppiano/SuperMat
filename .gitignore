@@ -1,11 +1,10 @@
 .idea
-.
-
 **/.DS_Store
 .DS_Store
 docs/.DS_Store
 docs/_build
-.idea
 _build
-
+dist
 /**/.ipynb_checkpoints/
+SuperMat.egg-info
+**/__pycache__/**
