@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="_0">
+      <titleStmt>
+          <title>Test</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+          <p>
+              <s>Sentence 1.</s>
+              <s>Sentence 2.</s>
+		</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+        <p>
+            <s>Sentence 3.</s>
+		</p>
+        <ab type="figureCaption">
+            <s>Sentence 4.</s>
+        </ab>
+    </body>
+  </text>
+</tei>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="_0">
+      <titleStmt>
+          <title>Test</title>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+          <p>Paragraph 1</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+        <p>Paragraph 2</p>
+        <ab type="figureCaption">Paragraph 3</ab>
+    </body>
+  </text>
+</tei>
