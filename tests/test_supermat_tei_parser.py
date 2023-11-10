@@ -6,8 +6,9 @@ from bs4 import BeautifulSoup
 from src.supermat.supermat_tei_parser import get_children_list_grouped, get_sentences_nodes, get_paragraphs_nodes
 
 
+
 def test_get_sentences_nodes_input_with_sentences_grouped():
-    soup = BeautifulSoup(open(os.path.join("test_data", 'test_sentences.xml')), 'xml')
+    soup = BeautifulSoup(open(os.path.join(os.path.dirname(__file__), "test_data", 'test_sentences.xml')), 'xml')
 
     children = get_sentences_nodes(soup, grouped=True)
 
@@ -19,7 +20,7 @@ def test_get_sentences_nodes_input_with_sentences_grouped():
 
 
 def test_get_sentences_nodes_input_with_sentences_flatten():
-    soup = BeautifulSoup(open(os.path.join("test_data", 'test_sentences.xml')), 'xml')
+    soup = BeautifulSoup(open(os.path.join(os.path.dirname(__file__), "test_data", 'test_sentences.xml')), 'xml')
 
     children = get_sentences_nodes(soup, grouped=False)
 
@@ -28,7 +29,7 @@ def test_get_sentences_nodes_input_with_sentences_flatten():
 
 
 def test_get_paragraph_nodes_input_with_paragraphs():
-    soup = BeautifulSoup(open(os.path.join("test_data", 'test_paragraphs.xml')), 'xml')
+    soup = BeautifulSoup(open(os.path.join(os.path.dirname(__file__), "test_data", 'test_paragraphs.xml')), 'xml')
 
     children = get_paragraphs_nodes(soup)
 
@@ -37,7 +38,7 @@ def test_get_paragraph_nodes_input_with_paragraphs():
 
 
 def test_get_children_sentences_input_with_paragraphs():
-    soup = BeautifulSoup(open(os.path.join("test_data", 'test_sentences.xml')), 'xml')
+    soup = BeautifulSoup(open(os.path.join(os.path.dirname(__file__), "test_data", 'test_sentences.xml')), 'xml')
 
     children = get_children_list_grouped(soup, use_paragraphs=False)
 
