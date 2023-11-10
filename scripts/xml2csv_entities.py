@@ -46,8 +46,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description="Converter XML (Supermat) to a tabular values (CSV, TSV) for entity extraction (no relation information are used)")
 
-    parser.add_argument("--input", help="Input file or directory", required=True)
-    parser.add_argument("--output", help="Output directory", required=True)
+    parser.add_argument("--input",
+                        help="Input file or directory",
+                        required=True)
+    parser.add_argument("--output",
+                        help="Output directory",
+                        required=True)
     parser.add_argument("--recursive",
                         action="store_true",
                         default=False,
@@ -56,10 +60,10 @@ if __name__ == '__main__':
                         default='csv',
                         choices=['tsv', 'csv'],
                         help="Output format.")
-    parser.add_argument("--use-sentences",
+    parser.add_argument("--use-paragraphs",
                         default=False,
                         action="store_true",
-                        help="Uses sentences instead of paragraphs")
+                        help="Uses paragraphs instead of sentences. By default this script assumes that the XML is at sentence level.")
 
     args = parser.parse_args()
 
@@ -67,7 +71,7 @@ if __name__ == '__main__':
     output = args.output
     recursive = args.recursive
     format = args.format
-    use_sentences = args.use_sentences
+    use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
         path_list = []
@@ -89,7 +93,7 @@ if __name__ == '__main__':
         ent_type = "material"
         for path in path_list:
             print("Processing: ", path)
-            file_data = process_file_to_json(path, not use_sentences)
+            file_data = process_file_to_json(path, use_paragraphs=use_paragraphs)
             # data = sorted(file_data, key=lambda k: k[paragraph_id])
             entity_data = get_entity_data(file_data, ent_type)
             entities_data.extend(entity_data)
@@ -119,7 +123,7 @@ if __name__ == '__main__':
 
     elif os.path.isfile(input):
         input_path = Path(input)
-        file_data = process_file_to_json(input_path, not use_sentences)
+        file_data = process_file_to_json(input_path, use_paragraphs=use_paragraphs)
         output_filename = input_path.stem
 
         output_path_text = os.path.join(output, str(output_filename) + "-text" + "." + format)
