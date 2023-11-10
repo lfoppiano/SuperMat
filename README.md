@@ -18,9 +18,11 @@ SuperMat (Superconductors Material) dataset is a manually **linked** **annotated
     - [Online version](https://supermat.readthedocs.io)
     - [Changelog](docs/CHANGELOG.md)
     - [Source](docs), 
- - [Transformation scripts](super_mat/converters)
-    - [tsv2xml](scripts/tsv2xml.py) / [xml2tsv](scripts/xml2tsv.py): Transformation from an to the INCEpTION TSV 3.2 format
-    - [xmlSupermat2csv](scripts/xmlSupermat2csv.py): Converts the corpus into the CSV (*) tabular format
+ - [Transformation scripts](scripts)
+    - [tsv2xml](scripts/tsv2xml.py) / [xml2tsv](scripts/xml2tsv.py): Transformation from and to the INCEpTION TSV 3.2 format
+    - [xml2csv](scripts/xml2csv.py): Converts the corpus into the CSV (*) tabular format
+    - [xml2csv_entities](scripts/xml2csv_entities.py): Converts the corpus to CSV ignoring entity relations
+    - [xml2LossyJSON.py](scripts/xml2LossyJSON.py): Converts the TEI-XML corpus to a Lossy JSON (based on CORD-19 dataset)
  - Analysis Jupyter Notebooks:
     - [dataset-analysis-labelling.ipynb](scripts/jupyter/dataset-analysis-labelling.ipynb)
     - [dataset-analysis-linking.ipynb](scripts/jupyter/dataset-analysis-linking.ipynb)
