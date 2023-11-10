@@ -72,7 +72,6 @@ pip install -r requirements.txt
 python scripts/tsv2xml.py --help
 ```
 
-
 ### Analysis tools 
 
 The analysis tools provide statistics and information from the dataset, they also run consistency checks of the format and content. 
@@ -81,7 +80,6 @@ Results can be seen directly on the repository.
 ```bash
 jupyter-lab
 ```
-
 
 ### Annotation guidelines
 
@@ -130,6 +128,12 @@ and build using
 > sphinx-build -b pdf sourcedir builddir
 
 and a file with the specified name will be created in `builddir`.
+
+### Make a new release 
+
+```bash
+bump-my-version bump major|minor|patch 
+```
 
 ## Licence
 
