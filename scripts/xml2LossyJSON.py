@@ -98,7 +98,7 @@ def process_file(finput, use_paragraphs=False):
                         raise Exception("RS without type is invalid. Stopping")
 
                     entity_class = item.attrs['type']
-                    span['type'] = '<' + entity_class + '>'
+                    span['type'] = entity_class
 
                     if len(item.attrs) > 0:
                         ## multiple entities can point ot the same one, so "corresp" value can be duplicated
