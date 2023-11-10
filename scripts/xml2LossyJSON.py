@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 from supermat.grobid_tokenizer import tokenizeSimple
 from supermat.supermat_tei_parser import get_children_list, get_section, get_hash
 
+from supermat.supermat_tei_parser import get_sentences_nodes
+
 
 def tokenise(string):
     return tokenizeSimple(string)
@@ -27,7 +29,7 @@ def write_on_file(fw, paragraphText, dic_token, i, item_length):
         print('', file=fw)
 
 
-def process_file(finput, use_paragraphs=False):
+def process_file(finput):
     with open(finput, encoding='utf-8') as fp:
         doc = fp.read()
 
@@ -36,41 +38,44 @@ def process_file(finput, use_paragraphs=False):
         doc = doc.replace(mod.group(), ' ' + mod.group(1))
     soup = BeautifulSoup(doc, 'xml')
 
-    children = get_children_list(soup, use_paragraphs=use_paragraphs)
+    sentences_grouped_by_paragraphs = get_sentences_nodes(soup, grouped=True)
 
     off_token = 0
     ient = 1
 
     # list containing text and the dictionary with all the annotations
-    paragraphs = []
+    passages = []
     dic_dest_relationships = {}
     dic_source_relationships = {}
 
     output_document = OrderedDict()
     output_document['lang'] = 'en'
-    output_document['level'] = 'sentence' if not use_paragraphs else 'paragraph'
-    output_document['paragraphs'] = paragraphs
+    output_document['level'] = 'sentence'
+    output_document['passages'] = passages
 
     linked_entity_registry = {}
 
     i = 0
-    for child in children:
-        for pTag in child:
-            paragraph = OrderedDict()
+    for paragraph_id, paragraph in enumerate(sentences_grouped_by_paragraphs):
+        for sentence in paragraph:
+            passage = OrderedDict()
             j = 0
             offset = 0
-            section = get_section(pTag)
+            section = get_section(sentence)
             if not section:
-                section = get_section(pTag.parent)
+                section = get_section(sentence.parent)
 
-            paragraph['section'] = section
+            passage['section'] = section
             paragraph_text = ''
-            paragraph['text'] = paragraph_text
+            passage['text'] = paragraph_text
             spans = []
-            paragraph['spans'] = spans
+            passage['spans'] = spans
             tokens = []
-            paragraph['tokens'] = tokens
-            for item in pTag.contents:
+            passage['tokens'] = tokens
+            passage['type'] = 'sentence'
+            passage['group_id'] = paragraph_id
+
+            for item in sentence.contents:
                 if type(item) == NavigableString:
                     local_text = str(item)
                     paragraph_text += local_text
@@ -135,10 +140,10 @@ def process_file(finput, use_paragraphs=False):
 
                 ient += 1  # entity No.
 
-            paragraph['text'] = paragraph_text
+            passage['text'] = paragraph_text
             off_token += 1  # return
 
-            paragraphs.append(paragraph)
+            passages.append(passage)
             i += 1
 
     for id__ in dic_source_relationships:
@@ -245,13 +250,13 @@ if __name__ == '__main__':
         for file_input_path, file_output_path  in path_list:
             print("Processing: ", file_input_path)
 
-            output_document = process_file(str(file_input_path), use_paragraphs)
+            output_document = process_file(str(file_input_path))
             with open(file_output_path, 'w') as fp:
                 json.dump(output_document, fp)
 
     elif os.path.isfile(input):
         input_path = Path(input)
         output_filename = os.path.join(output, input_path.stem + ".json")
-        output_document = process_file(input_path, use_paragraphs)
+        output_document = process_file(input_path)
         with open(output_filename, 'w') as fp:
             json.dump(output_document, fp)
