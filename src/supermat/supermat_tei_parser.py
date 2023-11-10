@@ -5,7 +5,7 @@ from typing import Union, List
 
 from bs4 import BeautifulSoup, Tag, NavigableString
 
-from src.supermat.grobid_tokenizer import tokenizeSimple
+from supermat.grobid_tokenizer import tokenizeSimple
 
 
 def tokenise(string):
@@ -178,16 +178,16 @@ def process_file_to_json(finput, use_paragraphs=False):
         doc = doc.replace(mod.group(), ' ' + mod.group(1))
     soup = BeautifulSoup(doc, 'xml')
 
-    children = get_children_list_grouped(soup, use_paragraphs=use_paragraphs)
-
     output_document = OrderedDict()
     output_document['doc_key'] = Path(str(finput)).name
     output_document['dataset'] = 'SuperMat'
 
     if use_paragraphs:
-        passages, ner, relations = process_paragraphs(children)
+        paragraph_nodes = get_paragraphs_nodes(soup)
+        passages, ner, relations = process_paragraphs(paragraph_nodes)
     else:
-        passages, ner, relations = process_sentences(children)
+        sentence_nodes = get_sentences_nodes(soup, grouped=True)
+        passages, ner, relations = process_sentences(sentence_nodes)
 
     output_document['passages'] = passages
     output_document['ner'] = ner
@@ -426,6 +426,59 @@ def process_sentences(children: list) -> [List, List, List]:
             relations.append(relations_sentence)
 
     return sentences, ner, relations
+
+
+def get_sentences_nodes(soup, grouped=True) -> Union[List, List[List]]:
+    tags_title = []
+    tags_text = []
+    tags_captions = []
+
+    paragraph_tag = "p"
+    sentence_tag = "s"
+
+    for child in soup.tei.children:
+        if child.name == 'teiHeader':
+            tags_title.extend([paragraph for paragraph in child.find_all("title")])
+            tags_text.extend([paragraph for subchildren in child.find_all("abstract") for paragraph in
+                              subchildren.find_all(paragraph_tag)])
+            tags_text.extend([paragraph for paragraph in child.find_all("ab", {"type": "keywords"})])
+
+        elif child.name == 'text':
+            tags_text.extend([paragraph for subchildren in child.find_all("body") for paragraph in
+                              subchildren.find_all(paragraph_tag)])
+            tags_captions.extend([paragraph for paragraph in child.find_all("ab")])
+
+    data_grouped = [tags_title] + [[z for z in y.find_all(sentence_tag)] for y in tags_text + tags_captions]
+
+    if not grouped:
+        data_flattened = [sentence for paragraph in data_grouped for sentence in paragraph]
+        return data_flattened
+
+    return data_grouped
+
+
+def get_paragraphs_nodes(soup) -> Union[List, List[List]]:
+    tags_title = []
+    tags_text = []
+    tags_captions = []
+
+    paragraph_tag = "p"
+
+    for child in soup.tei.children:
+        if child.name == 'teiHeader':
+            tags_title.extend([paragraph for paragraph in child.find_all("title")])
+            tags_text.extend([paragraph for subchildren in child.find_all("abstract") for paragraph in
+                              subchildren.find_all(paragraph_tag)])
+            tags_text.extend([paragraph for paragraph in child.find_all("ab", {"type": "keywords"})])
+
+        elif child.name == 'text':
+            tags_text.extend([paragraph for subchildren in child.find_all("body") for paragraph in
+                              subchildren.find_all(paragraph_tag)])
+            tags_captions.extend([paragraph for paragraph in child.find_all("ab")])
+
+    data = tags_title + [y for y in tags_text + tags_captions]
+
+    return data
 
 
 def get_children_list_grouped(soup, use_paragraphs=False) -> Union[List, List[List]]:

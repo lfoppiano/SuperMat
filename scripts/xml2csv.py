@@ -1,22 +1,19 @@
 import argparse
 import csv
 import os
+import sys
 from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
 
 from supermat.supermat_tei_parser import get_children_list_grouped
 
+from src.supermat.supermat_tei_parser import get_sentences_nodes
+
 paragraph_id = 'paragraph_id'
 
 
-def write_on_file(fw, filename, sentenceText, dic_token):
-    links = len([token for token in dic_token if token[5] != '_'])
-    has_links = 0 if links == 0 else 1
-    fw.writerow([filename, sentenceText, has_links])
-
-
-def process_file(finput):
+def process_file(finput, use_paragraphs=False):
     filename = Path(finput).name.split(".superconductors")[0]
     with open(finput, encoding='utf-8') as fp:
         doc = fp.read()
@@ -27,7 +24,7 @@ def process_file(finput):
     #     print(doc)
     soup = BeautifulSoup(doc, 'xml')
 
-    paragraphs_grouped = get_children_list_grouped(soup)
+    paragraphs_grouped = get_sentences_nodes(soup, grouped=True)
 
     dic_dest_relationships = {}
     dic_source_relationships = {}
@@ -63,7 +60,7 @@ def process_file(finput):
     struct = {
         'id': None,
         'filename': None,
-        'passage_id': None,
+        'paragraph_id': None,
         'material': None,
         'tcValue': None,
         'pressure': None,
@@ -113,7 +110,8 @@ def process_file(finput):
                             row_copy[destination_label] = destination_text
                             row_copy[source_label] = source_text
                             row_copy['filename'] = filename
-                            row_copy[paragraph_id] = destination_para
+                            row_copy["paragraph_id"] = destination_para
+                            row_copy["sentence_id"] = destination_sent
                             output.append(row_copy)
                             # output.append({destination_label: destination_text, source_label: source_text})
                         else:
@@ -130,22 +128,30 @@ def process_file(finput):
                             row_copy[source_label] = source_text
                             row_copy[destination_label] = destination_text
                             row_copy['filename'] = filename
-                            row_copy[paragraph_id] = destination_para
+                            row_copy["paragraph_id"] = destination_para
+                            row_copy["sentence_id"] = destination_sent
                             output.append(row_copy)
                         else:
                             output[index_in_output_table][destination_label] = destination_text
                 else:
-                    output.append({
-                        destination_label: destination_text,
-                        source_label: source_text,
-                        'filename': filename,
-                        paragraph_id: destination_para})
-                    output_idx.append({
-                        destination_label: destination_id,
-                        source_label: source_id,
-                        'filename': filename,
-                        paragraph_id: destination_para
-                    })
+                    output.append(
+                        {
+                            destination_label: destination_text,
+                            source_label: source_text,
+                            'filename': filename,
+                            paragraph_id: destination_para,
+                            "sentence_id": destination_sent
+                        }
+                    )
+                    output_idx.append(
+                        {
+                            destination_label: destination_id,
+                            source_label: source_id,
+                            'filename': filename,
+                            paragraph_id: destination_para,
+                            "sentence_id": destination_sent
+                        }
+                    )
 
                 current_index = len(output) - 1
                 if destination_id not in mapping[destination_label]:
@@ -163,10 +169,11 @@ def process_file(finput):
     return output
 
 
-def writeOutput(data, output_path, format):
+def write_output(data, output_path, format, use_paragraphs=False):
+    # passage_id_column_name = 'paragraph_id' if use_paragraphs else 'sentence_id'
     delimiter = '\t' if format == 'tsv' else ','
     fw = csv.writer(open(output_path, encoding='utf-8', mode='w'), delimiter=delimiter, quotechar='"')
-    columns = ['id', 'filename', paragraph_id, 'material', 'tcValue', 'pressure', 'me_method']
+    columns = ['id', 'filename', 'paragraph_id', 'sentence_id', 'material', 'tcValue', 'pressure', 'me_method']
     fw.writerow(columns)
     for d in data:
         fw.writerow([d[c] if c in d else '' for c in columns])
@@ -176,14 +183,24 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description="Converter XML (Supermat) to a tabular values (CSV, TSV)")
 
-    parser.add_argument("--input", help="Input file or directory", required=True)
-    parser.add_argument("--output", help="Output directory", required=True)
-    parser.add_argument("--recursive", action="store_true", default=False,
+    parser.add_argument("--input",
+                        help="Input file or directory",
+                        required=True)
+    parser.add_argument("--output",
+                        help="Output directory",
+                        required=True)
+    parser.add_argument("--recursive",
+                        action="store_true",
+                        default=False,
                         help="Process input directory recursively. If input is a file, this parameter is ignored.")
-    parser.add_argument("--format", default='csv', choices=['tsv', 'csv'],
+    parser.add_argument("--format",
+                        default='csv',
+                        choices=['tsv', 'csv'],
                         help="Output format.")
-    parser.add_argument("--filter", default='all', choices=['all', 'oa', 'non-oa'],
-                        help='Extract data from a certain type of licenced documents')
+    parser.add_argument("--use-paragraphs",
+                        default=False,
+                        action="store_true",
+                        help="Uses paragraphs instead of sentences")
 
     args = parser.parse_args()
 
@@ -191,7 +208,7 @@ if __name__ == '__main__':
     output = args.output
     recursive = args.recursive
     format = args.format
-    filter = args.filter
+    use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
         path_list = []
@@ -202,13 +219,6 @@ if __name__ == '__main__':
                     if not file_.lower().endswith(".xml"):
                         continue
 
-                    if filter == 'oa':
-                        if '-CC' not in file_:
-                            continue
-                    elif filter == 'non-oa':
-                        if '-CC' in file_:
-                            continue
-
                     abs_path = os.path.join(root, file_)
                     path_list.append(abs_path)
 
@@ -218,7 +228,7 @@ if __name__ == '__main__':
         data_sorted = []
         for path in path_list:
             print("Processing: ", path)
-            file_data = process_file(path)
+            file_data = process_file(path, use_paragraphs=use_paragraphs)
             data = sorted(file_data, key=lambda k: k[paragraph_id])
             data_sorted.extend(data)
 
@@ -230,11 +240,14 @@ if __name__ == '__main__':
 
     elif os.path.isfile(input):
         input_path = Path(input)
-        data = process_file(input_path)
+        data = process_file(input_path, use_paragraphs=use_paragraphs)
         data_sorted = sorted(data, key=lambda k: k[paragraph_id])
         output_filename = input_path.stem
         output_path = os.path.join(output, str(output_filename) + "." + format)
+    else:
+        print("The input should be either a file or a directory")
+        sys.exit(-1)
 
     data = [{**record, **{"id": idx}} for idx, record in enumerate(data_sorted)]
 
-    writeOutput(data, output_path, format)
+    write_output(data, output_path, format)

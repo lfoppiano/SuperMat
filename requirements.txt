@@ -7,3 +7,4 @@ pandas
 regex
 bump-my-version
 supermat
+pytest
