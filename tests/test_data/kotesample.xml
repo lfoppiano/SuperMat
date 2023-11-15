@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+    <text xml:lang="en">
+        <body>
+            <p>
+                <s>We used Daphne 7474 for the <rs xml:id="x10000" type="me_method">resistivity</rs> measurement as a pressure-transmitting medium. 13) Applied pressure was estimated from the <rs type="tc">T c</rs> of the <rs type="material">lead</rs> manometer.</s>
+            </p>
+            <p>
+                <s>a)-3(c) show the temperature dependences of ρ for <rs type="material" xml:id="x92">Sr 2 ScFePO 3</rs> at high pressures up to 4.17 GPa.</s>
+                <s>At <rs corresp="#x95,#x97" type="pressure">ambient pressure</rs>, we estimated <rs type="tc">T onset c</rs> = <rs corresp="#x92,#x11-164" type="tcValue" xml:id="x95">15.6 K</rs> and <rs type="tc">T zero c</rs> = <rs corresp="#x92,#x11-164" type="tcValue" xml:id="x97">8.4 K</rs>.</s>
+                <s>This system exhibits a large supercon- ducting transition width probably owing to the low bulk density of the sample.</s>
+                <s>We should note that a clear <rs xml:id="x10001" type="me_method">dia- magnetic signal</rs> is observed below <rs corresp="#x92,#x10000" type="tcValue" xml:id="x99">15 − 17 K</rs>. 9) The tran- sition width was large in run 1; it was sharp in run 2 using a different part of the same sample.</s>
+                <s>Since the ab- solute value of ρ changed unnaturally in run 2, ρ is nor- malized at 20 K.</s>
+                <s>As seen in the figure, the <rs type="tc">T c</rs> of this compound decreases significantly under pressure, and the zero-<rs type="me_method" xml:id="x11-164">resistance</rs> state goes beyond the observed tempera- ture range above 4 GPa.</s>
+            </p>
+        </body>
+    </text>
+</tei>

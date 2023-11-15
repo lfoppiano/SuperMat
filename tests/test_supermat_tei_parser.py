@@ -3,7 +3,7 @@ import os
 import bs4
 from bs4 import BeautifulSoup
 
-from src.supermat.supermat_tei_parser import get_nodes, process_paragraphs
+from src.supermat.supermat_tei_parser import get_nodes, process_paragraphs, process_file_to_json
 
 
 def test_get_sentences_nodes_input_with_sentences_grouped():
@@ -128,3 +128,26 @@ def test_process_paragraphs_input_sentences_2():
 
     second = passages[1]
     assert len(second['spans']) == 6
+
+
+def test_process_file():
+    file_path = os.path.join(os.path.dirname(__file__), "test_data", 'kotesample.xml')
+
+    json = process_file_to_json(file_path)
+
+    span_map = {}
+
+    passages = json['passages']
+    for passage in passages:
+        for span in passage['spans']:
+            if 'id' in span:
+                if span['id'] not in span_map:
+                    span_map[span['id']] = span
+                else:
+                    print("error")
+
+    assert len(span_map.keys()) == 8
+
+    relations = json['relations']
+
+    assert len(relations) == 8
