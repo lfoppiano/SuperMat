@@ -2,16 +2,13 @@ import argparse
 import csv
 import os
 from pathlib import Path
+from typing import List
 
 from supermat.supermat_tei_parser import process_file_to_json
 
+from src.supermat.utils import get_in_paths_from_directory
+
 paragraph_id = 'paragraph_id'
-
-
-def write_on_file(fw, filename, sentenceText, dic_token):
-    links = len([token for token in dic_token if token[5] != '_'])
-    has_links = 0 if links == 0 else 1
-    fw.writerow([filename, sentenceText, has_links])
 
 
 def write_output(data, output_path, format, header):
@@ -74,19 +71,7 @@ if __name__ == '__main__':
     use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
-        path_list = []
-
-        if recursive:
-            for root, dirs, files in os.walk(input):
-                for file_ in files:
-                    if not file_.lower().endswith(".xml"):
-                        continue
-
-                    abs_path = os.path.join(root, file_)
-                    path_list.append(abs_path)
-
-        else:
-            path_list = Path(input).glob('*.xml')
+        path_list = get_in_paths_from_directory(input, ".xml", recursive=recursive)
 
         entities_data = []
         texts_data = []

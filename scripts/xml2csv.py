@@ -7,6 +7,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 
 from src.supermat.supermat_tei_parser import get_nodes
+from src.supermat.utils import get_in_paths_from_directory
 
 paragraph_id = 'paragraph_id'
 
@@ -16,22 +17,18 @@ def process_file(finput, use_paragraphs=False):
     with open(finput, encoding='utf-8') as fp:
         doc = fp.read()
 
-    # mod_tags = re.finditer(r'(</\w+>) ', doc)
-    # for mod in mod_tags:
-    #     doc = doc.replace(mod.group(), ' ' + mod.group(1))
-    #     print(doc)
     soup = BeautifulSoup(doc, 'xml')
 
-    paragraphs_grouped = get_nodes(soup, grouped=True)
+    paragraphs_grouped = get_nodes(soup, group_by_paragraph=True, use_paragraphs=use_paragraphs)
 
     dic_dest_relationships = {}
     dic_source_relationships = {}
     ient = 1
     i = 0
     for para_id, paragraph in enumerate(paragraphs_grouped):
-        for sent_id, sentence in enumerate(paragraph):
+        if use_paragraphs:
             j = 0
-            for item in sentence.contents:
+            for item in paragraph.contents:
                 if type(item) is Tag:
                     if 'type' not in item.attrs:
                         raise Exception("RS without type is invalid. Stopping")
@@ -42,15 +39,40 @@ def process_file(finput, use_paragraphs=False):
                         if 'xml:id' in item.attrs:
                             if item.attrs['xml:id'] not in dic_dest_relationships:
                                 dic_dest_relationships[item.attrs['xml:id']] = [i + 1, j + 1, ient, entity_text,
-                                                                                entity_class, para_id, sent_id]
+                                                                                entity_class, para_id, 'N/A']
 
                         if 'corresp' in item.attrs:
                             if (i + 1, j + 1) not in dic_source_relationships:
                                 dic_source_relationships[i + 1, j + 1] = [item.attrs['corresp'].replace('#', ''), ient,
-                                                                          entity_text, entity_class, para_id, sent_id]
+                                                                          entity_text, entity_class, para_id, 'N/A']
                     j += 1
                 ient += 1
             i += 1
+        else:
+            for sent_id, sentence in enumerate(paragraph):
+                j = 0
+                for item in sentence.contents:
+                    if type(item) is Tag:
+                        if 'type' not in item.attrs:
+                            raise Exception("RS without type is invalid. Stopping")
+                        entity_class = item.attrs['type']
+                        entity_text = item.text
+
+                        if len(item.attrs) > 0:
+                            if 'xml:id' in item.attrs:
+                                if item.attrs['xml:id'] not in dic_dest_relationships:
+                                    dic_dest_relationships[item.attrs['xml:id']] = [i + 1, j + 1, ient, entity_text,
+                                                                                    entity_class, para_id, sent_id]
+
+                            if 'corresp' in item.attrs:
+                                if (i + 1, j + 1) not in dic_source_relationships:
+                                    dic_source_relationships[i + 1, j + 1] = [item.attrs['corresp'].replace('#', ''),
+                                                                              ient,
+                                                                              entity_text, entity_class, para_id,
+                                                                              sent_id]
+                        j += 1
+                    ient += 1
+                i += 1
 
     output = []
     output_idx = []
@@ -209,19 +231,7 @@ if __name__ == '__main__':
     use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
-        path_list = []
-
-        if recursive:
-            for root, dirs, files in os.walk(input):
-                for file_ in files:
-                    if not file_.lower().endswith(".xml"):
-                        continue
-
-                    abs_path = os.path.join(root, file_)
-                    path_list.append(abs_path)
-
-        else:
-            path_list = Path(input).glob('*.xml')
+        path_list = get_in_paths_from_directory(input, ".xml", recursive=recursive)
 
         data_sorted = []
         for path in path_list:

@@ -5,6 +5,8 @@ from pathlib import Path
 
 from supermat.supermat_tei_parser import process_file_to_json
 
+from src.supermat.utils import get_in_paths_from_directory, get_in_out_paths_from_directory
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description="Converter from XML (Grobid training data based on TEI) to lossy JSON (CORD-19) format")
@@ -32,34 +34,7 @@ if __name__ == '__main__':
     use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
-        path_list = []
-        output_path_list = []
-
-        if recursive:
-            for root, dirs, files in os.walk(input):
-                for dir in dirs:
-                    abs_path_dir = os.path.join(root, dir)
-                    output_path = abs_path_dir.replace(str(input.rstrip("/")), str(output))
-                    os.makedirs(output_path, exist_ok=True)
-
-                for file_ in files:
-                    if not file_.lower().endswith(".tei.xml"):
-                        continue
-
-                    file_input_path = os.path.join(root, file_)
-                    output_path = file_input_path.replace(str(input.rstrip("/")), str(output))
-                    file_output_path = output_path.replace(".xml", ".json").replace(".tei", "")
-                    path_list.append([file_input_path, file_output_path])
-
-        else:
-            input_path_list = list(Path(input).glob('*.tei.xml'))
-            output_path_list = [str(input_path)
-                                .replace(str(input), str(output))
-                                .replace(".xml", ".json")
-                                .replace(".tei", "") for input_path
-                                in input_path_list]
-
-            path_list = list(zip(input_path_list, output_path_list))
+        path_list = get_in_out_paths_from_directory(input, output, ".xml", ".json", recursive=recursive)
 
         for file_input_path, file_output_path in path_list:
             print("Processing: ", file_input_path)

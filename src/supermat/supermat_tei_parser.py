@@ -12,161 +12,23 @@ def tokenise(string):
     return tokenizeSimple(string)
 
 
-def get_section(pTag):
+def get_section(tag: Tag):
     section = None
-    if pTag.name == 'p':
-        section = pTag.parent.name
-    elif pTag.name == 'ab':
-        if 'type' in pTag.attrs:
-            type_ = pTag.attrs['type']
+    if tag.name == 'p':
+        section = tag.parent.name
+    elif tag.name == 'ab':
+        if 'type' in tag.attrs:
+            type_ = tag.attrs['type']
             if type_ == 'keywords':
                 section = "keywords"
             elif type_ == 'figureCaption':
                 section = 'figureCaption'
             elif type_ == 'tableCaption':
                 section = 'tableCaption'
-    elif pTag.name == 'title':
+    elif tag.name == 'title':
         section = 'title'
 
     return section
-
-
-def process_file(input_document, use_paragraphs=False):
-    with open(input_document, encoding='utf-8') as fp:
-        doc = fp.read()
-
-    mod_tags = re.finditer(r'(</\w+>) ', doc)
-    for mod in mod_tags:
-        doc = doc.replace(mod.group(), ' ' + mod.group(1))
-    soup = BeautifulSoup(doc, 'xml')
-
-    children = get_children_list(soup, verbose=False, use_paragraphs=use_paragraphs)
-
-    off_token = 0
-    dic_token = {}
-    ient = 1
-
-    # list containing text and the dictionary with all the annotations
-    paragraphs = []
-    dic_dest_relationships = {}
-    dic_source_relationships = {}
-
-    i = 0
-    for child in children:
-        for pTag in child:
-            j = 0
-            section = get_section(pTag)
-            if not section:
-                section = get_section(pTag.parent)
-            paragraphText = ''
-            for item in pTag.contents:
-                if type(item) == NavigableString:
-                    paragraphText += str(item)
-
-                    token_list = tokenise(item.string)
-                    if token_list[0] == ' ':  # remove space after tags
-                        del token_list[0]
-
-                    entity_class = '_'
-
-                    for token in token_list:
-                        s = off_token
-                        off_token += len(token.rstrip(' '))
-                        e = off_token
-                        if token.rstrip(' '):
-                            dic_token[(i + 1, j + 1)] = [
-                                s, e, token.rstrip(' '), section + f'[{i + 10000}]', entity_class, entity_class,
-                                entity_class, entity_class, entity_class]
-                            #                     print((i+1, j+1), s, e, [token], len(token.rstrip(' ')), off_token)
-                            j += 1
-                        if len(token) > 0 and token[-1] == ' ':
-                            off_token += 1  #
-                elif type(item) is Tag and item.name == 'rs':
-                    paragraphText += item.text
-
-                    token_list = tokenise(item.string)
-                    #                 token_list[-1] += ' ' # add space the end of tag contents
-                    if 'type' not in item.attrs:
-                        raise Exception("RS without type is invalid. Stopping")
-
-                    entity_class = item.attrs['type']
-                    link_name = '_'
-                    link_location = '_'
-
-                    if len(item.attrs) > 0:
-                        if 'xml:id' in item.attrs:
-                            if item.attrs['xml:id'] not in dic_dest_relationships:
-                                dic_dest_relationships[item.attrs['xml:id']] = [i + 1, j + 1, ient, entity_class]
-
-                        if 'corresp' in item.attrs:
-                            if (i + 1, j + 1) not in dic_source_relationships:
-                                dic_source_relationships[i + 1, j + 1] = [item.attrs['corresp'].replace('#', ''),
-                                                                          ient,
-                                                                          entity_class]
-
-                            # link_to = dic_relationships[item.attrs['ptr'].replace("#", '')]
-                            # relationship_name = link_to[2] + '-' + entity
-                            # relationship_references = str(link_to[0]) + '-' + str(link_to[1]) + '[' + str(
-                            #     i + 1) + '-' + str(j + 1) + ']'
-                            # print(dic_token[link_to[0], link_to[1]])
-                        link_name = 'link_name'
-                        link_location = 'link_location'
-
-                    entity_class = entity_class.replace("_", "\\_")
-
-                    for token in token_list:
-                        s = off_token
-                        off_token += len(token.rstrip(' '))
-                        e = off_token
-                        if token.rstrip(' '):
-                            dic_token[(i + 1, j + 1)] = [s, e, token.rstrip(' '), section + f'[{i + 10000}]',
-                                                         f'*[{ient}]',
-                                                         entity_class + f'[{ient}]', link_name, link_location]
-                            #                     print((i+1, j+1), s, e, [token], len(token.rstrip(' ')), off_token)
-                            j += 1
-                        if len(token) > 0 and token[-1] == ' ':
-                            off_token += 1  #
-                    ient += 1  # entity No.
-
-            off_token += 1  # return
-
-            paragraphs.append((i, paragraphText))
-            i += 1
-
-    for par_num, token_num in dic_source_relationships:
-        destination_xml_id = dic_source_relationships[par_num, token_num][0]
-        source_entity_id = dic_source_relationships[par_num, token_num][1]
-        label = dic_source_relationships[par_num, token_num][2]
-
-        # destination_xml_id: Use this to pick up information from dic_dest_relationship
-
-        for des in destination_xml_id.split(","):
-            destination_item = dic_dest_relationships[str(des)]
-            destination_paragraph_tsv = destination_item[0]
-            destination_token_tsv = destination_item[1]
-            destination_entity_id = destination_item[2]
-            destination_type = destination_item[3]
-
-            relationship_name = get_relationship_name(label, destination_type)
-
-            dict_coordinates = (destination_paragraph_tsv, destination_token_tsv)
-
-            dic_token_entry = dic_token[dict_coordinates]
-            if dic_token_entry[6] == 'link_name' and dic_token_entry[7] == 'link_location':
-                dic_token_entry[6] = relationship_name
-                dic_token_entry[7] = str(par_num) + '-' + str(token_num) + "[" + str(
-                    source_entity_id) + '_' + str(destination_entity_id) + ']'
-            else:
-                dic_token_entry[6] += '|' + relationship_name
-                dic_token_entry[7] += '|' + str(par_num) + '-' + str(token_num) + "[" + str(
-                    source_entity_id) + '_' + str(destination_entity_id) + ']'
-
-    # Cleaning up the dictionary token
-    for k, v in dic_token.items():
-        v[6] = v[6].replace('link_name', '_')
-        v[7] = v[7].replace('link_location', '_')
-
-    return paragraphs, dic_token
 
 
 def process_file_to_json(input_file_path, use_paragraphs=False):
@@ -537,18 +399,6 @@ def get_nodes(soup, group_by_paragraph=True, use_paragraphs=False) -> Union[List
                               subchildren.find_all(paragraph_tag)])
             tags_captions.extend([paragraph for paragraph in child.find_all("ab")])
 
-    # if use_paragraphs:
-    #     for top_tag in tags_text + tags_captions:
-    #         inside_sentences = top_tag.find_all("s")
-    #         if len(inside_sentences) > 0:
-    #             for element in top_tag.children:
-    #                 if isinstance(element, NavigableString):
-    #                     element.extract()
-    #             for s_tag in inside_sentences:
-    #                 for content_item in s_tag.contents:
-    #                     top_tag.append(content_item.extract())
-    #                 s_tag.decompose()
-
     if use_paragraphs:
         for top_tag in tags_text + tags_captions:
             inside_sentences = top_tag.find_all("s")
@@ -572,59 +422,6 @@ def get_nodes(soup, group_by_paragraph=True, use_paragraphs=False) -> Union[List
         if not group_by_paragraph:
             data_flattened = [sentence for paragraph in data_grouped for sentence in paragraph]
             return data_flattened
-
-    return data_grouped
-
-
-def get_paragraphs_nodes(soup) -> Union[List, List[List]]:
-    tags_title = []
-    tags_text = []
-    tags_captions = []
-
-    paragraph_tag = "p"
-
-    for child in soup.tei.children:
-        if child.name == 'teiHeader':
-            tags_title.extend([paragraph for paragraph in child.find_all("title")])
-            tags_text.extend([paragraph for subchildren in child.find_all("abstract") for paragraph in
-                              subchildren.find_all(paragraph_tag)])
-            tags_text.extend([paragraph for paragraph in child.find_all("ab", {"type": "keywords"})])
-
-        elif child.name == 'text':
-            tags_text.extend([paragraph for subchildren in child.find_all("body") for paragraph in
-                              subchildren.find_all(paragraph_tag)])
-            tags_captions.extend([paragraph for paragraph in child.find_all("ab")])
-
-    data = tags_title + [y for y in tags_text + tags_captions]
-
-    return data
-
-
-def get_children_list_grouped(soup, use_paragraphs=False) -> Union[List, List[List]]:
-    tags_title = []
-    tags_text = []
-    tags_captions = []
-
-    paragraph_tag = "p"
-    sentence_tag = "s"
-
-    for child in soup.tei.children:
-        if child.name == 'teiHeader':
-            # [y for x in list(filter(lambda c: c.name in ['teiHeader', 'text'], soup.tei.children)) for y in filter(lambda o: type(o) == Tag,  x.children)]
-            tags_title.extend([paragraph for paragraph in child.find_all("title")])
-            tags_text.extend([paragraph for subchildren in child.find_all("abstract") for paragraph in
-                              subchildren.find_all(paragraph_tag)])
-            tags_text.extend([paragraph for paragraph in child.find_all("ab", {"type": "keywords"})])
-
-        elif child.name == 'text':
-            tags_text.extend([paragraph for subchildren in child.find_all("body") for paragraph in
-                              subchildren.find_all(paragraph_tag)])
-            tags_captions.extend([paragraph for paragraph in child.find_all("ab")])
-
-    data_grouped = [tags_title] + [[z for z in y.find_all(sentence_tag)] for y in tags_text + tags_captions]
-
-    if use_paragraphs:
-        data_grouped = [[sentence for sentence in paragraph] for paragraph in data_grouped]
 
     return data_grouped
 
