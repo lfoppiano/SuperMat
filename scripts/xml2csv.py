@@ -6,9 +6,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, Tag
 
-from supermat.supermat_tei_parser import get_children_list_grouped
-
-from src.supermat.supermat_tei_parser import get_sentences_nodes
+from src.supermat.supermat_tei_parser import get_nodes
 
 paragraph_id = 'paragraph_id'
 
@@ -24,7 +22,7 @@ def process_file(finput, use_paragraphs=False):
     #     print(doc)
     soup = BeautifulSoup(doc, 'xml')
 
-    paragraphs_grouped = get_sentences_nodes(soup, grouped=True)
+    paragraphs_grouped = get_nodes(soup, grouped=True)
 
     dic_dest_relationships = {}
     dic_source_relationships = {}
