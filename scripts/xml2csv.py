@@ -2,6 +2,7 @@ import argparse
 import csv
 import os
 import sys
+from collections import OrderedDict
 from pathlib import Path
 from typing import List
 
@@ -13,9 +14,9 @@ def process_file(finput, use_paragraphs=False):
     json = process_file_to_json(finput, use_paragraphs=use_paragraphs)
 
     data_list = []
-    spans_map = {}
-    spans_links_map = {}
-    spans_links_reverse_map = {}
+    spans_map = OrderedDict()
+    spans_links_map = OrderedDict()
+    spans_links_reverse_map = OrderedDict()
 
     filename = Path(finput).name
     passages = json['passages']
@@ -27,16 +28,16 @@ def process_file(finput, use_paragraphs=False):
                 passage['id']),
             'text': passage['text']
         }
+        passage['passage_id'] = passage_common_parts['passage_id']
 
         spans_passage_map, spans_passage_links_map, spans_passage_links_reverse_map = get_span_maps(passage)
-        spans_map = {**spans_map, **spans_passage_map}
-        spans_links_map = {**spans_links_map, **spans_passage_links_map}
-        spans_links_reverse_map = {**spans_links_reverse_map, **spans_passage_links_reverse_map}
+        spans_map.update(spans_passage_map)
+        spans_links_map.update(spans_passage_links_map)
+        spans_links_reverse_map.update(spans_passage_links_reverse_map)
 
-        spans_by_type = {}
+        spans_by_type = OrderedDict()
         for t in ['tcValue', 'material', 'pressure', 'me_method']:
-            spans_by_type[t] = {key: submap for key, submap in spans_passage_map.items() if
-                                'type' in submap and submap['type'] == t}
+            spans_by_type[t] = {key: submap for key, submap in spans_passage_map.items() if 'type' in submap and submap['type'] == t}
 
         records_in_passage = []
         for span_id, span in spans_by_type['tcValue'].items():
@@ -45,17 +46,18 @@ def process_file(finput, use_paragraphs=False):
             outbound = spans_links_map[span_id] if span_id in spans_links_map.keys() else []
             inbound = spans_links_reverse_map[span_id] if span_id in spans_links_reverse_map.keys() else []
 
-            for out in list(set(outbound + inbound)):
+            # if passage['id'] == 17:
+            #     print(inbound)
+
+            for out in sorted(list(set(outbound + inbound))):
                 if out in spans_map:
                     span_out = spans_map[out]
                     records_to_update = list(filter(
-                        lambda rip: span['type'] in rip and span_id == rip[span['type']][0] and span_out[
-                            'type'] not in rip,
+                        lambda rip: span['type'] in rip and span_id == rip[span['type']][0] and span_out['type'] not in rip,
                         records_in_passage))
 
                     if len(records_to_update) == 0:
-                        records_in_passage.append({'tcValue': (span_id, spans_map[span_id]['text']),
-                                                   span_out['type']: (span_out['id'], span_out['text'])})
+                        records_in_passage.append({'tcValue': (span_id, spans_map[span_id]['text']), span_out['type']: (span_out['id'], span_out['text'])})
                     else:
                         for record_to_update in records_to_update:
                             record_to_update[span_out['type']] = (span_out['id'], span_out['text'])
@@ -75,8 +77,7 @@ def process_file(finput, use_paragraphs=False):
     spans_by_type = {}
     ## Recover possible items not tcValue, that were not linked before
     for ent_type in ['material', 'pressure', 'me_method']:
-        spans_by_type[ent_type] = {key: submap for key, submap in spans_map.items() if
-                                   'type' in submap and submap['type'] == ent_type}
+        spans_by_type[ent_type] = {key: submap for key, submap in spans_map.items() if 'type' in submap and submap['type'] == ent_type}
         for span_id, span in spans_by_type[ent_type].items():
             outbound = spans_links_map[span_id] if span_id in spans_links_map.keys() else []
             inbound = spans_links_reverse_map[span_id] if span_id in spans_links_reverse_map.keys() else []
@@ -90,8 +91,8 @@ def process_file(finput, use_paragraphs=False):
                     if len(records_to_update) > 0:
                         for record_to_update in records_to_update:
                             record_to_update[span['type']] = (span['id'], span['text'])
-                            ## This is incorrect for paragraphs
-                            record_to_update['text'] = ""
+                            if span['passage_id'] != record_to_update['passage_id']:
+                                record_to_update['text'] = ""
 
     for re in data_list:
         for column in re.keys():
@@ -102,14 +103,15 @@ def process_file(finput, use_paragraphs=False):
 
 
 def get_span_maps(passage):
-    span_links_map = {}
-    span_links_reverse_map = {}
-    span_map = {}
+    span_links_map = OrderedDict()
+    span_links_reverse_map = OrderedDict()
+    span_map = OrderedDict()
 
     for span in passage['spans']:
         if 'id' in span:
             if span['id'] not in span_map:
                 span_map[span['id']] = span
+                span['passage_id'] = passage['passage_id']
                 if 'links' in span:
                     for link in span['links']:
                         target_id = link['targetId']

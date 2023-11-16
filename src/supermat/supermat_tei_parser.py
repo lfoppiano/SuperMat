@@ -72,9 +72,9 @@ def process_paragraphs(paragraph_list: list) -> [List, List]:
     passages = []
     relations = []
 
-    dic_dest_relationships = {}
-    dic_source_relationships = {}
-    linked_entity_registry = {}
+    dic_dest_relationships = OrderedDict()
+    dic_source_relationships = OrderedDict()
+    linked_entity_registry = OrderedDict()
 
     i = 0
     for paragraph_id, paragraph in enumerate(paragraph_list):
@@ -179,7 +179,7 @@ def process_paragraphs(paragraph_list: list) -> [List, List]:
     for id__ in dic_source_relationships:
         destination_xml_id = dic_source_relationships[id__][0]
 
-        for des in destination_xml_id.split(","):
+        for des in sorted(destination_xml_id.split(",")):
             dict_coordinates = get_hash(id__)
 
             span_destination = linked_entity_registry[des]
@@ -226,9 +226,9 @@ def process_sentences(sentences_grouped_by_paragraphs: list) -> [List, List]:
     passages = []
     relations = []
 
-    dic_dest_relationships = {}
-    dic_source_relationships = {}
-    linked_entity_registry = {}
+    dic_dest_relationships = OrderedDict()
+    dic_source_relationships = OrderedDict()
+    linked_entity_registry = OrderedDict()
 
     i = 0
     for paragraph_id, paragraph in enumerate(sentences_grouped_by_paragraphs):
