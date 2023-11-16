@@ -4,8 +4,7 @@ import os
 from pathlib import Path
 
 from supermat.supermat_tei_parser import process_file_to_json
-
-from src.supermat.utils import get_in_paths_from_directory
+from supermat.utils import get_in_paths_from_directory
 
 paragraph_id = 'paragraph_id'
 

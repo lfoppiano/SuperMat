@@ -6,8 +6,8 @@ from collections import OrderedDict
 from pathlib import Path
 from typing import List
 
-from src.supermat.supermat_tei_parser import process_file_to_json
-from src.supermat.utils import get_in_paths_from_directory
+from supermat.supermat_tei_parser import process_file_to_json
+from supermat.utils import get_in_paths_from_directory
 
 
 def process_file(finput, use_paragraphs=False):
