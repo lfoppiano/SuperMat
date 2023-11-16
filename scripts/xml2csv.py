@@ -5,8 +5,6 @@ import sys
 from pathlib import Path
 from typing import List
 
-from tqdm import tqdm
-
 from src.supermat.supermat_tei_parser import process_file_to_json
 from src.supermat.utils import get_in_paths_from_directory
 
@@ -21,7 +19,7 @@ def process_file(finput, use_paragraphs=False):
 
     filename = Path(finput).name
     passages = json['passages']
-    for passage_id, passage in tqdm(enumerate(passages)):
+    for passage_id, passage in enumerate(passages):
         passage_common_parts = {
             'id': passage_id,
             'filename': filename,
