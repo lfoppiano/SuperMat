@@ -148,7 +148,7 @@ def process_paragraphs(paragraph_list: list) -> [List, List]:
                     if 'corresp' in item.attrs:
                         if 'id' not in span or span['id'] == "":
                             id_str = str(i + 1) + "," + str(j + 1)
-                            span_id = get_hash(id_str)
+                            span['id'] = get_hash(id_str)
                             if span['id'] not in dic_source_relationships:
                                 dic_source_relationships[span['id']] = [item.attrs['corresp'].replace('#', ''),
                                                                         ient,
