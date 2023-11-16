@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc xml:id="_0">
+  <titleStmt/>
+  <publicationStmt>
+   <publisher>
+    National Institute for Materials Science (NIMS), Tsukuba, Japan
+   </publisher>
+   <availability>
+    <licence target="http://nims.go.jp">
+     <p>
+      Copyright National Institute for Materials Science (NIMS), Tsukuba, Japan
+     </p>
+    </licence>
+   </availability>
+  </publicationStmt>
+ </fileDesc>
+ <encodingDesc>
+  <appInfo>
+   <application ident="grobid-superconductors" version="project.version">
+    <ref target="https://github.com/lfoppiano/grobid-superconductors">
+     A machine learning software for extracting materials and their properties from scientific literature.
+    </ref>
+   </application>
+  </appInfo>
+ </encodingDesc>
+ <profileDesc>
+  <abstract/>
+ </profileDesc>
+</teiHeader>
+
+<text xml:lang="en">
+<body><p>
+    <s error_type="linking">We carried out the <rs type="me_method">resistivity</rs> measurement using the fresh ͑as-cleaved͒ surface of the <rs type="material">K 0.8 Fe 2 Se 2 crystal</rs> and observed a high <rs type="tc">T c onset</rs> of <rs type="tcValue">33 K</rs>.</s>
+</p><p>
+    <s error_type="composition_resolution">An outstand- ing example is the pressure effect of <rs type="material">FeSe</rs>; the <rs type="tc">T c</rs> shows a huge increase from <rs type="tcValue">13 to 37 K</rs> under <rs type="pressure">4-6 GPa</rs> 10-13 and the large enhancement of <rs type="tc">T c</rs> in <rs type="material">FeSe</rs> is strongly related to the change in the anion height.</s>
+</p></body>
+</text>
+</tei>

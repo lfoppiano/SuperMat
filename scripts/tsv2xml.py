@@ -28,7 +28,6 @@ def processFile(file):
         sectionLayerFirstIndex = -1
         hasDocumentStructure = False
 
-
         # If there are no relationships, the TSV has two column less.
         with_relationships = False
         relation_source_dest = {}

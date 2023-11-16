@@ -5,16 +5,12 @@ from pathlib import Path
 
 from supermat.supermat_tei_parser import process_file_to_json
 
+from src.supermat.utils import get_in_paths_from_directory
+
 paragraph_id = 'paragraph_id'
 
 
-def write_on_file(fw, filename, sentenceText, dic_token):
-    links = len([token for token in dic_token if token[5] != '_'])
-    has_links = 0 if links == 0 else 1
-    fw.writerow([filename, sentenceText, has_links])
-
-
-def write_output(data, output_path, format, header):
+def write_output(output_path, data, header, format="csv"):
     delimiter = '\t' if format == 'tsv' else ','
     fw = csv.writer(open(output_path, encoding='utf-8', mode='w'), delimiter=delimiter, quotechar='"')
     fw.writerow(header)
@@ -44,7 +40,7 @@ def get_texts(data_sorted):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description="Converter XML (Supermat) to a tabular values (CSV, TSV) for entity extraction (no relation information are used)")
+        description="Converter XML (Supermat) to CSV for entity extraction (no relation information are used)")
 
     parser.add_argument("--input",
                         help="Input file or directory",
@@ -56,37 +52,26 @@ if __name__ == '__main__':
                         action="store_true",
                         default=False,
                         help="Process input directory recursively. If input is a file, this parameter is ignored.")
-    parser.add_argument("--format",
-                        default='csv',
-                        choices=['tsv', 'csv'],
-                        help="Output format.")
+    parser.add_argument("--entity-type",
+                        default="material",
+                        required=False,
+                        help="Select which entity type to extract.")
     parser.add_argument("--use-paragraphs",
                         default=False,
                         action="store_true",
-                        help="Uses paragraphs instead of sentences. By default this script assumes that the XML is at sentence level.")
+                        help="Uses paragraphs instead of sentences. "
+                             "By default this script assumes that the XML is at sentence level.")
 
     args = parser.parse_args()
 
     input = args.input
     output = args.output
     recursive = args.recursive
-    format = args.format
+    ent_type = args.entity_type
     use_paragraphs = args.use_paragraphs
 
     if os.path.isdir(input):
-        path_list = []
-
-        if recursive:
-            for root, dirs, files in os.walk(input):
-                for file_ in files:
-                    if not file_.lower().endswith(".xml"):
-                        continue
-
-                    abs_path = os.path.join(root, file_)
-                    path_list.append(abs_path)
-
-        else:
-            path_list = Path(input).glob('*.xml')
+        path_list = get_in_paths_from_directory(input, ".xml", recursive=recursive)
 
         entities_data = []
         texts_data = []
@@ -102,43 +87,42 @@ if __name__ == '__main__':
             texts_data.extend(text_data)
 
         if os.path.isdir(str(output)):
-            output_path_text = os.path.join(output, "output-text") + "." + format
-            output_path_expected = os.path.join(output, "output-" + ent_type) + "." + format
+            output_path_text = os.path.join(output, "output-text") + ".csv"
+            output_path_expected = os.path.join(output, "output-" + ent_type) + ".csv"
         else:
             parent_dir = Path(output).parent
-            output_path_text = os.path.join(parent_dir, "output-text" + "." + format)
-            output_path_expected = os.path.join(parent_dir, "output-" + ent_type + "." + format)
+            output_path_text = os.path.join(parent_dir, "output-text" + ".csv")
+            output_path_expected = os.path.join(parent_dir, "output-" + ent_type + ".csv")
 
         header = ["id", "filename", "pid", ent_type]
 
         for idx, data in enumerate(entities_data):
             data[0] = idx
 
-        write_output(entities_data, output_path_expected, format, header)
+        write_output(output_path_expected, entities_data, header)
 
         header = ["id", "filename", "pid", "text"]
         for idx, data in enumerate(texts_data):
             data[0] = idx
-        write_output(texts_data, output_path_text, format, header)
+        write_output(output_path_text, texts_data, header)
 
     elif os.path.isfile(input):
         input_path = Path(input)
         file_data = process_file_to_json(input_path, use_paragraphs=use_paragraphs)
         output_filename = input_path.stem
 
-        output_path_text = os.path.join(output, str(output_filename) + "-text" + "." + format)
+        output_path_text = os.path.join(output, str(output_filename) + "-text" + ".csv")
         texts_data = get_texts(file_data)
         for idx, data in enumerate(texts_data):
             data[0] = idx
 
         header = ["id", "filename", "pid", "text"]
-        write_output(texts_data, output_path_text, format, header)
+        write_output(output_path_text, texts_data, header)
 
-        ent_type = "material"
-        output_path_expected = os.path.join(output, str(output_filename) + "-" + ent_type + "." + format)
+        output_path_expected = os.path.join(output, str(output_filename) + "-" + ent_type + ".csv")
         ent_data_no_duplicates = get_entity_data(file_data, ent_type)
         for idx, data in enumerate(ent_data_no_duplicates):
             data[0] = idx
 
         header = ["id", "filename", "pid", ent_type]
-        write_output(ent_data_no_duplicates, output_path_expected, format, header)
+        write_output(output_path_expected, ent_data_no_duplicates, header)
