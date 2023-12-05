@@ -16,22 +16,40 @@ def write_output(output_path, data, header, format="csv"):
     fw.writerows(data)
 
 
-def get_entity_data(data_sorted, ent_type):
-    ent_data = [[pid, data_sorted['doc_key'], pid, "".join(data_sorted['passages'][pid][entity[0]:entity[1]])] for
-                pid in range(0, len(data_sorted['ner'])) for entity in
-                filter(lambda e: e[2] == ent_type, data_sorted['ner'][pid])]
+def get_entity_data(data_sorted, ent_type, remove_dups=False):
+    entities = []
+    record_id = 0
+    for passage in data_sorted['passages']:
+        text = passage['text']
+        spans = [span['text'] for span in filter(lambda s: s['type'] == ent_type, passage['spans'])]
+        if remove_dups:
+            ents = list(set(spans))
+        else:
+            ents = list(spans)
+        for ent in ents:
+            entities.append(
+                [
+                    record_id,
+                    data_sorted['doc_key'],
+                    passage['id'],
+                    ent
+                ]
+            )
+            record_id += 1
 
-    # We remove the duplicates of the materials that falls in the same passage
-    seen_values = set()
-    ent_data_no_duplicates = [item for item in ent_data if
-                              str(item[1]) + str(item[2]) + str(item[3]) not in seen_values and not seen_values.add(
-                                  str(item[1]) + str(item[2]) + str(item[3]))]
+        # entities.append(
+        #     {
+        #         "text": text,
+        #         "entities": ents
+        #     }
+        # )
 
-    return ent_data_no_duplicates
+    return entities
 
 
 def get_texts(data_sorted):
-    text_data = [[idx, data_sorted['doc_key'], idx, "".join(data_sorted['passages'][idx])] for idx in
+    text_data = [[idx, data_sorted['doc_key'], data_sorted['passages'][idx]['id'], data_sorted['passages'][idx]['text']]
+                 for idx in
                  range(0, len(data_sorted['passages']))]
 
     return text_data
